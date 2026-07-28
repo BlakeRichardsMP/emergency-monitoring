@@ -1,7 +1,7 @@
 import json
-import os
 from datetime import datetime, timezone
 from pathlib import Path
+from xml.sax.saxutils import escape
 
 import feedparser
 import yaml
@@ -9,7 +9,7 @@ import yaml
 
 FEEDS_FILE = Path("feeds.yaml")
 STATE_FILE = Path("seen_items.json")
-OUTPUT_FILE = Path("new_items.json")
+RSS_FILE = Path("feed.xml")
 
 
 def load_feeds() -> list[dict]:
@@ -19,7 +19,7 @@ def load_feeds() -> list[dict]:
     feeds = config.get("feeds", [])
 
     if not feeds:
-        raise ValueError("No feeds were found in feeds.yaml")
+        raise ValueError("No feeds found in feeds.yaml")
 
     return feeds
 
@@ -32,9 +32,9 @@ def load_seen_items() -> set[str]:
         return set(json.load(file))
 
 
-def save_json(path: Path, data) -> None:
-    with path.open("w", encoding="utf-8") as file:
-        json.dump(data, file, indent=2, ensure_ascii=False)
+def save_seen_items(items: set[str]) -> None:
+    with STATE_FILE.open("w", encoding="utf-8") as file:
+        json.dump(sorted(items), file, indent=2, ensure_ascii=False)
 
 
 def entry_identifier(entry) -> str:
@@ -46,11 +46,46 @@ def entry_identifier(entry) -> str:
     )
 
 
+def build_rss(items: list[dict]) -> str:
+    rss_items = []
+
+    for item in items:
+        rss_items.append(
+            f"""
+    <item>
+      <title>{escape(item["title"])}</title>
+      <link>{escape(item["link"])}</link>
+      <guid isPermaLink="false">{escape(item["id"])}</guid>
+      <pubDate>{escape(item["published"])}</pubDate>
+      <description>{escape(item["summary"])}</description>
+      <source>{escape(item["source"])}</source>
+    </item>
+"""
+        )
+
+    generated_at = datetime.now(timezone.utc).strftime(
+        "%a, %d %b %Y %H:%M:%S +0000"
+    )
+
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Government Emergency Monitoring</title>
+    <link>https://github.com/BlakeRichardsMP/emergency-monitoring</link>
+    <description>Normalized Government of Canada emergency-related feeds</description>
+    <language>en-ca</language>
+    <lastBuildDate>{generated_at}</lastBuildDate>
+{''.join(rss_items)}
+  </channel>
+</rss>
+"""
+
+
 def main() -> None:
     feeds = load_feeds()
     seen_items = load_seen_items()
     updated_seen_items = set(seen_items)
-    new_items = []
+    all_items = []
 
     for source in feeds:
         source_name = source["name"]
@@ -69,10 +104,7 @@ def main() -> None:
         for entry in parsed_feed.entries:
             identifier = entry_identifier(entry)
 
-            if identifier in seen_items:
-                continue
-
-            new_items.append(
+            all_items.append(
                 {
                     "id": identifier,
                     "source": source_name,
@@ -86,22 +118,18 @@ def main() -> None:
                         "summary",
                         entry.get("description", "")
                     ),
-                    "detected_at": datetime.now(timezone.utc).isoformat(),
                 }
             )
 
             updated_seen_items.add(identifier)
 
-    save_json(OUTPUT_FILE, new_items)
-    save_json(STATE_FILE, sorted(updated_seen_items))
+    RSS_FILE.write_text(build_rss(all_items), encoding="utf-8")
+    save_seen_items(updated_seen_items)
 
-    print(f"New items found: {len(new_items)}")
+    new_count = len(updated_seen_items - seen_items)
 
-    github_output = os.environ.get("GITHUB_OUTPUT")
-
-    if github_output:
-        with open(github_output, "a", encoding="utf-8") as file:
-            file.write(f"new_item_count={len(new_items)}\n")
+    print(f"RSS items written: {len(all_items)}")
+    print(f"New items found: {new_count}")
 
 
 if __name__ == "__main__":
