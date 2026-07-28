@@ -31,7 +31,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-          git add seen_items.json new_items.json
+          git add seen_items.json feed.xml
 
           git diff --cached --quiet || git commit -m "Update feed state"
 
