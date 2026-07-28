@@ -1,9 +1,3 @@
 feeds:
   - name: Public Safety Canada
     url: https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=Canada+News+Centre+-+Public+Safety+Canada&dept=publicsafetycanada&format=atom&orderBy=desc&pick=10&sort=publishedDate
-
-  - name: Health Canada
-    url: https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=Health+Canada&dept=hc-sc&format=atom&orderBy=desc&pick=10&sort=publishedDate
-
-  - name: Transport Canada
-    url: https://api.io.canada.ca/io-server/gc/news/en/v2?dept=tc&format=atom&orderBy=desc&pick=10&sort=publishedDate
