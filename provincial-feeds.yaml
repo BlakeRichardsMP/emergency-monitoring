@@ -20,8 +20,8 @@ feeds:
     url: https://www.ontario.ca/feeds/alerts.xml
 
   - name: Quebec
-    type: rss
-    url: https://www.quebec.ca/rss/urgences.xml
+    type: quebec_json
+    url: https://qea-api.geo.msp.gouv.qc.ca/public/alerts?language=en&geometry=true&types=Active&types=Inactive
 
   - name: New Brunswick
     type: rss
