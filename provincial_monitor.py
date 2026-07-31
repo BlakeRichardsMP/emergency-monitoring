@@ -7,9 +7,9 @@ import feedparser
 import yaml
 
 
-FEEDS_FILE = Path("feeds.yaml")
-STATE_FILE = Path("seen_items.json")
-RSS_FILE = Path("feed.xml")
+FEEDS_FILE = Path("provincial-feeds.yaml")
+STATE_FILE = Path("provincial_seen_items.json")
+RSS_FILE = Path("provincial.xml")
 
 
 def load_feeds() -> list[dict]:
