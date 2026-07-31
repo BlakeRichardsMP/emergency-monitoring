@@ -27,10 +27,6 @@ feeds:
     type: rss
     url: https://www.princeedwardisland.ca/en/rss.xml
 
-  - name: Newfoundland and Labrador
-    type: rss
-    url: https://www.gov.nl.ca/releases/feed/
-
   - name: Northwest Territories
     type: rss
     url: https://www.gov.nt.ca/rss.xml
