@@ -1,6 +1,6 @@
 feeds:
   - name: Alberta
-    url: https://www.alberta.ca/feeds/emergency.xml
+    url: https://www.alberta.ca/data/aea/rss/feed-full.atom
 
   - name: British Columbia
     url: https://www.emergencyinfobc.gov.bc.ca/feed/
