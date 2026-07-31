@@ -1,1 +1,39 @@
 feeds:
+  - name: Alberta
+    url: https://www.alberta.ca/feeds/emergency.xml
+
+  - name: British Columbia
+    url: https://www.emergencyinfobc.gov.bc.ca/feed/
+
+  - name: Saskatchewan
+    url: https://www.saskpublicsafety.ca/rss.xml
+
+  - name: Manitoba
+    url: https://www.gov.mb.ca/emo/index.rss
+
+  - name: Ontario
+    url: https://www.ontario.ca/feeds/alerts.xml
+
+  - name: Quebec
+    url: https://www.quebec.ca/rss/urgences.xml
+
+  - name: New Brunswick
+    url: https://www2.gnb.ca/content/gnb/en/news/rss-feed.html
+
+  - name: Nova Scotia
+    url: https://novascotia.ca/alerts/rss.xml
+
+  - name: Prince Edward Island
+    url: https://www.princeedwardisland.ca/en/rss.xml
+
+  - name: Newfoundland and Labrador
+    url: https://www.gov.nl.ca/releases/feed/
+
+  - name: Yukon
+    url: https://yukon.ca/rss.xml
+
+  - name: Northwest Territories
+    url: https://www.gov.nt.ca/rss.xml
+
+  - name: Nunavut
+    url: https://www.gov.nu.ca/rss.xml
