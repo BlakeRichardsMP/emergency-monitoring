@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Government Emergency Monitoring</title>
-    <link>https://github.com/BlakeRichardsMP/emergency-monitoring</link>
-    <description>Normalized Government of Canada emergency-related feeds</description>
+    <title>Provincial Emergency Alerts</title>
+    <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
+    <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 31 Jul 2026 18:17:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 18:50:21 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -205,6 +205,417 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/17aug23a/"&gt;BC Emer
       <description>&lt;p&gt;On Saturday, June 29, 2023, at 2227, a BC Emergency Alert announcing an Evacuation Order was issued by the Town of Osoyoos and the Regional District of Okanagan-Similkameen due to wildfire. Impacted residents should evacuate the area immediately. An Evacuation Alert has also been issued for nearby areas (details below). BC Emergency Alert Message Evacuation [&amp;#8230;]&lt;/p&gt;
 The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emergency Alert: Evacuation Order for parts of Osoyoos and surrounding area due to wildfire. July 29, 2023.&lt;/a&gt; first appeared on &lt;a href="https://www.emergencyinfobc.gov.bc.ca"&gt;EmergencyInfoBC&lt;/a&gt;.</description>
       <source>British Columbia</source>
+    </item>
+
+    <item>
+      <title>thunderstorm</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3287596526.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0399592355.2026-1</guid>
+      <pubDate>2026-07-31T11:50:42-00:00</pubDate>
+      <description>Southwestern Saskatchewan. Neidpath, McMahon, Hodgeville, Glen Bain, Vanguard and Neville. Severe thunderstorms associated with this alert have weakened or moved out of the area.</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>heat</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2189705898.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2189705898.2026-1</guid>
+      <pubDate>2026-07-31T11:01:58-00:00</pubDate>
+      <description>Temperatures reaching 32 degrees Celsius combined with overnight lows near 16 degrees Celsius are expected for the next 2 days. Locations: Portions of southwestern Saskatchewan Time span: Friday...</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>thunderstorm</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0942831191.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3257355508.2026-1</guid>
+      <pubDate>2026-07-31T02:36:42-00:00</pubDate>
+      <description>Conditions are no longer favourable for the development of severe thunderstorms.</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>thunderstorm</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3648905355.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3348286968.2026-1</guid>
+      <pubDate>2026-07-31T00:58:32-00:00</pubDate>
+      <description>Southwestern Saskatchewan. Webb, Antelope Lake, Swift Current, Blumenhof, Shaunavon, Simmie, Scotsguard, Cadillac, Admiral, Hazlet, Piapot, Gull Lake, Tompkins and Carmichael. Severe thunderstorms...</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>thunderstorm</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3418291127.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4139653328.2026-1</guid>
+      <pubDate>2026-07-31T00:31:01-00:00</pubDate>
+      <description>Southwestern Saskatchewan. Dollard, Eastend, Ravenscrag, Frontier and Claydon. Severe thunderstorms associated with this alert have weakened or moved out of the area.</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Drinking Water</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/C8383509-42CD-4DC3-8DE1-AE1FDB9F4EB8</link>
+      <guid isPermaLink="false">0F915C08-C90F-4053-9B66-6D4DA1881F8C-1</guid>
+      <pubDate>2026-07-30T15:12:01-06:00</pubDate>
+      <description>Village of Pleasantdale. CANCELLED - Drinking water is now safe. You may resume normal activities such as drinking and cooking. Report concerns to the Village office.</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Drinking Water</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
+      <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
+      <pubDate>2026-05-19T11:34:08-06:00</pubDate>
+      <description>A Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun water...</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Pediatric Psychology Services - Autism Diagnostic Observation Schedule (ADOS) Notification</title>
+      <link>https://www.princeedwardisland.ca/en/publication/pediatric-psychology-services-autism-diagnostic-observation-schedule-ados-notification</link>
+      <guid isPermaLink="false">80908 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 31 Jul 2026 18:35:07 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pediatric Psychology Services - Autism Diagnostic Observation Schedule (ADOS) Notification&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-31T15:35:07-03:00" title="Friday, July 31, 2026 - 15:35"&gt;Fri, 07/31/2026 - 15:35&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Information about your appointment with Pediatric Psychology Services.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/c21f/Pediatric_Psychology_Services_Autism_Diagnostic_Observation_Schedule_Notification.pdf"&gt;
+              &lt;span&gt;Pediatric_Psychology_Services_Autism_Diagnostic_Observation_Schedule_Notification.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Pediatric Psychology Services - Parent Feedback Notification</title>
+      <link>https://www.princeedwardisland.ca/en/publication/pediatric-psychology-services-parent-feedback-notification</link>
+      <guid isPermaLink="false">80907 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 31 Jul 2026 18:33:38 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pediatric Psychology Services - Parent Feedback Notification&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-31T15:33:38-03:00" title="Friday, July 31, 2026 - 15:33"&gt;Fri, 07/31/2026 - 15:33&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Information about your appointment with Pediatric Psychology Services.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/c22a/Pediatric_Psychology_Services_Parent_Feedback_Notification.pdf"&gt;
+              &lt;span&gt;Pediatric_Psychology_Services_Parent_Feedback_Notification.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Pediatric Psychology Services - Cognitive Notification</title>
+      <link>https://www.princeedwardisland.ca/en/publication/pediatric-psychology-services-cognitive-notification</link>
+      <guid isPermaLink="false">80906 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 31 Jul 2026 18:32:20 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pediatric Psychology Services - Cognitive Notification&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-31T15:32:20-03:00" title="Friday, July 31, 2026 - 15:32"&gt;Fri, 07/31/2026 - 15:32&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Information about your appointment with Pediatric Psychology Services.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/dfaa/Pediatric_Psychology_Services_Cognitive_Notification.pdf"&gt;
+              &lt;span&gt;Pediatric_Psychology_Services_Cognitive_Notification.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Pediatric Psychology Services - Interview Notification</title>
+      <link>https://www.princeedwardisland.ca/en/publication/pediatric-psychology-services-interview-notification</link>
+      <guid isPermaLink="false">80905 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 31 Jul 2026 18:31:02 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pediatric Psychology Services - Interview Notification&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-31T15:31:02-03:00" title="Friday, July 31, 2026 - 15:31"&gt;Fri, 07/31/2026 - 15:31&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Information about your appointment with Pediatric Psychology Services.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/6a43/Pediatric_Psychology_Services_Interview_Notification.pdf"&gt;
+              &lt;span&gt;Pediatric_Psychology_Services_Interview_Notification.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -658,263 +1069,13 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Beatty</title>
-      <link>https://www.princeedwardisland.ca/en/employee/beatty-jessica</link>
-      <guid isPermaLink="false">80894 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 30 Jul 2026 22:12:20 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Beatty&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-30T19:12:20-03:00" title="Thursday, July 30, 2026 - 19:12"&gt;Thu, 07/30/2026 - 19:12&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Nurse Manager, Medical/Palliative (PCH)&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Prince County Hospital&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Moeller</title>
-      <link>https://www.princeedwardisland.ca/en/employee/moeller-anna</link>
-      <guid isPermaLink="false">80893 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 30 Jul 2026 21:02:21 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Moeller&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-30T18:02:21-03:00" title="Thursday, July 30, 2026 - 18:02"&gt;Thu, 07/30/2026 - 18:02&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Health Information Specialist&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Health Analytics&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>205 Linden Avenue</title>
-      <link>https://www.princeedwardisland.ca/en/point-interest/205-linden-avenue-0</link>
-      <guid isPermaLink="false">80892 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 30 Jul 2026 19:19:19 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;205 Linden Avenue&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-30T16:19:19-03:00" title="Thursday, July 30, 2026 - 16:19"&gt;Thu, 07/30/2026 - 16:19&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="tw-block block-layout-builder block-field-blocknodepoint-of-interestfield-postal-address tw-pb-5 md:tw-pb-8"&gt;
-  
-    
-      &lt;div class="rich-text"&gt;
-            &lt;div class="field field--name-field-postal-address field--type-address field--label-hidden field__item"&gt;&lt;p class="address"&gt;&lt;span class="address-line1"&gt;205 Linden Avenue&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Summerside&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1N 2K4&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepoint-of-interestfield-location-geo"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-location-geo field--type-geofield field--label-hidden field__item"&gt;
-    &lt;a class="group" href="https://www.google.com/maps/dir//46.405362,-63.785421/" target="_blank"&gt;
-    &lt;span class="align-middle text-dark text-base font-headers font-medium text-dark underline decoration-1 underline-offset-2 decoration-transparent transition duration-300 group-hover:text-primary-green group-hover:decoration-primary-green"&gt;Get Driving Directions on Google Maps&lt;/span&gt;
-    &lt;svg class="inline-block align-middle ml-1.5" fill="none" height="14" viewBox="0 0 24 14" width="24" xmlns="http://www.w3.org/2000/svg"&gt;
-      &lt;path class="stroke-primary-green -translate-x-2 group-hover:translate-x-0 transition duration-300" d="M1 7H23M23 7L16.7368 1M23 7L16.7368 13" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"&gt;
-    &lt;/svg&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepoint-of-interestfield-location-geo"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-location-geo field--type-geofield field--label-hidden field__item"&gt;&lt;div class="geofield-google-map" id="geofield-map-node-point-of-interest-80892-field-location-geo--2" style="width: 100%; height: 450px;"&gt;&lt;/div&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepoint-of-interestcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>MD 2026-03 Responsible Use of Information and Communication Technology</title>
-      <link>https://www.princeedwardisland.ca/en/publication/md-2026-03-responsible-use-of-information-and-communication-technology</link>
-      <guid isPermaLink="false">80891 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 30 Jul 2026 17:51:34 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MD 2026-03 Responsible Use of Information and Communication Technology&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;lawalker&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-30T14:51:34-03:00" title="Thursday, July 30, 2026 - 14:51"&gt;Thu, 07/30/2026 - 14:51&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/6909/MD-2026-03.pdf"&gt;
-              &lt;span&gt;MD-2026-03.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
+      <title>Environmental Assessment Bulletin</title>
+      <link>https://www.gov.nl.ca/releases/2026/eccc/0731n05/</link>
+      <guid isPermaLink="false">https://www.gov.nl.ca/releases/?p=61886</guid>
+      <pubDate>Fri, 31 Jul 2026 18:41:36 +0000</pubDate>
+      <description>&lt;p&gt;The Honourable Chris Tibbs, Minister of Environment, Conservation and Climate Change, has announced the following relative to Environmental Assessment &amp;#8211; Part 10 &amp;#8211; of the Environmental Protection Act. Undertaking Released: Furby’s Cove Quarry Extension                                                (Reg. 2415) Proponent: Department of Transportation... &lt;a class="read-more" href="https://www.gov.nl.ca/releases/2026/eccc/0731n05/"&gt;Read More&lt;span class="screen-reader-text"&gt; about Environmental Assessment Bulletin&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.gov.nl.ca/releases/2026/eccc/0731n05/" rel="nofollow"&gt;Environmental Assessment Bulletin&lt;/a&gt; appeared first on &lt;a href="https://www.gov.nl.ca/releases" rel="nofollow"&gt;News Releases&lt;/a&gt;.&lt;/p&gt;</description>
+      <source>Newfoundland and Labrador</source>
     </item>
 
     <item>
@@ -1004,16 +1165,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>Mon, 27 Jul 2026 13:00:20 +0000</pubDate>
       <description>&lt;p&gt;Applications are now being accepted for the 2026-27 Seniors’ Social Inclusion Initiative, supporting the Provincial Government’s commitment to fostering vibrant, inclusive and age- and dementia-friendly communities throughout Newfoundland and Labrador. The Seniors’ Social Inclusion Initiative grant program provides funding to support the... &lt;a class="read-more" href="https://www.gov.nl.ca/releases/2026/seniors/0727n02/"&gt;Read More&lt;span class="screen-reader-text"&gt; about Department of Seniors Opens Applications for Seniors’ Social Inclusion Grants Initiative&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The post &lt;a href="https://www.gov.nl.ca/releases/2026/seniors/0727n02/" rel="nofollow"&gt;Department of Seniors Opens Applications for Seniors’ Social Inclusion Grants Initiative&lt;/a&gt; appeared first on &lt;a href="https://www.gov.nl.ca/releases" rel="nofollow"&gt;News Releases&lt;/a&gt;.&lt;/p&gt;</description>
-      <source>Newfoundland and Labrador</source>
-    </item>
-
-    <item>
-      <title>Public Advisory: Members’ Compensation Review Committee Extending Deadline for Written Submissions and Registration for Virtual Sessions</title>
-      <link>https://www.gov.nl.ca/releases/2026/hoa/0727n01/</link>
-      <guid isPermaLink="false">https://www.gov.nl.ca/releases/?p=61849</guid>
-      <pubDate>Mon, 27 Jul 2026 12:45:12 +0000</pubDate>
-      <description>&lt;p&gt;The following is distributed at the request of the 2026 Members’ Compensation Review Committee: The 2026 Members’ Compensation Review Committee (MCRC) wishes to advise that it is extending the deadline for participation in public consultations. The 2026 MCRC was appointed... &lt;a class="read-more" href="https://www.gov.nl.ca/releases/2026/hoa/0727n01/"&gt;Read More&lt;span class="screen-reader-text"&gt; about Public Advisory: Members’ Compensation Review Committee Extending Deadline for Written Submissions and Registration for Virtual Sessions&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.gov.nl.ca/releases/2026/hoa/0727n01/" rel="nofollow"&gt;Public Advisory: Members’ Compensation Review Committee Extending Deadline for Written Submissions and Registration for Virtual Sessions&lt;/a&gt; appeared first on &lt;a href="https://www.gov.nl.ca/releases" rel="nofollow"&gt;News Releases&lt;/a&gt;.&lt;/p&gt;</description>
       <source>Newfoundland and Labrador</source>
     </item>
 
