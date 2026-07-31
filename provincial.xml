@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 31 Jul 2026 18:50:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:05:56 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -268,6 +268,60 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-05-19T11:34:08-06:00</pubDate>
       <description>A Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun water...</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - MOSSEY RIVER MUNICIPALITY AND RM OF DAUPHIN</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a515e57ee3cc9a1319dce34</guid>
+      <pubDate>2026-07-10T16:10:14.818-05:00</pubDate>
+      <description>Flood Warning | MOSSEY RIVER MUNICIPALITY and RM OF DAUPHIN | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Fork River, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - CITY OF BRANDON, MUNICIPALITY OF RUSSELL-BINSCARTH, PRAIRIE VIEW MUNICIPALITY, RIVERDALE MUNICIPALITY, RM OF CORNWALLIS, RM OF ELLICE-ARCHIE, RM OF RIDING MOUNTAIN WEST, RM OF SIFTON, RM OF WALLACE-WOODWORTH, RM OF WHITEHEAD AND TOWN OF VIRDEN</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a2a21c6ec66647c9b48416d</guid>
+      <pubDate>2026-07-09T13:15:29.619-05:00</pubDate>
+      <description>Flood Warning | CITY OF BRANDON, MUNICIPALITY OF RUSSELL-BINSCARTH, PRAIRIE VIEW MUNICIPALITY, RIVERDALE MUNICIPALITY, RM OF CORNWALLIS, RM OF ELLICE-ARCHIE, RM OF RIDING MOUNTAIN WEST, RM OF SIFTON, RM OF WALLACE-WOODWORTH, RM OF WHITEHEAD and TOWN OF VIRDEN | &lt;p&gt;There is higher potential that flooding may impact your community. &lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Miniota, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a49079ff68e8bba0e4a4444</guid>
+      <pubDate>2026-07-04T08:19:29.606-05:00</pubDate>
+      <description>Flood Warning | MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN and RM OF LAKESHORE | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Ochre River, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE PREPARED - RM OF MOUNTAIN</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a34527b0a1fda77346e30cb</guid>
+      <pubDate>2026-07-23T13:50:51.228-05:00</pubDate>
+      <description>Flood Advisory | RM OF MOUNTAIN | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE PREPARED - RED DEER LAKE-NORTHERN AFFAIRS ACT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a174792f8d4bf383b579236</guid>
+      <pubDate>2026-07-23T13:48:17.502-05:00</pubDate>
+      <description>Flood Advisory | RED DEER LAKE-NORTHERN AFFAIRS ACT | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE PREPARED - MUNICIPALITY OF ROBLIN AND RM OF RIDING MOUNTAIN WEST</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a4feaed84a24c277eaa7bd9</guid>
+      <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
+      <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
+      <source>Manitoba</source>
     </item>
 
     <item>
