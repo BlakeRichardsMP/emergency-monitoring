@@ -54,9 +54,7 @@ def rss_entry_identifier(entry) -> str:
     )
 
 
-def get_json(
-    source_url: str
-):
+def get_json(source_url: str):
     response = requests.get(
         source_url,
         timeout=30,
@@ -109,7 +107,7 @@ def parse_rss_feed(
     return items
 
 
-def parse_saskatchewan_json(
+def parse_alertable_json(
     source_name: str,
     source_url: str
 ) -> list[dict]:
@@ -128,31 +126,62 @@ def parse_saskatchewan_json(
             or entry.get("html_link")
         )
 
-        title = (
-            entry.get("event_en")
-            or entry.get("headline")
-            or entry.get("code")
-            or "Saskatchewan Emergency Alert"
+        event_name = clean_text(entry.get("event_en", ""))
+        alert_status = clean_text(entry.get("type_en", ""))
+        level = clean_text(entry.get("level", ""))
+
+        title_parts = [
+            event_name.title() if event_name else "",
+            f"({alert_status})" if alert_status else "",
+        ]
+
+        title = " ".join(
+            part for part in title_parts if part
         )
 
-        summary = (
+        if not title:
+            title = f"{source_name} Emergency Alert"
+
+        summary = clean_text(
             entry.get("summary_en")
             or entry.get("headline")
             or entry.get("event_en")
             or ""
         )
 
-        link = (
+        link = clean_text(
             entry.get("html_link")
             or entry.get("cap_link")
             or source_url
         )
 
-        published = (
+        published = clean_text(
             entry.get("sent")
             or entry.get("updated")
             or data.get("updated", "")
         )
+
+        area_entries = entry.get("area") or []
+        area_names = []
+
+        for area in area_entries:
+            if isinstance(area, dict):
+                area_name = clean_text(area.get("name_en", ""))
+                if area_name:
+                    area_names.append(area_name)
+
+        extra_parts = []
+
+        if area_names:
+            extra_parts.append("Areas: " + ", ".join(area_names))
+
+        if level:
+            extra_parts.append("Level: " + level)
+
+        if extra_parts:
+            summary = " | ".join(
+                part for part in [summary, *extra_parts] if part
+            )
 
         if not identifier:
             identifier = f"{title}|{published}|{link}"
@@ -162,9 +191,9 @@ def parse_saskatchewan_json(
                 "id": clean_text(identifier),
                 "source": source_name,
                 "title": clean_text(title),
-                "link": clean_text(link),
-                "published": clean_text(published),
-                "summary": clean_text(summary),
+                "link": link,
+                "published": published,
+                "summary": summary,
             }
         )
 
@@ -359,8 +388,11 @@ def main() -> None:
         print(f"Checking {source_name}")
 
         try:
-            if source_type == "saskatchewan_json":
-                items = parse_saskatchewan_json(
+            if source_type in {
+                "saskatchewan_json",
+                "nova_scotia_json",
+            }:
+                items = parse_alertable_json(
                     source_name,
                     source_url
                 )
