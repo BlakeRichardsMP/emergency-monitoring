@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 31 Jul 2026 19:44:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 20:05:27 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -271,6 +271,24 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - PRAIRIE VIEW MUNICIPALITY, RIVERDALE MUNICIPALITY, RM OF CORNWALLIS, RM OF SIFTON, RM OF WALLACE-WOODWORTH AND RM OF WHITEHEAD</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a6cfcd07fb5342c5b919b4a</guid>
+      <pubDate>2026-07-31T14:58:41.277-05:00</pubDate>
+      <description>Flood Warning | PRAIRIE VIEW MUNICIPALITY, RIVERDALE MUNICIPALITY, RM OF CORNWALLIS, RM OF SIFTON, RM OF WALLACE-WOODWORTH and RM OF WHITEHEAD | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Harding, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - MUNICIPALITY OF RUSSELL-BINSCARTH AND RM OF RIDING MOUNTAIN WEST</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a6cfc207fb5342c5b919b1d</guid>
+      <pubDate>2026-07-31T14:58:41.277-05:00</pubDate>
+      <description>Flood Warning | MUNICIPALITY OF RUSSELL-BINSCARTH and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Russell, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
       <title>BE ALERT - MOSSEY RIVER MUNICIPALITY AND RM OF DAUPHIN</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a515e57ee3cc9a1319dce34</guid>
@@ -280,20 +298,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - CITY OF BRANDON, MUNICIPALITY OF RUSSELL-BINSCARTH, PRAIRIE VIEW MUNICIPALITY, RIVERDALE MUNICIPALITY, RM OF CORNWALLIS, RM OF ELLICE-ARCHIE, RM OF RIDING MOUNTAIN WEST, RM OF SIFTON, RM OF WALLACE-WOODWORTH, RM OF WHITEHEAD AND TOWN OF VIRDEN</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a2a21c6ec66647c9b48416d</guid>
-      <pubDate>2026-07-09T13:15:29.619-05:00</pubDate>
-      <description>Flood Warning | CITY OF BRANDON, MUNICIPALITY OF RUSSELL-BINSCARTH, PRAIRIE VIEW MUNICIPALITY, RIVERDALE MUNICIPALITY, RM OF CORNWALLIS, RM OF ELLICE-ARCHIE, RM OF RIDING MOUNTAIN WEST, RM OF SIFTON, RM OF WALLACE-WOODWORTH, RM OF WHITEHEAD and TOWN OF VIRDEN | &lt;p&gt;There is higher potential that flooding may impact your community. &lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Miniota, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a49079ff68e8bba0e4a4444</guid>
       <pubDate>2026-07-04T08:19:29.606-05:00</pubDate>
       <description>Flood Warning | MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN and RM OF LAKESHORE | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Ochre River, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE PREPARED - MUNICIPALITY OF RUSSELL-BINSCARTH, PRAIRIE VIEW MUNICIPALITY AND RM OF ELLICE-ARCHIE</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a6cfbf07fb5342c5b919b04</guid>
+      <pubDate>2026-07-31T14:58:41.277-05:00</pubDate>
+      <description>Flood Advisory | MUNICIPALITY OF RUSSELL-BINSCARTH, PRAIRIE VIEW MUNICIPALITY and RM OF ELLICE-ARCHIE | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | St-Lazare, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
@@ -1156,106 +1174,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
   &lt;/div&gt;</description>
       <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Environmental Assessment Bulletin</title>
-      <link>https://www.gov.nl.ca/releases/2026/eccc/0731n05/</link>
-      <guid isPermaLink="false">https://www.gov.nl.ca/releases/?p=61886</guid>
-      <pubDate>Fri, 31 Jul 2026 18:41:36 +0000</pubDate>
-      <description>&lt;p&gt;The Honourable Chris Tibbs, Minister of Environment, Conservation and Climate Change, has announced the following relative to Environmental Assessment &amp;#8211; Part 10 &amp;#8211; of the Environmental Protection Act. Undertaking Released: Furby’s Cove Quarry Extension                                                (Reg. 2415) Proponent: Department of Transportation... &lt;a class="read-more" href="https://www.gov.nl.ca/releases/2026/eccc/0731n05/"&gt;Read More&lt;span class="screen-reader-text"&gt; about Environmental Assessment Bulletin&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.gov.nl.ca/releases/2026/eccc/0731n05/" rel="nofollow"&gt;Environmental Assessment Bulletin&lt;/a&gt; appeared first on &lt;a href="https://www.gov.nl.ca/releases" rel="nofollow"&gt;News Releases&lt;/a&gt;.&lt;/p&gt;</description>
-      <source>Newfoundland and Labrador</source>
-    </item>
-
-    <item>
-      <title>Public Advisory: North Harbour Resource Road Closure</title>
-      <link>https://www.gov.nl.ca/releases/2026/fal/0731n04/</link>
-      <guid isPermaLink="false">https://www.gov.nl.ca/releases/?p=61882</guid>
-      <pubDate>Fri, 31 Jul 2026 16:20:14 +0000</pubDate>
-      <description>&lt;p&gt;The North Harbour Resource Road, located in the Pasadena area, will be closed from August 3 to 7 to allow for bridge installation at the 6 km mark, replacing washed out culverts. Motorists travelling through the area should expect lengthy... &lt;a class="read-more" href="https://www.gov.nl.ca/releases/2026/fal/0731n04/"&gt;Read More&lt;span class="screen-reader-text"&gt; about Public Advisory: North Harbour Resource Road Closure&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.gov.nl.ca/releases/2026/fal/0731n04/" rel="nofollow"&gt;Public Advisory: North Harbour Resource Road Closure&lt;/a&gt; appeared first on &lt;a href="https://www.gov.nl.ca/releases" rel="nofollow"&gt;News Releases&lt;/a&gt;.&lt;/p&gt;</description>
-      <source>Newfoundland and Labrador</source>
-    </item>
-
-    <item>
-      <title>Public Advisory: Temporary Traffic Changes at TCH Exit 42 and Kenmount Road</title>
-      <link>https://www.gov.nl.ca/releases/2026/ti/0731n03/</link>
-      <guid isPermaLink="false">https://www.gov.nl.ca/releases/?p=61879</guid>
-      <pubDate>Fri, 31 Jul 2026 15:40:18 +0000</pubDate>
-      <description>&lt;p&gt;Motorists are advised of temporary traffic changes at the intersection of the Trans-Canada Highway (TCH) westbound Exit 42 and Kenmount Road. This change is in response to concerns with traffic at this busy intersection, particularly where vehicles turning left onto... &lt;a class="read-more" href="https://www.gov.nl.ca/releases/2026/ti/0731n03/"&gt;Read More&lt;span class="screen-reader-text"&gt; about Public Advisory: Temporary Traffic Changes at TCH Exit 42 and Kenmount Road&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.gov.nl.ca/releases/2026/ti/0731n03/" rel="nofollow"&gt;Public Advisory: Temporary Traffic Changes at TCH Exit 42 and Kenmount Road&lt;/a&gt; appeared first on &lt;a href="https://www.gov.nl.ca/releases" rel="nofollow"&gt;News Releases&lt;/a&gt;.&lt;/p&gt;</description>
-      <source>Newfoundland and Labrador</source>
-    </item>
-
-    <item>
-      <title>Premier Wakeham Announces Senior Appointments</title>
-      <link>https://www.gov.nl.ca/releases/2026/exec/0731n02/</link>
-      <guid isPermaLink="false">https://www.gov.nl.ca/releases/?p=61876</guid>
-      <pubDate>Fri, 31 Jul 2026 15:15:36 +0000</pubDate>
-      <description>&lt;p&gt;The Honourable Tony Wakeham, Premier of Newfoundland and Labrador, announced the following changes within the executive of the Provincial Government. These include: Carol-Ann Gilliard is appointed as Deputy Minister of Advanced Education and Skills, in the Department of Education and Early... &lt;a class="read-more" href="https://www.gov.nl.ca/releases/2026/exec/0731n02/"&gt;Read More&lt;span class="screen-reader-text"&gt; about Premier Wakeham Announces Senior Appointments&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.gov.nl.ca/releases/2026/exec/0731n02/" rel="nofollow"&gt;Premier Wakeham Announces Senior Appointments&lt;/a&gt; appeared first on &lt;a href="https://www.gov.nl.ca/releases" rel="nofollow"&gt;News Releases&lt;/a&gt;.&lt;/p&gt;</description>
-      <source>Newfoundland and Labrador</source>
-    </item>
-
-    <item>
-      <title>Media Advisory: Minister Pardy Available to Media</title>
-      <link>https://www.gov.nl.ca/releases/2026/exec/0731n01/</link>
-      <guid isPermaLink="false">https://www.gov.nl.ca/releases/?p=61872</guid>
-      <pubDate>Fri, 31 Jul 2026 11:30:17 +0000</pubDate>
-      <description>&lt;p&gt;The Honourable Craig Pardy, Minister of Finance and Chair of the Cabinet Committee on Conception Bay North Response and Recovery will be available to media today (Friday, July 31) at 11:30 a.m. The availability will take place in the East... &lt;a class="read-more" href="https://www.gov.nl.ca/releases/2026/exec/0731n01/"&gt;Read More&lt;span class="screen-reader-text"&gt; about Media Advisory: Minister Pardy Available to Media&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.gov.nl.ca/releases/2026/exec/0731n01/" rel="nofollow"&gt;Media Advisory: Minister Pardy Available to Media&lt;/a&gt; appeared first on &lt;a href="https://www.gov.nl.ca/releases" rel="nofollow"&gt;News Releases&lt;/a&gt;.&lt;/p&gt;</description>
-      <source>Newfoundland and Labrador</source>
-    </item>
-
-    <item>
-      <title>Indigenous Cultural Programming at Correctional Facilities Enhanced</title>
-      <link>https://www.gov.nl.ca/releases/2026/jps/0730n02/</link>
-      <guid isPermaLink="false">https://www.gov.nl.ca/releases/?p=61867</guid>
-      <pubDate>Thu, 30 Jul 2026 19:35:28 +0000</pubDate>
-      <description>&lt;p&gt;The Honourable Helen Conway Ottenheimer, Minister of Justice and Public Safety, today announced that grants are being provided to enhance programming and supports for Indigenous inmates to aid in their rehabilitation. Working with all Indigenous Governments and Organizations and community... &lt;a class="read-more" href="https://www.gov.nl.ca/releases/2026/jps/0730n02/"&gt;Read More&lt;span class="screen-reader-text"&gt; about Indigenous Cultural Programming at Correctional Facilities Enhanced&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.gov.nl.ca/releases/2026/jps/0730n02/" rel="nofollow"&gt;Indigenous Cultural Programming at Correctional Facilities Enhanced&lt;/a&gt; appeared first on &lt;a href="https://www.gov.nl.ca/releases" rel="nofollow"&gt;News Releases&lt;/a&gt;.&lt;/p&gt;</description>
-      <source>Newfoundland and Labrador</source>
-    </item>
-
-    <item>
-      <title>Media Advisory: Minister Conway Ottenheimer Visiting Labrador with RCMP</title>
-      <link>https://www.gov.nl.ca/releases/2026/jps/0730n01/</link>
-      <guid isPermaLink="false">https://www.gov.nl.ca/releases/?p=61862</guid>
-      <pubDate>Thu, 30 Jul 2026 12:10:33 +0000</pubDate>
-      <description>&lt;p&gt;The Honourable Helen Conway Ottenheimer, Minister of Justice and Public Safety, along with Assistant Commissioner Pat Cahill, Commanding Officer of the Royal Canadian Mounted Police in Newfoundland and Labrador, are traveling today (Thursday, July 30) to visit several RCMP detachments... &lt;a class="read-more" href="https://www.gov.nl.ca/releases/2026/jps/0730n01/"&gt;Read More&lt;span class="screen-reader-text"&gt; about Media Advisory: Minister Conway Ottenheimer Visiting Labrador with RCMP&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.gov.nl.ca/releases/2026/jps/0730n01/" rel="nofollow"&gt;Media Advisory: Minister Conway Ottenheimer Visiting Labrador with RCMP&lt;/a&gt; appeared first on &lt;a href="https://www.gov.nl.ca/releases" rel="nofollow"&gt;News Releases&lt;/a&gt;.&lt;/p&gt;</description>
-      <source>Newfoundland and Labrador</source>
-    </item>
-
-    <item>
-      <title>Public Advisory: Memorial Banners Honouring Missing and Murdered Women and Girls</title>
-      <link>https://www.gov.nl.ca/releases/2026/wge/0729n01/</link>
-      <guid isPermaLink="false">https://www.gov.nl.ca/releases/?p=61859</guid>
-      <pubDate>Wed, 29 Jul 2026 16:30:18 +0000</pubDate>
-      <description>&lt;p&gt;As part of this year’s Purple Ribbon Campaign and flag-raising ceremony, which will be held on November 25, 2026, memorial banners will be displayed in honour of women and girls whose lives were tragically lost due to gender-based violence. The... &lt;a class="read-more" href="https://www.gov.nl.ca/releases/2026/wge/0729n01/"&gt;Read More&lt;span class="screen-reader-text"&gt; about Public Advisory: Memorial Banners Honouring Missing and Murdered Women and Girls&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.gov.nl.ca/releases/2026/wge/0729n01/" rel="nofollow"&gt;Public Advisory: Memorial Banners Honouring Missing and Murdered Women and Girls&lt;/a&gt; appeared first on &lt;a href="https://www.gov.nl.ca/releases" rel="nofollow"&gt;News Releases&lt;/a&gt;.&lt;/p&gt;</description>
-      <source>Newfoundland and Labrador</source>
-    </item>
-
-    <item>
-      <title>More Than $9 Million Announced for Municipal Capital Works Projects Throughout Newfoundland and Labrador</title>
-      <link>https://www.gov.nl.ca/releases/2026/ti/0727n03/</link>
-      <guid isPermaLink="false">https://www.gov.nl.ca/releases/?p=61855</guid>
-      <pubDate>Mon, 27 Jul 2026 16:15:07 +0000</pubDate>
-      <description>&lt;p&gt;The Honourable Barry Petten, Minister of Transportation and infrastructure, today announced more than $9 million in funding for municipal capital works projects in communities throughout Newfoundland and Labrador through the Build Communities Strong Fund (BCSF) community stream. The announcement took... &lt;a class="read-more" href="https://www.gov.nl.ca/releases/2026/ti/0727n03/"&gt;Read More&lt;span class="screen-reader-text"&gt; about More Than $9 Million Announced for Municipal Capital Works Projects Throughout Newfoundland and Labrador&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.gov.nl.ca/releases/2026/ti/0727n03/" rel="nofollow"&gt;More Than $9 Million Announced for Municipal Capital Works Projects Throughout Newfoundland and Labrador&lt;/a&gt; appeared first on &lt;a href="https://www.gov.nl.ca/releases" rel="nofollow"&gt;News Releases&lt;/a&gt;.&lt;/p&gt;</description>
-      <source>Newfoundland and Labrador</source>
-    </item>
-
-    <item>
-      <title>Department of Seniors Opens Applications for Seniors’ Social Inclusion Grants Initiative</title>
-      <link>https://www.gov.nl.ca/releases/2026/seniors/0727n02/</link>
-      <guid isPermaLink="false">https://www.gov.nl.ca/releases/?p=61852</guid>
-      <pubDate>Mon, 27 Jul 2026 13:00:20 +0000</pubDate>
-      <description>&lt;p&gt;Applications are now being accepted for the 2026-27 Seniors’ Social Inclusion Initiative, supporting the Provincial Government’s commitment to fostering vibrant, inclusive and age- and dementia-friendly communities throughout Newfoundland and Labrador. The Seniors’ Social Inclusion Initiative grant program provides funding to support the... &lt;a class="read-more" href="https://www.gov.nl.ca/releases/2026/seniors/0727n02/"&gt;Read More&lt;span class="screen-reader-text"&gt; about Department of Seniors Opens Applications for Seniors’ Social Inclusion Grants Initiative&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://www.gov.nl.ca/releases/2026/seniors/0727n02/" rel="nofollow"&gt;Department of Seniors Opens Applications for Seniors’ Social Inclusion Grants Initiative&lt;/a&gt; appeared first on &lt;a href="https://www.gov.nl.ca/releases" rel="nofollow"&gt;News Releases&lt;/a&gt;.&lt;/p&gt;</description>
-      <source>Newfoundland and Labrador</source>
     </item>
 
     <item>
