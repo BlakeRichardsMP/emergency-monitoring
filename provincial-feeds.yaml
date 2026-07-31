@@ -28,8 +28,8 @@ feeds:
     url: https://www2.gnb.ca/content/gnb/en/news/rss-feed.html
 
   - name: Nova Scotia
-    type: rss
-    url: https://novascotia.ca/alerts/rss.xml
+    type: nova_scotia_json
+    url: https://nsalert.alertable.ca/public/feed.json
 
   - name: Prince Edward Island
     type: rss
