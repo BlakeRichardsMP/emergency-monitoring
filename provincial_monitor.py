@@ -54,7 +54,25 @@ def rss_entry_identifier(entry) -> str:
     )
 
 
-def parse_rss_feed(source_name: str, source_url: str) -> list[dict]:
+def get_json(
+    source_url: str
+):
+    response = requests.get(
+        source_url,
+        timeout=30,
+        headers={
+            "User-Agent": "EmergencyMonitoring/1.0",
+            "Accept": "application/json",
+        },
+    )
+    response.raise_for_status()
+    return response.json()
+
+
+def parse_rss_feed(
+    source_name: str,
+    source_url: str
+) -> list[dict]:
     parsed_feed = feedparser.parse(source_url)
 
     if parsed_feed.bozo and not parsed_feed.entries:
@@ -95,14 +113,7 @@ def parse_saskatchewan_json(
     source_name: str,
     source_url: str
 ) -> list[dict]:
-    response = requests.get(
-        source_url,
-        timeout=30,
-        headers={"User-Agent": "EmergencyMonitoring/1.0"}
-    )
-    response.raise_for_status()
-
-    data = response.json()
+    data = get_json(source_url)
     entries = data.get("entries", [])
 
     print(f"Found {len(entries)} entries")
@@ -164,14 +175,7 @@ def parse_manitoba_json(
     source_name: str,
     source_url: str
 ) -> list[dict]:
-    response = requests.get(
-        source_url,
-        timeout=30,
-        headers={"User-Agent": "EmergencyMonitoring/1.0"}
-    )
-    response.raise_for_status()
-
-    data = response.json()
+    data = get_json(source_url)
     entries = data.get("warnings", [])
 
     print(f"Found {len(entries)} entries")
@@ -182,8 +186,10 @@ def parse_manitoba_json(
         identifier = (
             entry.get("id")
             or entry.get("event")
-            or f"{entry.get('title', '')}|"
-               f"{entry.get('published-date-time', '')}"
+            or (
+                f"{entry.get('title', '')}|"
+                f"{entry.get('published-date-time', '')}"
+            )
         )
 
         title = (
@@ -222,16 +228,82 @@ def parse_manitoba_json(
             or ""
         )
 
-        link = "https://mbready.manitoba.ca/"
+        items.append(
+            {
+                "id": clean_text(identifier),
+                "source": source_name,
+                "title": clean_text(title),
+                "link": "https://mbready.manitoba.ca/",
+                "published": clean_text(published),
+                "summary": summary,
+            }
+        )
+
+    return items
+
+
+def parse_quebec_json(
+    source_name: str,
+    source_url: str
+) -> list[dict]:
+    entries = get_json(source_url)
+
+    if not isinstance(entries, list):
+        raise ValueError("Quebec API did not return a list")
+
+    print(f"Found {len(entries)} entries")
+
+    items = []
+
+    for entry in entries:
+        identifier = (
+            entry.get("id")
+            or entry.get("identifier")
+            or entry.get("alertId")
+            or entry.get("uuid")
+        )
+
+        title = (
+            entry.get("title")
+            or entry.get("name")
+            or entry.get("event")
+            or entry.get("headline")
+            or "Quebec Emergency Alert"
+        )
+
+        summary = (
+            entry.get("description")
+            or entry.get("message")
+            or entry.get("headline")
+            or entry.get("summary")
+            or ""
+        )
+
+        published = (
+            entry.get("published")
+            or entry.get("sent")
+            or entry.get("updated")
+            or entry.get("date")
+            or ""
+        )
+
+        link = (
+            entry.get("url")
+            or entry.get("link")
+            or "https://alerte.gouv.qc.ca/en"
+        )
+
+        if not identifier:
+            identifier = f"{title}|{published}|{link}"
 
         items.append(
             {
                 "id": clean_text(identifier),
                 "source": source_name,
                 "title": clean_text(title),
-                "link": link,
+                "link": clean_text(link),
                 "published": clean_text(published),
-                "summary": summary,
+                "summary": clean_text(summary),
             }
         )
 
@@ -292,11 +364,19 @@ def main() -> None:
                     source_name,
                     source_url
                 )
+
             elif source_type == "manitoba_json":
                 items = parse_manitoba_json(
                     source_name,
                     source_url
                 )
+
+            elif source_type == "quebec_json":
+                items = parse_quebec_json(
+                    source_name,
+                    source_url
+                )
+
             else:
                 items = parse_rss_feed(
                     source_name,
