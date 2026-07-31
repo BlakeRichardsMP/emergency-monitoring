@@ -38,6 +38,13 @@ def save_seen_items(items: set[str]) -> None:
         json.dump(sorted(items), file, indent=2, ensure_ascii=False)
 
 
+def clean_text(value) -> str:
+    if value is None:
+        return ""
+
+    return str(value).strip()
+
+
 def rss_entry_identifier(entry) -> str:
     return (
         entry.get("id")
@@ -51,8 +58,7 @@ def parse_rss_feed(source_name: str, source_url: str) -> list[dict]:
     parsed_feed = feedparser.parse(source_url)
 
     if parsed_feed.bozo and not parsed_feed.entries:
-        print(f"Feed failed: {source_name}: {parsed_feed.bozo_exception}")
-        return []
+        raise ValueError(parsed_feed.bozo_exception)
 
     print(f"Found {len(parsed_feed.entries)} entries")
 
@@ -63,17 +69,21 @@ def parse_rss_feed(source_name: str, source_url: str) -> list[dict]:
 
         items.append(
             {
-                "id": identifier,
+                "id": clean_text(identifier),
                 "source": source_name,
-                "title": entry.get("title", "").strip(),
-                "link": entry.get("link", "").strip(),
-                "published": entry.get(
-                    "published",
-                    entry.get("updated", "")
+                "title": clean_text(entry.get("title", "")),
+                "link": clean_text(entry.get("link", "")),
+                "published": clean_text(
+                    entry.get(
+                        "published",
+                        entry.get("updated", "")
+                    )
                 ),
-                "summary": entry.get(
-                    "summary",
-                    entry.get("description", "")
+                "summary": clean_text(
+                    entry.get(
+                        "summary",
+                        entry.get("description", "")
+                    )
                 ),
             }
         )
@@ -116,8 +126,8 @@ def parse_saskatchewan_json(
 
         summary = (
             entry.get("summary_en")
-            or entry.get("description_en")
             or entry.get("headline")
+            or entry.get("event_en")
             or ""
         )
 
@@ -138,12 +148,90 @@ def parse_saskatchewan_json(
 
         items.append(
             {
-                "id": str(identifier),
+                "id": clean_text(identifier),
                 "source": source_name,
-                "title": str(title).strip(),
-                "link": str(link).strip(),
-                "published": str(published).strip(),
-                "summary": str(summary).strip(),
+                "title": clean_text(title),
+                "link": clean_text(link),
+                "published": clean_text(published),
+                "summary": clean_text(summary),
+            }
+        )
+
+    return items
+
+
+def parse_manitoba_json(
+    source_name: str,
+    source_url: str
+) -> list[dict]:
+    response = requests.get(
+        source_url,
+        timeout=30,
+        headers={"User-Agent": "EmergencyMonitoring/1.0"}
+    )
+    response.raise_for_status()
+
+    data = response.json()
+    entries = data.get("warnings", [])
+
+    print(f"Found {len(entries)} entries")
+
+    items = []
+
+    for entry in entries:
+        identifier = (
+            entry.get("id")
+            or entry.get("event")
+            or f"{entry.get('title', '')}|"
+               f"{entry.get('published-date-time', '')}"
+        )
+
+        title = (
+            entry.get("title")
+            or entry.get("warning-type")
+            or entry.get("name")
+            or "Manitoba Emergency Alert"
+        )
+
+        headline = clean_text(entry.get("headline", ""))
+        warning_type = clean_text(entry.get("warning-type", ""))
+        alert_line = clean_text(entry.get("alert-line", ""))
+        severity = clean_text(entry.get("cap-severity", ""))
+        urgency = clean_text(entry.get("cap-urgency", ""))
+
+        location_data = entry.get("location") or {}
+        location_name = clean_text(location_data.get("value", ""))
+
+        summary_parts = [
+            warning_type,
+            headline,
+            alert_line,
+            severity,
+            urgency,
+            location_name,
+        ]
+
+        summary = " | ".join(
+            part for part in summary_parts if part
+        )
+
+        published = (
+            entry.get("published-date-time")
+            or entry.get("updatedAt")
+            or entry.get("web-message-updated-at")
+            or ""
+        )
+
+        link = "https://mbready.manitoba.ca/"
+
+        items.append(
+            {
+                "id": clean_text(identifier),
+                "source": source_name,
+                "title": clean_text(title),
+                "link": link,
+                "published": clean_text(published),
+                "summary": summary,
             }
         )
 
@@ -199,8 +287,13 @@ def main() -> None:
         print(f"Checking {source_name}")
 
         try:
-            if source_type == "json":
+            if source_type == "saskatchewan_json":
                 items = parse_saskatchewan_json(
+                    source_name,
+                    source_url
+                )
+            elif source_type == "manitoba_json":
+                items = parse_manitoba_json(
                     source_name,
                     source_url
                 )
@@ -218,7 +311,11 @@ def main() -> None:
         except Exception as error:
             print(f"Feed failed: {source_name}: {error}")
 
-    RSS_FILE.write_text(build_rss(all_items), encoding="utf-8")
+    RSS_FILE.write_text(
+        build_rss(all_items),
+        encoding="utf-8"
+    )
+
     save_seen_items(updated_seen_items)
 
     new_count = len(updated_seen_items - seen_items)
