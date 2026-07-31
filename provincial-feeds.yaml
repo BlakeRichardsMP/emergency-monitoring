@@ -6,13 +6,14 @@ feeds:
     url: https://www.emergencyinfobc.gov.bc.ca/feed/
 
   - name: Saskatchewan
-    url: https://www.saskpublicsafety.ca/rss.xml
+    url: https://emergencyalert.saskatchewan.ca/sapublic/feed.json
+    type: json
 
   - name: Manitoba
     url: https://www.gov.mb.ca/emo/index.rss
 
   - name: Ontario
-    url: https://www.ontario.ca/feeds/alerts.xml
+    url: ...
 
   - name: Quebec
     url: https://www.quebec.ca/rss/urgences.xml
