@@ -1,40 +1,52 @@
 feeds:
   - name: Alberta
+    type: rss
     url: https://www.alberta.ca/data/aea/rss/feed-full.atom
 
   - name: British Columbia
+    type: rss
     url: https://www.emergencyinfobc.gov.bc.ca/feed/
 
   - name: Saskatchewan
+    type: saskatchewan_json
     url: https://emergencyalert.saskatchewan.ca/sapublic/feed.json
-    type: json
 
   - name: Manitoba
-    url: https://www.gov.mb.ca/emo/index.rss
+    type: manitoba_json
+    url: https://mbready-api.manitoba.ca/v1/warnings
 
   - name: Ontario
-    url: ...
+    type: rss
+    url: https://www.ontario.ca/feeds/alerts.xml
 
   - name: Quebec
+    type: rss
     url: https://www.quebec.ca/rss/urgences.xml
 
   - name: New Brunswick
+    type: rss
     url: https://www2.gnb.ca/content/gnb/en/news/rss-feed.html
 
   - name: Nova Scotia
+    type: rss
     url: https://novascotia.ca/alerts/rss.xml
 
   - name: Prince Edward Island
+    type: rss
     url: https://www.princeedwardisland.ca/en/rss.xml
 
   - name: Newfoundland and Labrador
+    type: rss
     url: https://www.gov.nl.ca/releases/feed/
 
   - name: Yukon
+    type: rss
     url: https://yukon.ca/rss.xml
 
   - name: Northwest Territories
+    type: rss
     url: https://www.gov.nt.ca/rss.xml
 
   - name: Nunavut
+    type: rss
     url: https://www.gov.nu.ca/rss.xml
