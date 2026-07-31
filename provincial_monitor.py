@@ -4,6 +4,7 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 import feedparser
+import requests
 import yaml
 
 
@@ -19,7 +20,7 @@ def load_feeds() -> list[dict]:
     feeds = config.get("feeds", [])
 
     if not feeds:
-        raise ValueError("No feeds found in feeds.yaml")
+        raise ValueError("No feeds found in provincial-feeds.yaml")
 
     return feeds
 
@@ -37,13 +38,116 @@ def save_seen_items(items: set[str]) -> None:
         json.dump(sorted(items), file, indent=2, ensure_ascii=False)
 
 
-def entry_identifier(entry) -> str:
+def rss_entry_identifier(entry) -> str:
     return (
         entry.get("id")
         or entry.get("guid")
         or entry.get("link")
         or f"{entry.get('title', '')}|{entry.get('published', '')}"
     )
+
+
+def parse_rss_feed(source_name: str, source_url: str) -> list[dict]:
+    parsed_feed = feedparser.parse(source_url)
+
+    if parsed_feed.bozo and not parsed_feed.entries:
+        print(f"Feed failed: {source_name}: {parsed_feed.bozo_exception}")
+        return []
+
+    print(f"Found {len(parsed_feed.entries)} entries")
+
+    items = []
+
+    for entry in parsed_feed.entries:
+        identifier = rss_entry_identifier(entry)
+
+        items.append(
+            {
+                "id": identifier,
+                "source": source_name,
+                "title": entry.get("title", "").strip(),
+                "link": entry.get("link", "").strip(),
+                "published": entry.get(
+                    "published",
+                    entry.get("updated", "")
+                ),
+                "summary": entry.get(
+                    "summary",
+                    entry.get("description", "")
+                ),
+            }
+        )
+
+    return items
+
+
+def parse_saskatchewan_json(
+    source_name: str,
+    source_url: str
+) -> list[dict]:
+    response = requests.get(
+        source_url,
+        timeout=30,
+        headers={"User-Agent": "EmergencyMonitoring/1.0"}
+    )
+    response.raise_for_status()
+
+    data = response.json()
+    entries = data.get("entries", [])
+
+    print(f"Found {len(entries)} entries")
+
+    items = []
+
+    for entry in entries:
+        identifier = (
+            entry.get("id")
+            or entry.get("identifier")
+            or entry.get("cap_link")
+            or entry.get("html_link")
+        )
+
+        title = (
+            entry.get("event_en")
+            or entry.get("headline")
+            or entry.get("code")
+            or "Saskatchewan Emergency Alert"
+        )
+
+        summary = (
+            entry.get("summary_en")
+            or entry.get("description_en")
+            or entry.get("headline")
+            or ""
+        )
+
+        link = (
+            entry.get("html_link")
+            or entry.get("cap_link")
+            or source_url
+        )
+
+        published = (
+            entry.get("sent")
+            or entry.get("updated")
+            or data.get("updated", "")
+        )
+
+        if not identifier:
+            identifier = f"{title}|{published}|{link}"
+
+        items.append(
+            {
+                "id": str(identifier),
+                "source": source_name,
+                "title": str(title).strip(),
+                "link": str(link).strip(),
+                "published": str(published).strip(),
+                "summary": str(summary).strip(),
+            }
+        )
+
+    return items
 
 
 def build_rss(items: list[dict]) -> str:
@@ -70,9 +174,9 @@ def build_rss(items: list[dict]) -> str:
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Government Emergency Monitoring</title>
-    <link>https://github.com/BlakeRichardsMP/emergency-monitoring</link>
-    <description>Normalized Government of Canada emergency-related feeds</description>
+    <title>Provincial Emergency Alerts</title>
+    <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
+    <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
     <lastBuildDate>{generated_at}</lastBuildDate>
 {''.join(rss_items)}
@@ -90,38 +194,29 @@ def main() -> None:
     for source in feeds:
         source_name = source["name"]
         source_url = source["url"]
+        source_type = source.get("type", "rss").lower()
 
         print(f"Checking {source_name}")
 
-        parsed_feed = feedparser.parse(source_url)
+        try:
+            if source_type == "json":
+                items = parse_saskatchewan_json(
+                    source_name,
+                    source_url
+                )
+            else:
+                items = parse_rss_feed(
+                    source_name,
+                    source_url
+                )
 
-        if parsed_feed.bozo and not parsed_feed.entries:
-            print(f"Feed failed: {source_name}: {parsed_feed.bozo_exception}")
-            continue
+            all_items.extend(items)
 
-        print(f"Found {len(parsed_feed.entries)} entries")
+            for item in items:
+                updated_seen_items.add(item["id"])
 
-        for entry in parsed_feed.entries:
-            identifier = entry_identifier(entry)
-
-            all_items.append(
-                {
-                    "id": identifier,
-                    "source": source_name,
-                    "title": entry.get("title", "").strip(),
-                    "link": entry.get("link", "").strip(),
-                    "published": entry.get(
-                        "published",
-                        entry.get("updated", "")
-                    ),
-                    "summary": entry.get(
-                        "summary",
-                        entry.get("description", "")
-                    ),
-                }
-            )
-
-            updated_seen_items.add(identifier)
+        except Exception as error:
+            print(f"Feed failed: {source_name}: {error}")
 
     RSS_FILE.write_text(build_rss(all_items), encoding="utf-8")
     save_seen_items(updated_seen_items)
