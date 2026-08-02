@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 02 Aug 2026 07:53:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 11:45:55 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,38 +208,65 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0723026394.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2933999714.2026-1</guid>
-      <pubDate>2026-08-02T07:46:32-00:00</pubDate>
-      <description>Northwestern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Île à la Crosse, Buffalo Narrows and Beauval. Environment Canada meteorologists are... | Areas: Buffalo Narrows and Peter Pond Lake | Level: advisory</description>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2745297591.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1162399407.2026-1</guid>
+      <pubDate>2026-08-02T11:35:54-00:00</pubDate>
+      <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Air Quality (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4004619287.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3267267728.2026-1</guid>
+      <pubDate>2026-08-02T10:34:31-00:00</pubDate>
+      <description>Cree Lake - Key Lake. | Areas: Cree Lake - Key Lake | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Air Quality (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4004619287.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3267267728.2026-2</guid>
+      <pubDate>2026-08-02T10:34:31-00:00</pubDate>
+      <description>Southend - Brabant Lake - Kinoosao. Smoke is causing or expected to cause poor air quality and reduced visibility. Wildfire smoke is expected to impact the region until Monday. Air quality and... | Areas: Southend - Brabant Lake - Kinoosao | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Wind (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3397840636.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3131215057.2026-1</guid>
+      <pubDate>2026-08-02T10:28:53-00:00</pubDate>
+      <description>Strong winds gusting up to 90 km/h are expected beginning this morning. With recent heavy rainfall and saturated soils, trees may be more vulnerable to damage. Winds will weaken this evening... | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter, Woodlands Co. near Fort Assiniboine Timeu and Topland, Co. of Barrhead near Thunder Lake and Holmes Crossing, Co. of Barrhead near Neerlandia Bloomsbury and Vega, Co. of Barrhead near Barrhead and Lac la Nonne, M.D. of Lesser Slave River near Chisholm and Cross Lake, Westlock Co. near Larkspur Fawcett and Jarvie, Westlock Co. near Westlock and Clyde, Athabasca Co. near Athabasca and Island Lake, Athabasca Co. near Rochester Colinton and Meanook, Athabasca Co. near Grassland and Atmore, Athabasca Co. near Boyle and Caslan, Thorhild Co. near Newbrook and Long Lake Prov. Park, Yellowhead Co. near MacKay Wildwood and Evansburg, Lac Ste. Anne Co. near Mayerthorpe and Sangudo, Lac Ste. Anne Co. near Cherhill and Glenevis, Lac Ste. Anne Co. near Onoway and Lac Ste. Anne, Parkland Co. near Entwistle Fallis and Tomahawk, Parkland Co. near Wabamun Carvel and Keephills, Parkland Co. near Spruce Grove and Stony Plain, Sturgeon Co. near Rivière Qui Barre and Villeneuve, Sturgeon Co. near Legal and Mearns, Sturgeon Co. near Morinville Volmer and Big Lake, Thorhild Co. near Thorhild Opal and Radway, Sturgeon Co. near Bon Accord Gibbons and Namao, Sturgeon Co. near Redwater, Lamont Co. near Bruderheim Lamont and Peno Creek, Lamont Co. near Andrew and Wostok, Lamont Co. near Mundare Chipman and Ukrainian Village, Smoky Lake Co. near Smoky Lake and Waskatenau, Co. of Two Hills near Willingdon and Hairy Hill, Fort Saskatchewan and Nrn Strathcona Co., Elk Island Nat. Park, Co. of Minburn near Vegreville Inland and Warwick, City of Edmonton - St. Albert - Sherwood Park, Leduc Co. near Warburg Thorsby and Pigeon Lake, Leduc Co. near Calmar and Devon, Brazeau Co. near Drayton Valley and Breton, Co. of Wetaskiwin near Pigeon Lake, Co. of Wetaskiwin near Alder Flats and Winfield, Ponoka Co. near Rimbey Bluffton and Hoadley, Ponoka Co. near Crestomere, Leduc Co. near Leduc Beaumont and Kavanagh, Leduc Co. near New Sarepta and Rolly View, Co. of Wetaskiwin near Wetaskiwin Millet and Hwy 2, Strathcona Co. near Ardrossan and Cooking Lake, Beaver Co. near Tofield, Beaver Co. near Holden and Ryley, Camrose Co. near Hay Lakes and Miquelon Lake Prov. Park, Camrose Co. near Camrose and Bittern Lake, Camrose Co. near New Norway Edberg and Ferintosh, Camrose Co. near Bawlf and Rosalind, Flagstaff Co. near Daysland Heisler and Strome, M.D. of Greenview near Fox Creek, Yellowhead Co. near Edson and Sundance Prov. Park, Yellowhead Co. near Peers and Niton Junction, Woodlands Co. near Benbow and Windfall, Woodlands Co. near Carson-Pegasus Prov. Park, Woodlands Co. near Goose Lake, Woodlands Co. near Whitecourt and Blue Ridge, Big Lakes County near Swan Hills | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Rainfall (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0296706906.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0342841559.2026-1</guid>
+      <pubDate>2026-08-02T10:28:11-00:00</pubDate>
+      <description>Heavy rain is expected today, with total amounts of 50 to 100 mm. Rain will re-develop this morning. Additional amounts of 40 to 60 mm are expected today before the rain ends tonight. Don't drive... | Areas: Buffalo Narrows and Peter Pond Lake, Cluff Lake Mine, La Loche and Clearwater River Prov. Park | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
       <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2538499817.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3312829070.2026-1</guid>
-      <pubDate>2026-08-02T07:19:15-00:00</pubDate>
-      <description>Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Uranium City - Camsell Portage, Fond-du-Lac | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0734392367.2026-1</guid>
+      <pubDate>2026-08-02T09:19:50-00:00</pubDate>
+      <description>Northwestern Saskatchewan. Cree Lake and Key Lake. Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Cree Lake - Key Lake | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
-      <title>Thunderstorm (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2538499817.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3312829070.2026-2</guid>
-      <pubDate>2026-08-02T07:19:15-00:00</pubDate>
-      <description>Northwestern Saskatchewan. Extra care and attention should be exercised in and around the following localities: La Loche, Clearwater River Park, Cluff Lake, Cree Lake and Key Lake. Environment... | Areas: Cluff Lake Mine, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2745297591.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3751139827.2026-1</guid>
-      <pubDate>2026-08-02T06:08:08-00:00</pubDate>
-      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain. Thunderstorms will continue to move northeast... | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, Uranium City - Camsell Portage, Fond-du-Lac, Stony Rapids and Black Lake, Cluff Lake Mine, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake | Level: advisory</description>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0723026394.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2332791202.2026-1</guid>
+      <pubDate>2026-08-02T09:13:28-00:00</pubDate>
+      <description>Northwestern Saskatchewan. Île à la Crosse, Buffalo Narrows and Beauval. Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Buffalo Narrows and Peter Pond Lake | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -262,33 +289,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Air Quality (Issued)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4004619287.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4004619287.2026-1</guid>
-      <pubDate>2026-08-01T22:55:44-00:00</pubDate>
-      <description>Smoke is causing poor air quality and reduced visibility. Wildfire smoke is expected to impact the region until late Sunday afternoon. Air quality and visibility due to wildfire smoke can fluctuate... | Areas: Cree Lake - Key Lake, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Wind (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3397840636.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0983873980.2026-1</guid>
-      <pubDate>2026-08-01T22:34:41-00:00</pubDate>
-      <description>Strong winds gusting up to 90 km/h are expected beginning Sunday morning. With recent heavy rainfall and saturated soils, trees may be more vulnerable to damage. Winds will weaken Sunday evening... | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter, Woodlands Co. near Fort Assiniboine Timeu and Topland, Co. of Barrhead near Thunder Lake and Holmes Crossing, Co. of Barrhead near Neerlandia Bloomsbury and Vega, Co. of Barrhead near Barrhead and Lac la Nonne, M.D. of Lesser Slave River near Chisholm and Cross Lake, Westlock Co. near Larkspur Fawcett and Jarvie, Westlock Co. near Westlock and Clyde, Athabasca Co. near Athabasca and Island Lake, Athabasca Co. near Rochester Colinton and Meanook, Athabasca Co. near Grassland and Atmore, Athabasca Co. near Boyle and Caslan, Thorhild Co. near Newbrook and Long Lake Prov. Park, Yellowhead Co. near MacKay Wildwood and Evansburg, Lac Ste. Anne Co. near Mayerthorpe and Sangudo, Lac Ste. Anne Co. near Cherhill and Glenevis, Lac Ste. Anne Co. near Onoway and Lac Ste. Anne, Parkland Co. near Entwistle Fallis and Tomahawk, Parkland Co. near Wabamun Carvel and Keephills, Parkland Co. near Spruce Grove and Stony Plain, Sturgeon Co. near Rivière Qui Barre and Villeneuve, Sturgeon Co. near Legal and Mearns, Sturgeon Co. near Morinville Volmer and Big Lake, Thorhild Co. near Thorhild Opal and Radway, Sturgeon Co. near Bon Accord Gibbons and Namao, Sturgeon Co. near Redwater, Lamont Co. near Bruderheim Lamont and Peno Creek, Lamont Co. near Andrew and Wostok, Lamont Co. near Mundare Chipman and Ukrainian Village, Smoky Lake Co. near Smoky Lake and Waskatenau, Co. of Two Hills near Willingdon and Hairy Hill, Fort Saskatchewan and Nrn Strathcona Co., Elk Island Nat. Park, Co. of Minburn near Vegreville Inland and Warwick, City of Edmonton - St. Albert - Sherwood Park, Leduc Co. near Warburg Thorsby and Pigeon Lake, Leduc Co. near Calmar and Devon, Brazeau Co. near Drayton Valley and Breton, Co. of Wetaskiwin near Pigeon Lake, Co. of Wetaskiwin near Alder Flats and Winfield, Ponoka Co. near Rimbey Bluffton and Hoadley, Ponoka Co. near Crestomere, Leduc Co. near Leduc Beaumont and Kavanagh, Leduc Co. near New Sarepta and Rolly View, Co. of Wetaskiwin near Wetaskiwin Millet and Hwy 2, Strathcona Co. near Ardrossan and Cooking Lake, Beaver Co. near Tofield, Beaver Co. near Holden and Ryley, Camrose Co. near Hay Lakes and Miquelon Lake Prov. Park, Camrose Co. near Camrose and Bittern Lake, Camrose Co. near New Norway Edberg and Ferintosh, Camrose Co. near Bawlf and Rosalind, Flagstaff Co. near Daysland Heisler and Strome | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Issued)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0296706906.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0296706906.2026-1</guid>
-      <pubDate>2026-08-01T21:38:32-00:00</pubDate>
-      <description>Heavy rain is expected beginning this evening with total amounts of 50 to 70 mm. Showers and thunderstorms are expected tonight, with localized heavy rain. Rain will become more widespread Sunday... | Areas: Cluff Lake Mine, La Loche and Clearwater River Prov. Park | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -301,10 +301,10 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW WARNING - AIR QUALITY - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a6e79c7e36006311ad16f71</guid>
-      <pubDate>2026-08-01T22:57:09.889Z</pubDate>
-      <description>Air Quality Warning | Yellow Warning - Air Quality - In Effect | &lt;p&gt;Smoke is causing poor air quality and reduced visibility.
+      <pubDate>2026-08-02T10:35:28.894Z</pubDate>
+      <description>Air Quality Warning | Yellow Warning - Air Quality - In Effect | &lt;p&gt;Smoke is causing or expected to cause poor air quality and reduced visibility.
 
-Wildfire smoke is expected to impact the region until late Sunday afternoon.
+Wildfire smoke is expected to impact the region until Monday.
 
 Air quality and visibility due to wildfire smoke can fluctuate over short distances and can vary considerably from hour to hour.
 
