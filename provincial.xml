@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 01 Aug 2026 15:42:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 07:53:38 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,20 +208,83 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Heat (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2189705898.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1015283535.2026-1</guid>
-      <pubDate>2026-08-01T12:08:05-00:00</pubDate>
-      <description>Temperatures reaching 32 degrees Celsius combined with overnight lows near 16 degrees Celsius are expected for the next 2 days. Locations: Portions of southern Saskatchewan Time span: Friday... | Areas: R.M. of Deer Forks including Burstall and Estuary, R.M. of Happyland including Leader Prelate and Mendham, R.M. of Enterprise including Richmound, R.M. of Fox Valley including Fox Valley, R.M. of Big Stick including Golden Prairie, R.M. of Clinworth including Sceptre Lemsford and Portreeve, R.M. of Miry Creek including Abbey Lancer and Shackleton, R.M. of Pittville including Hazlet, R.M. of Piapot including Piapot, R.M. of Gull Lake including Gull Lake and Tompkins, R.M. of Carmichael including Carmichael, R.M. of Lacadena including Kyle Tyner and Sanctuary, R.M. of Victory including Beechy, R.M. of Canaan including Lucky Lake, R.M. of Riverside including Cabri Pennant and Success, R.M. of Saskatchewan Landing including Stewart Valley, R.M. of Webb including Webb and Antelope lake, R.M. of Swift Current including Swift Current and Wymark, R.M. of Lac Pelletier including Blumenhof, R.M. of Excelsior including Waldeck Rush Lake and Main Centre, R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of Coulee including Neidpath and McMahon, R.M. of Lawtonia including Hodgeville, R.M. of Glen Bain including Glen Bain, R.M. of Whiska Creek including Vanguard Neville and Pambrun, R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Reno including Consul Robsart and Willow Creek, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag, R.M. of Frontier including Frontier and Claydon, R.M. of Bone Creek including Simmie and Scotsguard, R.M. of Grassy Creek including Shaunavon, R.M. of Wise Creek including Cadillac and Admiral, R.M. of Lone Tree including Climax and Bracken, R.M. of Val Marie including Val Marie Orkney and Monchy, R.M. of Auvergne including Ponteix and Aneroid, R.M. of Pinto Creek including Kincaid and Hazenmore, R.M. of Glen McPherson west of Mankota, R.M. of Mankota including Mankota and Ferland, City of Regina, R.M. of Maple Bush including Riverhurst and Douglas Prov. Park, R.M. of Huron including Tugaske, R.M. of Enfield including Central Butte, R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Craik including Craik and Aylesbury, R.M. of Sarnia including Holdfast Chamberlain and Dilke, R.M. of Marquis including Tuxford Keeler and Buffalo Pound, R.M. of Dufferin including Bethune and Findlater, R.M. of Chaplin including Chaplin, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Caron including Caronport and Caron, R.M. of Pense including Pense Belle Plaine and Stony Beach, City of Moose Jaw, R.M. of Hillsborough including Crestwynd and Old Wives lake, R.M. of Redburn including Rouleau and Hearne, R.M. of Baildon including Briercrest, R.M. of Moose Jaw east of Highway 2 including Pasqua, R.M. of Moose Jaw west of Highway 2 including Bushell Park, R.M. of McKillop including Strasbourg and Rowans Ravine Prov. Park, R.M. of Longlaketon including Earl Grey and Silton, R.M. of Lumsden including Lumsden Regina Beach and Craven, R.M. of Cupar including Southey Cupar and Markinch, R.M. of Lipton including Lipton and Dysart, R.M. of Tullymet including Peepeekisis Res., R.M. of Bratt's Lake including Wilcox Corinne and Estlin, R.M. of Sherwood east of Highway 6, R.M. of Sherwood west of Highway 6 including Grand Coulee, R.M. of Lajord including Lajord Kronau and Riceton, R.M. of Francis including Vibank Sedley and Odessa, R.M. of Montmartre including Assiniboine Res., R.M. of Edenwold including Balgonie and Piapot Res., R.M. of North Qu'Appelle including Fort Qu'Appelle, R.M. of South Qu'Appelle including Qu'Appelle and Edgeley, R.M. of Abernethy including Balcarres and Abernethy, R.M. of Indian Head including Indian Head and Sintaluta, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, R.M. of Wood River including Lafleche Woodrow and Melaval, R.M. of Stonehenge including Limerick and Congress, R.M. of Waverley including Glentworth and Fir Mountain, R.M. of Old Post including Wood Mountain and Killdeer, R.M. of Lake Johnson including Mossbank and Ardill, R.M. of Terrell including Spring Valley and Cardross, R.M. of Lake of The Rivers including Assiniboia, R.M. of Excel including Viceroy Ormiston and Verwood, R.M. of Willow Bunch including Willow Bunch and St Victor, R.M. of Poplar Valley including Rockglen and Fife Lake, R.M. of Hart Butte including Coronach, R.M. of Elmsthorpe including Avonlea and Truax, R.M. of Key West including Ogema and Kayville, R.M. of Bengough including Bengough, R.M. of The Gap including Ceylon and Hardy, R.M. of Happy Valley including Big Beaver, R.M. of Surprise Valley including Minton and Regway, R.M. of Caledonia including Milestone and Parry, R.M. of Scott including Yellow Grass Lang and Lewvan, R.M. of Norton including Pangman and Khedive, R.M. of Brokenshell including Trossachs, R.M. of Wellington including Cedoux Colfax and Tyvan, R.M. of Fillmore including Fillmore Creelman and Osage, R.M. of Weyburn including Weyburn and McTaggart, R.M. of Griffin including Griffin and Froude, R.M. of Laurier including Radville, R.M. of Lomond including Colgate and Goodwater, R.M. of Lake Alma including Lake Alma and Beaubier, R.M. of Souris Valley including Tribune and Oungre, R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Benson including Benson, R.M. of Cambria including Torquay and Outram, R.M. of Estevan including Estevan and Hitchcock, R.M. of Tecumseh including Stoughton Forget and Heward, R.M. of Brock including Arcola and Kisbey, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, R.M. of Moose Mountain including Carlyle and Manor, R.M. of Antler including Redvers Antler and Wauchope, R.M. of Storthoaks including Storthoaks and Fertile, R.M. of Reciprocity including Alida, R.M. of Mount Pleasant including Carnduff, R.M. of Argyle including Gainsborough and Carievale, R.M. of Harris including Harris and Tessier, R.M. of Montrose including Donovan and Swanson, R.M. of Milden including Dinsmore Milden and Wiseton, R.M. of Fertile Valley including Conquest Macrorie and Bounty, R.M. of King George northwest of Lucky Lake, R.M. of Coteau including Birsay and Danielson Prov. Park, R.M. of Dundurn including Dundurn and Blackstrap Prov. Park, R.M. of Rudy including Outlook and Glenside, R.M. of Rosedale including Hanley, R.M. of Loreburn including Elbow Loreburn and Hawarden, R.M. of Lost River including South Allan and the Allan Hills, R.M. of Morris including Watrous Young and Zelma, R.M. of McCraney including Kenaston and Bladworth, R.M. of Wood Creek including Simpson, R.M. of Arm River including Davidson and Girvin, R.M. of Willner west of Davidson, R.M. of Big Arm including Imperial and Liberty | Level: advisory</description>
+      <title>Thunderstorm (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0723026394.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2933999714.2026-1</guid>
+      <pubDate>2026-08-02T07:46:32-00:00</pubDate>
+      <description>Northwestern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Île à la Crosse, Buffalo Narrows and Beauval. Environment Canada meteorologists are... | Areas: Buffalo Narrows and Peter Pond Lake | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
-      <title>Drinking Water (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/C8383509-42CD-4DC3-8DE1-AE1FDB9F4EB8</link>
-      <guid isPermaLink="false">0F915C08-C90F-4053-9B66-6D4DA1881F8C-1</guid>
-      <pubDate>2026-07-30T15:12:01-06:00</pubDate>
-      <description>Village of Pleasantdale. CANCELLED - Drinking water is now safe. You may resume normal activities such as drinking and cooking. Report concerns to the Village office. | Areas: Village of Pleasantdale | Level: advisory</description>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2538499817.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3312829070.2026-1</guid>
+      <pubDate>2026-08-02T07:19:15-00:00</pubDate>
+      <description>Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Uranium City - Camsell Portage, Fond-du-Lac | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2538499817.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3312829070.2026-2</guid>
+      <pubDate>2026-08-02T07:19:15-00:00</pubDate>
+      <description>Northwestern Saskatchewan. Extra care and attention should be exercised in and around the following localities: La Loche, Clearwater River Park, Cluff Lake, Cree Lake and Key Lake. Environment... | Areas: Cluff Lake Mine, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2745297591.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3751139827.2026-1</guid>
+      <pubDate>2026-08-02T06:08:08-00:00</pubDate>
+      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain. Thunderstorms will continue to move northeast... | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, Uranium City - Camsell Portage, Fond-du-Lac, Stony Rapids and Black Lake, Cluff Lake Mine, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0781332132.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0536298459.2026-1</guid>
+      <pubDate>2026-08-02T05:14:41-00:00</pubDate>
+      <description>Northwestern Saskatchewan. Île à la Crosse, Buffalo Narrows and Beauval. Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Buffalo Narrows and Peter Pond Lake | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Heat (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2189705898.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3553164862.2026-1</guid>
+      <pubDate>2026-08-02T04:22:03-00:00</pubDate>
+      <description>Conditions are no longer expected to reach heat warning criteria. | Areas: R.M. of Deer Forks including Burstall and Estuary, R.M. of Happyland including Leader Prelate and Mendham, R.M. of Enterprise including Richmound, R.M. of Fox Valley including Fox Valley, R.M. of Big Stick including Golden Prairie, R.M. of Clinworth including Sceptre Lemsford and Portreeve, R.M. of Miry Creek including Abbey Lancer and Shackleton, R.M. of Pittville including Hazlet, R.M. of Piapot including Piapot, R.M. of Gull Lake including Gull Lake and Tompkins, R.M. of Carmichael including Carmichael, R.M. of Lacadena including Kyle Tyner and Sanctuary, R.M. of Victory including Beechy, R.M. of Canaan including Lucky Lake, R.M. of Riverside including Cabri Pennant and Success, R.M. of Saskatchewan Landing including Stewart Valley, R.M. of Webb including Webb and Antelope lake, R.M. of Swift Current including Swift Current and Wymark, R.M. of Lac Pelletier including Blumenhof, R.M. of Excelsior including Waldeck Rush Lake and Main Centre, R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of Coulee including Neidpath and McMahon, R.M. of Lawtonia including Hodgeville, R.M. of Glen Bain including Glen Bain, R.M. of Whiska Creek including Vanguard Neville and Pambrun, R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Reno including Consul Robsart and Willow Creek, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag, R.M. of Frontier including Frontier and Claydon, R.M. of Bone Creek including Simmie and Scotsguard, R.M. of Grassy Creek including Shaunavon, R.M. of Wise Creek including Cadillac and Admiral, R.M. of Lone Tree including Climax and Bracken, R.M. of Val Marie including Val Marie Orkney and Monchy, R.M. of Auvergne including Ponteix and Aneroid, R.M. of Pinto Creek including Kincaid and Hazenmore, R.M. of Glen McPherson west of Mankota, R.M. of Mankota including Mankota and Ferland, City of Regina, R.M. of Maple Bush including Riverhurst and Douglas Prov. Park, R.M. of Huron including Tugaske, R.M. of Enfield including Central Butte, R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Craik including Craik and Aylesbury, R.M. of Sarnia including Holdfast Chamberlain and Dilke, R.M. of Marquis including Tuxford Keeler and Buffalo Pound, R.M. of Dufferin including Bethune and Findlater, R.M. of Chaplin including Chaplin, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Caron including Caronport and Caron, R.M. of Pense including Pense Belle Plaine and Stony Beach, City of Moose Jaw, R.M. of Hillsborough including Crestwynd and Old Wives lake, R.M. of Redburn including Rouleau and Hearne, R.M. of Baildon including Briercrest, R.M. of Moose Jaw east of Highway 2 including Pasqua, R.M. of Moose Jaw west of Highway 2 including Bushell Park, R.M. of McKillop including Strasbourg and Rowans Ravine Prov. Park, R.M. of Longlaketon including Earl Grey and Silton, R.M. of Lumsden including Lumsden Regina Beach and Craven, R.M. of Cupar including Southey Cupar and Markinch, R.M. of Lipton including Lipton and Dysart, R.M. of Tullymet including Peepeekisis Res., R.M. of Bratt's Lake including Wilcox Corinne and Estlin, R.M. of Sherwood east of Highway 6, R.M. of Sherwood west of Highway 6 including Grand Coulee, R.M. of Lajord including Lajord Kronau and Riceton, R.M. of Francis including Vibank Sedley and Odessa, R.M. of Montmartre including Assiniboine Res., R.M. of Edenwold including Balgonie and Piapot Res., R.M. of North Qu'Appelle including Fort Qu'Appelle, R.M. of South Qu'Appelle including Qu'Appelle and Edgeley, R.M. of Abernethy including Balcarres and Abernethy, R.M. of Indian Head including Indian Head and Sintaluta, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, R.M. of Wood River including Lafleche Woodrow and Melaval, R.M. of Stonehenge including Limerick and Congress, R.M. of Waverley including Glentworth and Fir Mountain, R.M. of Old Post including Wood Mountain and Killdeer, R.M. of Lake Johnson including Mossbank and Ardill, R.M. of Terrell including Spring Valley and Cardross, R.M. of Lake of The Rivers including Assiniboia, R.M. of Excel including Viceroy Ormiston and Verwood, R.M. of Willow Bunch including Willow Bunch and St Victor, R.M. of Poplar Valley including Rockglen and Fife Lake, R.M. of Hart Butte including Coronach, R.M. of Elmsthorpe including Avonlea and Truax, R.M. of Key West including Ogema and Kayville, R.M. of Bengough including Bengough, R.M. of The Gap including Ceylon and Hardy, R.M. of Happy Valley including Big Beaver, R.M. of Surprise Valley including Minton and Regway, R.M. of Caledonia including Milestone and Parry, R.M. of Scott including Yellow Grass Lang and Lewvan, R.M. of Norton including Pangman and Khedive, R.M. of Brokenshell including Trossachs, R.M. of Wellington including Cedoux Colfax and Tyvan, R.M. of Fillmore including Fillmore Creelman and Osage, R.M. of Weyburn including Weyburn and McTaggart, R.M. of Griffin including Griffin and Froude, R.M. of Laurier including Radville, R.M. of Lomond including Colgate and Goodwater, R.M. of Lake Alma including Lake Alma and Beaubier, R.M. of Souris Valley including Tribune and Oungre, R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Benson including Benson, R.M. of Cambria including Torquay and Outram, R.M. of Estevan including Estevan and Hitchcock, R.M. of Tecumseh including Stoughton Forget and Heward, R.M. of Brock including Arcola and Kisbey, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, R.M. of Moose Mountain including Carlyle and Manor, R.M. of Antler including Redvers Antler and Wauchope, R.M. of Storthoaks including Storthoaks and Fertile, R.M. of Reciprocity including Alida, R.M. of Mount Pleasant including Carnduff, R.M. of Argyle including Gainsborough and Carievale, R.M. of Harris including Harris and Tessier, R.M. of Montrose including Donovan and Swanson, R.M. of Milden including Dinsmore Milden and Wiseton, R.M. of Fertile Valley including Conquest Macrorie and Bounty, R.M. of King George northwest of Lucky Lake, R.M. of Coteau including Birsay and Danielson Prov. Park, R.M. of Dundurn including Dundurn and Blackstrap Prov. Park, R.M. of Rudy including Outlook and Glenside, R.M. of Rosedale including Hanley, R.M. of Loreburn including Elbow Loreburn and Hawarden, R.M. of Lost River including South Allan and the Allan Hills, R.M. of Morris including Watrous Young and Zelma, R.M. of McCraney including Kenaston and Bladworth, R.M. of Wood Creek including Simpson, R.M. of Arm River including Davidson and Girvin, R.M. of Willner west of Davidson, R.M. of Big Arm including Imperial and Liberty | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Air Quality (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4004619287.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4004619287.2026-1</guid>
+      <pubDate>2026-08-01T22:55:44-00:00</pubDate>
+      <description>Smoke is causing poor air quality and reduced visibility. Wildfire smoke is expected to impact the region until late Sunday afternoon. Air quality and visibility due to wildfire smoke can fluctuate... | Areas: Cree Lake - Key Lake, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Wind (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3397840636.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0983873980.2026-1</guid>
+      <pubDate>2026-08-01T22:34:41-00:00</pubDate>
+      <description>Strong winds gusting up to 90 km/h are expected beginning Sunday morning. With recent heavy rainfall and saturated soils, trees may be more vulnerable to damage. Winds will weaken Sunday evening... | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter, Woodlands Co. near Fort Assiniboine Timeu and Topland, Co. of Barrhead near Thunder Lake and Holmes Crossing, Co. of Barrhead near Neerlandia Bloomsbury and Vega, Co. of Barrhead near Barrhead and Lac la Nonne, M.D. of Lesser Slave River near Chisholm and Cross Lake, Westlock Co. near Larkspur Fawcett and Jarvie, Westlock Co. near Westlock and Clyde, Athabasca Co. near Athabasca and Island Lake, Athabasca Co. near Rochester Colinton and Meanook, Athabasca Co. near Grassland and Atmore, Athabasca Co. near Boyle and Caslan, Thorhild Co. near Newbrook and Long Lake Prov. Park, Yellowhead Co. near MacKay Wildwood and Evansburg, Lac Ste. Anne Co. near Mayerthorpe and Sangudo, Lac Ste. Anne Co. near Cherhill and Glenevis, Lac Ste. Anne Co. near Onoway and Lac Ste. Anne, Parkland Co. near Entwistle Fallis and Tomahawk, Parkland Co. near Wabamun Carvel and Keephills, Parkland Co. near Spruce Grove and Stony Plain, Sturgeon Co. near Rivière Qui Barre and Villeneuve, Sturgeon Co. near Legal and Mearns, Sturgeon Co. near Morinville Volmer and Big Lake, Thorhild Co. near Thorhild Opal and Radway, Sturgeon Co. near Bon Accord Gibbons and Namao, Sturgeon Co. near Redwater, Lamont Co. near Bruderheim Lamont and Peno Creek, Lamont Co. near Andrew and Wostok, Lamont Co. near Mundare Chipman and Ukrainian Village, Smoky Lake Co. near Smoky Lake and Waskatenau, Co. of Two Hills near Willingdon and Hairy Hill, Fort Saskatchewan and Nrn Strathcona Co., Elk Island Nat. Park, Co. of Minburn near Vegreville Inland and Warwick, City of Edmonton - St. Albert - Sherwood Park, Leduc Co. near Warburg Thorsby and Pigeon Lake, Leduc Co. near Calmar and Devon, Brazeau Co. near Drayton Valley and Breton, Co. of Wetaskiwin near Pigeon Lake, Co. of Wetaskiwin near Alder Flats and Winfield, Ponoka Co. near Rimbey Bluffton and Hoadley, Ponoka Co. near Crestomere, Leduc Co. near Leduc Beaumont and Kavanagh, Leduc Co. near New Sarepta and Rolly View, Co. of Wetaskiwin near Wetaskiwin Millet and Hwy 2, Strathcona Co. near Ardrossan and Cooking Lake, Beaver Co. near Tofield, Beaver Co. near Holden and Ryley, Camrose Co. near Hay Lakes and Miquelon Lake Prov. Park, Camrose Co. near Camrose and Bittern Lake, Camrose Co. near New Norway Edberg and Ferintosh, Camrose Co. near Bawlf and Rosalind, Flagstaff Co. near Daysland Heisler and Strome | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Rainfall (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0296706906.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0296706906.2026-1</guid>
+      <pubDate>2026-08-01T21:38:32-00:00</pubDate>
+      <description>Heavy rain is expected beginning this evening with total amounts of 50 to 70 mm. Showers and thunderstorms are expected tonight, with localized heavy rain. Rain will become more widespread Sunday... | Areas: Cluff Lake Mine, La Loche and Clearwater River Prov. Park | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -232,6 +295,31 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-05-19T11:34:08-06:00</pubDate>
       <description>A Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun water... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - AIR QUALITY - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a6e79c7e36006311ad16f71</guid>
+      <pubDate>2026-08-01T22:57:09.889Z</pubDate>
+      <description>Air Quality Warning | Yellow Warning - Air Quality - In Effect | &lt;p&gt;Smoke is causing poor air quality and reduced visibility.
+
+Wildfire smoke is expected to impact the region until late Sunday afternoon.
+
+Air quality and visibility due to wildfire smoke can fluctuate over short distances and can vary considerably from hour to hour.
+
+
+
+As smoke levels increase, health risks increase. Limit time outdoors. Consider reducing or rescheduling outdoor sports, activities and events.
+
+You may experience mild and common symptoms such as eye, nose and throat irritation, headaches or a mild cough. More serious but less common symptoms include wheezing, chest pains or severe cough. If you think you are having a medical emergency, seek immediate medical assistance.
+
+People more likely to be impacted by wildfire smoke, including people aged 65 and older, pregnant people, infants and young children, people with an existing illness or chronic health condition, and people who work outdoors, should reduce or reschedule strenuous activities outdoors and seek medical attention if experiencing symptoms.
+
+Visit https://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
+      <source>Manitoba</source>
     </item>
 
     <item>
@@ -304,51 +392,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2010719330.2026-1</guid>
-      <pubDate>2026-07-31T22:44:19-00:00</pubDate>
-      <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Colchester County - Truro and south, Pictou County, Antigonish County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1358058857.2026-1</guid>
-      <pubDate>2026-07-31T22:43:48-00:00</pubDate>
-      <description>Pictou, Antigonish Nova Scotia. Pictou County. Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Pictou County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1235088216.2026-1</guid>
-      <pubDate>2026-07-31T22:42:43-00:00</pubDate>
-      <description>Colchester and Cumberland Nova Scotia. Colchester County Truro and south. Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Colchester County - Truro and south | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1926756744.2026-1</guid>
-      <pubDate>2026-07-31T21:23:01-00:00</pubDate>
-      <description>South Shore Nova Scotia. Queens County and Lunenburg County. Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Lunenburg County, Queens County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1793243960.2026-1</guid>
-      <pubDate>2026-07-31T20:57:59-00:00</pubDate>
-      <description>Annapolis Valley, Hants Nova Scotia. Hants County. Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Hants County | Level: advisory</description>
-      <source>Nova Scotia</source>
     </item>
 
     <item>
