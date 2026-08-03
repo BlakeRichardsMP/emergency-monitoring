@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 03 Aug 2026 12:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 19:00:38 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -262,24 +262,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1779700301.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0994645905.2026-1</guid>
-      <pubDate>2026-08-02T15:51:12-00:00</pubDate>
-      <description>North Central and Northwestern Saskatchewan. Île à la Crosse, Buffalo Narrows, Beauval, Pinehouse Lake and La Ronge. Severe thunderstorms associated with this alert have weakened or moved out of... | Areas: Île à la Crosse and Beauval, Hwy 165 between hwys 2 and 914 including Pinehouse Lake | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2745297591.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1162399407.2026-1</guid>
-      <pubDate>2026-08-02T11:35:54-00:00</pubDate>
-      <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -289,29 +271,13 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - SQUALL WARNING IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a708a7d1ff0fff02670ac56</guid>
-      <pubDate>2026-08-03T12:34:12.033Z</pubDate>
-      <description>Windstorm Warning | Squall Warning In Effect | &lt;p&gt;Squalls with wind gusts up to 35 knots, frequent lightning and hail up to 2 centimetres are expected or occurring in the area.
-
-Thunderstorms approaching from northwestern Minnesota are moving towards the northeast at roughly 20 knots.
-
-
-
-Large hail can damage vessels and cause injury.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Immediate - act now</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a70785e8b66fbe1deb043fb</guid>
-      <pubDate>2026-08-03T11:15:38.147Z</pubDate>
-      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 35 knots.
+      <pubDate>2026-08-03T18:09:03.553Z</pubDate>
+      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 35 knots and frequent lightning.
 
+A large area of thunderstorms continues to progress eastward over western Hudson Bay early this afternoon. Additional thunderstorms are developing southwest of Churchill and will enter the Bay later this afternoon.
 
 
 
@@ -322,32 +288,41 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
     <item>
       <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a7074ed8b66fbe1deb03af8</guid>
-      <pubDate>2026-08-03T11:00:59.795Z</pubDate>
+      <guid isPermaLink="false">6a70cb02e63928a479a0ecb3</guid>
+      <pubDate>2026-08-03T17:12:17.664Z</pubDate>
       <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain.
 
 Hazards:
-Quarter to ping pong ball size hail
-Torrential downpours
-Wind gusts up to 90 km/h
+Up to toonie sized hail.
+Wind gusts of 90 km/h.
+Locally heavy rain.
 
 Timing:
-This morning
+This afternoon.
 
-Additional information:
-Thunderstorms over North Dakota and northwestern Minnesota are expected to move into the area this morning. Large hail and heavy rain will be the primary hazards.
-
-An additional round of severe thunderstorms is possible later this afternoon into this evening.
+Additional details:
+Thunderstorms are developing over northern Manitoba as a low pressure centre makes its way toward the Hudson Bay coast. The low and associated thunderstorms will move off into the Bay this evening.
 
 
 
-Local utility outages are possible.
+Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
 
-Large hail can cause significant damage and injury.
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
 
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
+    <item>
+      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a70aa31ad1168aa8c8b096d</guid>
+      <pubDate>2026-08-03T14:48:14.481Z</pubDate>
+      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 45 knots, frequent lightning and hail.
 
-For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+Thunderstorms this morning have weakened. Additional thunderstorms are likely later this afternoon and evening.
+
+
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
       <source>Manitoba</source>
     </item>
 
@@ -439,12 +414,100 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
     </item>
 
     <item>
+      <title>Wind (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1036449511.2026-1</guid>
+      <pubDate>2026-08-03T18:24:01-00:00</pubDate>
+      <description>Inverness County - Mabou and north. Damaging winds are expected. Time span: late tonight until early Tuesday morning. Maximum wind gusts: southeasterly up to 90 km/h. Locations: Margaree Harbour to... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Thunderstorm (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.4198956762.2026-1</guid>
       <pubDate>2026-08-02T21:32:55-00:00</pubDate>
       <description>Kings County. Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Kings County | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>324772 Woodlot Management Plan - Belle River</title>
+      <link>https://www.princeedwardisland.ca/en/publication/324772-woodlot-management-plan-belle-river</link>
+      <guid isPermaLink="false">80918 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 03 Aug 2026 17:40:28 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;324772 Woodlot Management Plan - Belle River&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-03T14:40:28-03:00" title="Monday, August 3, 2026 - 14:40"&gt;Mon, 08/03/2026 - 14:40&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/3fad/324772%20Woodlot%20Management%20Plan.pdf"&gt;
+              &lt;span&gt;324772 Woodlot Management Plan.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -1190,59 +1253,30 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
     </item>
 
     <item>
-      <title>Malone</title>
-      <link>https://www.princeedwardisland.ca/en/employee/malone-leila</link>
-      <guid isPermaLink="false">80898 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 31 Jul 2026 05:13:12 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Malone&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-31T02:13:12-03:00" title="Friday, July 31, 2026 - 02:13"&gt;Fri, 07/31/2026 - 02:13&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+      <title>Premier McLeod on the Enbridge Line 21 Pipeline</title>
+      <link>https://www.gov.nt.ca/en/newsroom/news/premier-mcleod-enbridge-line-21-pipeline</link>
+      <guid isPermaLink="false">9422 at https://www.gov.nt.ca</guid>
+      <pubDate>Wed, 26 Sep 2018 23:05:28 +0000</pubDate>
+      <description>&lt;div class="field field-name-body field-type-text-with-summary field-label-hidden"&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;p&gt;&lt;strong&gt;YELLOWKNIFE&lt;/strong&gt; - Premier Bob McLeod issued the following statement on the Enbridge Line 21 pipeline today:&lt;/p&gt;
 
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Service Worker 1&lt;/span&gt;
-  &lt;/div&gt;
+&lt;p&gt;“I was pleased to learn that operations have resumed for Enbridge’s Line 21 pipeline after almost 2 years of no activity.&lt;/p&gt;
 
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Queen Elizabeth Hospital&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
+&lt;p&gt;"Resource development has, and will continue to be, the backbone of our economy and is central to ensuring a good source of middle class jobs and business opportunities. Our territory has mineral and petroleum resources and the development of those resources can have a transformative effect on our people and economy.&lt;/p&gt;
 
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
+&lt;p&gt;"Sustainable economic development is key to the future of Northerners. With a strong resource development base, we will be able to support diversification of our local economies into emerging and established sectors.&lt;/p&gt;
 
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
+&lt;p&gt;"On behalf of the Government of the Northwest Territories I’d like to offer my congratulations to Imperial Oil, Enbridge the town of Norman Wells and other partners for getting this pipeline back up and running. I know the efforts and economic impacts of the pipeline have already begun to take shape in the community and will be felt for years to come. ”&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Charlotte Digness&lt;/strong&gt;&lt;br /&gt;
+	Media and Communications Coordinator&lt;br /&gt;
+	Cabinet Communications and Protocol&lt;br /&gt;
+	Government of the Northwest Territories&lt;br /&gt;
+	Ph: 867-767-9140 ext. 11092&lt;br /&gt;
+	Email: &lt;a href="mailto:charlotte_digness@gov.nt.ca"&gt;charlotte_digness@gov.nt.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-type field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;News Type:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/news-type/media-statement"&gt;Media Statement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-department field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;Department:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/department/premier"&gt;Premier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class="links inline"&gt;&lt;li class="fr first last"&gt;&lt;a class="language-link" href="https://www.gov.nt.ca/fr/newsroom/le-premier-ministre-mcleod-se-r%C3%A9jouit-de-la-r%C3%A9ouverture-de-l%E2%80%99ol%C3%A9oduc-21-d%E2%80%99enbridge" xml:lang="fr"&gt;Français&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <source>Northwest Territories</source>
     </item>
 
   </channel>
