@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 03 Aug 2026 19:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 22:40:51 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -244,24 +244,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Air Quality (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4004619287.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2116071187.2026-1</guid>
-      <pubDate>2026-08-02T21:25:23-00:00</pubDate>
-      <description>Southend - Brabant Lake - Kinoosao. Poor air quality is no longer expected over the area. | Areas: Southend - Brabant Lake - Kinoosao | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2630304213.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1932427036.2026-1</guid>
-      <pubDate>2026-08-02T18:28:09-00:00</pubDate>
-      <description>Northwestern Saskatchewan. Cree Lake and Key Lake. Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Cree Lake - Key Lake | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -271,13 +253,44 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - ORANGE WATCH - TORNADO - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a71144e5aaef49df965808b</guid>
+      <pubDate>2026-08-03T22:21:00.841Z</pubDate>
+      <description>Tornado Warning | Orange Watch - Tornado - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms which may produce tornadoes. Strong winds, large hail and heavy rain are also possible.
+
+What:
+Risk of tornadoes.
+Wind gusts up to 100 km/h.
+Toonie to ping pong ball sized hail.
+Heavy rainfall with local amounts up to 50 mm.
+
+When:
+Beginning this evening, and ending near midnight.
+
+Additional information:
+Thunderstorms capable of producing damaging winds, large hail and tornadoes are possible, with the greatest threat most likely for areas closer to the international border. There is also a risk of heavy rainfall accumulations for areas that receive several thunderstorms.
+
+
+
+Significant damage or destruction to infrastructure, homes and the natural environment is possible.
+
+Tornado watches are issued when conditions are favourable for the development of severe thunderstorms capable of producing tornadoes.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
+
+For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour | Stratton, Ontario</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
       <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a70785e8b66fbe1deb043fb</guid>
-      <pubDate>2026-08-03T18:09:03.553Z</pubDate>
-      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 35 knots and frequent lightning.
+      <guid isPermaLink="false">6a70aa31ad1168aa8c8b096d</guid>
+      <pubDate>2026-08-03T21:43:54.624Z</pubDate>
+      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 40 knots, frequent lightning and hail.
 
-A large area of thunderstorms continues to progress eastward over western Hudson Bay early this afternoon. Additional thunderstorms are developing southwest of Churchill and will enter the Bay later this afternoon.
+A few rounds of thunderstorms are likely through late evening over Lake of the Woods.
 
 
 
@@ -289,7 +302,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
       <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a70cb02e63928a479a0ecb3</guid>
-      <pubDate>2026-08-03T17:12:17.664Z</pubDate>
+      <pubDate>2026-08-03T21:31:24.554Z</pubDate>
       <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain.
 
 Hazards:
@@ -314,11 +327,11 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     <item>
       <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a70aa31ad1168aa8c8b096d</guid>
-      <pubDate>2026-08-03T14:48:14.481Z</pubDate>
-      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 45 knots, frequent lightning and hail.
+      <guid isPermaLink="false">6a70785e8b66fbe1deb043fb</guid>
+      <pubDate>2026-08-03T20:13:38.931Z</pubDate>
+      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 35 knots and frequent lightning.
 
-Thunderstorms this morning have weakened. Additional thunderstorms are likely later this afternoon and evening.
+Thunderstorms have developed near Churchill and are entering the Bay to the north of the townsite.
 
 
 
@@ -419,15 +432,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1036449511.2026-1</guid>
       <pubDate>2026-08-03T18:24:01-00:00</pubDate>
       <description>Inverness County - Mabou and north. Damaging winds are expected. Time span: late tonight until early Tuesday morning. Maximum wind gusts: southeasterly up to 90 km/h. Locations: Margaree Harbour to... | Areas: Inverness County - Mabou and north | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4198956762.2026-1</guid>
-      <pubDate>2026-08-02T21:32:55-00:00</pubDate>
-      <description>Kings County. Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Kings County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
