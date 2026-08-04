@@ -5,7 +5,16 @@
     <link>https://github.com/BlakeRichardsMP/emergency-monitoring</link>
     <description>Normalized Government of Canada emergency-related feeds</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 04 Aug 2026 08:07:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 16:23:09 +0000</lastBuildDate>
+
+    <item>
+      <title>Government of Canada establishes foreign influence registry</title>
+      <link>https://www.canada.ca/en/public-safety-canada/news/2026/08/government-of-canada-establishes-foreign-influence-registry.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/08/government-of-canada-establishes-foreign-influence-registry.html</guid>
+      <pubDate>2026-08-04T11:10:01-04:00</pubDate>
+      <description>In a rapidly changing world, Canadians deserve to feel confident about the integrity of their country’s democratic institutions and processes, including knowing when foreign states and actors are trying to influence public life.</description>
+      <source>Public Safety Canada</source>
+    </item>
 
     <item>
       <title>Government of Canada announces funding to support those affected by the Tumbler Ridge tragedy</title>
@@ -85,15 +94,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/07/secretary-of-state-belanger-to-announce-support-for-search-and-rescue-volunteer-recruitment-and-water-response-in-saskatchewan.html</guid>
       <pubDate>2026-07-08T13:33:13-04:00</pubDate>
       <description>Members of the media are invited to join the Honourable Buckley Belanger, Secretary of State for Rural Development, on behalf of the Honourable Eleanor Olszewski, Minister of Emergency Management and Community Resilience and Minister responsible for Prairies Economic Development Canada, for an announcement regarding Government of Canada support for inclusive search and rescue volunteer recruitment and strengthened water and shoreline response in Saskatchewan.</description>
-      <source>Public Safety Canada</source>
-    </item>
-
-    <item>
-      <title>Minister Olszewski and Parliamentary Secretaries Lavack and Hogan to provide an update on Canada’s 2026 wildfire season</title>
-      <link>https://www.canada.ca/en/public-safety-canada/news/2026/07/minister-olszewski-and-parliamentary-secretaries-lavack-and-hogan-to-provide-an-update-on-canadas-2026-wildfire-season.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/07/minister-olszewski-and-parliamentary-secretaries-lavack-and-hogan-to-provide-an-update-on-canadas-2026-wildfire-season.html</guid>
-      <pubDate>2026-07-08T09:07:32-04:00</pubDate>
-      <description>Members of the media are invited to join the Honourable Eleanor Olszewski, Minister of Emergency Management and Community Resilience and Minister responsible for Prairies Economic Development Canada, Ginette Lavack, Parliamentary Secretary to the Minister of Indigenous Services, and Corey Hogan, Parliamentary Secretary to the Minister of Energy and Natural Resources, as they provide an update on the forecast for the 2026 wildfires season.</description>
       <source>Public Safety Canada</source>
     </item>
 
