@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 03 Aug 2026 22:40:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 08:08:53 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,141 +217,12 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1335405498.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0321789094.2026-1</guid>
-      <pubDate>2026-08-03T04:18:35-00:00</pubDate>
-      <description>Wollaston Lake - Collins Bay. Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Wollaston Lake - Collins Bay | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0296706906.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2177155529.2026-1</guid>
-      <pubDate>2026-08-03T02:22:47-00:00</pubDate>
-      <description>Buffalo Narrows and Peter Pond Lake. Significant rainfall is no longer expected. | Areas: Buffalo Narrows and Peter Pond Lake | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Wind (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3397840636.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1900782617.2026-1</guid>
-      <pubDate>2026-08-03T00:07:35-00:00</pubDate>
-      <description>Damaging winds are no longer expected. | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter, Woodlands Co. near Fort Assiniboine Timeu and Topland, Co. of Barrhead near Thunder Lake and Holmes Crossing, Co. of Barrhead near Neerlandia Bloomsbury and Vega, Co. of Barrhead near Barrhead and Lac la Nonne, M.D. of Lesser Slave River near Chisholm and Cross Lake, Westlock Co. near Larkspur Fawcett and Jarvie, Westlock Co. near Westlock and Clyde, Athabasca Co. near Athabasca and Island Lake, Athabasca Co. near Rochester Colinton and Meanook, Athabasca Co. near Grassland and Atmore, Athabasca Co. near Boyle and Caslan, Thorhild Co. near Newbrook and Long Lake Prov. Park, Yellowhead Co. near MacKay Wildwood and Evansburg, Lac Ste. Anne Co. near Mayerthorpe and Sangudo, Lac Ste. Anne Co. near Cherhill and Glenevis, Lac Ste. Anne Co. near Onoway and Lac Ste. Anne, Parkland Co. near Entwistle Fallis and Tomahawk, Parkland Co. near Wabamun Carvel and Keephills, Parkland Co. near Spruce Grove and Stony Plain, Sturgeon Co. near Rivière Qui Barre and Villeneuve, Sturgeon Co. near Legal and Mearns, Sturgeon Co. near Morinville Volmer and Big Lake, Thorhild Co. near Thorhild Opal and Radway, Sturgeon Co. near Bon Accord Gibbons and Namao, Sturgeon Co. near Redwater, Lamont Co. near Bruderheim Lamont and Peno Creek, Lamont Co. near Andrew and Wostok, Lamont Co. near Mundare Chipman and Ukrainian Village, Smoky Lake Co. near Smoky Lake and Waskatenau, Co. of Two Hills near Willingdon and Hairy Hill, Fort Saskatchewan and Nrn Strathcona Co., Elk Island Nat. Park, Co. of Minburn near Vegreville Inland and Warwick, City of Edmonton - St. Albert - Sherwood Park, Leduc Co. near Warburg Thorsby and Pigeon Lake, Leduc Co. near Calmar and Devon, Brazeau Co. near Drayton Valley and Breton, Co. of Wetaskiwin near Pigeon Lake, Co. of Wetaskiwin near Alder Flats and Winfield, Ponoka Co. near Rimbey Bluffton and Hoadley, Ponoka Co. near Crestomere, Leduc Co. near Leduc Beaumont and Kavanagh, Leduc Co. near New Sarepta and Rolly View, Co. of Wetaskiwin near Wetaskiwin Millet and Hwy 2, Strathcona Co. near Ardrossan and Cooking Lake, Beaver Co. near Tofield, Beaver Co. near Holden and Ryley, Camrose Co. near Hay Lakes and Miquelon Lake Prov. Park, Camrose Co. near Camrose and Bittern Lake, Camrose Co. near New Norway Edberg and Ferintosh, Camrose Co. near Bawlf and Rosalind, Flagstaff Co. near Daysland Heisler and Strome, M.D. of Greenview near Fox Creek, Yellowhead Co. near Edson and Sundance Prov. Park, Yellowhead Co. near Peers and Niton Junction, Woodlands Co. near Benbow and Windfall, Woodlands Co. near Carson-Pegasus Prov. Park, Woodlands Co. near Goose Lake, Woodlands Co. near Whitecourt and Blue Ridge, Big Lakes County near Swan Hills | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
       <pubDate>2026-05-19T11:34:08-06:00</pubDate>
       <description>A Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun water... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - ORANGE WATCH - TORNADO - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a71144e5aaef49df965808b</guid>
-      <pubDate>2026-08-03T22:21:00.841Z</pubDate>
-      <description>Tornado Warning | Orange Watch - Tornado - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms which may produce tornadoes. Strong winds, large hail and heavy rain are also possible.
-
-What:
-Risk of tornadoes.
-Wind gusts up to 100 km/h.
-Toonie to ping pong ball sized hail.
-Heavy rainfall with local amounts up to 50 mm.
-
-When:
-Beginning this evening, and ending near midnight.
-
-Additional information:
-Thunderstorms capable of producing damaging winds, large hail and tornadoes are possible, with the greatest threat most likely for areas closer to the international border. There is also a risk of heavy rainfall accumulations for areas that receive several thunderstorms.
-
-
-
-Significant damage or destruction to infrastructure, homes and the natural environment is possible.
-
-Tornado watches are issued when conditions are favourable for the development of severe thunderstorms capable of producing tornadoes.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
-
-For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour | Stratton, Ontario</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a70aa31ad1168aa8c8b096d</guid>
-      <pubDate>2026-08-03T21:43:54.624Z</pubDate>
-      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 40 knots, frequent lightning and hail.
-
-A few rounds of thunderstorms are likely through late evening over Lake of the Woods.
-
-
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a70cb02e63928a479a0ecb3</guid>
-      <pubDate>2026-08-03T21:31:24.554Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain.
-
-Hazards:
-Up to toonie sized hail.
-Wind gusts of 90 km/h.
-Locally heavy rain.
-
-Timing:
-This afternoon.
-
-Additional details:
-Thunderstorms are developing over northern Manitoba as a low pressure centre makes its way toward the Hudson Bay coast. The low and associated thunderstorms will move off into the Bay this evening.
-
-
-
-Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a70785e8b66fbe1deb043fb</guid>
-      <pubDate>2026-08-03T20:13:38.931Z</pubDate>
-      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 35 knots and frequent lightning.
-
-Thunderstorms have developed near Churchill and are entering the Bay to the north of the townsite.
-
-
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a7073f78b66fbe1deb03934</guid>
-      <pubDate>2026-08-03T10:56:52.250Z</pubDate>
-      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 45 knots, frequent lightning and hail.
-
-Thunderstorms over Minnesota are expected to track over Lake of the Woods today bringing strong winds and hail.
-
-
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
     </item>
 
     <item>
@@ -427,11 +298,20 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
     </item>
 
     <item>
-      <title>Wind (Issued)</title>
+      <title>Wind (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1036449511.2026-1</guid>
-      <pubDate>2026-08-03T18:24:01-00:00</pubDate>
-      <description>Inverness County - Mabou and north. Damaging winds are expected. Time span: late tonight until early Tuesday morning. Maximum wind gusts: southeasterly up to 90 km/h. Locations: Margaree Harbour to... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1997892815.2026-1</guid>
+      <pubDate>2026-08-04T07:45:39-00:00</pubDate>
+      <description>Inverness County - Mabou and north. Damaging winds are no longer expected. | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Silver Alert (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">A249A928-01CA-4FBD-88E7-5D91306A9752-1</guid>
+      <pubDate>2026-08-03T23:53:11-03:00</pubDate>
+      <description>Missing Vulnerable Person Pictou County Area 82 year old, Scott Anthony Grant, 5 foot 1 inch and 174 pounds. Last seen leaving Aberdeen Hospital on East River Road, New Glasgow at 8:30 pm, Monday... | Areas: Pictou County Area | Level: critical</description>
       <source>Nova Scotia</source>
     </item>
 
