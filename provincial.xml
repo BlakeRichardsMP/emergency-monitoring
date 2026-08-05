@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 05 Aug 2026 18:09:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 22:20:20 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -226,11 +226,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - MUNICIPALITY OF RUSSELL-BINSCARTH AND RM OF RIDING MOUNTAIN WEST</title>
+      <title>BE ALERT - RM OF RIDING MOUNTAIN WEST</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a6cfc207fb5342c5b919b1d</guid>
-      <pubDate>2026-07-31T14:58:41.277-05:00</pubDate>
-      <description>Flood Warning | MUNICIPALITY OF RUSSELL-BINSCARTH and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Russell, Manitoba</description>
+      <pubDate>2026-08-05T13:11:35.515-05:00</pubDate>
+      <description>Flood Warning | RM OF RIDING MOUNTAIN WEST | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Shellmouth, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
@@ -298,11 +298,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Heat (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0361560688.2026-1</guid>
+      <pubDate>2026-08-05T18:51:23-00:00</pubDate>
+      <description>Humidex values reaching 33 are expected for the next day. Locations: Cape Breton Island. Time span: Thursday through Friday evening. Maximum day time temperatures: 29 to 30 degrees Celsius (Humidex... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4202631781.2026-1</guid>
-      <pubDate>2026-08-05T13:53:52-00:00</pubDate>
-      <description>Locations: mainland Nova Scotia. Time span: beginning this afternoon and persisting into Friday, possibly into the weekend for some counties. Maximum temperatures: 30 to 33 degrees Celsius (Humidex... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3208892850.2026-1</guid>
+      <pubDate>2026-08-05T18:44:57-00:00</pubDate>
+      <description>Locations: mainland Nova Scotia. Time span: persisting into Friday, possibly into the weekend for some counties. Maximum temperatures: 30 to 33 degrees Celsius (Humidex 36 to 38). Minimum... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
