@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 05 Aug 2026 12:28:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 18:09:33 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,6 +217,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - HIGH WIND EFFECT ISSUED BY HYDROLOGIC FORECAST CENTRE.</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a7371abc99d6ae8e7e4a784</guid>
+      <pubDate>2026-08-05T17:23:51.516Z</pubDate>
+      <description>Windstorm Warning | High Wind Effect Issued By Hydrologic Forecast Centre. | &lt;p&gt;Manitoba Transportation and Infrastructure’s Hydrologic Forecast Centre advises high winds are expected in the afternoon of August 6th. High winds may raise water levels on the lake between 0.9 - 1.5m with significant wave action expected.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
       <title>BE ALERT - MUNICIPALITY OF RUSSELL-BINSCARTH AND RM OF RIDING MOUNTAIN WEST</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a6cfc207fb5342c5b919b1d</guid>
@@ -240,6 +249,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">6a49079ff68e8bba0e4a4444</guid>
       <pubDate>2026-07-04T08:19:29.606-05:00</pubDate>
       <description>Flood Warning | MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN and RM OF LAKESHORE | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Ochre River, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE PREPARED - MUNICIPALITY OF RUSSELL-BINSCARTH</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a737b2f14785a862530e71f</guid>
+      <pubDate>2026-08-05T13:07:40.189-05:00</pubDate>
+      <description>Flood Advisory | MUNICIPALITY OF RUSSELL-BINSCARTH | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Russell, Manitoba, Canada</description>
       <source>Manitoba</source>
     </item>
 
@@ -282,9 +300,18 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1130522568.2026-1</guid>
-      <pubDate>2026-08-05T07:13:37-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4202631781.2026-1</guid>
+      <pubDate>2026-08-05T13:53:52-00:00</pubDate>
       <description>Locations: mainland Nova Scotia. Time span: beginning this afternoon and persisting into Friday, possibly into the weekend for some counties. Maximum temperatures: 30 to 33 degrees Celsius (Humidex... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Drinking Water (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">F60C5E4E-F458-4C88-926F-770150C7AA01-1</guid>
+      <pubDate>2026-08-05T09:59:02-03:00</pubDate>
+      <description>Boil Water Advisory issued by Cape Breton Municipality. Louisbourg Water Supply. Due to a major water main break, Water Utility customers in Louisbourg are advised to boil water before consuming... | Areas: Louisbourg Water Supply. | Level: critical</description>
       <source>Nova Scotia</source>
     </item>
 
@@ -295,6 +322,156 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-08-04T20:42:15-03:00</pubDate>
       <description>Pictou County Area. 82 year old, Scott Anthony Grant, 5 foot 1 inch and 174 pounds. Last seen leaving Aberdeen Hospital on East River Road, New Glasgow at 8:30 pm, Monday August 3. Any sightings or... | Areas: Pictou County Area | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Koughan</title>
+      <link>https://www.princeedwardisland.ca/en/employee/koughan-emily</link>
+      <guid isPermaLink="false">80933 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 05 Aug 2026 17:43:26 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Koughan&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-05T14:43:26-03:00" title="Wednesday, August 5, 2026 - 14:43"&gt;Wed, 08/05/2026 - 14:43&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Executive Administrative Assistant to the Minister and Deputy Minister&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Land and Environment&lt;/strong&gt;
+            &lt;div&gt;Minister's Office&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Funding available to strengthen community and inclusion</title>
+      <link>https://www.princeedwardisland.ca/en/news/funding-available-to-strengthen-community-and-inclusion</link>
+      <guid isPermaLink="false">80929 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 05 Aug 2026 14:23:01 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Funding available to strengthen community and inclusion&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-05T11:23:01-03:00" title="Wednesday, August 5, 2026 - 11:23"&gt;Wed, 08/05/2026 - 11:23&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="The 2026 Stick Together Festival in Lennox Island brought together Indigenous and non-Indigenous children, youth, and families from across Prince County for a day of cultural games and dances, carnival activities, and ball hockey.&amp;nbsp;" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/7f84/GEDI.jpg.webp?itok=lfSlFUFG" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Marking five years of investment in Island communities, the Gender, Equity, Diversity and Inclusion (GEDI) and Community Enhancement Program is now accepting applications from residents and community groups whose projects foster diversity, equity and inclusion across Prince Edward Island.&lt;/p&gt;
+&lt;p&gt;Since its inception in 2022, the program has invested more than $2,400,000 in initiatives that strengthen community engagement and encourage a greater sense of belonging across the province.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“It’s amazing to see the incredible projects that come to fruition year after year through this program. From cultural celebrations, and community arts, to BIPOC wellbeing and empowerment, this funding ensures newcomers and marginalized groups in PEI are empowered to shape supportive, diverse communities where everyone feels a sense of inclusion and belonging.”&lt;/p&gt;
+&lt;p&gt;-Minister of Workforce and Advanced Learning Zack Bell&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Among the 2026 funding recipients was the Boys and Girls Club of Summerside, which received support for its Stick Together Festival. Delivered in partnership with Lennox Island, the festival welcomed Indigenous and non-Indigenous children, youth, and families from across Prince County to celebrate Indigenous culture, advance reconciliation and support cross-cultural connections.&lt;/p&gt;
+&lt;p&gt;"The support we received through the GEDI Program helped make our 2026 Stick Together Festival our most impactful event yet,” said BGC Prince County Community Engagement and Communications Coordinator Emma Harris. “It brought together more than 400 Indigenous and non-Indigenous community members for a day centered on inclusion, belonging, reconciliation, and kindness.&amp;nbsp;We truly believe this event strengthened relationships within our community while creating a welcoming space where everyone felt they belonged.”&lt;/p&gt;
+&lt;p&gt;Applications can be submitted by email to &lt;a href="mailto:GEDI@gov.pe.ca"&gt;GEDI@gov.pe.ca&lt;/a&gt; until 4:00 p.m. on September 23, 2026.&lt;/p&gt;
+&lt;p&gt;Learn more and apply here &lt;a href="https://www.princeedwardisland.ca/en/information/economic-growth-tourism-and-culture/gender-equity-diversity-inclusion-community"&gt;GEDI program&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;April Gallant&lt;br /&gt;Department of Workforce and Advanced Learning&lt;br /&gt;&lt;a href="mailto:adgallant@gov.pe.ca"&gt;aldgallant@gov.pe.ca&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -869,180 +1046,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
           
     &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/c21f/Pediatric_Psychology_Services_Autism_Diagnostic_Observation_Schedule_Notification.pdf"&gt;
               &lt;span&gt;Pediatric_Psychology_Services_Autism_Diagnostic_Observation_Schedule_Notification.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Pediatric Psychology Services - Parent Feedback Notification</title>
-      <link>https://www.princeedwardisland.ca/en/publication/pediatric-psychology-services-parent-feedback-notification</link>
-      <guid isPermaLink="false">80907 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 31 Jul 2026 18:33:38 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pediatric Psychology Services - Parent Feedback Notification&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-31T15:33:38-03:00" title="Friday, July 31, 2026 - 15:33"&gt;Fri, 07/31/2026 - 15:33&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Information about your appointment with Pediatric Psychology Services.&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/c22a/Pediatric_Psychology_Services_Parent_Feedback_Notification.pdf"&gt;
-              &lt;span&gt;Pediatric_Psychology_Services_Parent_Feedback_Notification.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Pediatric Psychology Services - Cognitive Notification</title>
-      <link>https://www.princeedwardisland.ca/en/publication/pediatric-psychology-services-cognitive-notification</link>
-      <guid isPermaLink="false">80906 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 31 Jul 2026 18:32:20 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pediatric Psychology Services - Cognitive Notification&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-31T15:32:20-03:00" title="Friday, July 31, 2026 - 15:32"&gt;Fri, 07/31/2026 - 15:32&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Information about your appointment with Pediatric Psychology Services.&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/dfaa/Pediatric_Psychology_Services_Cognitive_Notification.pdf"&gt;
-              &lt;span&gt;Pediatric_Psychology_Services_Cognitive_Notification.pdf&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
