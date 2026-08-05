@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 04 Aug 2026 08:08:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 12:28:36 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,30 +208,12 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Air Quality (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3974495605.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1803063695.2026-1</guid>
-      <pubDate>2026-08-03T08:25:10-00:00</pubDate>
-      <description>Poor air quality is no longer expected over the area. | Areas: R.M. of Deer Forks including Burstall and Estuary, R.M. of Happyland including Leader Prelate and Mendham, R.M. of Enterprise including Richmound, R.M. of Fox Valley including Fox Valley, R.M. of Big Stick including Golden Prairie, R.M. of Clinworth including Sceptre Lemsford and Portreeve, R.M. of Miry Creek including Abbey Lancer and Shackleton, R.M. of Pittville including Hazlet, R.M. of Piapot including Piapot, R.M. of Gull Lake including Gull Lake and Tompkins, R.M. of Carmichael including Carmichael, R.M. of Lacadena including Kyle Tyner and Sanctuary, R.M. of Victory including Beechy, R.M. of Canaan including Lucky Lake, R.M. of Riverside including Cabri Pennant and Success, R.M. of Saskatchewan Landing including Stewart Valley, R.M. of Webb including Webb and Antelope lake, R.M. of Swift Current including Swift Current and Wymark, R.M. of Lac Pelletier including Blumenhof, R.M. of Excelsior including Waldeck Rush Lake and Main Centre, R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of Coulee including Neidpath and McMahon, R.M. of Lawtonia including Hodgeville, R.M. of Glen Bain including Glen Bain, R.M. of Whiska Creek including Vanguard Neville and Pambrun, R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Reno including Consul Robsart and Willow Creek, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag, R.M. of Frontier including Frontier and Claydon, R.M. of Bone Creek including Simmie and Scotsguard, R.M. of Grassy Creek including Shaunavon, R.M. of Wise Creek including Cadillac and Admiral, R.M. of Lone Tree including Climax and Bracken, R.M. of Val Marie including Val Marie Orkney and Monchy, R.M. of Auvergne including Ponteix and Aneroid, R.M. of Pinto Creek including Kincaid and Hazenmore, R.M. of Glen McPherson west of Mankota, R.M. of Mankota including Mankota and Ferland, City of Regina, R.M. of Maple Bush including Riverhurst and Douglas Prov. Park, R.M. of Huron including Tugaske, R.M. of Enfield including Central Butte, R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Craik including Craik and Aylesbury, R.M. of Sarnia including Holdfast Chamberlain and Dilke, R.M. of Marquis including Tuxford Keeler and Buffalo Pound, R.M. of Dufferin including Bethune and Findlater, R.M. of Chaplin including Chaplin, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Caron including Caronport and Caron, R.M. of Pense including Pense Belle Plaine and Stony Beach, City of Moose Jaw, R.M. of Hillsborough including Crestwynd and Old Wives lake, R.M. of Redburn including Rouleau and Hearne, R.M. of Baildon including Briercrest, R.M. of Moose Jaw east of Highway 2 including Pasqua, R.M. of Moose Jaw west of Highway 2 including Bushell Park, R.M. of McKillop including Strasbourg and Rowans Ravine Prov. Park, R.M. of Longlaketon including Earl Grey and Silton, R.M. of Lumsden including Lumsden Regina Beach and Craven, R.M. of Cupar including Southey Cupar and Markinch, R.M. of Lipton including Lipton and Dysart, R.M. of Tullymet including Peepeekisis Res., R.M. of Bratt's Lake including Wilcox Corinne and Estlin, R.M. of Sherwood east of Highway 6, R.M. of Sherwood west of Highway 6 including Grand Coulee, R.M. of Lajord including Lajord Kronau and Riceton, R.M. of Francis including Vibank Sedley and Odessa, R.M. of Montmartre including Assiniboine Res., R.M. of Edenwold including Balgonie and Piapot Res., R.M. of North Qu'Appelle including Fort Qu'Appelle, R.M. of South Qu'Appelle including Qu'Appelle and Edgeley, R.M. of Abernethy including Balcarres and Abernethy, R.M. of Indian Head including Indian Head and Sintaluta, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, R.M. of Wood River including Lafleche Woodrow and Melaval, R.M. of Stonehenge including Limerick and Congress, R.M. of Waverley including Glentworth and Fir Mountain, R.M. of Old Post including Wood Mountain and Killdeer, R.M. of Lake Johnson including Mossbank and Ardill, R.M. of Terrell including Spring Valley and Cardross, R.M. of Lake of The Rivers including Assiniboia, R.M. of Excel including Viceroy Ormiston and Verwood, R.M. of Willow Bunch including Willow Bunch and St Victor, R.M. of Poplar Valley including Rockglen and Fife Lake, R.M. of Hart Butte including Coronach, R.M. of Elmsthorpe including Avonlea and Truax, R.M. of Key West including Ogema and Kayville, R.M. of Bengough including Bengough, R.M. of The Gap including Ceylon and Hardy, R.M. of Happy Valley including Big Beaver, R.M. of Surprise Valley including Minton and Regway, R.M. of Caledonia including Milestone and Parry, R.M. of Scott including Yellow Grass Lang and Lewvan, R.M. of Norton including Pangman and Khedive, R.M. of Brokenshell including Trossachs, R.M. of Wellington including Cedoux Colfax and Tyvan, R.M. of Fillmore including Fillmore Creelman and Osage, R.M. of Weyburn including Weyburn and McTaggart, R.M. of Griffin including Griffin and Froude, R.M. of Laurier including Radville, R.M. of Lomond including Colgate and Goodwater, R.M. of Lake Alma including Lake Alma and Beaubier, R.M. of Souris Valley including Tribune and Oungre, R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Benson including Benson, R.M. of Cambria including Torquay and Outram, R.M. of Estevan including Estevan and Hitchcock, R.M. of Tecumseh including Stoughton Forget and Heward, R.M. of Brock including Arcola and Kisbey, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, R.M. of Moose Mountain including Carlyle and Manor, R.M. of Antler including Redvers Antler and Wauchope, R.M. of Storthoaks including Storthoaks and Fertile, R.M. of Reciprocity including Alida, R.M. of Mount Pleasant including Carnduff, R.M. of Argyle including Gainsborough and Carievale | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
       <pubDate>2026-05-19T11:34:08-06:00</pubDate>
       <description>A Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun water... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - PRAIRIE VIEW MUNICIPALITY, RIVERDALE MUNICIPALITY, RM OF CORNWALLIS, RM OF SIFTON, RM OF WALLACE-WOODWORTH AND RM OF WHITEHEAD</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a6cfcd07fb5342c5b919b4a</guid>
-      <pubDate>2026-07-31T14:58:41.277-05:00</pubDate>
-      <description>Flood Warning | PRAIRIE VIEW MUNICIPALITY, RIVERDALE MUNICIPALITY, RM OF CORNWALLIS, RM OF SIFTON, RM OF WALLACE-WOODWORTH and RM OF WHITEHEAD | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Harding, Manitoba</description>
-      <source>Manitoba</source>
     </item>
 
     <item>
@@ -262,11 +244,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE PREPARED - MUNICIPALITY OF RUSSELL-BINSCARTH, PRAIRIE VIEW MUNICIPALITY AND RM OF ELLICE-ARCHIE</title>
+      <title>BE PREPARED - ASSINIBOINE RIVER FROM VIRDEN TO BRANDON</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a6cfbf07fb5342c5b919b04</guid>
-      <pubDate>2026-07-31T14:58:41.277-05:00</pubDate>
-      <description>Flood Advisory | MUNICIPALITY OF RUSSELL-BINSCARTH, PRAIRIE VIEW MUNICIPALITY and RM OF ELLICE-ARCHIE | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | St-Lazare, Manitoba</description>
+      <guid isPermaLink="false">6a7244e33759ab556166709b</guid>
+      <pubDate>2026-08-04T15:11:32.587-05:00</pubDate>
+      <description>Flood Advisory | Assiniboine River from Virden to Brandon | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Virden, Manitoba, Canada</description>
       <source>Manitoba</source>
     </item>
 
@@ -298,21 +280,363 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Wind (Cancelled)</title>
+      <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1997892815.2026-1</guid>
-      <pubDate>2026-08-04T07:45:39-00:00</pubDate>
-      <description>Inverness County - Mabou and north. Damaging winds are no longer expected. | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1130522568.2026-1</guid>
+      <pubDate>2026-08-05T07:13:37-00:00</pubDate>
+      <description>Locations: mainland Nova Scotia. Time span: beginning this afternoon and persisting into Friday, possibly into the weekend for some counties. Maximum temperatures: 30 to 33 degrees Celsius (Humidex... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Silver Alert (Issued)</title>
+      <title>Silver Alert (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">A249A928-01CA-4FBD-88E7-5D91306A9752-1</guid>
-      <pubDate>2026-08-03T23:53:11-03:00</pubDate>
-      <description>Missing Vulnerable Person Pictou County Area 82 year old, Scott Anthony Grant, 5 foot 1 inch and 174 pounds. Last seen leaving Aberdeen Hospital on East River Road, New Glasgow at 8:30 pm, Monday... | Areas: Pictou County Area | Level: critical</description>
+      <guid isPermaLink="false">9888E042-8F1F-40FC-B6D6-692F20937250-1</guid>
+      <pubDate>2026-08-04T20:42:15-03:00</pubDate>
+      <description>Pictou County Area. 82 year old, Scott Anthony Grant, 5 foot 1 inch and 174 pounds. Last seen leaving Aberdeen Hospital on East River Road, New Glasgow at 8:30 pm, Monday August 3. Any sightings or... | Areas: Pictou County Area | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Senior Islander of the Year Award nominations now open</title>
+      <link>https://www.princeedwardisland.ca/en/news/senior-islander-of-the-year-award-nominations-now-open</link>
+      <guid isPermaLink="false">80924 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 04 Aug 2026 18:45:01 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Senior Islander of the Year Award nominations now open&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-04T15:45:01-03:00" title="Tuesday, August 4, 2026 - 15:45"&gt;Tue, 08/04/2026 - 15:45&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Islanders can now nominate an outstanding older adult for the 2026 Senior Islander of the Year Award.&lt;/p&gt;
+&lt;p&gt;The award celebrates the many contributions of PEI residents who are 65 years and over and promotes positive aging. Examples of contributions may include community activities and engagement, volunteering, fundraising, education, research, fitness and recreation.&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;"I encourage Islanders to think about the people who inspire them, strengthen their communities and make a difference in the lives of others. This award is a special opportunity to celebrate those contributions and recognize an older Islander who is truly deserving."&lt;/p&gt;
+&lt;p&gt;-Social Development and Seniors Minister Barb Ramsay.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;For a nomination to be considered, the nominee must be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;65 years or older at the time of their nomination and while making their contributions;&lt;/li&gt;
+&lt;li&gt;A resident of PEI both at the time of their nomination and while making their contributions;&lt;/li&gt;
+&lt;li&gt;Actively contributing to their community;&lt;/li&gt;
+&lt;li&gt;Willing to participate in the promotion of the award and related communications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Past recipients and posthumous nominations are not eligible for consideration.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In 2025, ten older adults were presented with a Senior Islander of the Year Award. They include Betty Dougan, Daria Valkenburg, Honourable Diane Griffin, Don Reid, Kit Loschiuk, Eileen LeClair, Estelle Bourgeois, John Rousseau, Dr. Umesh Gupta and Velma Bince.&lt;/p&gt;
+&lt;p&gt;To nominate a deserving older adult, visit:&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/pei-senior-islander-of-the-year-award"&gt;PEI Senior Islander of the Year Award.&lt;/a&gt; Nominations will be accepted until August 25, 2026.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media contac&lt;/strong&gt;t:&lt;br /&gt;Hillary Proctor&lt;br /&gt;Department of Social Development and Seniors&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:hproctor@gov.pe.ca"&gt;hproctor@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>New partnership will reduce wait times for MRI scans on PEI</title>
+      <link>https://www.princeedwardisland.ca/en/news/new-partnership-will-reduce-wait-times-for-mri-scans-on-pei</link>
+      <guid isPermaLink="false">80922 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 04 Aug 2026 15:51:14 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New partnership will reduce wait times for MRI scans on PEI&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-04T12:51:14-03:00" title="Tuesday, August 4, 2026 - 12:51"&gt;Tue, 08/04/2026 - 12:51&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="image of people standing in from of MRI machine" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/70b1/MRI.jpg.webp?itok=7XSQOLg-" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;A new partnership between the Department of Health and Wellness, Health PEI, and Building with Vision Ltd. will reduce wait times for Magnetic Resonance Imaging (MRI) scans in Prince Edward Island and help improve access to this essential service for Islanders.&lt;/p&gt;
+&lt;p&gt;Through this partnership, patients referred by Health PEI will be able to receive publicly funded MRI scans at Building with Vision’s Summerside Diagnostic Imaging Centre.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“Reducing wait times and improving access to care are among our government's top priorities. This new partnership with Building with Vision will help more Islanders get the MRI scans they need, sooner and closer to home. By expanding publicly funded diagnostic imaging capacity here in the province, we are taking action to build a stronger, more responsive health care system for Islanders.”&lt;/p&gt;
+&lt;p&gt;-Minister of Health and Wellness Cory Deagle&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A contract with an MRI facility in Moncton that started in the fall of 2024 has significantly reduced the backlog of patients waiting for scans. This added capacity closer to home will continue to help lower wait times.&lt;/p&gt;
+&lt;p&gt;“The Summerside Diagnostic Imaging Centre will allow us to continue to make improvements in our wait times and clear the backlog of patients,” said Laurae Klocschinsky, Interim CEO of Health PEI. “Even better, it will allow us to provide certain types of MRI scans closer to home. I want to be clear: this is publicly funded health care, using the capacity and innovation of our partners at Building with Vision.”&lt;/p&gt;
+&lt;p&gt;“My colleagues and I are pleased to partner with Health PEI in this important effort to help reduce MRI wait times for Islanders and improve health outcomes across the province,” said Dr. Guy Boswall of Building with Vision. “Timely access to diagnostic imaging is essential to ensuring patients receive the care they need, when they need it. By working together, we can help strengthen access to MRI services, support earlier diagnosis and treatment, and contribute to better care for patients and families throughout Prince Edward Island.”&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Patients will continue to follow the standard MRI process by being referred to the MRI department at Queen Elizabeth Hospital by a Health PEI health care provider. Patients cannot schedule their own appointment or be reimbursed for an MRI completed in a private clinic unless they have first been referred to a specialist who will review their case.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media Contact:&lt;/strong&gt;   &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Dave Atkinson &amp;nbsp;&lt;br /&gt;Senior Communications Officer, Health PEI&lt;br /&gt;&lt;a href="mailto:datkinson@ihis.org"&gt;datkinson@ihis.org&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Autumn Tremere&lt;br /&gt;Senior Communications Officer, Department of Health and Wellness&lt;br /&gt;&lt;a href="mailto:agtremere@gov.pe.ca"&gt;agtremere@gov.pe.ca&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Blair Murphy&lt;br /&gt;General Manger, Building with Vision Ltd&lt;br /&gt;&lt;a href="mailto:gm@buildingwithvision.com"&gt;gm@buildingwithvision.com&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Province adds 60 long-term care beds in Summerside</title>
+      <link>https://www.princeedwardisland.ca/en/news/province-adds-60-long-term-care-beds-in-summerside</link>
+      <guid isPermaLink="false">80920 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 04 Aug 2026 13:50:49 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province adds 60 long-term care beds in Summerside&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-04T10:50:49-03:00" title="Tuesday, August 4, 2026 - 10:50"&gt;Tue, 08/04/2026 - 10:50&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="image of City of Summerside Mayor Dan Kutcher, MLA Hilton MacLennan, Minister Barb Ramsay, Minister Cory Deagle, Enhanced Living Director of Care Samantha Gaudet, Premier Rob Lantz and MLA Tyler DesRoches. " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/a3fb/Long%20term%20Care%201.jpg.webp?itok=S_TNCVUC" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Government of Prince Edward Island is expanding long-term care capacity in Prince County with a new 60-bed long-term care home that will be developed in Summerside.&lt;/p&gt;
+&lt;p&gt;Enhanced Living has been awarded the contract to build a private long-term care home that will help address the increasing need while improving access to care for Island seniors.&lt;/p&gt;
+&lt;p&gt;This project builds on government’s commitment, announced in the 2025 Budget, to add up to 175 new long-term care beds across the province to help meet demand and strengthen the health care system.&lt;br /&gt;&lt;br /&gt;Through a 30-year agreement, the province will support the construction and operation of the new home, cover residents’ health care costs, and provide accommodation subsidies. Once the home opens, the province will provide up to $7.4 million annually to help offset accommodation costs for residents. &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This announcement builds on the recently announced 80-bed private long-term care home development in Cornwall. The added capacity will help reduce pressure on hospitals and supports Islanders who are waiting for long-term care.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Government continues to plan for future long-term care needs and is advancing additional projects to expand access to care across the province.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In Prince Edward Island, long-term care services are delivered through nine public and 11 private long-term care homes. With this investment, total long-term care capacity will increase to 1,465 beds. &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;For more information, visit &lt;a href="https://www.princeedwardisland.ca/en/information/health-pei/long-term-care"&gt;Long-term Care | Government of Prince Edward Island&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quotes:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“As our communities continues to grow, and so does the need for long-term care. This is an important investment that will help more Island seniors receive high-quality care close to home while supporting families across western PEI. It reflects our government’s commitment to expanding long-term care capacity and planning for the needs of Islanders today and into the future.”&lt;/p&gt;
+&lt;p&gt;- Premier of Prince Edward Island Rob Lantz&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;“We’re pleased to partner with Enhanced Living to expand care options in Prince County and help more Islanders access the support they need. Projects like this are an important part of building a more connected healthcare system that better serves seniors and families. This is another step toward ensuring Islanders receive the right care, in the right place, at the right time.”&lt;/p&gt;
+&lt;p&gt;- Minister of Health and Wellness Cory Deagle&lt;/p&gt;
+&lt;p&gt;"I'm pleased to see this important investment move forward for Island seniors and their families. Helping seniors stay connected to the people and communities they know and love, while ensuring they receive compassionate, high-quality care when they need it, is an important part of building strong communities across Prince Edward Island."&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Minister of Social Development and Seniors Barb Ramsay&lt;/p&gt;
+&lt;p&gt;“Today’s announcement is welcome news for Prince County, and it will help more Island seniors remain closer to their communities. I’m proud to see Summerside continue to grow with the services needed to support Islanders’ health and well-being as they age.”&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Summerside-Wilmot MLA Tyler DesRoches&lt;/p&gt;
+&lt;p&gt;"This is an important investment in both our community and the people who call it home. As Summerside continues to grow, so does the need for high-quality health care services that support residents at every stage of life. This new long-term care home will allow more older adults to stay close to the people and places they know best, while creating meaningful employment opportunities and further strengthening Summerside as a hub for health care in western Prince Edward Island. We look forward to seeing this project become reality."&lt;/p&gt;
+&lt;p&gt;- City of Summerside Mayor Dan Kutcher&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;"The opening of this 60-bed nursing home in Summerside reflects a strong commitment to the community, ensuring more residents can receive compassionate, dignified care close to their families. As someone with deep ties to the area, I’m proud to be part of a project that will make a lasting difference in the lives of Islanders.&amp;nbsp;"&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;- Enhanced Living Director of Care Samantha Gaudet&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media contac&lt;/strong&gt;t:&lt;br /&gt;Marla Morrison&lt;br /&gt;Department of Health and Wellness&lt;br /&gt;&lt;a href="mailto:marlamorrison@gov.pe.ca"&gt;marlamorrison@gov.pe.ca&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Fisher</title>
+      <link>https://www.princeedwardisland.ca/en/employee/fisher-tiffany</link>
+      <guid isPermaLink="false">80919 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 04 Aug 2026 12:37:00 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fisher&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-04T09:37:00-03:00" title="Tuesday, August 4, 2026 - 09:37"&gt;Tue, 08/04/2026 - 09:37&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Administrative Assistant&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Education and Professional Development&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -719,375 +1043,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
           
     &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/dfaa/Pediatric_Psychology_Services_Cognitive_Notification.pdf"&gt;
               &lt;span&gt;Pediatric_Psychology_Services_Cognitive_Notification.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Pediatric Psychology Services - Interview Notification</title>
-      <link>https://www.princeedwardisland.ca/en/publication/pediatric-psychology-services-interview-notification</link>
-      <guid isPermaLink="false">80905 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 31 Jul 2026 18:31:02 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pediatric Psychology Services - Interview Notification&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-31T15:31:02-03:00" title="Friday, July 31, 2026 - 15:31"&gt;Fri, 07/31/2026 - 15:31&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Information about your appointment with Pediatric Psychology Services.&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/6a43/Pediatric_Psychology_Services_Interview_Notification.pdf"&gt;
-              &lt;span&gt;Pediatric_Psychology_Services_Interview_Notification.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Statement by Premier Rob Lantz and Minister Zack Bell on Emancipation Day</title>
-      <link>https://www.princeedwardisland.ca/en/news/statement-by-premier-rob-lantz-and-minister-zack-bell-on-emancipation-day</link>
-      <guid isPermaLink="false">80902 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 31 Jul 2026 17:19:29 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Statement by Premier Rob Lantz and Minister Zack Bell on Emancipation Day &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-31T14:19:29-03:00" title="Friday, July 31, 2026 - 14:19"&gt;Fri, 07/31/2026 - 14:19&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Statement by Premier Rob Lantz and Minister Zack Bell on Emancipation Day " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/b552/Copy%20of%20Image%20Guidelines%20for%20News%20Releases%20and%20Information%20Pages%20%283%29_0.jpg.webp?itok=sLkl4Jbx" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Premier Rob Lantz and Minister of Workforce and Advanced Learning Zack Bell issued the following statement:&amp;nbsp;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;"Tomorrow is Emancipation Day, a day to recognize an important chapter in our shared history and to celebrate the many contributions Black Islanders have made, and continue to make, to our province.&lt;/p&gt;
-&lt;p&gt;It is also a time to acknowledge the difficult parts of our history. Slavery existed in Prince Edward Island and across Atlantic Canada. Recognizing that history helps us better understand our past and reminds us of the responsibility we all share to build a more inclusive future.&lt;/p&gt;
-&lt;p&gt;We encourage Islanders to take time to learn about the history, experiences, and accomplishments of PEI’s Black community. Emancipation Day is an opportunity to reflect, to listen, and to reaffirm our commitment to standing against anti-Black racism and discrimination.&lt;/p&gt;
-&lt;p&gt;The Government of PEI remains committed to its&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/publications/anti_racism_action_plan_digital.pdf"&gt;Anti-Racism Action Plan&lt;/a&gt; and continues to offer&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/executive-council-office/anti-racism-grants"&gt;Anti-Racism Grants&lt;/a&gt; and&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/executive-council-office/anti-racism-microgrants"&gt;Anti-Racism Microgrants&lt;/a&gt; to support projects that combat racism and benefit racialized and Indigenous communities. Our government also provides annual core funding to organizations that advance racial understanding and support the well-being of PEI’s Black community.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;We encourage all Islanders to attend the annual celebration of Emancipation Day by the Black Cultural Society of PEI in Rochford Square, formerly the Bog, tomorrow from 3 to 6 p.m.”&amp;nbsp;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Visit&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/executive-council-office/about-the-anti-racism-office-0"&gt;Anti-Racism Office&lt;/a&gt; and&amp;nbsp;&lt;a href="https://bcspei.ca/"&gt;Black Cultural Society&lt;/a&gt; for more information.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Media contacts:&lt;br /&gt;Nicole Yeba&lt;br /&gt;Executive Council Office&lt;br /&gt;&lt;a href="mailto:ntyeba@gov.pe.ca"&gt;ntyeba@gov.pe.ca&lt;/a&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Province celebrates Acadian Heritage Month</title>
-      <link>https://www.princeedwardisland.ca/en/news/province-celebrates-acadian-heritage-month</link>
-      <guid isPermaLink="false">80900 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 31 Jul 2026 15:05:14 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province celebrates Acadian Heritage Month&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-31T12:05:14-03:00" title="Friday, July 31, 2026 - 12:05"&gt;Fri, 07/31/2026 - 12:05&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="President of The Acadian and Francophone Society of the Island Charles Duguay; Acadian historian Georges Arsenault; Minister of Workforce and Advance Learning, and Minister Responsible for Acadian and Francophone Affairs Zack Bell at a flag raising in Charlottetown to celebrate Acadian Heritage Month" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/7183/Acadian%20Heritage%20Month.jpg.webp?itok=-xPkAqCj" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Acadians, Francophones and Francophiles across the Island will be able to participate in a variety of community-led activities throughout August during Acadian Heritage Month.&lt;/p&gt;
-&lt;p&gt;Through the newly created Acadian Heritage Month Fund, eight community-led activities will feature and celebrate Acadian history, culture, and its continued importance to the socioeconomic and cultural fabric of PEI’s identity.&lt;/p&gt;
-&lt;p&gt;“La Belle-Alliance is proud to receive $3,500 through the Acadian Heritage Month Fund, which will allow the Acadian community in the Summerside–Miscouche region to further discover and appreciate Prince Edward Island’s Acadian heritage through a visit to the Roma at Three Rivers site on August 19,” said Belle-Alliance Executive Director Harison Razafindrakoto. “This initiative will help strengthen our sense of belonging, increase awareness of our history and pass on our rich heritage to current and future generations. We sincerely thank the provincial government for its support in preserving and promoting Acadian heritage.”&lt;/p&gt;
-&lt;p&gt;The province proclaimed August as Acadian Heritage Month in 2025, and to recognize this important month for the Island’s Acadian and Francophone community, the Acadian flag will be raised and flown at the provincial administrative building in Charlottetown until August 15, National Acadian Day.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;“Acadians, Francophones and Francophiles should feel a strong sense of pride and belonging this month as we raise the Acadian flag to recognize the history and the culture of this important part of our population. Proclaiming August as their month and providing financial support to eight incredible Island community organizations to deliver these fun, family-friendly activities across our province is something we are so proud to do to ensure everyone can experience what makes this community so wonderful.”&lt;/p&gt;
-&lt;p&gt;- Minister responsible for Acadian and Francophone Affairs, Zack Bell&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;The next intake for the Acadian Heritage Month Fund is expected to take place in the winter of&amp;nbsp;2027.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Andrew Spraque&lt;br /&gt;Acadian and Francophone Affairs&lt;br /&gt;&lt;a href="mailto:asgsprague@gov.pe.ca"&gt;asgsprague@gov.pe.ca&lt;/a&gt;&lt;/p&gt;
-&lt;h5&gt;Backgrounder:&amp;nbsp;&lt;/h5&gt;
-&lt;p&gt;&lt;strong&gt;Le Grand Cercle&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Alliance pour le développement durable de l’Île-du-Prince-Édouard&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;The play &lt;em&gt;Le Grand Cercle&lt;/em&gt;, the culmination of an Acadian trilogy, will be recorded and published online so that it can be made available to the public free of charge.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Immersive Experience at Roma at Three Rivers&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;La Belle-Alliance&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;A day of historical and cultural immersion at Roma at Three Rivers site will be offered to the Francophone and Acadian community of Summerside. Led by a local artist, the excursion will include a guided tour, workshops on traditional skills and a historically inspired meal highlighting Acadian cuisine.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Acadian Float&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Carrefour de l’Isle-Saint-Jean&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;The Carrefour de l’Isle-Saint-Jean will participate in the Gold Cup Parade on August 21, 2026, with a float showcasing the colours of Acadie. On the float, a musical group and dancers will perform in a setting inspired by Acadian Charlottetown.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Festival Route&amp;nbsp;11&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Fédération culturelle de l’Île-du-Prince-Édouard inc.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;A free family day will be offered on Saturday, August 1, from 11 a.m. to 5 p.m., as part of the Route 11 Festival happening July 31 to August 2, 2026, at Union Corner Provincial Park. The event will celebrate the launch of Acadian Heritage Month with musical performances, a Cajun dance workshop, youth activities, a barbecue and visual arts activities.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Celebrating Acadian Heritage in West Prince&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Conseil Rév. S.-É.-Perrey inc.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;In collaboration with the Tignish Shore Association, a special day will be organized to celebrate Acadian heritage during its &lt;em&gt;Best in the West&lt;/em&gt; summer series. The event will showcase Acadian heritage through performances by local Acadian and Francophone artists, booths highlighting Acadian traditions and a tasting of Acadian-inspired treats.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Wellington Acadian Day&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Boys and Girls Club Prince County&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;BGC Prince County will host a free, public Acadian Heritage Month celebration on August&amp;nbsp;13,&amp;nbsp;2026, from 12:00&amp;nbsp;p.m. to 3:00&amp;nbsp;p.m., at its Wellington Club. The afternoon will celebrate and promote Acadian culture through interactive and family-friendly activities, including a live walk around magic and illusion show, Acadian cooking workshops led by a local Acadian chef, traditional crafts, yard games, face painting, balloon animals, and musical entertainment.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Acadie – Our Culture&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Association des centres de la petite enfance francophones de l’Î.-P.-É. &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;This project aims to introduce Acadian culture to children attending Francophone early years centres. During a themed week, children will participate in a variety of educational, cultural and artistic activities tailored to young learners, including traditional Acadian cooking workshops, dance and music activities, arts and crafts, French-language reading sessions and film screenings, as well as educational workshops delivered in partnership with community organizations.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Acadian Spirit&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;Comité acadien et francophone de l’Est&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;A one-day cultural event celebrating Acadian roots, language, joie de vivre and heritage will be offered. The day will begin with the official Acadian flag-raising ceremony and a performance of &lt;em&gt;Ave Maris Stella&lt;/em&gt;, followed by a community barbecue, traditional toy-making workshops, heritage games and instrument-making activities for the tintamarre. Later in the afternoon, a tintamarre will take place around the Eastern Pavilion, and a local senior will share a historical story. The festivities will continue with a community supper featuring Acadian specialties before concluding with a traditional kitchen party.&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Orders in Council July 28, 2026 (770-811)</title>
-      <link>https://www.princeedwardisland.ca/en/publication/orders-in-council-july-28-2026-770-811</link>
-      <guid isPermaLink="false">80899 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 31 Jul 2026 13:48:30 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orders in Council July 28, 2026 (770-811)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tamperry&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-31T10:48:30-03:00" title="Friday, July 31, 2026 - 10:48"&gt;Fri, 07/31/2026 - 10:48&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Orders in Council&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/5e86/20260728truwww.pdf"&gt;
-              &lt;span&gt;20260728truwww.pdf&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
