@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 05 Aug 2026 22:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 08:03:22 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -298,20 +298,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Heat (Issued)</title>
+      <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0361560688.2026-1</guid>
-      <pubDate>2026-08-05T18:51:23-00:00</pubDate>
-      <description>Humidex values reaching 33 are expected for the next day. Locations: Cape Breton Island. Time span: Thursday through Friday evening. Maximum day time temperatures: 29 to 30 degrees Celsius (Humidex... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3587153599.2026-1</guid>
+      <pubDate>2026-08-06T07:16:45-00:00</pubDate>
+      <description>Humidex values reaching 38 will continue for the next 2 days. Locations: mainland Nova Scotia. Time span: persisting into Friday, possibly into the weekend for some counties. Maximum temperatures:... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3208892850.2026-1</guid>
-      <pubDate>2026-08-05T18:44:57-00:00</pubDate>
-      <description>Locations: mainland Nova Scotia. Time span: persisting into Friday, possibly into the weekend for some counties. Maximum temperatures: 30 to 33 degrees Celsius (Humidex 36 to 38). Minimum... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0606320259.2026-1</guid>
+      <pubDate>2026-08-06T07:16:19-00:00</pubDate>
+      <description>Humidex values reaching 37 are expected. Locations: Cape Breton Island. Time span: today through Friday evening. Maximum day time temperatures: 29 to 30 degrees Celsius (Humidex 34 to 37). Minimum... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
@@ -321,15 +321,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">F60C5E4E-F458-4C88-926F-770150C7AA01-1</guid>
       <pubDate>2026-08-05T09:59:02-03:00</pubDate>
       <description>Boil Water Advisory issued by Cape Breton Municipality. Louisbourg Water Supply. Due to a major water main break, Water Utility customers in Louisbourg are advised to boil water before consuming... | Areas: Louisbourg Water Supply. | Level: critical</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Silver Alert (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">9888E042-8F1F-40FC-B6D6-692F20937250-1</guid>
-      <pubDate>2026-08-04T20:42:15-03:00</pubDate>
-      <description>Pictou County Area. 82 year old, Scott Anthony Grant, 5 foot 1 inch and 174 pounds. Last seen leaving Aberdeen Hospital on East River Road, New Glasgow at 8:30 pm, Monday August 3. Any sightings or... | Areas: Pictou County Area | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
