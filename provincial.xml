@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 07 Aug 2026 06:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 09:42:11 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,92 +217,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - SQUALL WARNING IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a756aae438371c66a1ddd1b</guid>
-      <pubDate>2026-08-07T05:20:13.704Z</pubDate>
-      <description>Windstorm Warning | Squall Warning In Effect | &lt;p&gt;Squalls with wind gusts up to 45 knots, frequent lightning and hail up to 2 centimetres are expected or occurring in the area.
-
-Thunderstorms are moving east across the region at 25 knots. Squalls with wind gusts up to 45 knots and hail are possible.
-
-
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Immediate - act now</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - HIGH WIND EFFECT ISSUED BY HYDROLOGIC FORECAST CENTRE.</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a74ecb39d961bad2273eb37</guid>
       <pubDate>2026-08-06T20:21:03.251Z</pubDate>
       <description>Windstorm Warning | High Wind Effect Issued By Hydrologic Forecast Centre. | &lt;p&gt;Manitoba Transportation and Infrastructure’s Hydrologic Forecast Centre advises high winds are expected in the morning of August 7th. High winds may raise water levels on the lake between 0.9 - 1.5m with significant wave action expected.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Grand Marais, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a74d47f382b652f2167327c</guid>
-      <pubDate>2026-08-06T18:37:50.518Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts and large hail.
-
-Hazards:
-Wind gusts up to 90 km/h.
-Quarter to ping pong ball size hail.
-Risk of a tornado.
-
-
-Timing:
-Late this afternoon into this evening.
-
-Additional information:
-Thunderstorms are expected to develop or move into the region late this afternoon and continue to affect the region into this evening. Some storms could become severe with strong winds and large hail. Conditions may become favourable for some storms to produce tornadoes, but confidence in any tornado threat is low.
-
-
-
-Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible. There is a risk of injury.
-
-Large hail can cause significant damage and injury.
-
-Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
-
-For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a74d47b7d6217be831e7bc2</guid>
-      <pubDate>2026-08-06T18:37:46.111Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts and large hail.
-
-Hazards:
-Wind gusts up to 90 km/h.
-Quarter to ping pong ball size hail.
-Risk of a tornado.
-
-
-Timing:
-Late this afternoon into this evening.
-
-Additional information:
-Thunderstorms are expected to develop or move into the region late this afternoon and continue to affect the region into this evening. Some storms could become severe with strong winds and large hail. Conditions may become favourable for some storms to produce tornadoes, but confidence in any tornado threat is low.
-
-
-
-Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible. There is a risk of injury.
-
-Large hail can cause significant damage and injury.
-
-Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
-
-For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
       <source>Manitoba</source>
     </item>
 
@@ -390,18 +309,18 @@ For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&g
     <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0877831008.2026-1</guid>
-      <pubDate>2026-08-07T00:58:58-00:00</pubDate>
-      <description>Humidex values reaching 36 are expected. Locations: Cape Breton Island. Time span: easing Friday evening. Maximum day time temperatures: 29 degrees Celsius (Humidex 36). Minimum nighttime... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2854042737.2026-1</guid>
+      <pubDate>2026-08-07T07:30:21-00:00</pubDate>
+      <description>Humidex values reaching 36 are expected. Locations: Cape Breton Island. Time span: easing Saturday evening. Maximum day time temperatures: 29 degrees Celsius (Humidex 36). Minimum nighttime... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1101028429.2026-1</guid>
-      <pubDate>2026-08-07T00:52:56-00:00</pubDate>
-      <description>A prolongued period of hot and humid weather continues. Locations: mainland Nova Scotia. Time span: persisting into Friday, possibly through the weekend for some counties. Maximum temperatures: 31... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2549820758.2026-1</guid>
+      <pubDate>2026-08-07T07:28:43-00:00</pubDate>
+      <description>A prolonged period of hot and humid weather continues. Locations: mainland Nova Scotia. Time span: persisting through the weekend for most counties. Maximum temperatures: 31 to 33 degrees Celsius... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
