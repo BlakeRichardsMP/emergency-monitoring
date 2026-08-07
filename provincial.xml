@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 07 Aug 2026 12:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 15:14:33 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -309,8 +309,8 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2854042737.2026-1</guid>
-      <pubDate>2026-08-07T07:30:21-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3771672732.2026-1</guid>
+      <pubDate>2026-08-07T13:53:12-00:00</pubDate>
       <description>Humidex values reaching 36 are expected. Locations: Cape Breton Island. Time span: easing Saturday evening. Maximum day time temperatures: 29 degrees Celsius (Humidex 36). Minimum nighttime... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
@@ -318,8 +318,8 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2549820758.2026-1</guid>
-      <pubDate>2026-08-07T07:28:43-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0362428515.2026-1</guid>
+      <pubDate>2026-08-07T13:51:58-00:00</pubDate>
       <description>A prolonged period of hot and humid weather continues. Locations: mainland Nova Scotia. Time span: persisting through the weekend for most counties. Maximum temperatures: 31 to 33 degrees Celsius... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
@@ -330,15 +330,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">F6365FDF-D9C0-4835-BE47-D96357360F00-1</guid>
       <pubDate>2026-08-06T13:56:54-03:00</pubDate>
       <description>Louisbourg, Nova Scotia. Water quality concerns following a water main break on August 5th have been resolved. Water Utility Customers in Louisbourg are no longer required to boil their water... | Areas: Louisbourg, Nova Scotia | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Drinking Water (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">F60C5E4E-F458-4C88-926F-770150C7AA01-1</guid>
-      <pubDate>2026-08-05T09:59:02-03:00</pubDate>
-      <description>Boil Water Advisory issued by Cape Breton Municipality. Louisbourg Water Supply. Due to a major water main break, Water Utility customers in Louisbourg are advised to boil water before consuming... | Areas: Louisbourg Water Supply. | Level: critical</description>
       <source>Nova Scotia</source>
     </item>
 
