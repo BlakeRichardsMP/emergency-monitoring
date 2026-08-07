@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 06 Aug 2026 08:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 01:44:32 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -219,6 +219,81 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>BE ALERT - HIGH WIND EFFECT ISSUED BY HYDROLOGIC FORECAST CENTRE.</title>
       <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a74ecb39d961bad2273eb37</guid>
+      <pubDate>2026-08-06T20:21:03.251Z</pubDate>
+      <description>Windstorm Warning | High Wind Effect Issued By Hydrologic Forecast Centre. | &lt;p&gt;Manitoba Transportation and Infrastructure’s Hydrologic Forecast Centre advises high winds are expected in the morning of August 7th. High winds may raise water levels on the lake between 0.9 - 1.5m with significant wave action expected.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Grand Marais, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a74d47f382b652f2167327c</guid>
+      <pubDate>2026-08-06T18:37:50.518Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts and large hail.
+
+Hazards:
+Wind gusts up to 90 km/h.
+Quarter to ping pong ball size hail.
+Risk of a tornado.
+
+
+Timing:
+Late this afternoon into this evening.
+
+Additional information:
+Thunderstorms are expected to develop or move into the region late this afternoon and continue to affect the region into this evening. Some storms could become severe with strong winds and large hail. Conditions may become favourable for some storms to produce tornadoes, but confidence in any tornado threat is low.
+
+
+
+Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible. There is a risk of injury.
+
+Large hail can cause significant damage and injury.
+
+Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
+
+For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a74d47b7d6217be831e7bc2</guid>
+      <pubDate>2026-08-06T18:37:46.111Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts and large hail.
+
+Hazards:
+Wind gusts up to 90 km/h.
+Quarter to ping pong ball size hail.
+Risk of a tornado.
+
+
+Timing:
+Late this afternoon into this evening.
+
+Additional information:
+Thunderstorms are expected to develop or move into the region late this afternoon and continue to affect the region into this evening. Some storms could become severe with strong winds and large hail. Conditions may become favourable for some storms to produce tornadoes, but confidence in any tornado threat is low.
+
+
+
+Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible. There is a risk of injury.
+
+Large hail can cause significant damage and injury.
+
+Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
+
+For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - HIGH WIND EFFECT ISSUED BY HYDROLOGIC FORECAST CENTRE.</title>
+      <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a7371abc99d6ae8e7e4a784</guid>
       <pubDate>2026-08-05T17:23:51.516Z</pubDate>
       <description>Windstorm Warning | High Wind Effect Issued By Hydrologic Forecast Centre. | &lt;p&gt;Manitoba Transportation and Infrastructure’s Hydrologic Forecast Centre advises high winds are expected in the afternoon of August 6th. High winds may raise water levels on the lake between 0.9 - 1.5m with significant wave action expected.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
@@ -300,28 +375,330 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3587153599.2026-1</guid>
-      <pubDate>2026-08-06T07:16:45-00:00</pubDate>
-      <description>Humidex values reaching 38 will continue for the next 2 days. Locations: mainland Nova Scotia. Time span: persisting into Friday, possibly into the weekend for some counties. Maximum temperatures:... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0877831008.2026-1</guid>
+      <pubDate>2026-08-07T00:58:58-00:00</pubDate>
+      <description>Humidex values reaching 36 are expected. Locations: Cape Breton Island. Time span: easing Friday evening. Maximum day time temperatures: 29 degrees Celsius (Humidex 36). Minimum nighttime... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0606320259.2026-1</guid>
-      <pubDate>2026-08-06T07:16:19-00:00</pubDate>
-      <description>Humidex values reaching 37 are expected. Locations: Cape Breton Island. Time span: today through Friday evening. Maximum day time temperatures: 29 to 30 degrees Celsius (Humidex 34 to 37). Minimum... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1101028429.2026-1</guid>
+      <pubDate>2026-08-07T00:52:56-00:00</pubDate>
+      <description>A prolongued period of hot and humid weather continues. Locations: mainland Nova Scotia. Time span: persisting into Friday, possibly through the weekend for some counties. Maximum temperatures: 31... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Drinking Water (Issued)</title>
+      <title>Drinking Water (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">F6365FDF-D9C0-4835-BE47-D96357360F00-1</guid>
+      <pubDate>2026-08-06T13:56:54-03:00</pubDate>
+      <description>Louisbourg, Nova Scotia. Water quality concerns following a water main break on August 5th have been resolved. Water Utility Customers in Louisbourg are no longer required to boil their water... | Areas: Louisbourg, Nova Scotia | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Drinking Water (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">F60C5E4E-F458-4C88-926F-770150C7AA01-1</guid>
       <pubDate>2026-08-05T09:59:02-03:00</pubDate>
       <description>Boil Water Advisory issued by Cape Breton Municipality. Louisbourg Water Supply. Due to a major water main break, Water Utility customers in Louisbourg are advised to boil water before consuming... | Areas: Louisbourg Water Supply. | Level: critical</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>July 2026 Engage PEI Appointments</title>
+      <link>https://www.princeedwardisland.ca/en/information/executive-council-office/july-2026-engage-pei-appointments</link>
+      <guid isPermaLink="false">80944 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 06 Aug 2026 18:49:27 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;July 2026 Engage PEI Appointments&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ntyeba&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-06T15:49:27-03:00" title="Thursday, August 6, 2026 - 15:49"&gt;Thu, 08/06/2026 - 15:49&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Here are the 11 people appointed or reappointed to 3 agencies, boards and commissions by Cabinet in July 2026.&lt;/p&gt;
+&lt;h3&gt;Council of the College of Physicians and Surgeons of Prince Edward Island&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Doreen Gillis (reappointment) – Charlottetown&lt;/li&gt;
+&lt;li&gt;Liza Jamani (reappointment) – Stanhope&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Prince Edward Island Criminal Code Review Board&amp;nbsp;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Donald K. MacKenzie. K.C. – Stratford&lt;/li&gt;
+&lt;li&gt;Aidan Sheridan (reappointment) – Marshfield&lt;/li&gt;
+&lt;li&gt;Susan Maynard &amp;nbsp;(reappointment) – Charlottetown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Tourism PE Board of Directors&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Geoffrey Irving – Woodstock&lt;/li&gt;
+&lt;li&gt;Marly Anderson – Victoria&lt;/li&gt;
+&lt;li&gt;Terry Nabuurs – Cardigan&lt;/li&gt;
+&lt;li&gt;John Cudmore (reappointment) – Charlottetown&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Jacqueline DesRoches (reappointment) – Stanley Bridge&lt;/li&gt;
+&lt;li&gt;Kirk Nicholson (reappointment) – Stratford&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Private Researchers - Archives</title>
+      <link>https://www.princeedwardisland.ca/en/form/private-researchers-archives</link>
+      <guid isPermaLink="false">80939 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 06 Aug 2026 15:13:17 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Private Researchers - Archives&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gradawson&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-06T12:13:17-03:00" title="Thursday, August 6, 2026 - 12:13"&gt;Thu, 08/06/2026 - 12:13&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/8c60/PrivateResearchers%20-%20August%202026.pdf"&gt;
+              &lt;span&gt;PrivateResearchers - August 2026.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Records for Canadian Citizenship Certificate Applications</title>
+      <link>https://www.princeedwardisland.ca/en/information/education-and-early-years/records-for-canadian-citizenship-certificate-applications</link>
+      <guid isPermaLink="false">80940 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 06 Aug 2026 14:56:38 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Records for Canadian Citizenship Certificate Applications&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gradawson&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-06T11:56:38-03:00" title="Thursday, August 6, 2026 - 11:56"&gt;Thu, 08/06/2026 - 11:56&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeinformationfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="Canadian passport" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/e6af/Canada1.jpg.webp?itok=0JxIkuwi" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;/p&gt;
+&lt;div class="rich-text alert alert-info"&gt;
+&lt;p&gt;For information on the documents required for Canadian Citizenship Certificate applications, visit &lt;a href="https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.canada.ca%2Fen%2Fimmigration-refugees-citizenship%2Fservices%2Fcanadian-citizenship%2Fproof-citizenship%2Fapply.html&amp;amp;data=05%7C02%7Cgradawson%40gov.pe.ca%7C3c1f61bac1aa48553a7208def3c90816%7Cc86b09eb7ad74aa29d8298a45bd8ec19%7C0%7C0%7C639216242176580556%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=jcNNWvA39e8c53yl3v5ob4DUh403mzup7UEL3V61%2BwI%3D&amp;amp;reserved=0"&gt;Immigration, Refugees and Citizenship Canada's&lt;/a&gt; website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Q and A with Scott Anderson, Irrigation Extension Specialist with the PEI Department of Agriculture</title>
+      <link>https://www.princeedwardisland.ca/en/news/q-and-a-with-scott-anderson-irrigation-extension-specialist-with-the-pei-department-of</link>
+      <guid isPermaLink="false">80938 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 06 Aug 2026 14:35:22 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Q and A with Scott Anderson, Irrigation Extension Specialist with the PEI Department of Agriculture&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-06T11:35:22-03:00" title="Thursday, August 6, 2026 - 11:35"&gt;Thu, 08/06/2026 - 11:35&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="Scott Anderson, Irrigation Extension Specialist with the PEI Department of Agriculture" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/a686/EJC02112.jpg.webp?itok=HeEMkLrC" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;What is the role of the Irrigation Extension Specialist?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I work with irrigators across Prince Edward Island to support effective, responsible water use while helping maintain healthy crop production during dry conditions. I can provide guidance on the irrigation permitting process, irrigation system planning and implementation, water-use efficiency, and irrigation best management practices. My goal is to help producers make informed decisions that protect water resources while supporting productive and sustainable farming operations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is your background?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I grew up in Morell on a mixed farm of dairy and potatoes. I always knew I wanted a career in agriculture, but I was also passionate about pursuing a degree in engineering. I ended up combining the two and became an agricultural engineer.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;After I graduated, I worked with the PEI Department of Agriculture as a Soil and Water Engineer, and later with Agriculture and Agri-Food Canada as the Regional Water Engineer, where I worked a variety of research projects surrounding sustainability, crop analysis, and water management.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why are you passionate about this topic?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With a background in farming, I’m invested in making sure producers who are interested in learning about irrigation are choosing the right systems for their unique operations and using these systems to maximize sustainability and profitability for themselves and their families.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What would you like Islanders to know about this service? &amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With climate change, we are going to have periods where we need another source of water on the farm, so that producers can continue to grow food for their communities and take care of their livestock.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This role works in collaboration with growers, government, and other industry partners to make sure that irrigators are using water resources responsibly and efficiently. Water management and hydrology are resources. When used correctly, there should not be a shortage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who is this service available to?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This service is available to anyone in the Agriculture industry across the island who needs technical support regarding irrigation. This could be any commodity – grains, vegetables, potatoes, berries, specialized organic farms - you name it. In just a few weeks on the job, I’ve already had the opportunity to visit a variety of operations, each one unique, which is why it’s so important to take the time to learn about the many facets of irrigation before you dive in!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How can producers contact you about this service?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Producers can reach out by email or phone at: &amp;nbsp;&lt;a href="mailto:atlanticwaterpei@gmail.com"&gt;atlanticwaterpei@gmail.com&lt;/a&gt; or phone at (902) 916-0603.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We’ll start by discussing your goals, ideas, and irrigation needs, then arrange a farm visit. From there, I can provide technical guidance, help you navigate the permitting process, and draw on my experience to support the development of an irrigation system that’s right for you.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -810,284 +1187,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
           &lt;div class="layout__region layout__region--second"&gt;
         
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>324772 Woodlot Management Plan - Belle River</title>
-      <link>https://www.princeedwardisland.ca/en/publication/324772-woodlot-management-plan-belle-river</link>
-      <guid isPermaLink="false">80918 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 03 Aug 2026 17:40:28 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;324772 Woodlot Management Plan - Belle River&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-03T14:40:28-03:00" title="Monday, August 3, 2026 - 14:40"&gt;Mon, 08/03/2026 - 14:40&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/3fad/324772%20Woodlot%20Management%20Plan.pdf"&gt;
-              &lt;span&gt;324772 Woodlot Management Plan.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Gallant</title>
-      <link>https://www.princeedwardisland.ca/en/employee/gallant-kelly</link>
-      <guid isPermaLink="false">80915 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 03 Aug 2026 08:22:10 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Gallant&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;DSMACKINNON&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-03T05:22:10-03:00" title="Monday, August 3, 2026 - 05:22"&gt;Mon, 08/03/2026 - 05:22&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Literacy Coach&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Education and Early Years&lt;/strong&gt;
-            &lt;div&gt;English Education, Programs and Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Birt</title>
-      <link>https://www.princeedwardisland.ca/en/employee/birt-mike</link>
-      <guid isPermaLink="false">80914 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 03 Aug 2026 07:23:15 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Birt&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;DSMACKINNON&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-03T04:23:15-03:00" title="Monday, August 3, 2026 - 04:23"&gt;Mon, 08/03/2026 - 04:23&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Youth Worker&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Social Development and Seniors&lt;/strong&gt;
-            &lt;div&gt;Residential Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Pediatric Psychology Services - Autism Diagnostic Observation Schedule (ADOS) Notification</title>
-      <link>https://www.princeedwardisland.ca/en/publication/pediatric-psychology-services-autism-diagnostic-observation-schedule-ados-notification</link>
-      <guid isPermaLink="false">80908 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 31 Jul 2026 18:35:07 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pediatric Psychology Services - Autism Diagnostic Observation Schedule (ADOS) Notification&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-07-31T15:35:07-03:00" title="Friday, July 31, 2026 - 15:35"&gt;Fri, 07/31/2026 - 15:35&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Information about your appointment with Pediatric Psychology Services.&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/c21f/Pediatric_Psychology_Services_Autism_Diagnostic_Observation_Schedule_Notification.pdf"&gt;
-              &lt;span&gt;Pediatric_Psychology_Services_Autism_Diagnostic_Observation_Schedule_Notification.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
