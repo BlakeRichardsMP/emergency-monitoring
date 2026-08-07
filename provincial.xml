@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 07 Aug 2026 01:44:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:01:23 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -214,6 +214,21 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-05-19T11:34:08-06:00</pubDate>
       <description>A Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun water... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - SQUALL WARNING IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a756aae438371c66a1ddd1b</guid>
+      <pubDate>2026-08-07T05:20:13.704Z</pubDate>
+      <description>Windstorm Warning | Squall Warning In Effect | &lt;p&gt;Squalls with wind gusts up to 45 knots, frequent lightning and hail up to 2 centimetres are expected or occurring in the area.
+
+Thunderstorms are moving east across the region at 25 knots. Squalls with wind gusts up to 45 knots and hail are possible.
+
+
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Immediate - act now</description>
+      <source>Manitoba</source>
     </item>
 
     <item>
