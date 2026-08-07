@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 07 Aug 2026 20:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 22:19:04 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -235,24 +235,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - HIGH WIND EFFECT ISSUED BY HYDROLOGIC FORECAST CENTRE.</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a7371abc99d6ae8e7e4a784</guid>
-      <pubDate>2026-08-05T17:23:51.516Z</pubDate>
-      <description>Windstorm Warning | High Wind Effect Issued By Hydrologic Forecast Centre. | &lt;p&gt;Manitoba Transportation and Infrastructure’s Hydrologic Forecast Centre advises high winds are expected in the afternoon of August 6th. High winds may raise water levels on the lake between 0.9 - 1.5m with significant wave action expected.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - RM OF RIDING MOUNTAIN WEST</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a6cfc207fb5342c5b919b1d</guid>
-      <pubDate>2026-08-05T13:11:35.515-05:00</pubDate>
-      <description>Flood Warning | RM OF RIDING MOUNTAIN WEST | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Shellmouth, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - MOSSEY RIVER MUNICIPALITY AND RM OF DAUPHIN</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a515e57ee3cc9a1319dce34</guid>
@@ -267,6 +249,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">6a49079ff68e8bba0e4a4444</guid>
       <pubDate>2026-07-04T08:19:29.606-05:00</pubDate>
       <description>Flood Warning | MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN and RM OF LAKESHORE | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Ochre River, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE PREPARED - MUNICIPALITY OF RUSSELL-BINSCARTH AND RM OF RIDING MOUNTAIN WEST</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a763d976d630c3a8ee083e0</guid>
+      <pubDate>2026-08-07T15:24:06.439-05:00</pubDate>
+      <description>Flood Advisory | MUNICIPALITY OF RUSSELL-BINSCARTH and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Shellmouth, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
