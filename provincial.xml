@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 08 Aug 2026 19:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 21:01:21 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -226,39 +226,21 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - MOSSEY RIVER MUNICIPALITY AND RM OF DAUPHIN</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a515e57ee3cc9a1319dce34</guid>
-      <pubDate>2026-07-10T16:10:14.818-05:00</pubDate>
-      <description>Flood Warning | MOSSEY RIVER MUNICIPALITY and RM OF DAUPHIN | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Fork River, Manitoba</description>
-      <source>Manitoba</source>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3241791674.2026-1</guid>
+      <pubDate>2026-08-08T20:09:55-00:00</pubDate>
+      <description>Pictou, Antigonish and Colchester and Cumberland Nova Scotia. Colchester County North, Pictou County and Colchester County Truro and south. Severe thunderstorms associated with this alert have... | Areas: Colchester County North, Colchester County - Truro and south, Pictou County | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>BE ALERT - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a49079ff68e8bba0e4a4444</guid>
-      <pubDate>2026-07-04T08:19:29.606-05:00</pubDate>
-      <description>Flood Warning | MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN and RM OF LAKESHORE | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Ochre River, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE PREPARED - MUNICIPALITY OF RUSSELL-BINSCARTH AND RM OF RIDING MOUNTAIN WEST</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a763d976d630c3a8ee083e0</guid>
-      <pubDate>2026-08-07T15:24:06.439-05:00</pubDate>
-      <description>Flood Advisory | MUNICIPALITY OF RUSSELL-BINSCARTH and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Shellmouth, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE PREPARED - MUNICIPALITY OF ROBLIN AND RM OF RIDING MOUNTAIN WEST</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a4feaed84a24c277eaa7bd9</guid>
-      <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
-      <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
-      <source>Manitoba</source>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1385607956.2026-1</guid>
+      <pubDate>2026-08-08T19:48:44-00:00</pubDate>
+      <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
@@ -276,15 +258,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1702682271.2026-1</guid>
       <pubDate>2026-08-08T18:57:23-00:00</pubDate>
       <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. Locations: parts of northern and eastern Nova Scotia. Potential rainfall rates:... | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Colchester County - Truro and south, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3009916917.2026-1</guid>
-      <pubDate>2026-08-08T18:54:39-00:00</pubDate>
-      <description>Pictou, Antigonish and Colchester and Cumberland Nova Scotia. Extra care and attention should be exercised in and around the following localities: Colchester County North, Pictou County, Colchester... | Areas: Colchester County North, Colchester County - Truro and south, Pictou County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
@@ -330,15 +303,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1267431021.2026-1</guid>
       <pubDate>2026-08-08T17:33:46-00:00</pubDate>
       <description>Annapolis County. | Areas: Annapolis County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0404105132.2026-1</guid>
-      <pubDate>2026-08-08T17:21:31-00:00</pubDate>
-      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. Locations: parts of western Nova Scotia. Potential rainfall rates: locally 25 to... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
