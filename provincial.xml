@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 08 Aug 2026 21:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 22:04:05 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -226,6 +226,69 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - MOSSEY RIVER MUNICIPALITY AND RM OF DAUPHIN</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a515e57ee3cc9a1319dce34</guid>
+      <pubDate>2026-07-10T16:10:14.818-05:00</pubDate>
+      <description>Flood Warning | MOSSEY RIVER MUNICIPALITY and RM OF DAUPHIN | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Fork River, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a49079ff68e8bba0e4a4444</guid>
+      <pubDate>2026-07-04T08:19:29.606-05:00</pubDate>
+      <description>Flood Warning | MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN and RM OF LAKESHORE | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Ochre River, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE PREPARED - MUNICIPALITY OF RUSSELL-BINSCARTH AND RM OF RIDING MOUNTAIN WEST</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a763d976d630c3a8ee083e0</guid>
+      <pubDate>2026-08-07T15:24:06.439-05:00</pubDate>
+      <description>Flood Advisory | MUNICIPALITY OF RUSSELL-BINSCARTH and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Shellmouth, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE PREPARED - MUNICIPALITY OF ROBLIN AND RM OF RIDING MOUNTAIN WEST</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a4feaed84a24c277eaa7bd9</guid>
+      <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
+      <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Heat (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0722497646.2026-1</guid>
+      <pubDate>2026-08-08T21:18:18-00:00</pubDate>
+      <description>Humidex values reaching 38 will continue. Hot and humid weather continues. Locations: western and central mainland Nova Scotia. Time span: persisting through Sunday Minimum temperatures tonight:... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Heat (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0722497646.2026-2</guid>
+      <pubDate>2026-08-08T21:18:18-00:00</pubDate>
+      <description>Heat | Areas: Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3189565721.2026-1</guid>
+      <pubDate>2026-08-08T21:04:18-00:00</pubDate>
+      <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Colchester County - Truro and south, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Thunderstorm (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3241791674.2026-1</guid>
@@ -249,24 +312,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3467599397.2026-1</guid>
       <pubDate>2026-08-08T19:00:55-00:00</pubDate>
       <description>South Shore and Yarmouth, Acadian Coast Nova Scotia. Yarmouth County and Shelburne County. Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Shelburne County, Yarmouth County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1702682271.2026-1</guid>
-      <pubDate>2026-08-08T18:57:23-00:00</pubDate>
-      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. Locations: parts of northern and eastern Nova Scotia. Potential rainfall rates:... | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Colchester County - Truro and south, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Heat (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1564946906.2026-1</guid>
-      <pubDate>2026-08-08T18:50:31-00:00</pubDate>
-      <description>Humidex values reaching 38 will continue. A prolonged period of hot and humid weather continues. Locations: mainland Nova Scotia. Time span: persisting through the weekend for western counties,... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
