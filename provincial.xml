@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 08 Aug 2026 22:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 23:48:42 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -262,6 +262,24 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Quebec Emergency Alert</title>
+      <link>https://alerte.gouv.qc.ca/en</link>
+      <guid isPermaLink="false">12942</guid>
+      <pubDate></pubDate>
+      <description></description>
+      <source>Quebec</source>
+    </item>
+
+    <item>
+      <title>Heat (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1727339186.2026-1</guid>
+      <pubDate>2026-08-08T23:35:26-00:00</pubDate>
+      <description>Conditions are no longer expected to reach heat warning criteria. | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.0722497646.2026-1</guid>
@@ -312,15 +330,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3467599397.2026-1</guid>
       <pubDate>2026-08-08T19:00:55-00:00</pubDate>
       <description>South Shore and Yarmouth, Acadian Coast Nova Scotia. Yarmouth County and Shelburne County. Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Shelburne County, Yarmouth County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Heat (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3046489459.2026-1</guid>
-      <pubDate>2026-08-08T18:49:01-00:00</pubDate>
-      <description>Humidex values reaching 36 will continue. Locations: Cape Breton Island. Time span: continuing today. Maximum temperature: 28 degrees Celsius (Humidex 36). Remarks: A very warm and humid airmass... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
