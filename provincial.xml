@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 08 Aug 2026 15:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 17:16:46 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -264,27 +264,36 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Thunderstorm (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4126631159.2026-1</guid>
-      <pubDate>2026-08-08T15:48:57-00:00</pubDate>
-      <description>Annapolis Valley, Hants Nova Scotia. Extra care and attention should be exercised in and around the following localities: Annapolis County. Environment Canada meteorologists are tracking very... | Areas: Annapolis County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2313780591.2026-1</guid>
+      <pubDate>2026-08-08T17:11:33-00:00</pubDate>
+      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. Locations: parts of western and northern Nova Scotia. Potential rainfall rates:... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Civil Emergency (Updated)</title>
+      <title>Thunderstorm (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">16861A9C-E7EF-4A60-BEF2-9A7339D7C8A1-1</guid>
-      <pubDate>2026-08-08T12:08:07-03:00</pubDate>
-      <description>RCMP ALERT: DANGEROUS MAN with firearm. On foot in wooded area behind Sunnyside Mall, Bedford, Nova Scotia. FIND SAFE LOCATION NOW. LOCK DOORS. DO NOT APPROACH. Call 9-1-1 in emergencies. Info:... | Areas: On foot in wooded area behind Sunnyside Mall, Bedford, Nova Scotia. | Level: critical</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2313780591.2026-2</guid>
+      <pubDate>2026-08-08T17:11:33-00:00</pubDate>
+      <description>Thunderstorm | Areas: Cumberland County North and Cobequid Pass, Colchester County North, Hants County, Colchester County - Truro and south, Pictou County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Thunderstorm (Issued)</title>
+      <title>Thunderstorm (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1181118510.2026-1</guid>
-      <pubDate>2026-08-08T13:57:15-00:00</pubDate>
-      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. Locations: parts of western Nova Scotia. Potential rainfall rates: locally 25 to... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1636818562.2026-1</guid>
+      <pubDate>2026-08-08T16:43:05-00:00</pubDate>
+      <description>Annapolis Valley, Hants Nova Scotia. Annapolis County. Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Annapolis County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Civil Emergency (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">6B1B1592-268D-4D73-AAF9-A8757E829F29-1</guid>
+      <pubDate>2026-08-08T12:52:52-03:00</pubDate>
+      <description>RCMP ALERT has ENDED for DANGEROUS MAN with firearm. Halifax Regional Municipality. Suspect arrested. Officers remain in the area to investigate. Thank you for your support. | Areas: Halifax Regional Municipality | Level: critical</description>
       <source>Nova Scotia</source>
     </item>
 
