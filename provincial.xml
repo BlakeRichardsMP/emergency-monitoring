@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 08 Aug 2026 12:03:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 14:09:44 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -262,20 +262,29 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Heat (Updated)</title>
+      <title>Thunderstorm (Issued)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3720183347.2026-1</guid>
-      <pubDate>2026-08-08T07:46:56-00:00</pubDate>
-      <description>A prolonged period of hot and humid weather continues. Locations: mainland Nova Scotia. Time span: persisting through the weekend for western counties, with some improvement in the north and east... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1181118510.2026-1</guid>
+      <pubDate>2026-08-08T13:57:15-00:00</pubDate>
+      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. Locations: parts of western Nova Scotia. Potential rainfall rates: locally 25 to... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3892016271.2026-1</guid>
-      <pubDate>2026-08-08T07:42:32-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1074668967.2026-1</guid>
+      <pubDate>2026-08-08T13:46:57-00:00</pubDate>
       <description>Humidex values reaching 36 are expected. Locations: Cape Breton Island. Time span: continuing today. Maximum temperature: 28 degrees Celsius (Humidex 36). Remarks: A very warm and humid airmass... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Heat (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3644192283.2026-1</guid>
+      <pubDate>2026-08-08T13:45:59-00:00</pubDate>
+      <description>A prolonged period of hot and humid weather continues. Locations: mainland Nova Scotia. Time span: persisting through the weekend for western counties, with some improvement in the north and east... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
