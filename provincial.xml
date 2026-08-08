@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 08 Aug 2026 00:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 04:32:24 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -226,15 +226,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - HIGH WIND EFFECT ISSUED BY HYDROLOGIC FORECAST CENTRE.</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a74ecb39d961bad2273eb37</guid>
-      <pubDate>2026-08-06T20:21:03.251Z</pubDate>
-      <description>Windstorm Warning | High Wind Effect Issued By Hydrologic Forecast Centre. | &lt;p&gt;Manitoba Transportation and Infrastructure’s Hydrologic Forecast Centre advises high winds are expected in the morning of August 7th. High winds may raise water levels on the lake between 0.9 - 1.5m with significant wave action expected.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Grand Marais, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - MOSSEY RIVER MUNICIPALITY AND RM OF DAUPHIN</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a515e57ee3cc9a1319dce34</guid>
@@ -273,8 +264,8 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2193670163.2026-1</guid>
-      <pubDate>2026-08-07T18:44:58-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3941798733.2026-1</guid>
+      <pubDate>2026-08-08T02:32:42-00:00</pubDate>
       <description>A prolonged period of hot and humid weather continues. Locations: mainland Nova Scotia. Time span: persisting through the weekend for most counties. Minimum temperatures: 18 to 20 degrees Celsius... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
@@ -282,8 +273,8 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0357294495.2026-1</guid>
-      <pubDate>2026-08-07T18:43:40-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3121701556.2026-1</guid>
+      <pubDate>2026-08-08T02:30:36-00:00</pubDate>
       <description>Humidex values reaching 36 are expected. Locations: Cape Breton Island. Time span: easing Saturday evening. Minimum nighttime temperatures: near 16 degrees Celsius. Maximum temperature Saturday: 28... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
