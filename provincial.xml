@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 09 Aug 2026 15:53:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 17:18:31 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -348,15 +348,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1267431021.2026-1</guid>
       <pubDate>2026-08-08T17:33:46-00:00</pubDate>
       <description>Annapolis County. | Areas: Annapolis County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Civil Emergency (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">6B1B1592-268D-4D73-AAF9-A8757E829F29-1</guid>
-      <pubDate>2026-08-08T12:52:52-03:00</pubDate>
-      <description>RCMP ALERT has ENDED for DANGEROUS MAN with firearm. Halifax Regional Municipality. Suspect arrested. Officers remain in the area to investigate. Thank you for your support. | Areas: Halifax Regional Municipality | Level: critical</description>
       <source>Nova Scotia</source>
     </item>
 
