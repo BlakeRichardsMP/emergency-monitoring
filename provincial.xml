@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 09 Aug 2026 17:18:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 19:21:24 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -273,9 +273,9 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0277027237.2026-1</guid>
-      <pubDate>2026-08-09T07:34:34-00:00</pubDate>
-      <description>Humidex values reaching 38 will continue. Hot and humid weather continues. Locations: western and central mainland Nova Scotia. Time span: persisting through Sunday Minimum temperatures tonight:... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3781301980.2026-1</guid>
+      <pubDate>2026-08-09T19:02:47-00:00</pubDate>
+      <description>Hot and humid weather continues. Locations: western, central and northern mainland Nova Scotia. Time span: persisting into Monday for some regions. Minimum temperatures tonight: near 19 degrees... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
@@ -339,15 +339,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.2894293081.2026-1</guid>
       <pubDate>2026-08-08T18:38:38-00:00</pubDate>
       <description>Colchester and Cumberland Nova Scotia. Cumberland County North. Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Cumberland County North and Cobequid Pass | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1267431021.2026-1</guid>
-      <pubDate>2026-08-08T17:33:46-00:00</pubDate>
-      <description>Annapolis County. | Areas: Annapolis County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
