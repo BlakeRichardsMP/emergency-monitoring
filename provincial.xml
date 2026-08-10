@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 10 Aug 2026 05:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:02:23 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -273,9 +273,9 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0702264468.2026-1</guid>
-      <pubDate>2026-08-09T23:30:40-00:00</pubDate>
-      <description>Hot and humid weather continues. Locations: western Nova Scotia and Halifax county. Time span: persisting into Monday for some regions. Minimum temperatures tonight: near 19 degrees Celsius... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1769598007.2026-1</guid>
+      <pubDate>2026-08-10T07:40:43-00:00</pubDate>
+      <description>Hot and humid weather continues. Locations: western Nova Scotia and Halifax county. Time span: today. Maximum temperature: 29 degrees Celsius (Humidex near 34). Remarks: A hot and humid air mass... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
