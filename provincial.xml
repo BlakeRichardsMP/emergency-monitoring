@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 10 Aug 2026 10:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 20:06:24 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -235,15 +235,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - MOSSEY RIVER MUNICIPALITY AND RM OF DAUPHIN</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a515e57ee3cc9a1319dce34</guid>
-      <pubDate>2026-07-10T16:10:14.818-05:00</pubDate>
-      <description>Flood Warning | MOSSEY RIVER MUNICIPALITY and RM OF DAUPHIN | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Fork River, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a49079ff68e8bba0e4a4444</guid>
@@ -253,11 +244,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE PREPARED - MUNICIPALITY OF RUSSELL-BINSCARTH AND RM OF RIDING MOUNTAIN WEST</title>
+      <title>BE PREPARED - RM OF RIDING MOUNTAIN WEST</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a763d976d630c3a8ee083e0</guid>
-      <pubDate>2026-08-07T15:24:06.439-05:00</pubDate>
-      <description>Flood Advisory | MUNICIPALITY OF RUSSELL-BINSCARTH and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Shellmouth, Manitoba</description>
+      <guid isPermaLink="false">6a7a1d4f555dab72d106e8d1</guid>
+      <pubDate>2026-08-10T13:51:10.521-05:00</pubDate>
+      <description>Flood Advisory | RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Shellmouth, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE PREPARED - MOSSEY RIVER MUNICIPALITY AND RM OF DAUPHIN</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a515e57ee3cc9a1319dce34</guid>
+      <pubDate>2026-08-10T12:38:41.637-05:00</pubDate>
+      <description>Flood Advisory | MOSSEY RIVER MUNICIPALITY and RM OF DAUPHIN | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Fork River, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
@@ -271,12 +271,525 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Quebec Emergency Alert</title>
+      <link>https://alerte.gouv.qc.ca/en</link>
+      <guid isPermaLink="false">13038</guid>
+      <pubDate></pubDate>
+      <description></description>
+      <source>Quebec</source>
+    </item>
+
+    <item>
       <title>Heat (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1769598007.2026-1</guid>
-      <pubDate>2026-08-10T07:40:43-00:00</pubDate>
-      <description>Hot and humid weather continues. Locations: western Nova Scotia and Halifax county. Time span: today. Maximum temperature: 29 degrees Celsius (Humidex near 34). Remarks: A hot and humid air mass... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1672050294.2026-1</guid>
+      <pubDate>2026-08-10T18:40:51-00:00</pubDate>
+      <description>Hot and humid weather continues. Locations: central and western Nova Scotia including Halifax county. Time span: today. Maximum temperature: 29 degrees Celsius (Humidex near 35). Remarks: A hot and... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Civil Emergency (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">471F07EA-D1D5-45EA-8690-B13A41B61291-1</guid>
+      <pubDate>2026-08-10T14:46:48-03:00</pubDate>
+      <description>Bomb Threat (Update) Downtown Halifax, NS There is currently no longer an ongoing threat to the public's safety regarding the earlier Bomb Threat. All roads in the downtown area are now re-opened... | Areas: Downtown Halifax, NS | Level: critical</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Civil Emergency (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">693623FA-23F7-460D-8068-CEB5E650AF07-1</guid>
+      <pubDate>2026-08-10T10:29:05-03:00</pubDate>
+      <description>Bomb Threat Area of Upper Water Street and connecting streets. Suspicious vehicle contained in parkade at 1969 Upper Water Street. Immediate area has been evacuated, police currently have area... | Areas: Area of Upper Water Street and connecting streets. | Level: critical</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>436626 Forest Management Plan (Murray River)</title>
+      <link>https://www.princeedwardisland.ca/en/publication/436626-forest-management-plan-murray-river</link>
+      <guid isPermaLink="false">80953 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 10 Aug 2026 16:46:56 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;436626 Forest Management Plan (Murray River)&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-10T13:46:56-03:00" title="Monday, August 10, 2026 - 13:46"&gt;Mon, 08/10/2026 - 13:46&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/ad0c/436626%20Forest%20Management%20Plan.pdf"&gt;
+              &lt;span&gt;436626 Forest Management Plan.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Province supports more Island startups</title>
+      <link>https://www.princeedwardisland.ca/en/news/province-supports-more-island-startups</link>
+      <guid isPermaLink="false">80952 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 10 Aug 2026 13:43:38 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province supports more&amp;nbsp;Island startups&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-10T10:43:38-03:00" title="Monday, August 10, 2026 - 10:43"&gt;Mon, 08/10/2026 - 10:43&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="Photo of Minister Jenn Redmond with recipients" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/6c7e/Province%20supports%20more%20Island%20startups.jpg.webp?itok=qC4Fokii" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Five PEI companies are helping drive industry innovation with artificial intelligence.&lt;/p&gt;
+&lt;p&gt;Innovation PEI has provided close to $2.9 million in funding to 115 startups in the last 12 years to help them develop and transform their ideas into real market solutions. Each successful recipient receives up to $25,000 in seed capital through a competitive process twice a year.&lt;/p&gt;
+&lt;p&gt;As part of &lt;a href="https://peiitalliance.com/tech-week"&gt;PEI’s Tech Week&lt;/a&gt;, organized by the Prince Edward Island IT Alliance, the province is pleased to announce its latest seed capital recipients. These five Island companies are leveraging advancements in technology, notably in artificial intelligence, to modernize industry, professional services, and showcase PEI’s growing technology ecosystem.&lt;/p&gt;
+&lt;p&gt;The recipients include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dylan Cooper of Boardwalk Inc.&lt;/li&gt;
+&lt;li&gt;Japneet Pal Singh Kalkat of Trailflow Systems Inc.&lt;/li&gt;
+&lt;li&gt;Paakow Wobil, Clinton Aghedo, Chrysler Hewlett, and Promise Ojo of Pentacore&amp;nbsp;&lt;/li&gt;
+&lt;li&gt;Parto Omidi and Soroush Izadan of Eidetic Design&lt;/li&gt;
+&lt;li&gt;Phil MacNevin of BuriedCandy Entertainment Inc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Ignition Fund is expected to open applications later this fall.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Learn more about&amp;nbsp;the&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/innovation-pei/ignition"&gt;Ignition Fund&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quotes:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“No matter what industry you are in, you need innovation to grow. What our Island tech companies are doing is showing that PEI can come up with real, impactful technology solutions to help improve business operations. The Ignition Fund can be an important catalyst for any entrepreneur’s journey, and our government is proud to provide this much-needed capital to get entrepreneurs and their ideas to market.”&lt;/p&gt;
+&lt;p&gt;- Minister of Economic Development, Trade and Artificial Intelligence Jenn Redmond&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;“AI is changing how companies can compete, and these five are proof PEI founders are not waiting for permission. Tech is no longer only a sector; it is what the rest of the economy runs on. Almost every business on this Island has integrated technology solutions into their operations, from farms to fisheries to advanced manufacturing firms, and the companies building those tools are where new GDP comes from. The Alliance is here to support the people doing this work, whether they turn up at The Night Shift on a weeknight or push through 90 days in The Foundry Residency. Innovation PEI is an important partner to us, Island entrepreneurs, and our sector. Congratulations to all five teams.”&lt;/p&gt;
+&lt;p&gt;- Interim CEO of the PEI IT Alliance Ron Myers&lt;/p&gt;
+&lt;p&gt;“Receiving the Ignition Fund will help Trailflow turn early customer feedback into a stronger product for trucking companies across North America. It will help us improve AI agents that handle repetitive office work, from reading load documents to organizing paperwork and preparing invoices, while helping us reach more customers and grow export revenue from Prince Edward Island.”&lt;/p&gt;
+&lt;p&gt;- CEO of Trailflow Systems Inc Japneet Pal Singh Kalkat&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vicki Tse&lt;br /&gt;Department of Economic Development, Trade and Artificial Intelligence&lt;br /&gt;&lt;a href="mailto:vickitse@gov.pe.ca"&gt;vickitse@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h5&gt;&lt;br /&gt;&lt;strong&gt;Backgrounder:&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;Boardwalk Inc. – Dylan Cooper&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Lightning Quote is a compliance verification software that uses AI to improve the estimating process for lightning protection systems. The platform creates a three-dimensional visual model showing how a proposed system will protect a building from lightning strikes. It can also review project specifications and architectural drawings, compare them against applicable industry codes and standards, and generate detailed compliance reports that identify potential issues and areas requiring attention. This helps lightning protection installers, architects and engineers prepare accurate designs, estimates, and documentation to save both time and money.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BuriedCandy Entertainment Inc. - Phil MacNevin&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Calling is a fast-paced, third-person, anime-style video game featuring popular video streamers as playable characters. Streamers participate as featured talent and receive a share of the revenue generated from their characters' in-game cosmetic items. The game also incorporates a rewards system designed to encourage ongoing player engagement and long-term retention. The Calling has won IndieDB's 5th Best Indie Game of 2025 and Best Studio award at the 2026 CGM Video Game Awards.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Eidetic Design – Parto Omidi and Soroush Izadan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An architectural digital content firm that provides Revit families, SketchUp models, renderings, datasheets, and other specification assets for building products. The platform helps manufacturers showcase their products to architects, designers, and specifiers by supplying accurate technical specifications increasing opportunities to be included in construction and development projects.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trailflow Systems Inc. – Japneet Pal Singh Kalkat&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trailflow is an agent-first logistics operating system for growing North American carriers and hybrid carrier-brokers. It gives back-office teams one live context for every load, where autonomous agents ingest emails and rate confirmations, coordinate dispatch, monitor exceptions, collect documents, and move work from intake to invoice and settlement. Trailflow turns fragmented tools and manual coordination into autonomous back-office workflows that execute routine work end to end.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pentacore – Paakow Wobil, Clinton Aghedo, Chrysler Hewlett, Promise Ojo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;WilowAI is an AI-powered personal study environment that transforms students’ uploaded notes, slides, and PDF documents into easy-to-use study materials, including summaries, flashcards, quizzes, and interactive AI tutor. The platform helps students stay organized with dedicated structured learning assets that includes progress tracking, achievement milestones, and reward features to help build consistent study habits.&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Harvest Farm Safety Bulletin</title>
+      <link>https://www.princeedwardisland.ca/en/publication/harvest-farm-safety-bulletin</link>
+      <guid isPermaLink="false">80951 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 10 Aug 2026 12:13:48 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Harvest Farm Safety Bulletin&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-10T09:13:48-03:00" title="Monday, August 10, 2026 - 09:13"&gt;Mon, 08/10/2026 - 09:13&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Harvest Farm Safety Bulletin 2026&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/50ca/af_Farm%20Safety%20Bulletin.pdf"&gt;
+              &lt;span&gt;af_Farm Safety Bulletin.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Soybeans Risks: Scout Guide</title>
+      <link>https://www.princeedwardisland.ca/en/publication/soybeans-risks-scout-guide</link>
+      <guid isPermaLink="false">80950 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 10 Aug 2026 12:12:23 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Soybeans Risks: Scout Guide&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-10T09:12:23-03:00" title="Monday, August 10, 2026 - 09:12"&gt;Mon, 08/10/2026 - 09:12&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Soybeans Risks: Scout Guide 2026&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/34f9/af_Soybean%20Scout%20Guide%20bulletin.pdf"&gt;
+              &lt;span&gt;af_Soybean Scout Guide bulletin.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Corn Scouting and Management Guide</title>
+      <link>https://www.princeedwardisland.ca/en/publication/corn-scouting-and-management-guide</link>
+      <guid isPermaLink="false">80949 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 10 Aug 2026 12:10:40 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Corn Scouting and Management Guide&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-10T09:10:40-03:00" title="Monday, August 10, 2026 - 09:10"&gt;Mon, 08/10/2026 - 09:10&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Corn Scouting and Management Guide 2026&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/6712/af_Corn_Scouting%20Guide%20Bulletin.pdf"&gt;
+              &lt;span&gt;af_Corn_Scouting Guide Bulletin.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -608,442 +1121,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       &lt;li&gt;
                     &lt;strong&gt;Land and Environment&lt;/strong&gt;
             &lt;div&gt;Minister's Office&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Funding available to strengthen community and inclusion</title>
-      <link>https://www.princeedwardisland.ca/en/news/funding-available-to-strengthen-community-and-inclusion</link>
-      <guid isPermaLink="false">80929 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 05 Aug 2026 14:23:01 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Funding available to strengthen community and inclusion&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-05T11:23:01-03:00" title="Wednesday, August 5, 2026 - 11:23"&gt;Wed, 08/05/2026 - 11:23&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="The 2026 Stick Together Festival in Lennox Island brought together Indigenous and non-Indigenous children, youth, and families from across Prince County for a day of cultural games and dances, carnival activities, and ball hockey.&amp;nbsp;" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/7f84/GEDI.jpg.webp?itok=lfSlFUFG" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Marking five years of investment in Island communities, the Gender, Equity, Diversity and Inclusion (GEDI) and Community Enhancement Program is now accepting applications from residents and community groups whose projects foster diversity, equity and inclusion across Prince Edward Island.&lt;/p&gt;
-&lt;p&gt;Since its inception in 2022, the program has invested more than $2,400,000 in initiatives that strengthen community engagement and encourage a greater sense of belonging across the province.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;“It’s amazing to see the incredible projects that come to fruition year after year through this program. From cultural celebrations, and community arts, to BIPOC wellbeing and empowerment, this funding ensures newcomers and marginalized groups in PEI are empowered to shape supportive, diverse communities where everyone feels a sense of inclusion and belonging.”&lt;/p&gt;
-&lt;p&gt;-Minister of Workforce and Advanced Learning Zack Bell&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Among the 2026 funding recipients was the Boys and Girls Club of Summerside, which received support for its Stick Together Festival. Delivered in partnership with Lennox Island, the festival welcomed Indigenous and non-Indigenous children, youth, and families from across Prince County to celebrate Indigenous culture, advance reconciliation and support cross-cultural connections.&lt;/p&gt;
-&lt;p&gt;"The support we received through the GEDI Program helped make our 2026 Stick Together Festival our most impactful event yet,” said BGC Prince County Community Engagement and Communications Coordinator Emma Harris. “It brought together more than 400 Indigenous and non-Indigenous community members for a day centered on inclusion, belonging, reconciliation, and kindness.&amp;nbsp;We truly believe this event strengthened relationships within our community while creating a welcoming space where everyone felt they belonged.”&lt;/p&gt;
-&lt;p&gt;Applications can be submitted by email to &lt;a href="mailto:GEDI@gov.pe.ca"&gt;GEDI@gov.pe.ca&lt;/a&gt; until 4:00 p.m. on September 23, 2026.&lt;/p&gt;
-&lt;p&gt;Learn more and apply here &lt;a href="https://www.princeedwardisland.ca/en/information/economic-growth-tourism-and-culture/gender-equity-diversity-inclusion-community"&gt;GEDI program&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;April Gallant&lt;br /&gt;Department of Workforce and Advanced Learning&lt;br /&gt;&lt;a href="mailto:adgallant@gov.pe.ca"&gt;aldgallant@gov.pe.ca&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Senior Islander of the Year Award nominations now open</title>
-      <link>https://www.princeedwardisland.ca/en/news/senior-islander-of-the-year-award-nominations-now-open</link>
-      <guid isPermaLink="false">80924 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 04 Aug 2026 18:45:01 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Senior Islander of the Year Award nominations now open&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-04T15:45:01-03:00" title="Tuesday, August 4, 2026 - 15:45"&gt;Tue, 08/04/2026 - 15:45&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Islanders can now nominate an outstanding older adult for the 2026 Senior Islander of the Year Award.&lt;/p&gt;
-&lt;p&gt;The award celebrates the many contributions of PEI residents who are 65 years and over and promotes positive aging. Examples of contributions may include community activities and engagement, volunteering, fundraising, education, research, fitness and recreation.&amp;nbsp;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;"I encourage Islanders to think about the people who inspire them, strengthen their communities and make a difference in the lives of others. This award is a special opportunity to celebrate those contributions and recognize an older Islander who is truly deserving."&lt;/p&gt;
-&lt;p&gt;-Social Development and Seniors Minister Barb Ramsay.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;For a nomination to be considered, the nominee must be:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;65 years or older at the time of their nomination and while making their contributions;&lt;/li&gt;
-&lt;li&gt;A resident of PEI both at the time of their nomination and while making their contributions;&lt;/li&gt;
-&lt;li&gt;Actively contributing to their community;&lt;/li&gt;
-&lt;li&gt;Willing to participate in the promotion of the award and related communications.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Past recipients and posthumous nominations are not eligible for consideration.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;In 2025, ten older adults were presented with a Senior Islander of the Year Award. They include Betty Dougan, Daria Valkenburg, Honourable Diane Griffin, Don Reid, Kit Loschiuk, Eileen LeClair, Estelle Bourgeois, John Rousseau, Dr. Umesh Gupta and Velma Bince.&lt;/p&gt;
-&lt;p&gt;To nominate a deserving older adult, visit:&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/pei-senior-islander-of-the-year-award"&gt;PEI Senior Islander of the Year Award.&lt;/a&gt; Nominations will be accepted until August 25, 2026.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Media contac&lt;/strong&gt;t:&lt;br /&gt;Hillary Proctor&lt;br /&gt;Department of Social Development and Seniors&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:hproctor@gov.pe.ca"&gt;hproctor@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>New partnership will reduce wait times for MRI scans on PEI</title>
-      <link>https://www.princeedwardisland.ca/en/news/new-partnership-will-reduce-wait-times-for-mri-scans-on-pei</link>
-      <guid isPermaLink="false">80922 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 04 Aug 2026 15:51:14 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New partnership will reduce wait times for MRI scans on PEI&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-04T12:51:14-03:00" title="Tuesday, August 4, 2026 - 12:51"&gt;Tue, 08/04/2026 - 12:51&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="image of people standing in from of MRI machine" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/70b1/MRI.jpg.webp?itok=7XSQOLg-" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;A new partnership between the Department of Health and Wellness, Health PEI, and Building with Vision Ltd. will reduce wait times for Magnetic Resonance Imaging (MRI) scans in Prince Edward Island and help improve access to this essential service for Islanders.&lt;/p&gt;
-&lt;p&gt;Through this partnership, patients referred by Health PEI will be able to receive publicly funded MRI scans at Building with Vision’s Summerside Diagnostic Imaging Centre.&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;“Reducing wait times and improving access to care are among our government's top priorities. This new partnership with Building with Vision will help more Islanders get the MRI scans they need, sooner and closer to home. By expanding publicly funded diagnostic imaging capacity here in the province, we are taking action to build a stronger, more responsive health care system for Islanders.”&lt;/p&gt;
-&lt;p&gt;-Minister of Health and Wellness Cory Deagle&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;A contract with an MRI facility in Moncton that started in the fall of 2024 has significantly reduced the backlog of patients waiting for scans. This added capacity closer to home will continue to help lower wait times.&lt;/p&gt;
-&lt;p&gt;“The Summerside Diagnostic Imaging Centre will allow us to continue to make improvements in our wait times and clear the backlog of patients,” said Laurae Klocschinsky, Interim CEO of Health PEI. “Even better, it will allow us to provide certain types of MRI scans closer to home. I want to be clear: this is publicly funded health care, using the capacity and innovation of our partners at Building with Vision.”&lt;/p&gt;
-&lt;p&gt;“My colleagues and I are pleased to partner with Health PEI in this important effort to help reduce MRI wait times for Islanders and improve health outcomes across the province,” said Dr. Guy Boswall of Building with Vision. “Timely access to diagnostic imaging is essential to ensuring patients receive the care they need, when they need it. By working together, we can help strengthen access to MRI services, support earlier diagnosis and treatment, and contribute to better care for patients and families throughout Prince Edward Island.”&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Patients will continue to follow the standard MRI process by being referred to the MRI department at Queen Elizabeth Hospital by a Health PEI health care provider. Patients cannot schedule their own appointment or be reimbursed for an MRI completed in a private clinic unless they have first been referred to a specialist who will review their case.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Media Contact:&lt;/strong&gt;   &amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Dave Atkinson &amp;nbsp;&lt;br /&gt;Senior Communications Officer, Health PEI&lt;br /&gt;&lt;a href="mailto:datkinson@ihis.org"&gt;datkinson@ihis.org&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Autumn Tremere&lt;br /&gt;Senior Communications Officer, Department of Health and Wellness&lt;br /&gt;&lt;a href="mailto:agtremere@gov.pe.ca"&gt;agtremere@gov.pe.ca&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Blair Murphy&lt;br /&gt;General Manger, Building with Vision Ltd&lt;br /&gt;&lt;a href="mailto:gm@buildingwithvision.com"&gt;gm@buildingwithvision.com&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Province adds 60 long-term care beds in Summerside</title>
-      <link>https://www.princeedwardisland.ca/en/news/province-adds-60-long-term-care-beds-in-summerside</link>
-      <guid isPermaLink="false">80920 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 04 Aug 2026 13:50:49 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province adds 60 long-term care beds in Summerside&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-04T10:50:49-03:00" title="Tuesday, August 4, 2026 - 10:50"&gt;Tue, 08/04/2026 - 10:50&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="image of City of Summerside Mayor Dan Kutcher, MLA Hilton MacLennan, Minister Barb Ramsay, Minister Cory Deagle, Enhanced Living Director of Care Samantha Gaudet, Premier Rob Lantz and MLA Tyler DesRoches. " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/a3fb/Long%20term%20Care%201.jpg.webp?itok=S_TNCVUC" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Government of Prince Edward Island is expanding long-term care capacity in Prince County with a new 60-bed long-term care home that will be developed in Summerside.&lt;/p&gt;
-&lt;p&gt;Enhanced Living has been awarded the contract to build a private long-term care home that will help address the increasing need while improving access to care for Island seniors.&lt;/p&gt;
-&lt;p&gt;This project builds on government’s commitment, announced in the 2025 Budget, to add up to 175 new long-term care beds across the province to help meet demand and strengthen the health care system.&lt;br /&gt;&lt;br /&gt;Through a 30-year agreement, the province will support the construction and operation of the new home, cover residents’ health care costs, and provide accommodation subsidies. Once the home opens, the province will provide up to $7.4 million annually to help offset accommodation costs for residents. &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;This announcement builds on the recently announced 80-bed private long-term care home development in Cornwall. The added capacity will help reduce pressure on hospitals and supports Islanders who are waiting for long-term care.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Government continues to plan for future long-term care needs and is advancing additional projects to expand access to care across the province.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;In Prince Edward Island, long-term care services are delivered through nine public and 11 private long-term care homes. With this investment, total long-term care capacity will increase to 1,465 beds. &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;For more information, visit &lt;a href="https://www.princeedwardisland.ca/en/information/health-pei/long-term-care"&gt;Long-term Care | Government of Prince Edward Island&lt;/a&gt;.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Quotes:&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;“As our communities continues to grow, and so does the need for long-term care. This is an important investment that will help more Island seniors receive high-quality care close to home while supporting families across western PEI. It reflects our government’s commitment to expanding long-term care capacity and planning for the needs of Islanders today and into the future.”&lt;/p&gt;
-&lt;p&gt;- Premier of Prince Edward Island Rob Lantz&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;“We’re pleased to partner with Enhanced Living to expand care options in Prince County and help more Islanders access the support they need. Projects like this are an important part of building a more connected healthcare system that better serves seniors and families. This is another step toward ensuring Islanders receive the right care, in the right place, at the right time.”&lt;/p&gt;
-&lt;p&gt;- Minister of Health and Wellness Cory Deagle&lt;/p&gt;
-&lt;p&gt;"I'm pleased to see this important investment move forward for Island seniors and their families. Helping seniors stay connected to the people and communities they know and love, while ensuring they receive compassionate, high-quality care when they need it, is an important part of building strong communities across Prince Edward Island."&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;- Minister of Social Development and Seniors Barb Ramsay&lt;/p&gt;
-&lt;p&gt;“Today’s announcement is welcome news for Prince County, and it will help more Island seniors remain closer to their communities. I’m proud to see Summerside continue to grow with the services needed to support Islanders’ health and well-being as they age.”&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;- Summerside-Wilmot MLA Tyler DesRoches&lt;/p&gt;
-&lt;p&gt;"This is an important investment in both our community and the people who call it home. As Summerside continues to grow, so does the need for high-quality health care services that support residents at every stage of life. This new long-term care home will allow more older adults to stay close to the people and places they know best, while creating meaningful employment opportunities and further strengthening Summerside as a hub for health care in western Prince Edward Island. We look forward to seeing this project become reality."&lt;/p&gt;
-&lt;p&gt;- City of Summerside Mayor Dan Kutcher&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;"The opening of this 60-bed nursing home in Summerside reflects a strong commitment to the community, ensuring more residents can receive compassionate, dignified care close to their families. As someone with deep ties to the area, I’m proud to be part of a project that will make a lasting difference in the lives of Islanders.&amp;nbsp;"&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;- Enhanced Living Director of Care Samantha Gaudet&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Media contac&lt;/strong&gt;t:&lt;br /&gt;Marla Morrison&lt;br /&gt;Department of Health and Wellness&lt;br /&gt;&lt;a href="mailto:marlamorrison@gov.pe.ca"&gt;marlamorrison@gov.pe.ca&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Fisher</title>
-      <link>https://www.princeedwardisland.ca/en/employee/fisher-tiffany</link>
-      <guid isPermaLink="false">80919 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 04 Aug 2026 12:37:00 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fisher&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-04T09:37:00-03:00" title="Tuesday, August 4, 2026 - 09:37"&gt;Tue, 08/04/2026 - 09:37&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Administrative Assistant&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Education and Professional Development&lt;/div&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
 
