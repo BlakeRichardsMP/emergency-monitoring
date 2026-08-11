@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 11 Aug 2026 11:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:18:18 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -313,6 +313,62 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-08-10T14:46:48-03:00</pubDate>
       <description>Bomb Threat (Update) Downtown Halifax, NS There is currently no longer an ongoing threat to the public's safety regarding the earlier Bomb Threat. All roads in the downtown area are now re-opened... | Areas: Downtown Halifax, NS | Level: critical</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>MacDonald</title>
+      <link>https://www.princeedwardisland.ca/en/employee/macdonald-kimberly</link>
+      <guid isPermaLink="false">80956 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 11 Aug 2026 13:11:51 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MacDonald&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-11T10:11:51-03:00" title="Tuesday, August 11, 2026 - 10:11"&gt;Tue, 08/11/2026 - 10:11&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Critical Care and Emergency Nursing Programs Coordinator&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Professional Practice&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -1062,50 +1118,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Records for Canadian Citizenship Certificate Applications</title>
-      <link>https://www.princeedwardisland.ca/en/information/education-and-early-years/records-for-canadian-citizenship-certificate-applications</link>
-      <guid isPermaLink="false">80940 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 06 Aug 2026 14:56:38 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Records for Canadian Citizenship Certificate Applications&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gradawson&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-06T11:56:38-03:00" title="Thursday, August 6, 2026 - 11:56"&gt;Thu, 08/06/2026 - 11:56&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Canadian passport" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/e6af/Canada1.jpg.webp?itok=0JxIkuwi" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;/p&gt;
-&lt;div class="rich-text alert alert-info"&gt;
-&lt;p&gt;For information on the documents required for Canadian Citizenship Certificate applications, visit &lt;a href="https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.canada.ca%2Fen%2Fimmigration-refugees-citizenship%2Fservices%2Fcanadian-citizenship%2Fproof-citizenship%2Fapply.html&amp;amp;data=05%7C02%7Cgradawson%40gov.pe.ca%7C3c1f61bac1aa48553a7208def3c90816%7Cc86b09eb7ad74aa29d8298a45bd8ec19%7C0%7C0%7C639216242176580556%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=jcNNWvA39e8c53yl3v5ob4DUh403mzup7UEL3V61%2BwI%3D&amp;amp;reserved=0"&gt;Immigration, Refugees and Citizenship Canada's&lt;/a&gt; website.&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
       <source>Prince Edward Island</source>
     </item>
 
