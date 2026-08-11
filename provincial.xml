@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 11 Aug 2026 18:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 21:28:09 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -280,29 +280,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Quebec Emergency Alert</title>
-      <link>https://alerte.gouv.qc.ca/en</link>
-      <guid isPermaLink="false">13043</guid>
-      <pubDate></pubDate>
-      <description></description>
-      <source>Quebec</source>
-    </item>
-
-    <item>
       <title>Heat (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3462327955.2026-1</guid>
       <pubDate>2026-08-10T22:07:52-00:00</pubDate>
       <description>Conditions are no longer expected to reach heat warning criteria. | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Civil Emergency (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">9DEE60A5-F86C-4F93-8FBC-757180C445CC-1</guid>
-      <pubDate>2026-08-10T17:21:18-03:00</pubDate>
-      <description>Area of Upper Water Street and connecting streets. Suspicious vehicle contained in parkade at 1969 Upper Water Street. Immediate area has been evacuated, police currently have area contained and... | Areas: Area of Upper Water Street and connecting streets. | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
