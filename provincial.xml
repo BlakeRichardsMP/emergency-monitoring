@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 11 Aug 2026 15:18:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 18:37:03 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -303,15 +303,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">9DEE60A5-F86C-4F93-8FBC-757180C445CC-1</guid>
       <pubDate>2026-08-10T17:21:18-03:00</pubDate>
       <description>Area of Upper Water Street and connecting streets. Suspicious vehicle contained in parkade at 1969 Upper Water Street. Immediate area has been evacuated, police currently have area contained and... | Areas: Area of Upper Water Street and connecting streets. | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Civil Emergency (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">471F07EA-D1D5-45EA-8690-B13A41B61291-1</guid>
-      <pubDate>2026-08-10T14:46:48-03:00</pubDate>
-      <description>Bomb Threat (Update) Downtown Halifax, NS There is currently no longer an ongoing threat to the public's safety regarding the earlier Bomb Threat. All roads in the downtown area are now re-opened... | Areas: Downtown Halifax, NS | Level: critical</description>
       <source>Nova Scotia</source>
     </item>
 
