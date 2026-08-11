@@ -5,7 +5,27 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 11 Aug 2026 21:28:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:25:43 +0000</lastBuildDate>
+
+    <item>
+      <title>red warning - severe thunderstorm - in effect</title>
+      <link>https://www.alberta.ca/data/aea/cap/2026/08/11/2026-08-11T17_04_06-06_00=cap-pac@canada.ca=urn_oid_2.49.0.1.124.3965151873.2026.xml</link>
+      <guid isPermaLink="false">https://www.alberta.ca/data/aea/rss/2026-08-11T17_04_06-06_00=cap-pac@canada.ca=urn_oid_2.49.0.1.124.3965151873.2026</guid>
+      <pubDate>2026-08-11T17:04:06-06:00</pubDate>
+      <description>At 5:02 p.m. MDT, an extremely dangerous thunderstorm is located over Claresholm. This extremely dangerous thunderstorm is moving southeast at 50 km/h. Damaging wind gusts, baseball size or greater hail and heavy rain are possible.
+
+Locations and nearby areas that could be impacted include: Claresholm, Nobleford, Monarch
+
+
+###
+
+Driving conditions will be difficult. Buildings and/or many trees will be destroyed. Large hail will cause significant damage and injury.
+
+Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.
+
+Area: (M.D. of Willow Creek near Claresholm and Stavely, Vulcan Co. near Carmangay and Champion, M.D. of Willow Creek near Granum and Peigan Timber Limit, M.D. of Willow Creek near Fort Macleod, Co. of Lethbridge near Coalhurst Nobleford and Barons, new active threat area, continued active threat area)</description>
+      <source>Alberta</source>
+    </item>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -271,21 +291,58 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Quebec Emergency Alert</title>
-      <link>https://alerte.gouv.qc.ca/en</link>
-      <guid isPermaLink="false">13065</guid>
-      <pubDate></pubDate>
-      <description></description>
-      <source>Quebec</source>
-    </item>
+      <title>Young</title>
+      <link>https://www.princeedwardisland.ca/en/employee/young-margaret-0</link>
+      <guid isPermaLink="false">80959 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 11 Aug 2026 21:48:02 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Young&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-11T18:48:02-03:00" title="Tuesday, August 11, 2026 - 18:48"&gt;Tue, 08/11/2026 - 18:48&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
-    <item>
-      <title>Heat (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3462327955.2026-1</guid>
-      <pubDate>2026-08-10T22:07:52-00:00</pubDate>
-      <description>Conditions are no longer expected to reach heat warning criteria. | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
-      <source>Nova Scotia</source>
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Community Dietitian&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                  &lt;div&gt;Health PEI&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -982,85 +1039,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Private Researchers - Archives</title>
-      <link>https://www.princeedwardisland.ca/en/form/private-researchers-archives</link>
-      <guid isPermaLink="false">80939 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 06 Aug 2026 15:13:17 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Private Researchers - Archives&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gradawson&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-06T12:13:17-03:00" title="Thursday, August 6, 2026 - 12:13"&gt;Thu, 08/06/2026 - 12:13&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/8c60/PrivateResearchers%20-%20August%202026.pdf"&gt;
-              &lt;span&gt;PrivateResearchers - August 2026.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
   
     
       
