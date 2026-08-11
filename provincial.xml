@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 11 Aug 2026 00:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:52:11 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -213,15 +213,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.4042129360.2026-1</guid>
       <pubDate>2026-08-10T23:58:02-00:00</pubDate>
       <description>South Central Saskatchewan. Spiritwood, Debden, Big River Reserve, Meeting Lake and Leask. Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: R.M. of Spiritwood including Spiritwood and Leoville, R.M. of Canwood including Debden and Big River Res., R.M. of Leask including Leask Mistawasis Res. and Parkside | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2697983223.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2694410374.2026-1</guid>
-      <pubDate>2026-08-10T00:57:25-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Carlyle, Redvers, Storthoaks, Alida, Carnduff, Gainsborough, Stoughton, Arcola, Lampman, Bienfait, North Portal, Alameda and Oxbow. Severe thunderstorms associated with... | Areas: R.M. of Enniskillen including Oxbow and Northgate, R.M. of Mount Pleasant including Carnduff | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
