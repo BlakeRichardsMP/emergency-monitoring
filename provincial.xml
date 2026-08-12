@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 12 Aug 2026 18:41:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 23:25:35 +0000</lastBuildDate>
 
     <item>
       <title>red warning - severe thunderstorm - in effect</title>
@@ -250,11 +250,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Drinking Water (Issued)</title>
+      <title>Drinking Water (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/3C7939DE-00DD-4F36-97B3-FAE55939F0D9</link>
-      <guid isPermaLink="false">3C7939DE-00DD-4F36-97B3-FAE55939F0D9-1</guid>
-      <pubDate>2026-08-07T11:54:47-06:00</pubDate>
-      <description>A Precautionary Drinking Water Advisory has been issued for the Town of Pense. This advisory is for the Town of Pense and for any individuals who may access water from the Pense water distribution... | Areas: Town of Pense | Level: advisory</description>
+      <guid isPermaLink="false">B1D429AC-1BEA-4E70-9AED-92A97BB44F44-1</guid>
+      <pubDate>2026-08-12T16:56:01-06:00</pubDate>
+      <description>Cancelled A Precautionary Drinking Water Advisory that was in place for the Town of Pense has now been cancelled. The water is safe to drink again. Cancelled Residents may resume normal use of tap... | Areas: Town of Pense | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -310,6 +310,227 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-08-12T01:12:20-00:00</pubDate>
       <description>Cape Breton Nova Scotia. Victoria County and Inverness County. | Areas: Inverness County - Mabou and north, Victoria County, ended threat area | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Ramesh</title>
+      <link>https://www.princeedwardisland.ca/en/employee/ramesh-anju</link>
+      <guid isPermaLink="false">80968 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 12 Aug 2026 22:22:04 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ramesh&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-12T19:22:04-03:00" title="Wednesday, August 12, 2026 - 19:22"&gt;Wed, 08/12/2026 - 19:22&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;RN&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                  &lt;div&gt;Health and Wellness&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Naim</title>
+      <link>https://www.princeedwardisland.ca/en/employee/naim-bashar</link>
+      <guid isPermaLink="false">80967 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 12 Aug 2026 22:10:29 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Naim&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-12T19:10:29-03:00" title="Wednesday, August 12, 2026 - 19:10"&gt;Wed, 08/12/2026 - 19:10&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;RCW&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                  &lt;div&gt;Health and Wellness&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Ferguson</title>
+      <link>https://www.princeedwardisland.ca/en/employee/ferguson-justin</link>
+      <guid isPermaLink="false">80966 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 12 Aug 2026 22:01:04 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ferguson&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-12T19:01:04-03:00" title="Wednesday, August 12, 2026 - 19:01"&gt;Wed, 08/12/2026 - 19:01&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Plumbr&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                  &lt;div&gt;Health and Wellness&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Kaur</title>
+      <link>https://www.princeedwardisland.ca/en/employee/kaur-rajdeep</link>
+      <guid isPermaLink="false">80965 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 12 Aug 2026 21:35:50 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Kaur&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-12T18:35:50-03:00" title="Wednesday, August 12, 2026 - 18:35"&gt;Wed, 08/12/2026 - 18:35&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Environmental Health Officer&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health and Wellness&lt;/strong&gt;
+            &lt;div&gt;Chief Public Health Office&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -702,353 +923,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
           &lt;div class="layout__region layout__region--second"&gt;
         
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Zhen</title>
-      <link>https://www.princeedwardisland.ca/en/employee/zhen-yongi</link>
-      <guid isPermaLink="false">80954 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 10 Aug 2026 22:39:08 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Zhen&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-10T19:39:08-03:00" title="Monday, August 10, 2026 - 19:39"&gt;Mon, 08/10/2026 - 19:39&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Cook&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                  &lt;div&gt;Health and Wellness&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>436626 Forest Management Plan (Murray River)</title>
-      <link>https://www.princeedwardisland.ca/en/publication/436626-forest-management-plan-murray-river</link>
-      <guid isPermaLink="false">80953 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 10 Aug 2026 16:46:56 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;436626 Forest Management Plan (Murray River)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-10T13:46:56-03:00" title="Monday, August 10, 2026 - 13:46"&gt;Mon, 08/10/2026 - 13:46&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/ad0c/436626%20Forest%20Management%20Plan.pdf"&gt;
-              &lt;span&gt;436626 Forest Management Plan.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Province supports more Island startups</title>
-      <link>https://www.princeedwardisland.ca/en/news/province-supports-more-island-startups</link>
-      <guid isPermaLink="false">80952 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 10 Aug 2026 13:43:38 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province supports more&amp;nbsp;Island startups&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-10T10:43:38-03:00" title="Monday, August 10, 2026 - 10:43"&gt;Mon, 08/10/2026 - 10:43&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Photo of Minister Jenn Redmond with recipients" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/6c7e/Province%20supports%20more%20Island%20startups.jpg.webp?itok=qC4Fokii" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Five PEI companies are helping drive industry innovation with artificial intelligence.&lt;/p&gt;
-&lt;p&gt;Innovation PEI has provided close to $2.9 million in funding to 115 startups in the last 12 years to help them develop and transform their ideas into real market solutions. Each successful recipient receives up to $25,000 in seed capital through a competitive process twice a year.&lt;/p&gt;
-&lt;p&gt;As part of &lt;a href="https://peiitalliance.com/tech-week"&gt;PEI’s Tech Week&lt;/a&gt;, organized by the Prince Edward Island IT Alliance, the province is pleased to announce its latest seed capital recipients. These five Island companies are leveraging advancements in technology, notably in artificial intelligence, to modernize industry, professional services, and showcase PEI’s growing technology ecosystem.&lt;/p&gt;
-&lt;p&gt;The recipients include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Dylan Cooper of Boardwalk Inc.&lt;/li&gt;
-&lt;li&gt;Japneet Pal Singh Kalkat of Trailflow Systems Inc.&lt;/li&gt;
-&lt;li&gt;Paakow Wobil, Clinton Aghedo, Chrysler Hewlett, and Promise Ojo of Pentacore&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Parto Omidi and Soroush Izadan of Eidetic Design&lt;/li&gt;
-&lt;li&gt;Phil MacNevin of BuriedCandy Entertainment Inc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The Ignition Fund is expected to open applications later this fall.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Learn more about&amp;nbsp;the&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/innovation-pei/ignition"&gt;Ignition Fund&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Quotes:&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;“No matter what industry you are in, you need innovation to grow. What our Island tech companies are doing is showing that PEI can come up with real, impactful technology solutions to help improve business operations. The Ignition Fund can be an important catalyst for any entrepreneur’s journey, and our government is proud to provide this much-needed capital to get entrepreneurs and their ideas to market.”&lt;/p&gt;
-&lt;p&gt;- Minister of Economic Development, Trade and Artificial Intelligence Jenn Redmond&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;“AI is changing how companies can compete, and these five are proof PEI founders are not waiting for permission. Tech is no longer only a sector; it is what the rest of the economy runs on. Almost every business on this Island has integrated technology solutions into their operations, from farms to fisheries to advanced manufacturing firms, and the companies building those tools are where new GDP comes from. The Alliance is here to support the people doing this work, whether they turn up at The Night Shift on a weeknight or push through 90 days in The Foundry Residency. Innovation PEI is an important partner to us, Island entrepreneurs, and our sector. Congratulations to all five teams.”&lt;/p&gt;
-&lt;p&gt;- Interim CEO of the PEI IT Alliance Ron Myers&lt;/p&gt;
-&lt;p&gt;“Receiving the Ignition Fund will help Trailflow turn early customer feedback into a stronger product for trucking companies across North America. It will help us improve AI agents that handle repetitive office work, from reading load documents to organizing paperwork and preparing invoices, while helping us reach more customers and grow export revenue from Prince Edward Island.”&lt;/p&gt;
-&lt;p&gt;- CEO of Trailflow Systems Inc Japneet Pal Singh Kalkat&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Vicki Tse&lt;br /&gt;Department of Economic Development, Trade and Artificial Intelligence&lt;br /&gt;&lt;a href="mailto:vickitse@gov.pe.ca"&gt;vickitse@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h5&gt;&lt;br /&gt;&lt;strong&gt;Backgrounder:&lt;/strong&gt;&lt;/h5&gt;
-&lt;p&gt;&lt;strong&gt;Boardwalk Inc. – Dylan Cooper&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Lightning Quote is a compliance verification software that uses AI to improve the estimating process for lightning protection systems. The platform creates a three-dimensional visual model showing how a proposed system will protect a building from lightning strikes. It can also review project specifications and architectural drawings, compare them against applicable industry codes and standards, and generate detailed compliance reports that identify potential issues and areas requiring attention. This helps lightning protection installers, architects and engineers prepare accurate designs, estimates, and documentation to save both time and money.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BuriedCandy Entertainment Inc. - Phil MacNevin&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Calling is a fast-paced, third-person, anime-style video game featuring popular video streamers as playable characters. Streamers participate as featured talent and receive a share of the revenue generated from their characters' in-game cosmetic items. The game also incorporates a rewards system designed to encourage ongoing player engagement and long-term retention. The Calling has won IndieDB's 5th Best Indie Game of 2025 and Best Studio award at the 2026 CGM Video Game Awards.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Eidetic Design – Parto Omidi and Soroush Izadan&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;An architectural digital content firm that provides Revit families, SketchUp models, renderings, datasheets, and other specification assets for building products. The platform helps manufacturers showcase their products to architects, designers, and specifiers by supplying accurate technical specifications increasing opportunities to be included in construction and development projects.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Trailflow Systems Inc. – Japneet Pal Singh Kalkat&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Trailflow is an agent-first logistics operating system for growing North American carriers and hybrid carrier-brokers. It gives back-office teams one live context for every load, where autonomous agents ingest emails and rate confirmations, coordinate dispatch, monitor exceptions, collect documents, and move work from intake to invoice and settlement. Trailflow turns fragmented tools and manual coordination into autonomous back-office workflows that execute routine work end to end.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Pentacore – Paakow Wobil, Clinton Aghedo, Chrysler Hewlett, Promise Ojo&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;WilowAI is an AI-powered personal study environment that transforms students’ uploaded notes, slides, and PDF documents into easy-to-use study materials, including summaries, flashcards, quizzes, and interactive AI tutor. The platform helps students stay organized with dedicated structured learning assets that includes progress tracking, achievement milestones, and reward features to help build consistent study habits.&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Harvest Farm Safety Bulletin</title>
-      <link>https://www.princeedwardisland.ca/en/publication/harvest-farm-safety-bulletin</link>
-      <guid isPermaLink="false">80951 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 10 Aug 2026 12:13:48 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Harvest Farm Safety Bulletin&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-10T09:13:48-03:00" title="Monday, August 10, 2026 - 09:13"&gt;Mon, 08/10/2026 - 09:13&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Harvest Farm Safety Bulletin 2026&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/50ca/af_Farm%20Safety%20Bulletin.pdf"&gt;
-              &lt;span&gt;af_Farm Safety Bulletin.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
