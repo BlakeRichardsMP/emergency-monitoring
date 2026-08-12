@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 12 Aug 2026 05:19:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 09:43:36 +0000</lastBuildDate>
 
     <item>
       <title>red warning - severe thunderstorm - in effect</title>
@@ -310,6 +310,62 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-08-12T01:12:20-00:00</pubDate>
       <description>Cape Breton Nova Scotia. Victoria County and Inverness County. | Areas: Inverness County - Mabou and north, Victoria County, ended threat area | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Jacobs</title>
+      <link>https://www.princeedwardisland.ca/en/employee/jacobs-meagan</link>
+      <guid isPermaLink="false">80960 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 12 Aug 2026 08:14:44 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Jacobs&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;patrickmackay&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-12T05:14:44-03:00" title="Wednesday, August 12, 2026 - 05:14"&gt;Wed, 08/12/2026 - 05:14&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Building Construction Site Inspector&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Transportation, Infrastructure and Energy&lt;/strong&gt;
+            &lt;div&gt;Building Design and Construction&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -987,80 +1043,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>July 2026 Engage PEI Appointments</title>
-      <link>https://www.princeedwardisland.ca/en/information/executive-council-office/july-2026-engage-pei-appointments</link>
-      <guid isPermaLink="false">80944 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 06 Aug 2026 18:49:27 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;July 2026 Engage PEI Appointments&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ntyeba&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-06T15:49:27-03:00" title="Thursday, August 6, 2026 - 15:49"&gt;Thu, 08/06/2026 - 15:49&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Here are the 11 people appointed or reappointed to 3 agencies, boards and commissions by Cabinet in July 2026.&lt;/p&gt;
-&lt;h3&gt;Council of the College of Physicians and Surgeons of Prince Edward Island&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Doreen Gillis (reappointment) – Charlottetown&lt;/li&gt;
-&lt;li&gt;Liza Jamani (reappointment) – Stanhope&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Prince Edward Island Criminal Code Review Board&amp;nbsp;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Donald K. MacKenzie. K.C. – Stratford&lt;/li&gt;
-&lt;li&gt;Aidan Sheridan (reappointment) – Marshfield&lt;/li&gt;
-&lt;li&gt;Susan Maynard &amp;nbsp;(reappointment) – Charlottetown&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Tourism PE Board of Directors&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Geoffrey Irving – Woodstock&lt;/li&gt;
-&lt;li&gt;Marly Anderson – Victoria&lt;/li&gt;
-&lt;li&gt;Terry Nabuurs – Cardigan&lt;/li&gt;
-&lt;li&gt;John Cudmore (reappointment) – Charlottetown&amp;nbsp;&lt;/li&gt;
-&lt;li&gt;Jacqueline DesRoches (reappointment) – Stanley Bridge&lt;/li&gt;
-&lt;li&gt;Kirk Nicholson (reappointment) – Stratford&amp;nbsp;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
   
     
       
