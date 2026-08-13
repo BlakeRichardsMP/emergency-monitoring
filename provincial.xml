@@ -5,49 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 12 Aug 2026 23:25:35 +0000</lastBuildDate>
-
-    <item>
-      <title>red warning - severe thunderstorm - in effect</title>
-      <link>https://www.alberta.ca/data/aea/cap/2026/08/11/2026-08-11T19_28_01-06_00=cap-pac@canada.ca=urn_oid_2.49.0.1.124.0433687766.2026.xml</link>
-      <guid isPermaLink="false">https://www.alberta.ca/data/aea/rss/2026-08-11T19_28_01-06_00=cap-pac@canada.ca=urn_oid_2.49.0.1.124.0433687766.2026</guid>
-      <pubDate>2026-08-11T19:28:01-06:00</pubDate>
-      <description>At 7:26 p.m. MDT, an extremely dangerous thunderstorm is located near Barnwell. This extremely dangerous thunderstorm is moving east at 45 km/h. Damaging wind gusts, baseball size or greater hail and heavy rain are possible.
-
-Locations and nearby areas that could be impacted include: Barnwell, Wrentham, Skiff
-
-
-###
-
-Driving conditions will be difficult. Buildings and/or many trees will be destroyed. Large hail will cause significant damage and injury.
-
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.
-
-Severe thunderstorms can produce tornadoes.
-
-Area: (Co. of Lethbridge near Coaldale, M.D. of Taber near Taber and Barnwell, M.D. of Taber near Grassy Lake and Hwys 877 and 513, Co. of Warner near Wrentham, Co. of Forty Mile near Skiff, new active threat area, continued active threat area)</description>
-      <source>Alberta</source>
-    </item>
-
-    <item>
-      <title>red warning - severe thunderstorm - in effect</title>
-      <link>https://www.alberta.ca/data/aea/cap/2026/08/11/2026-08-11T17_04_06-06_00=cap-pac@canada.ca=urn_oid_2.49.0.1.124.3965151873.2026.xml</link>
-      <guid isPermaLink="false">https://www.alberta.ca/data/aea/rss/2026-08-11T17_04_06-06_00=cap-pac@canada.ca=urn_oid_2.49.0.1.124.3965151873.2026</guid>
-      <pubDate>2026-08-11T17:04:06-06:00</pubDate>
-      <description>At 5:02 p.m. MDT, an extremely dangerous thunderstorm is located over Claresholm. This extremely dangerous thunderstorm is moving southeast at 50 km/h. Damaging wind gusts, baseball size or greater hail and heavy rain are possible.
-
-Locations and nearby areas that could be impacted include: Claresholm, Nobleford, Monarch
-
-
-###
-
-Driving conditions will be difficult. Buildings and/or many trees will be destroyed. Large hail will cause significant damage and injury.
-
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.
-
-Area: (M.D. of Willow Creek near Claresholm and Stavely, Vulcan Co. near Carmangay and Champion, M.D. of Willow Creek near Granum and Peigan Timber Limit, M.D. of Willow Creek near Fort Macleod, Co. of Lethbridge near Coalhurst Nobleford and Barons, new active threat area, continued active threat area)</description>
-      <source>Alberta</source>
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 05:23:49 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -301,15 +259,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3026568721.2026-1</guid>
-      <pubDate>2026-08-12T01:12:20-00:00</pubDate>
-      <description>Cape Breton Nova Scotia. Victoria County and Inverness County. | Areas: Inverness County - Mabou and north, Victoria County, ended threat area | Level: advisory</description>
-      <source>Nova Scotia</source>
     </item>
 
     <item>
