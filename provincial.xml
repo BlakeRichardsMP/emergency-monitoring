@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 14 Aug 2026 12:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:10:53 +0000</lastBuildDate>
 
     <item>
       <title>yellow watch - tornado - ended</title>
@@ -224,18 +224,18 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Rainfall (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1695504313.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2405493314.2026-1</guid>
-      <pubDate>2026-08-14T10:27:37-00:00</pubDate>
-      <description>Rain continues this morning in southeastern Saskatchewan and portions of western Manitoba. The rain is expected to continue today and this evening before tapering off overnight. Total rainfall in... | Areas: R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Benson including Benson, R.M. of Cambria including Torquay and Outram, R.M. of Estevan including Estevan and Hitchcock, R.M. of Wawken including Wawota Kennedy and Kenosee Lake, R.M. of Martin including Wapella and Red Jacket, R.M. of Moosomin including Moosomin Welwyn and Fleming, R.M. of Walpole including Kelso, R.M. of Maryfield including Maryfield and Fairlight, R.M. of Tecumseh including Stoughton Forget and Heward, R.M. of Brock including Arcola and Kisbey, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, R.M. of Moose Mountain including Carlyle and Manor, R.M. of Antler including Redvers Antler and Wauchope, R.M. of Storthoaks including Storthoaks and Fertile, R.M. of Reciprocity including Alida | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3732632527.2026-1</guid>
+      <pubDate>2026-08-14T14:50:44-00:00</pubDate>
+      <description>Rain continues this morning in southeastern Saskatchewan and portions of western Manitoba. The rain is expected to continue today and this evening before tapering off overnight. Total rainfall in... | Areas: R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Benson including Benson, R.M. of Cambria including Torquay and Outram, R.M. of Estevan including Estevan and Hitchcock, R.M. of Wawken including Wawota Kennedy and Kenosee Lake, R.M. of Martin including Wapella and Red Jacket, R.M. of Moosomin including Moosomin Welwyn and Fleming, R.M. of Walpole including Kelso, R.M. of Maryfield including Maryfield and Fairlight, R.M. of Tecumseh including Stoughton Forget and Heward, R.M. of Brock including Arcola and Kisbey, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, R.M. of Moose Mountain including Carlyle and Manor, R.M. of Antler including Redvers Antler and Wauchope, R.M. of Storthoaks including Storthoaks and Fertile, R.M. of Reciprocity including Alida, R.M. of Mount Pleasant including Carnduff, R.M. of Argyle including Gainsborough and Carievale | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
-      <title>Air Quality (Issued)</title>
+      <title>Air Quality (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3059168123.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3059168123.2026-1</guid>
-      <pubDate>2026-08-14T02:28:57-00:00</pubDate>
-      <description>Smoke is causing poor air quality and reduced visibility. Air quality and visibility due to wildfire smoke can fluctuate over short distances and can vary considerably from hour to hour. When... | Areas: Uranium City - Camsell Portage, Fond-du-Lac, Stony Rapids and Black Lake | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1848673206.2026-1</guid>
+      <pubDate>2026-08-14T13:35:59-00:00</pubDate>
+      <description>Smoke is causing poor air quality and reduced visibility. Air quality and visibility due to wildfire smoke can fluctuate over short distances and can vary considerably from hour to hour. When... | Areas: Uranium City - Camsell Portage, Fond-du-Lac, Stony Rapids and Black Lake, Wollaston Lake - Collins Bay | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -252,7 +252,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW WARNING - RAINFALL - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a7e8cf8cb12c20370efbdcd</guid>
-      <pubDate>2026-08-14T10:29:06.294Z</pubDate>
+      <pubDate>2026-08-14T14:52:18.728Z</pubDate>
       <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Rain continues this morning in southeastern Saskatchewan and portions of western Manitoba.  The rain is expected to continue today and this evening before tapering off overnight.  Total rainfall in the area covered by this warning will range from 50-70 mm.
 
 Surrounding regions (where a special weather is in effect) will see lesser amounts of 20 -50 mm.
@@ -269,7 +269,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <title>BE ALERT - YELLOW WARNING - RAINFALL - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a7e8d03cb12c20370efbf91</guid>
-      <pubDate>2026-08-14T10:28:57.850Z</pubDate>
+      <pubDate>2026-08-14T14:52:12.919Z</pubDate>
       <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Rain continues this morning in southeastern Saskatchewan and portions of western Manitoba.  The rain is expected to continue today and this evening before tapering off overnight.  Total rainfall in the area covered by this warning will range from 50-70 mm.
 
 Surrounding regions (where a special weather is in effect) will see lesser amounts of 20 -50 mm.
@@ -316,6 +316,24 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0355059072.2026-1</guid>
+      <pubDate>2026-08-14T14:52:10-00:00</pubDate>
+      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. When thunder roars, go indoors! Lightning kills and injures Canadians every year. | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Colchester County - Truro and south, Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Squall (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1887903176.2026-1</guid>
+      <pubDate>2026-08-14T14:48:50-00:00</pubDate>
+      <description>Northumberland Strait - eastern half. Conditions are favourable for the development of squalls with wind gusts up to 35 knots, frequent lightning and poor to very poor visibility in thunderstorms... | Areas: Northumberland Strait - eastern half | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
@@ -379,6 +397,248 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <pubDate>2026-08-13T21:18:36-00:00</pubDate>
       <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Colchester County - Truro and south, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Orders in Council August 13, 2026 (812-837)</title>
+      <link>https://www.princeedwardisland.ca/en/publication/orders-in-council-august-13-2026-812-837</link>
+      <guid isPermaLink="false">80987 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 14 Aug 2026 14:50:46 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orders in Council August 13, 2026 (812-837)&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tamperry&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-14T11:50:46-03:00" title="Friday, August 14, 2026 - 11:50"&gt;Fri, 08/14/2026 - 11:50&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Orders in Council&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/242f/20260813truwww.pdf"&gt;
+              &lt;span&gt;20260813truwww.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Provincial staff ready to support emergency reception operations</title>
+      <link>https://www.princeedwardisland.ca/en/news/provincial-staff-ready-to-support-emergency-reception-operations</link>
+      <guid isPermaLink="false">80985 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 14 Aug 2026 12:33:38 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Provincial staff ready to support emergency reception operations&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ewhmcnamara&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-14T09:33:38-03:00" title="Friday, August 14, 2026 - 09:33"&gt;Fri, 08/14/2026 - 09:33&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="A group of people standing in a line in front of a television screen" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/216a/Provincial%20staff%20ready%20to%20support%20emergency%20reception%20operations.jpg.webp?itok=Tr4i-YsT" title="Provincial staff ready to support emergency reception operations" width="1000" /&gt;
+
+  
+
+
+        &lt;figcaption class="tw-text-sm tw-text-dark tw-font-normal tw-font-headers tw-tracking-tighter mt-2"&gt;
+      Provincial reception centre training participants
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;More than 30 provincial civil servants have received enhanced training to help operate reception centres during extreme weather and other emergencies, strengthening support for Islanders when they need it.&lt;/p&gt;
+&lt;p&gt;The training included reception centre operations, emergency management and psychological first aid. &amp;nbsp;It is hurricane season now and although no storms are in the immediate forecast, residents are encouraged to stay prepared throughout the season.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;“Communities, municipalities and volunteer groups do a great job at opening their doors and providing support in an emergency,” said Justice and Public Safety Minister Bloyce Thompson. “These trained provincial employees will be available to help communities when they need it most.”&lt;/p&gt;
+&lt;p&gt;There are 62 certified reception centers in the province, along with nine provincial emergency sites. During emergencies, provincial sites can be used to run provincial programs and may also serve as reception centres or shelters. &amp;nbsp;All sites are equipped with generators to provide backup power.&lt;/p&gt;
+&lt;p&gt;“It’s easier to get prepared when the weather is good, rather than when we are facing power outages or other obstacles,” said Emergency Measures Organization Manager Alan Murphy. “Take some time now to locate the nearest reception centre and fuel station with generators. It’s also a great time to make a plan with any family or friends who may need some extra help in an emergency.”&lt;/p&gt;
+&lt;p&gt;All emergency reception centre sites are listed on the province’s &lt;a href="https://www.princeedwardisland.ca/en/feature/reception-centre-map"&gt;Reception Centre Map&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Many Island gas stations now have generators so they can stay open and provide fuel in the event of a power outage. These locations are noted on the &lt;a href="https://www.princeedwardisland.ca/en/feature/fuel-station-resiliency-sites-with-generators/#/service/FuelStationsMap/FuelStationsMap"&gt;Fuel Station Resiliency Sites With Generators&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hurricane preparedness tips are available at &lt;a href="https://www.princeedwardisland.ca/en/information/justice-and-public-safety/how-to-be-prepared-for-an-emergency"&gt;PrinceEdwardIsland.ca/BePrepared&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Katie Cudmore&lt;br /&gt;Department of Justice and Public Safety&lt;br /&gt;902-314-3996&lt;br /&gt;&lt;a href="mailto:katiecudmore@gov.pe.ca"&gt;katiecudmore@gov.pe.ca&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Gallant</title>
+      <link>https://www.princeedwardisland.ca/en/employee/gallant-c-ryan</link>
+      <guid isPermaLink="false">80984 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 14 Aug 2026 12:15:29 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Gallant&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;stevengallant&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-14T09:15:29-03:00" title="Friday, August 14, 2026 - 09:15"&gt;Fri, 08/14/2026 - 09:15&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Director of Prosecutions&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Justice and Public Safety&lt;/strong&gt;
+            &lt;div&gt;Charlottetown Location&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -851,174 +1111,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
 
   &lt;/div&gt;
 
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>MacMillan</title>
-      <link>https://www.princeedwardisland.ca/en/employee/macmillan-amanda</link>
-      <guid isPermaLink="false">80976 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 13 Aug 2026 17:10:06 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MacMillan&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-13T14:10:06-03:00" title="Thursday, August 13, 2026 - 14:10"&gt;Thu, 08/13/2026 - 14:10&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Infection Control Professional (PCH)&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Infection Prevention and Control&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Murphy</title>
-      <link>https://www.princeedwardisland.ca/en/employee/murphy-jessica</link>
-      <guid isPermaLink="false">80975 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 13 Aug 2026 17:08:52 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Murphy&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-13T14:08:52-03:00" title="Thursday, August 13, 2026 - 14:08"&gt;Thu, 08/13/2026 - 14:08&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Infection Control Professional (West Prince)&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Infection Prevention and Control&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Valiyaveettil</title>
-      <link>https://www.princeedwardisland.ca/en/employee/valiyaveettil-stephy</link>
-      <guid isPermaLink="false">80974 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 13 Aug 2026 17:06:05 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Valiyaveettil&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-13T14:06:05-03:00" title="Thursday, August 13, 2026 - 14:06"&gt;Thu, 08/13/2026 - 14:06&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Infection Control Professional (East)&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Infection Prevention and Control&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
