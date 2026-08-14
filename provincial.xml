@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 14 Aug 2026 18:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:04:37 +0000</lastBuildDate>
 
     <item>
       <title>yellow watch - tornado - ended</title>
@@ -319,6 +319,33 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
+      <title>Thunderstorm (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1756870787.2026-1</guid>
+      <pubDate>2026-08-14T18:58:27-00:00</pubDate>
+      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. When thunder roars, go indoors! Lightning kills and injures Canadians every year. | Areas: Kings County, Cumberland County - Minas Shore, Colchester County - Cobequid Bay, Hants County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1756870787.2026-2</guid>
+      <pubDate>2026-08-14T18:58:27-00:00</pubDate>
+      <description>Sydney Metro and Cape Breton County. | Areas: Sydney Metro and Cape Breton County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1259555118.2026-1</guid>
+      <pubDate>2026-08-14T18:11:18-00:00</pubDate>
+      <description>Mainland Nova Scotia. Guysborough County. | Areas: Guysborough County, ended threat area | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Squall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.0749661936.2026-1</guid>
@@ -333,33 +360,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.2048813953.2026-1</guid>
       <pubDate>2026-08-14T17:53:31-00:00</pubDate>
       <description>Northumberland Strait - eastern half. Squalls are no longer expected over the area. | Areas: Northumberland Strait - eastern half | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3029287374.2026-1</guid>
-      <pubDate>2026-08-14T17:47:41-00:00</pubDate>
-      <description>Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Colchester County - Truro and south, Pictou County, Antigonish County, ended threat area | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3029287374.2026-2</guid>
-      <pubDate>2026-08-14T17:47:41-00:00</pubDate>
-      <description>Eastern Shore Nova Scotia. Extra care and attention should be exercised in and around the following localities: Guysborough County. Environment Canada meteorologists are tracking very dangerous... | Areas: Guysborough County, new active threat area, continued active threat area | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0984583479.2026-1</guid>
-      <pubDate>2026-08-14T16:58:08-00:00</pubDate>
-      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. When thunder roars, go indoors! Lightning kills and injures Canadians every year. | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Colchester County - Truro and south, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
