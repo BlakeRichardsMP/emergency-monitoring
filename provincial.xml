@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 14 Aug 2026 21:57:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 22:55:11 +0000</lastBuildDate>
 
     <item>
       <title>yellow watch - tornado - ended</title>
@@ -423,15 +423,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1484905922.2026-1</guid>
       <pubDate>2026-08-13T23:32:08-00:00</pubDate>
       <description>Northumberland Strait - western half. | Areas: Northumberland Strait - western half | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0917318004.2026-1</guid>
-      <pubDate>2026-08-13T21:18:36-00:00</pubDate>
-      <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Colchester County - Truro and south, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
