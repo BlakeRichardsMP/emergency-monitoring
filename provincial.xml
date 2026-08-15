@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 15 Aug 2026 17:44:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 19:10:40 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -303,15 +303,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1259555118.2026-1</guid>
       <pubDate>2026-08-14T18:11:18-00:00</pubDate>
       <description>Mainland Nova Scotia. Guysborough County. | Areas: Guysborough County, ended threat area | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Squall (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2048813953.2026-1</guid>
-      <pubDate>2026-08-14T17:53:31-00:00</pubDate>
-      <description>Northumberland Strait - eastern half. Squalls are no longer expected over the area. | Areas: Northumberland Strait - eastern half | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
