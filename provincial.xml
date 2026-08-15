@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 15 Aug 2026 09:04:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 09:57:10 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -232,23 +232,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-05-19T11:34:08-06:00</pubDate>
       <description>A Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun water... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - RAINFALL - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a7e8d03cb12c20370efbf91</guid>
-      <pubDate>2026-08-15T04:52:08.819Z</pubDate>
-      <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Rain continues this evening in southeastern Saskatchewan and portions of western Manitoba.  The rain is expected to continue this evening and  overnight before tapering off Saturday morning.  Total rainfall in the area covered by this warning will range from 50 to 70 mm.
-
-Surrounding regions  will see lesser amounts of 20 to 50 mm.
-
-
-
-Water will likely pool on roads and in low-lying areas. Some travel delays are possible. Local utility outages are possible. Some property damage is possible.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future | Kenton, Manitoba</description>
-      <source>Manitoba</source>
     </item>
 
     <item>
