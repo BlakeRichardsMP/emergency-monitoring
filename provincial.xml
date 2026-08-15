@@ -5,21 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 15 Aug 2026 03:03:35 +0000</lastBuildDate>
-
-    <item>
-      <title>yellow watch - tornado - ended</title>
-      <link>https://www.alberta.ca/data/aea/cap/2026/08/13/2026-08-13T19_31_03-06_00=cap-pac@canada.ca=urn_oid_2.49.0.1.124.3132006609.2026.xml</link>
-      <guid isPermaLink="false">https://www.alberta.ca/data/aea/rss/2026-08-13T19_31_03-06_00=cap-pac@canada.ca=urn_oid_2.49.0.1.124.3132006609.2026</guid>
-      <pubDate>2026-08-13T19:31:03-06:00</pubDate>
-      <description>Conditions are no longer favourable for the development of tornadoes.
-
-
-###
-
-Area: (Smoky Lake Co. near Vilna Saddle Lake and Whitefish Lake, Co. of St. Paul near Ashmont St. Vincent and St. Lina, Co. of St. Paul near St. Paul and Lafond, Co. of St. Paul near Elk Point and St. Edouard, Co. of St. Paul near Lindbergh and Frog Lake, M.D. of Bonnyville near Glendon and Moose Lake, M.D. of Bonnyville near Bonnyville Ardmore and Kehewin Res., M.D. of Bonnyville near Beaverdam, M.D. of Bonnyville near Fishing Lake Smt, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne)</description>
-      <source>Alberta</source>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 05:56:06 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -222,29 +208,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Air Quality (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3059168123.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0648800690.2026-1</guid>
-      <pubDate>2026-08-14T21:47:58-00:00</pubDate>
-      <description>Smoke is causing poor air quality and reduced visibility. Air quality and visibility due to wildfire smoke can fluctuate over short distances and can vary considerably from hour to hour. Conditions... | Areas: Uranium City - Camsell Portage, Fond-du-Lac, Stony Rapids and Black Lake, Wollaston Lake - Collins Bay | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Rainfall (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1695504313.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3765406639.2026-1</guid>
-      <pubDate>2026-08-14T21:06:05-00:00</pubDate>
-      <description>Rainfall | Areas: R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Benson including Benson, R.M. of Cambria including Torquay and Outram, R.M. of Estevan including Estevan and Hitchcock | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1145718473.2026-1</guid>
+      <pubDate>2026-08-15T04:50:29-00:00</pubDate>
+      <description>Rainfall | Areas: R.M. of Wawken including Wawota Kennedy and Kenosee Lake, R.M. of Martin including Wapella and Red Jacket, R.M. of Moosomin including Moosomin Welwyn and Fleming, R.M. of Walpole including Kelso, R.M. of Maryfield including Maryfield and Fairlight, R.M. of Tecumseh including Stoughton Forget and Heward, R.M. of Brock including Arcola and Kisbey, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, R.M. of Moose Mountain including Carlyle and Manor, R.M. of Antler including Redvers Antler and Wauchope, R.M. of Storthoaks including Storthoaks and Fertile, R.M. of Reciprocity including Alida, R.M. of Mount Pleasant including Carnduff, R.M. of Argyle including Gainsborough and Carievale | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
-      <title>Rainfall (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1695504313.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3765406639.2026-2</guid>
-      <pubDate>2026-08-14T21:06:05-00:00</pubDate>
-      <description>Rain continues this evening in southeastern Saskatchewan and portions of western Manitoba. The rain is expected to continue this evening and overnight before tapering off Saturday morning. Total... | Areas: R.M. of Wawken including Wawota Kennedy and Kenosee Lake, R.M. of Martin including Wapella and Red Jacket, R.M. of Moosomin including Moosomin Welwyn and Fleming, R.M. of Walpole including Kelso, R.M. of Maryfield including Maryfield and Fairlight, R.M. of Tecumseh including Stoughton Forget and Heward, R.M. of Brock including Arcola and Kisbey, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, R.M. of Moose Mountain including Carlyle and Manor, R.M. of Antler including Redvers Antler and Wauchope, R.M. of Storthoaks including Storthoaks and Fertile, R.M. of Reciprocity including Alida, R.M. of Mount Pleasant including Carnduff, R.M. of Argyle including Gainsborough and Carievale | Level: advisory</description>
+      <title>Air Quality (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3059168123.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1882027164.2026-1</guid>
+      <pubDate>2026-08-15T04:21:23-00:00</pubDate>
+      <description>Poor air quality is no longer expected over the area. Smoke will remain in the area, but air quality has improved somewhat. | Areas: Uranium City - Camsell Portage, Fond-du-Lac, Stony Rapids and Black Lake, Wollaston Lake - Collins Bay | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -261,7 +238,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW WARNING - RAINFALL - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a7e8d03cb12c20370efbf91</guid>
-      <pubDate>2026-08-14T21:07:49.760Z</pubDate>
+      <pubDate>2026-08-15T04:52:08.819Z</pubDate>
       <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Rain continues this evening in southeastern Saskatchewan and portions of western Manitoba.  The rain is expected to continue this evening and  overnight before tapering off Saturday morning.  Total rainfall in the area covered by this warning will range from 50 to 70 mm.
 
 Surrounding regions  will see lesser amounts of 20 to 50 mm.
@@ -271,23 +248,6 @@ Surrounding regions  will see lesser amounts of 20 to 50 mm.
 Water will likely pool on roads and in low-lying areas. Some travel delays are possible. Local utility outages are possible. Some property damage is possible.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future | Kenton, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - RAINFALL - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a7e8cf8cb12c20370efbdcd</guid>
-      <pubDate>2026-08-14T21:07:48.905Z</pubDate>
-      <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Rain continues this evening in southeastern Saskatchewan and portions of western Manitoba.  The rain is expected to continue this evening and  overnight before tapering off Saturday morning.  Total rainfall in the area covered by this warning will range from 50 to 70 mm.
-
-Surrounding regions  will see lesser amounts of 20 to 50 mm.
-
-
-
-Water will likely pool on roads and in low-lying areas. Some travel delays are possible. Local utility outages are possible. Some property damage is possible.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future | Kenosee Lake, Saskatchewan</description>
       <source>Manitoba</source>
     </item>
 
@@ -369,33 +329,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.2048813953.2026-1</guid>
       <pubDate>2026-08-14T17:53:31-00:00</pubDate>
       <description>Northumberland Strait - eastern half. Squalls are no longer expected over the area. | Areas: Northumberland Strait - eastern half | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Squall (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2939645625.2026-1</guid>
-      <pubDate>2026-08-14T04:41:09-00:00</pubDate>
-      <description>Cabot Strait - northern half. Squalls are no longer expected over the area. | Areas: Cabot Strait - northern half | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Squall (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2808057891.2026-1</guid>
-      <pubDate>2026-08-14T04:30:52-00:00</pubDate>
-      <description>Squalls are no longer expected over the area. | Areas: Gulf - Magdalen - southern half, Northumberland Strait - eastern half | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0893988391.2026-1</guid>
-      <pubDate>2026-08-14T03:33:04-00:00</pubDate>
-      <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
