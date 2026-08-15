@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 14 Aug 2026 23:52:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 03:03:35 +0000</lastBuildDate>
 
     <item>
       <title>yellow watch - tornado - ended</title>
@@ -396,24 +396,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.0893988391.2026-1</guid>
       <pubDate>2026-08-14T03:33:04-00:00</pubDate>
       <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3439224226.2026-1</guid>
-      <pubDate>2026-08-14T01:55:26-00:00</pubDate>
-      <description>Colchester and Cumberland Nova Scotia. Cumberland County Minas Shore and Cumberland County North. | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, ended threat area | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Squall (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1481383243.2026-1</guid>
-      <pubDate>2026-08-14T01:01:20-00:00</pubDate>
-      <description>Northumberland Strait - western half. | Areas: Northumberland Strait - western half | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
