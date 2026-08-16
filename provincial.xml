@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 16 Aug 2026 22:54:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 23:40:29 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -205,6 +205,24 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/17aug23a/"&gt;BC Emer
       <description>&lt;p&gt;On Saturday, June 29, 2023, at 2227, a BC Emergency Alert announcing an Evacuation Order was issued by the Town of Osoyoos and the Regional District of Okanagan-Similkameen due to wildfire. Impacted residents should evacuate the area immediately. An Evacuation Alert has also been issued for nearby areas (details below). BC Emergency Alert Message Evacuation [&amp;#8230;]&lt;/p&gt;
 The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emergency Alert: Evacuation Order for parts of Osoyoos and surrounding area due to wildfire. July 29, 2023.&lt;/a&gt; first appeared on &lt;a href="https://www.emergencyinfobc.gov.bc.ca"&gt;EmergencyInfoBC&lt;/a&gt;.</description>
       <source>British Columbia</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3240927411.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2703026671.2026-1</guid>
+      <pubDate>2026-08-16T23:32:02-00:00</pubDate>
+      <description>South Central and East Central Saskatchewan. Extra care and attention should be exercised in and around the following localities: Prince Albert, Wahpeton Reserve, Meath Park, Davis, One Arrow... | Areas: R.M. of Buckland including Wahpeton Res. and Spruce Home, R.M. of Garden River including Meath Park and Albertville, City of Prince Albert, R.M. of Prince Albert including Davis, R.M. of Birch Hills including Muskoday Res., R.M. of Kinistino including Kinistino and James Smith Res., continued active threat area, new active threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1584704194.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1584704194.2026-1</guid>
+      <pubDate>2026-08-16T23:26:14-00:00</pubDate>
+      <description>East Central Saskatchewan. Extra care and attention should be exercised in and around the following localities: Nipawin, Choiceland, Carrot River and Tobin Lake. Environment Canada meteorologists... | Areas: R.M. of Torch River including Choiceland and White Fox, R.M. of Nipawin including Nipawin Aylsham and Pontrilas, new active threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
     </item>
 
     <item>
