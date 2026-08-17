@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 17 Aug 2026 13:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 14:58:19 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -253,15 +253,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE PREPARED - RM OF RIDING MOUNTAIN WEST</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a7a1d4f555dab72d106e8d1</guid>
-      <pubDate>2026-08-10T13:51:10.521-05:00</pubDate>
-      <description>Flood Advisory | RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Shellmouth, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE PREPARED - MOSSEY RIVER MUNICIPALITY AND RM OF DAUPHIN</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a515e57ee3cc9a1319dce34</guid>
@@ -280,13 +271,69 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Employment Standards Guide</title>
-      <link>https://www.princeedwardisland.ca/en/publication/employment-standards-guide-0</link>
-      <guid isPermaLink="false">80993 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 17 Aug 2026 11:31:17 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Employment Standards Guide&lt;/span&gt;
+      <title>Dicks</title>
+      <link>https://www.princeedwardisland.ca/en/employee/dicks-alexandra</link>
+      <guid isPermaLink="false">80995 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 17 Aug 2026 14:39:39 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dicks&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tylermahar&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-17T11:39:39-03:00" title="Monday, August 17, 2026 - 11:39"&gt;Mon, 08/17/2026 - 11:39&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;RIM Clerk&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Privacy and Information Management&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Guide to Employment Standards</title>
+      <link>https://www.princeedwardisland.ca/en/publication/guide-to-employment-standards</link>
+      <guid isPermaLink="false">80994 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 17 Aug 2026 14:24:03 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Guide to Employment Standards&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jaclynnbarrett&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-17T08:31:17-03:00" title="Monday, August 17, 2026 - 08:31"&gt;Mon, 08/17/2026 - 08:31&lt;/time&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-17T11:24:03-03:00" title="Monday, August 17, 2026 - 11:24"&gt;Mon, 08/17/2026 - 11:24&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
@@ -888,82 +935,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Premier Rob Lantz announces changes to Senior Management Team</title>
-      <link>https://www.princeedwardisland.ca/en/news/premier-rob-lantz-announces-changes-to-senior-management-team</link>
-      <guid isPermaLink="false">80978 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 13 Aug 2026 18:23:04 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Premier Rob Lantz announces changes to Senior Management Team&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ssdrummond&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-13T15:23:04-03:00" title="Thursday, August 13, 2026 - 15:23"&gt;Thu, 08/13/2026 - 15:23&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Premier Rob Lantz announced changes today to the senior management team within the Government of Prince Edward Island.&lt;/p&gt;
-&lt;p&gt;The following changes will take effect as of August 21, 2026:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Norbert Carpenter to serve as Deputy Minister of Education and Early Years;&lt;/li&gt;
-&lt;li&gt;Bobbi Jo Flynn to serve as Deputy Minister of Social Development and Seniors;&lt;/li&gt;
-&lt;li&gt;Doriann MacMillan to serve as Chief Executive Officer of the PEI Energy Corporation; and&lt;/li&gt;
-&lt;li&gt;Ryan Neale to serve as Deputy Minister of Land and Environment.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;&lt;p&gt;“These are experienced leaders who understand our province, our public service and the work that needs to be done for Islanders. Each brings strong leadership and a wealth of experience to their new role, and I look forward to working with them as we continue to deliver on the priorities that matter to Islanders.”&lt;br /&gt;- Premier Rob Lantz&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;John Cummings will return to his role as Executive Director of Educational Services after serving as Acting Deputy Minister of Education and Early Years. Cummings has been with the department since 2018.&lt;/p&gt;
-&lt;p&gt;“I want to sincerely thank John for stepping into the role of Acting Deputy Minister and for the leadership he has provided to Education and Early Years. His experience, guidance and commitment to support Island children and young people have been greatly appreciated,” said Premier Rob Lantz.&lt;/p&gt;
-&lt;p&gt;Gordon MacFadyen will become President of Slemon Park Corporation.&lt;/p&gt;
-&lt;p&gt;“I want to thank Gordon for his more than 20 years of service to the provincial government,” said Premier Rob Lantz. “His experience and leadership have made an important contribution across government, and I wish him well as he takes on this new role.”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Emily Blue&lt;br /&gt;Office of the Premier&lt;br /&gt;&lt;a href="mailto:adamross@gov.pe.ca"&gt;Emilyblue@gov.pe.ca&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
   
     
       
