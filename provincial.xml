@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 20 Aug 2026 11:58:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:10:20 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,11 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Air Quality (Issued)</title>
+      <title>Air Quality (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3787838550.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3787838550.2026-1</guid>
-      <pubDate>2026-08-20T07:49:08-00:00</pubDate>
-      <description>Smoke is causing poor air quality and reduced visibility. When indoors, keep windows and doors closed as much as possible. When there is an extreme heat event occurring with poor air quality,... | Areas: Cluff Lake Mine, La Loche and Clearwater River Prov. Park | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2983837207.2026-1</guid>
+      <pubDate>2026-08-20T13:57:21-00:00</pubDate>
+      <description>Smoke has diminished in intensity but people are advised to continue to monitor their personal health. | Areas: Cluff Lake Mine, La Loche and Clearwater River Prov. Park | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -262,13 +262,13 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Temporary Foreign Worker Information Sheet - Vietnamese</title>
-      <link>https://www.princeedwardisland.ca/en/publication/temporary-foreign-worker-information-sheet-vietnamese</link>
-      <guid isPermaLink="false">81048 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 11:52:25 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Temporary Foreign Worker Information Sheet - Vietnamese&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jaclynnbarrett&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T08:52:25-03:00" title="Thursday, August 20, 2026 - 08:52"&gt;Thu, 08/20/2026 - 08:52&lt;/time&gt;
+      <title>IPAC Audit Tool for Health Care Offices &amp; Clinics</title>
+      <link>https://www.princeedwardisland.ca/en/publication/ipac-audit-tool-for-health-care-offices-clinics</link>
+      <guid isPermaLink="false">81066 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 20 Aug 2026 13:43:15 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;IPAC Audit Tool for Health Care Offices &amp;amp; Clinics&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T10:43:15-03:00" title="Thursday, August 20, 2026 - 10:43"&gt;Thu, 08/20/2026 - 10:43&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
@@ -279,7 +279,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
         &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
           &lt;strong&gt;Publication type:&lt;/strong&gt;
     
-          &lt;span class="field__item"&gt;Poster&lt;/span&gt;
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
       &lt;/div&gt;
 
   &lt;/div&gt;
@@ -300,8 +300,8 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
 
           
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/2683/TFWP%20Handout%20-%20Vietnamese.pdf"&gt;
-              &lt;span&gt;TFWP Handout - Vietnamese.pdf&lt;/span&gt;
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/c8cd/IPAC%20Audit%20Tool%20for%20Health%20Care%20Offices%20and%20Clinics.pdf"&gt;
+              &lt;span&gt;IPAC Audit Tool for Health Care Offices and Clinics.pdf&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
@@ -351,699 +351,13 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Temporary Foreign Worker Information Sheet - Spanish</title>
-      <link>https://www.princeedwardisland.ca/en/publication/temporary-foreign-worker-information-sheet-spanish</link>
-      <guid isPermaLink="false">81047 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 11:51:20 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Temporary Foreign Worker Information Sheet - Spanish&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jaclynnbarrett&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T08:51:20-03:00" title="Thursday, August 20, 2026 - 08:51"&gt;Thu, 08/20/2026 - 08:51&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Poster&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/a545/TFWP%20Handout%20-%20Spanish.pdf"&gt;
-              &lt;span&gt;TFWP Handout - Spanish.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Temporary Foreign Worker Information Sheet - Punjabi</title>
-      <link>https://www.princeedwardisland.ca/en/publication/temporary-foreign-worker-information-sheet-punjabi</link>
-      <guid isPermaLink="false">81046 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 11:47:56 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Temporary Foreign Worker Information Sheet - Punjabi&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jaclynnbarrett&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T08:47:56-03:00" title="Thursday, August 20, 2026 - 08:47"&gt;Thu, 08/20/2026 - 08:47&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Poster&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/6e32/TFWP%20Handout%20-%20Punjabi.pdf"&gt;
-              &lt;span&gt;TFWP Handout - Punjabi.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Temporary Foreign Worker Information Sheet - Mandarin</title>
-      <link>https://www.princeedwardisland.ca/en/publication/temporary-foreign-worker-information-sheet-mandarin</link>
-      <guid isPermaLink="false">81045 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 11:46:08 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Temporary Foreign Worker Information Sheet - Mandarin&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jaclynnbarrett&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T08:46:08-03:00" title="Thursday, August 20, 2026 - 08:46"&gt;Thu, 08/20/2026 - 08:46&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Poster&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/6b7c/TFWP%20Handout%20-%20Mandarin.pdf"&gt;
-              &lt;span&gt;TFWP Handout - Mandarin.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Temporary Foreign Worker Information Sheet - Hindi</title>
-      <link>https://www.princeedwardisland.ca/en/publication/temporary-foreign-worker-information-sheet-hindi</link>
-      <guid isPermaLink="false">81044 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 11:42:58 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Temporary Foreign Worker Information Sheet - Hindi&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jaclynnbarrett&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T08:42:58-03:00" title="Thursday, August 20, 2026 - 08:42"&gt;Thu, 08/20/2026 - 08:42&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Poster&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/89d4/TFWP%20Handout%20-%20Hindi.pdf"&gt;
-              &lt;span&gt;TFWP Handout - Hindi.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Temporary Foreign Worker Information Sheet - Arabic</title>
-      <link>https://www.princeedwardisland.ca/en/publication/temporary-foreign-worker-information-sheet-arabic</link>
-      <guid isPermaLink="false">81043 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 11:41:37 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Temporary Foreign Worker Information Sheet - Arabic&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jaclynnbarrett&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T08:41:37-03:00" title="Thursday, August 20, 2026 - 08:41"&gt;Thu, 08/20/2026 - 08:41&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Poster&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/6aa2/TFWP%20Handout%20-%20Arabic.pdf"&gt;
-              &lt;span&gt;TFWP Handout - Arabic.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Temporary Foreign Worker Information Sheet - English</title>
-      <link>https://www.princeedwardisland.ca/en/publication/temporary-foreign-worker-information-sheet-english</link>
-      <guid isPermaLink="false">81040 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 11:30:25 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Temporary Foreign Worker Information Sheet - English&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jaclynnbarrett&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T08:30:25-03:00" title="Thursday, August 20, 2026 - 08:30"&gt;Thu, 08/20/2026 - 08:30&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Poster&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/09b1/DG-2442%20TFW%20handout%202026%20update%20English.pdf"&gt;
-              &lt;span&gt;DG-2442 TFW handout 2026 update English.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Temporary Foreign Worker Information Sheet - French</title>
-      <link>https://www.princeedwardisland.ca/en/publication/temporary-foreign-worker-information-sheet-french</link>
-      <guid isPermaLink="false">81039 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 11:27:18 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Temporary Foreign Worker Information Sheet - French&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jaclynnbarrett&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T08:27:18-03:00" title="Thursday, August 20, 2026 - 08:27"&gt;Thu, 08/20/2026 - 08:27&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Poster&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/246a/DG-2071%20TFW%20handout%202026_FRE%20-%20updated.pdf"&gt;
-              &lt;span&gt;DG-2071 TFW handout 2026_FRE - updated.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Temporary Foreign Worker Information Sheet</title>
-      <link>https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/temporary-foreign-worker-information-sheet</link>
-      <guid isPermaLink="false">81038 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 11:26:27 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Temporary Foreign Worker Information Sheet&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jaclynnbarrett&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T08:26:27-03:00" title="Thursday, August 20, 2026 - 08:26"&gt;Thu, 08/20/2026 - 08:26&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/09b1/DG-2442%20TFW%20handout%202026%20update%20English.pdf"&gt;Temporary Foreign Information Sheet - English&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/246a/DG-2071%20TFW%20handout%202026_FRE%20-%20updated.pdf"&gt;Temporary Foreign Worker Information Sheet - French&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/6aa2/TFWP%20Handout%20-%20Arabic.pdf"&gt;Temporary Foreign Worker Information Sheet - Arabic&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/89d4/TFWP%20Handout%20-%20Hindi.pdf"&gt;Temporary Foreign Worker Information Sheet - Hindi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/6b7c/TFWP%20Handout%20-%20Mandarin.pdf"&gt;Temporary Foreign Worker Information Sheet - Mandarin&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/6e32/TFWP%20Handout%20-%20Punjabi.pdf"&gt;Temporary Foreign Worker Information Sheet - Punjabi&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/a545/TFWP%20Handout%20-%20Spanish.pdf"&gt;Temporary Foreign Worker Information Sheet - Spanish&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/2683/TFWP%20Handout%20-%20Vietnamese.pdf"&gt;Temporary Foreign Worker Information Sheet - Vietnamese&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Career Education 421M</title>
-      <link>https://www.princeedwardisland.ca/en/publication/career-education-421m</link>
-      <guid isPermaLink="false">81035 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 19 Aug 2026 17:57:21 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Career Education 421M&lt;/span&gt;
+      <title>t. Programme de mathématiques en immersion française 11e ou 12e année année - MAT 801N</title>
+      <link>https://www.princeedwardisland.ca/en/publication/t-programme-de-mathematiques-en-immersion-francaise-11e-ou-12e-annee-annee-mat-801n</link>
+      <guid isPermaLink="false">81065 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 20 Aug 2026 13:43:13 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;t. Programme de mathématiques en immersion française 11e ou 12e année année - MAT 801N&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-19T14:57:21-03:00" title="Wednesday, August 19, 2026 - 14:57"&gt;Wed, 08/19/2026 - 14:57&lt;/time&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T10:43:13-03:00" title="Thursday, August 20, 2026 - 10:43"&gt;Thu, 08/20/2026 - 10:43&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
@@ -1052,7 +366,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;The attached PDF is only available in French.&lt;/strong&gt;&lt;/p&gt;
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
 &lt;/div&gt;
       
   &lt;/div&gt;
@@ -1073,8 +387,706 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
 
           
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/c9d9/CAR%20421%20%28version%20finale%2030%20aout%202010%29.pdf"&gt;
-              &lt;span&gt;CAR 421 (version finale 30 aout 2010).pdf&lt;/span&gt;
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/6750/MAT%20801N.pdf"&gt;
+              &lt;span&gt;MAT 801N.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>s. Programme de mathématiques en immersion française 11e ou 12e année année - MAT 801M</title>
+      <link>https://www.princeedwardisland.ca/en/publication/s-programme-de-mathematiques-en-immersion-francaise-11e-ou-12e-annee-annee-mat-801m</link>
+      <guid isPermaLink="false">81064 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 20 Aug 2026 13:40:56 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;s. Programme de mathématiques en immersion française 11e ou 12e année année - MAT 801M&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T10:40:56-03:00" title="Thursday, August 20, 2026 - 10:40"&gt;Thu, 08/20/2026 - 10:40&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/963d/MATH%20801M.pdf"&gt;
+              &lt;span&gt;MATH 801M.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Organizational Risk Assessment for Health Care Offices &amp; Clinics</title>
+      <link>https://www.princeedwardisland.ca/en/publication/organizational-risk-assessment-for-health-care-offices-clinics</link>
+      <guid isPermaLink="false">81063 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 20 Aug 2026 13:40:22 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Organizational Risk Assessment for Health Care Offices &amp;amp; Clinics&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T10:40:22-03:00" title="Thursday, August 20, 2026 - 10:40"&gt;Thu, 08/20/2026 - 10:40&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/9025/Organizational%20Risk%20Assessment%20for%20Health%20Care%20Offices%20and%20Clinics.pdf"&gt;
+              &lt;span&gt;Organizational Risk Assessment for Health Care Offices and Clinics.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>r. Programme de mathématiques en immersion française 12e année - STA621MN</title>
+      <link>https://www.princeedwardisland.ca/en/publication/r-programme-de-mathematiques-en-immersion-francaise-12e-annee-sta621mn</link>
+      <guid isPermaLink="false">81062 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 20 Aug 2026 13:38:12 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;r. Programme de mathématiques en immersion française 12e année - STA621MN&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T10:38:12-03:00" title="Thursday, August 20, 2026 - 10:38"&gt;Thu, 08/20/2026 - 10:38&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/b6f3/STA%20621M.pdf"&gt;
+              &lt;span&gt;STA 621M.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>j. Programme de mathématiques en immersion française 9e année</title>
+      <link>https://www.princeedwardisland.ca/en/publication/j-programme-de-mathematiques-en-immersion-francaise-9e-annee</link>
+      <guid isPermaLink="false">81061 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 20 Aug 2026 13:32:21 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;j. Programme de mathématiques en immersion française 9e année &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T10:32:21-03:00" title="Thursday, August 20, 2026 - 10:32"&gt;Thu, 08/20/2026 - 10:32&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/a7f1/Math%209%20Programme%20etudes_FRE.pdf"&gt;
+              &lt;span&gt;Math 9 Programme etudes_FRE.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>f. Programme de mathématiques en immersion française 5e année</title>
+      <link>https://www.princeedwardisland.ca/en/publication/f-programme-de-mathematiques-en-immersion-francaise-5e-annee</link>
+      <guid isPermaLink="false">81060 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 20 Aug 2026 13:27:54 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;f. Programme de mathématiques en immersion française 5e année &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T10:27:54-03:00" title="Thursday, August 20, 2026 - 10:27"&gt;Thu, 08/20/2026 - 10:27&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/0f3d/5e%20Mathematiques%202024.pdf"&gt;
+              &lt;span&gt;5e Mathematiques 2024.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>e. Programme de mathématiques en immersion française 4e année</title>
+      <link>https://www.princeedwardisland.ca/en/publication/e-programme-de-mathematiques-en-immersion-francaise-4e-annee</link>
+      <guid isPermaLink="false">81059 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 20 Aug 2026 13:25:48 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;e. Programme de mathématiques en immersion française 4e année &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T10:25:48-03:00" title="Thursday, August 20, 2026 - 10:25"&gt;Thu, 08/20/2026 - 10:25&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/cca8/4e%20Mathematique%202024.pdf"&gt;
+              &lt;span&gt;4e Mathematique 2024.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>d. Programme de mathématiques en immersion française 3e année</title>
+      <link>https://www.princeedwardisland.ca/en/publication/d-programme-de-mathematiques-en-immersion-francaise-3e-annee</link>
+      <guid isPermaLink="false">81058 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 20 Aug 2026 13:23:44 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;d. Programme de mathématiques en immersion française 3e année &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T10:23:44-03:00" title="Thursday, August 20, 2026 - 10:23"&gt;Thu, 08/20/2026 - 10:23&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/e14f/3e%20Mathematiques%202024.pdf"&gt;
+              &lt;span&gt;3e Mathematiques 2024.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>c. Programme de mathématiques en immersion française 2e année</title>
+      <link>https://www.princeedwardisland.ca/en/publication/c-programme-de-mathematiques-en-immersion-francaise-2e-annee</link>
+      <guid isPermaLink="false">81057 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 20 Aug 2026 13:21:06 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;c. Programme de mathématiques en immersion française 2e année &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T10:21:06-03:00" title="Thursday, August 20, 2026 - 10:21"&gt;Thu, 08/20/2026 - 10:21&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/7229/2e%20Mathematiques%202024.pdf"&gt;
+              &lt;span&gt;2e Mathematiques 2024.pdf&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
