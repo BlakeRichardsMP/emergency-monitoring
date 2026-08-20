@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 20 Aug 2026 23:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:59:39 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -205,6 +205,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/17aug23a/"&gt;BC Emer
       <description>&lt;p&gt;On Saturday, June 29, 2023, at 2227, a BC Emergency Alert announcing an Evacuation Order was issued by the Town of Osoyoos and the Regional District of Okanagan-Similkameen due to wildfire. Impacted residents should evacuate the area immediately. An Evacuation Alert has also been issued for nearby areas (details below). BC Emergency Alert Message Evacuation [&amp;#8230;]&lt;/p&gt;
 The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emergency Alert: Evacuation Order for parts of Osoyoos and surrounding area due to wildfire. July 29, 2023.&lt;/a&gt; first appeared on &lt;a href="https://www.emergencyinfobc.gov.bc.ca"&gt;EmergencyInfoBC&lt;/a&gt;.</description>
       <source>British Columbia</source>
+    </item>
+
+    <item>
+      <title>Air Quality (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2459120260.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2459120260.2026-1</guid>
+      <pubDate>2026-08-20T23:13:34-00:00</pubDate>
+      <description>Smoke is causing poor air quality and reduced visibility. Conditions are expected to improve later tonight. When indoors, keep windows and doors closed as much as possible. When there is an extreme... | Areas: Uranium City - Camsell Portage, Fond-du-Lac, Stony Rapids and Black Lake | Level: advisory</description>
+      <source>Saskatchewan</source>
     </item>
 
     <item>
