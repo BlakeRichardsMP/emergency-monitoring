@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:54:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:14:26 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -259,6 +259,137 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Fernandez</title>
+      <link>https://www.princeedwardisland.ca/en/employee/fernandez-kimberley</link>
+      <guid isPermaLink="false">81078 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 20 Aug 2026 17:11:31 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fernandez&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;fshitawa&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T14:11:31-03:00" title="Thursday, August 20, 2026 - 14:11"&gt;Thu, 08/20/2026 - 14:11&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Director, Seniors Health&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health and Wellness&lt;/strong&gt;
+            &lt;div&gt;Senior's Health&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>PEI offering free hunting licences to Canadian Armed Forces Veterans and active members of the Canadian Forces</title>
+      <link>https://www.princeedwardisland.ca/en/news/pei-offering-free-hunting-licences-to-canadian-armed-forces-veterans-and-active-members-of-the</link>
+      <guid isPermaLink="false">81076 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 20 Aug 2026 17:03:15 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PEI offering free hunting licences to Canadian Armed Forces Veterans and active members of the Canadian Forces &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T14:03:15-03:00" title="Thursday, August 20, 2026 - 14:03"&gt;Thu, 08/20/2026 - 14:03&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Beginning this hunting season, Canadian Armed Forces Veterans and active members of the Canadian Forces can receive a free hunting licence.&amp;nbsp; &amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“Hunting is&amp;nbsp;enjoyed by residents and visitors to the Island, with more than 2,500 licences sold&amp;nbsp;annually, and time spent outdoors is good for our mental and physical health. In addition to free angling licences for Veterans and active members of the Canadian Forces introduced in 2024, adding free hunting licences is just a small token of appreciation for those who have served our country.”&lt;/p&gt;
+&lt;p&gt;- Land and Environment Minister Darlene Compton&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Duck and goose populations are healthy, thanks in part to decades of conservation efforts, both here in PEI and throughout North America.&lt;/p&gt;
+&lt;p&gt;Registration is now open for the 2026 Provincial Hunting Workshop which will take place on Saturday, September 12 from 8:30 a.m. to 2:30 p.m.&amp;nbsp; Participants (ages 12 and up) will rotate through stations learning about firearm safety, wildlife conservation, hunting regulations and enforcement, map and compass use, skeet shooting and waterfowl hunting techniques.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Participants who complete this free workshop, along with the online portion of the Hunter Safety Course, receive hunter certification and a PEI Wildlife card as well as a free 2026-2027 hunting licence and conservation fee. Register online at &lt;a href="https://www.princeedwardisland.ca/en/service/hunting-firearms-and-bow-hunting-safety-courses"&gt;Hunting, Firearms, and Bow Hunting Safety Courses&lt;/a&gt;. Individuals who are unable to register online can call Forests, Fish and Wildlife at (902) 368-4683 to complete their registration by phone.&lt;/p&gt;
+&lt;p&gt;Hunting licences, including courtesy licences for Veterans and active members of the Canadian Forces, will be available August 25 online at&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/online-hunting-license"&gt;Buy a Hunting Licence Online&lt;/a&gt; and at local retailers.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Morgan Martin&lt;br /&gt;Department of Land and Environment&lt;br /&gt;902-218-3430&lt;br /&gt;&lt;a href="mailto:mxmartin@gov.pe.ca"&gt;mxmartin@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -874,180 +1005,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
           
     &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/c8cd/IPAC%20Audit%20Tool%20for%20Health%20Care%20Offices%20and%20Clinics.pdf"&gt;
               &lt;span&gt;IPAC Audit Tool for Health Care Offices and Clinics.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>t. Programme de mathématiques en immersion française 11e ou 12e année année - MAT 801N</title>
-      <link>https://www.princeedwardisland.ca/en/publication/t-programme-de-mathematiques-en-immersion-francaise-11e-ou-12e-annee-annee-mat-801n</link>
-      <guid isPermaLink="false">81065 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 13:43:13 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;t. Programme de mathématiques en immersion française 11e ou 12e année année - MAT 801N&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T10:43:13-03:00" title="Thursday, August 20, 2026 - 10:43"&gt;Thu, 08/20/2026 - 10:43&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/6750/MAT%20801N.pdf"&gt;
-              &lt;span&gt;MAT 801N.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>s. Programme de mathématiques en immersion française 11e ou 12e année année - MAT 801M</title>
-      <link>https://www.princeedwardisland.ca/en/publication/s-programme-de-mathematiques-en-immersion-francaise-11e-ou-12e-annee-annee-mat-801m</link>
-      <guid isPermaLink="false">81064 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 13:40:56 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;s. Programme de mathématiques en immersion française 11e ou 12e année année - MAT 801M&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T10:40:56-03:00" title="Thursday, August 20, 2026 - 10:40"&gt;Thu, 08/20/2026 - 10:40&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/963d/MATH%20801M.pdf"&gt;
-              &lt;span&gt;MATH 801M.pdf&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
