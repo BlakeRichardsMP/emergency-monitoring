@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 19 Aug 2026 23:50:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:28:56 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,6 +208,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2565937883.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3142084036.2026-1</guid>
+      <pubDate>2026-08-20T01:06:40-00:00</pubDate>
+      <description>East Central Saskatchewan. Kamsack, Duck Mountain Park, Arran, Pelly, Norquay, The Key Reserve, Stenen, Lintlaw, Preeceville, Sturgis, Canora, Buchanan, Theodore, Sheho and Invermay. | Areas: R.M. of Buchanan including Buchanan Amsterdam and Tadmore, R.M. of Good Lake including Canora and Good Spirit Lake Prov. Park, R.M. of Keys including The Key Res., R.M. of Sliding Hills including Veregin Mikado and Hamton, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -241,15 +250,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4200362414.2026-1</guid>
-      <pubDate>2026-08-19T01:55:25-00:00</pubDate>
-      <description>Kings County. Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Kings County | Level: advisory</description>
-      <source>Nova Scotia</source>
     </item>
 
     <item>
