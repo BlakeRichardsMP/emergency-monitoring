@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:58:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:01:33 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,6 +208,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Thunderstorm (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0953188890.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0953188890.2026-1</guid>
+      <pubDate>2026-08-20T22:21:17-00:00</pubDate>
+      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing large hail. Scattered showers and thunderstorms will develop this afternoon. An isolated... | Areas: R.M. of Garry including Jedburgh, R.M. of Orkney including Yorkton Springside and Ebenezer, R.M. of Stanley including Goodeve Fenwood and Duff, R.M. of Cana including Melville, R.M. of McLeod including Lemberg and Neudorf, R.M. of Grayson including Grayson Dubuc and Killaly, R.M. of Wallace including Rhein Stornoway Tonkin and Rokeby, R.M. of Calder including Calder and Wroxton, R.M. of Saltcoats including Saltcoats and Bredenbury, R.M. of Churchbridge including Churchbridge and MacNutt, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Hazel Dell including Lintlaw and Hazel Dell, R.M. of Preeceville including Preeceville and Sturgis, R.M. of Invermay including Invermay and Rama, R.M. of Buchanan including Buchanan Amsterdam and Tadmore, R.M. of Insinger including Theodore and Sheho, R.M. of Good Lake including Canora and Good Spirit Lake Prov. Park, R.M. of Keys including The Key Res., R.M. of St Philips including Pelly and St Philips, R.M. of Sliding Hills including Veregin Mikado and Hamton, R.M. of Cote including Kamsack Togo and Duck Mountain Prov. Park, R.M. of Clayton including Norquay Stenen and Swan Plain, R.M. of Livingston including Arran | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Air Quality (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3787838550.2026</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.2983837207.2026-1</guid>
@@ -232,6 +241,52 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-05-19T11:34:08-06:00</pubDate>
       <description>A Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun water... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a877e31b8bc4640624aa1ff</guid>
+      <pubDate>2026-08-20T22:22:40.303Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing large hail.
+
+Scattered showers and thunderstorms will develop this afternoon. An isolated severe thunderstorm is possible.
+
+Potential hail sizes: 2.5 cm or less.
+
+Potential wind gusts: near 60-70 km/h in thunderstorms.
+
+Time span: Late afternoon through early evening.
+
+
+
+Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Merridale, Roblin, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a877e309f780dd6f3c22b23</guid>
+      <pubDate>2026-08-20T22:22:38.863Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing large hail.
+
+Scattered showers and thunderstorms will develop this afternoon. An isolated severe thunderstorm is possible.
+
+Potential hail sizes: 2.5 cm or less.
+
+Potential wind gusts: near 60-70 km/h in thunderstorms.
+
+Time span: Late afternoon through early evening.
+
+
+
+Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Yorkton, Saskatchewan</description>
+      <source>Manitoba</source>
     </item>
 
     <item>
