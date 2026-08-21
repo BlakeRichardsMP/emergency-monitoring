@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 21 Aug 2026 07:58:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:55:50 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -210,9 +210,9 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Air Quality (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2459120260.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0140754463.2026-1</guid>
-      <pubDate>2026-08-21T05:17:47-00:00</pubDate>
-      <description>Smoke is causing poor air quality and reduced visibility. Conditions are expected to improve later tonight. When indoors, keep windows and doors closed as much as possible. When there is an extreme... | Areas: Uranium City - Camsell Portage, Fond-du-Lac, Stony Rapids and Black Lake | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0753963368.2026-1</guid>
+      <pubDate>2026-08-21T08:02:00-00:00</pubDate>
+      <description>Smoke is causing poor air quality and reduced visibility. Conditions are expected to improve later today. When indoors, keep windows and doors closed as much as possible. When there is an extreme... | Areas: Uranium City - Camsell Portage, Fond-du-Lac, Stony Rapids and Black Lake, Cluff Lake Mine, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake, Wollaston Lake - Collins Bay, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
