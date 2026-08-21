@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:55:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:14:24 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -210,18 +210,18 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Air Quality (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2459120260.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0634346858.2026-1</guid>
-      <pubDate>2026-08-21T14:05:36-00:00</pubDate>
-      <description>Smoke is causing poor air quality and reduced visibility. Conditions are expected to improve later today. When indoors, keep windows and doors closed as much as possible. When there is an extreme... | Areas: Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House, Uranium City - Camsell Portage, Cluff Lake Mine, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2780058155.2026-1</guid>
+      <pubDate>2026-08-21T16:24:31-00:00</pubDate>
+      <description>Smoke is causing poor air quality and reduced visibility. Conditions are expected to improve later today. When indoors, keep windows and doors closed as much as possible. When there is an extreme... | Areas: Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
       <title>Air Quality (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2459120260.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0634346858.2026-2</guid>
-      <pubDate>2026-08-21T14:05:36-00:00</pubDate>
-      <description>Air quality | Areas: Fond-du-Lac, Stony Rapids and Black Lake, Wollaston Lake - Collins Bay | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2780058155.2026-2</guid>
+      <pubDate>2026-08-21T16:24:31-00:00</pubDate>
+      <description>Air quality | Areas: Uranium City - Camsell Portage, Cluff Lake Mine, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -247,7 +247,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW WARNING - AIR QUALITY - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a884c0abc64c7272a82f9f6</guid>
-      <pubDate>2026-08-21T14:30:45.369Z</pubDate>
+      <pubDate>2026-08-21T16:51:02.190Z</pubDate>
       <description>Air Quality Warning | Yellow Warning - Air Quality - In Effect | &lt;p&gt;Smoke is causing poor air quality and reduced visibility. 
 
 Conditions are expected to improve later today.
@@ -263,6 +263,19 @@ People more likely to be impacted by wildfire smoke, including people aged 65 an
 Visit https://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a8876bce1fc35f7d38590df</guid>
+      <pubDate>2026-08-21T16:03:06.765Z</pubDate>
+      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 40 knots and small hail this afternoon and evening.
+
+
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
       <source>Manitoba</source>
     </item>
 
