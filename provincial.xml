@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 21 Aug 2026 17:14:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:07:58 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,20 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Air Quality (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2459120260.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2780058155.2026-1</guid>
-      <pubDate>2026-08-21T16:24:31-00:00</pubDate>
-      <description>Smoke is causing poor air quality and reduced visibility. Conditions are expected to improve later today. When indoors, keep windows and doors closed as much as possible. When there is an extreme... | Areas: Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Air Quality (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2459120260.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2780058155.2026-2</guid>
-      <pubDate>2026-08-21T16:24:31-00:00</pubDate>
-      <description>Air quality | Areas: Uranium City - Camsell Portage, Cluff Lake Mine, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1534009053.2026-1</guid>
+      <pubDate>2026-08-21T18:28:22-00:00</pubDate>
+      <description>Poor air quality is no longer expected over the area. | Areas: Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -247,7 +238,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW WARNING - AIR QUALITY - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a884c0abc64c7272a82f9f6</guid>
-      <pubDate>2026-08-21T16:51:02.190Z</pubDate>
+      <pubDate>2026-08-21T19:06:28.516Z</pubDate>
       <description>Air Quality Warning | Yellow Warning - Air Quality - In Effect | &lt;p&gt;Smoke is causing poor air quality and reduced visibility. 
 
 Conditions are expected to improve later today.
@@ -263,6 +254,45 @@ People more likely to be impacted by wildfire smoke, including people aged 65 an
 Visit https://www.airhealth.ca for information on how to reduce your health risk and your personal contribution to pollution levels, as well as for current and forecast AQHI values.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a889e8a93f6e855c046311d</guid>
+      <pubDate>2026-08-21T18:52:57.159Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 1:50 p.m. CDT, a severe thunderstorm is located near Dufrost. This severe thunderstorm is moving southeast at 40 km/h. Strong wind gusts, up to quarter size hail and heavy rain are possible.
+
+Locations and nearby areas that could be impacted include: St. Malo, St. Malo Provincial Park
+
+
+
+
+Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | St-Pierre-Jolys, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a8892c029c5614beda9f205</guid>
+      <pubDate>2026-08-21T18:02:36.901Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts and large hail.
+
+Potential rainfall rates: locally 50 to 100 mm per hour in thunderstorms.
+
+Potential hail size: as large as 2-3 cm.
+
+Potential wind gusts: near 90 km/h in thunderstorms.
+
+Time span: Friday afternoon until Friday evening.
+
+
+
+Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour | Lundar, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
@@ -304,6 +334,15 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Weather (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2266868165.2026-1</guid>
+      <pubDate>2026-08-21T19:03:34-00:00</pubDate>
+      <description>Prolonged, heavy rainfall is expected. Locations: majority of mainland Nova Scotia. Potential rainfall amounts: 50 to 100 mm. Time span: early Sunday morning to Monday afternoon Remarks: A... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
