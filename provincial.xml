@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 21 Aug 2026 14:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:55:02 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -235,15 +235,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Air Quality (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3787838550.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2983837207.2026-1</guid>
-      <pubDate>2026-08-20T13:57:21-00:00</pubDate>
-      <description>Smoke has diminished in intensity but people are advised to continue to monitor their personal health. | Areas: Cluff Lake Mine, La Loche and Clearwater River Prov. Park | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -256,7 +247,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW WARNING - AIR QUALITY - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a884c0abc64c7272a82f9f6</guid>
-      <pubDate>2026-08-21T13:00:56.749Z</pubDate>
+      <pubDate>2026-08-21T14:30:45.369Z</pubDate>
       <description>Air Quality Warning | Yellow Warning - Air Quality - In Effect | &lt;p&gt;Smoke is causing poor air quality and reduced visibility. 
 
 Conditions are expected to improve later today.
