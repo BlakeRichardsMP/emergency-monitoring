@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 23 Aug 2026 13:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 14:50:41 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,6 +208,33 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Thunderstorm (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3098421926.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3098421926.2026-1</guid>
+      <pubDate>2026-08-23T14:47:56-00:00</pubDate>
+      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain. When thunder roars, go indoors! Lightning kills... | Areas: R.M. of Maple Bush including Riverhurst and Douglas Prov. Park, R.M. of Huron including Tugaske, R.M. of Enfield including Central Butte, R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Craik including Craik and Aylesbury, R.M. of Sarnia including Holdfast Chamberlain and Dilke, R.M. of Marquis including Tuxford Keeler and Buffalo Pound, R.M. of Dufferin including Bethune and Findlater, R.M. of Chaplin including Chaplin, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Caron including Caronport and Caron, R.M. of Pense including Pense Belle Plaine and Stony Beach, City of Moose Jaw, R.M. of Hillsborough including Crestwynd and Old Wives lake, R.M. of Redburn including Rouleau and Hearne, R.M. of Baildon including Briercrest, R.M. of Moose Jaw east of Highway 2 including Pasqua, R.M. of Moose Jaw west of Highway 2 including Bushell Park, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, R.M. of Wood River including Lafleche Woodrow and Melaval, R.M. of Stonehenge including Limerick and Congress, R.M. of Waverley including Glentworth and Fir Mountain, R.M. of Old Post including Wood Mountain and Killdeer, R.M. of Lake Johnson including Mossbank and Ardill, R.M. of Terrell including Spring Valley and Cardross, R.M. of Lake of The Rivers including Assiniboia, R.M. of Excel including Viceroy Ormiston and Verwood, R.M. of Willow Bunch including Willow Bunch and St Victor, R.M. of Poplar Valley including Rockglen and Fife Lake, R.M. of Hart Butte including Coronach, R.M. of Elmsthorpe including Avonlea and Truax, R.M. of Key West including Ogema and Kayville, R.M. of Bengough including Bengough, R.M. of The Gap including Ceylon and Hardy, R.M. of Happy Valley including Big Beaver, R.M. of Surprise Valley including Minton and Regway | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3132583240.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3132583240.2026-1</guid>
+      <pubDate>2026-08-23T14:45:02-00:00</pubDate>
+      <description>South Central Saskatchewan. Extra care and attention should be exercised in and around the following localities: Assiniboia, Mossbank, Ardill, Gravelbourg, Bateman, Mazenod, Palmer, Vantage,... | Areas: R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, new active threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1273775782.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1273775782.2026-1</guid>
+      <pubDate>2026-08-23T14:44:39-00:00</pubDate>
+      <description>South Central Saskatchewan. Extra care and attention should be exercised in and around the following localities: Assiniboia, Mossbank, Ardill, Gravelbourg, Bateman, Mazenod, Palmer, Vantage,... | Areas: R.M. of Chaplin including Chaplin, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Gravelbourg including Gravelbourg and Bateman, new active threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Heat (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2501664076.2026</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.0607541658.2026-1</guid>
@@ -255,36 +282,27 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Weather (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1572944737.2026-1</guid>
-      <pubDate>2026-08-23T09:03:20-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0328101544.2026-1</guid>
+      <pubDate>2026-08-23T13:56:35-00:00</pubDate>
       <description>Significant rainfall expected today. Locations: most of mainland Nova Scotia. Potential rainfall amounts: 20 to 45 mm, with locally higher amounts possible. Time span: today and tonight. Remarks: A... | Areas: Kings County, Annapolis County, Digby County, Queens County, Shelburne County, Yarmouth County, Pictou County, Antigonish County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Weather (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1572944737.2026-2</guid>
-      <pubDate>2026-08-23T09:03:20-00:00</pubDate>
-      <description>Weather | Areas: Lunenburg County, Guysborough County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Wind (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1044978719.2026-1</guid>
-      <pubDate>2026-08-23T07:27:18-00:00</pubDate>
-      <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: this morning until early Monday morning. Maximum wind gusts: southeasterly up to 90 km/h... | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Rainfall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3213179206.2026-1</guid>
-      <pubDate>2026-08-23T07:26:24-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2688407228.2026-1</guid>
+      <pubDate>2026-08-23T13:49:23-00:00</pubDate>
       <description>A prolonged period of heavy rain is expected. Locations: central and northern Nova Scotia. Total rainfall: 40 to 60 mm, with local amounts near 100 mm possible. Time span: today and tonight... | Areas: Lunenburg County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Guysborough County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Wind (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0401219644.2026-1</guid>
+      <pubDate>2026-08-23T13:47:05-00:00</pubDate>
+      <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: this morning until early Monday morning. Maximum wind gusts: southeasterly near 90 km/h... | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
