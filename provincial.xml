@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 23 Aug 2026 09:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:59:14 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -255,9 +255,18 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Weather (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1938887196.2026-1</guid>
-      <pubDate>2026-08-23T07:37:30-00:00</pubDate>
-      <description>Significant rainfall expected today. Locations: most of mainland Nova Scotia. Potential rainfall amounts: 20 to 45 mm, with locally higher amounts possible. Time span: today and tonight. Remarks: A... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1572944737.2026-1</guid>
+      <pubDate>2026-08-23T09:03:20-00:00</pubDate>
+      <description>Significant rainfall expected today. Locations: most of mainland Nova Scotia. Potential rainfall amounts: 20 to 45 mm, with locally higher amounts possible. Time span: today and tonight. Remarks: A... | Areas: Kings County, Annapolis County, Digby County, Queens County, Shelburne County, Yarmouth County, Pictou County, Antigonish County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Weather (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1572944737.2026-2</guid>
+      <pubDate>2026-08-23T09:03:20-00:00</pubDate>
+      <description>Weather | Areas: Lunenburg County, Guysborough County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
