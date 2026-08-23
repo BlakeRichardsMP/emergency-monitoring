@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 23 Aug 2026 06:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:51:51 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -255,27 +255,27 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Weather (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2272778463.2026-1</guid>
-      <pubDate>2026-08-23T02:50:11-00:00</pubDate>
-      <description>Prolonged, heavy rainfall is expected. Locations: most of mainland Nova Scotia. Potential rainfall amounts: 30 to 60 mm, with locally higher amounts possible. Time span: early Sunday morning... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2699579097.2026-1</guid>
-      <pubDate>2026-08-23T02:41:48-00:00</pubDate>
-      <description>A prolonged period of heavy rain is expected. Locations: central and northern Nova Scotia. Total rainfall: 50 to 80 mm, with locally higher amounts possible. Time span: early Sunday morning through... | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1938887196.2026-1</guid>
+      <pubDate>2026-08-23T07:37:30-00:00</pubDate>
+      <description>Significant rainfall expected today. Locations: most of mainland Nova Scotia. Potential rainfall amounts: 20 to 45 mm, with locally higher amounts possible. Time span: today and tonight. Remarks: A... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Wind (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1954567028.2026-1</guid>
-      <pubDate>2026-08-23T02:36:18-00:00</pubDate>
-      <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: Sunday afternoon until early Monday morning. Maximum wind gusts: southeasterly up to 90 km/h... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1044978719.2026-1</guid>
+      <pubDate>2026-08-23T07:27:18-00:00</pubDate>
+      <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: this morning until early Monday morning. Maximum wind gusts: southeasterly up to 90 km/h... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Rainfall (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3213179206.2026-1</guid>
+      <pubDate>2026-08-23T07:26:24-00:00</pubDate>
+      <description>A prolonged period of heavy rain is expected. Locations: central and northern Nova Scotia. Total rainfall: 40 to 60 mm, with local amounts near 100 mm possible. Time span: today and tonight... | Areas: Lunenburg County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Guysborough County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
