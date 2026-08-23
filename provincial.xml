@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 23 Aug 2026 14:50:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:49:24 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,37 +208,37 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Issued)</title>
+      <title>Thunderstorm (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3098421926.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3098421926.2026-1</guid>
-      <pubDate>2026-08-23T14:47:56-00:00</pubDate>
-      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain. When thunder roars, go indoors! Lightning kills... | Areas: R.M. of Maple Bush including Riverhurst and Douglas Prov. Park, R.M. of Huron including Tugaske, R.M. of Enfield including Central Butte, R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Craik including Craik and Aylesbury, R.M. of Sarnia including Holdfast Chamberlain and Dilke, R.M. of Marquis including Tuxford Keeler and Buffalo Pound, R.M. of Dufferin including Bethune and Findlater, R.M. of Chaplin including Chaplin, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Caron including Caronport and Caron, R.M. of Pense including Pense Belle Plaine and Stony Beach, City of Moose Jaw, R.M. of Hillsborough including Crestwynd and Old Wives lake, R.M. of Redburn including Rouleau and Hearne, R.M. of Baildon including Briercrest, R.M. of Moose Jaw east of Highway 2 including Pasqua, R.M. of Moose Jaw west of Highway 2 including Bushell Park, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, R.M. of Wood River including Lafleche Woodrow and Melaval, R.M. of Stonehenge including Limerick and Congress, R.M. of Waverley including Glentworth and Fir Mountain, R.M. of Old Post including Wood Mountain and Killdeer, R.M. of Lake Johnson including Mossbank and Ardill, R.M. of Terrell including Spring Valley and Cardross, R.M. of Lake of The Rivers including Assiniboia, R.M. of Excel including Viceroy Ormiston and Verwood, R.M. of Willow Bunch including Willow Bunch and St Victor, R.M. of Poplar Valley including Rockglen and Fife Lake, R.M. of Hart Butte including Coronach, R.M. of Elmsthorpe including Avonlea and Truax, R.M. of Key West including Ogema and Kayville, R.M. of Bengough including Bengough, R.M. of The Gap including Ceylon and Hardy, R.M. of Happy Valley including Big Beaver, R.M. of Surprise Valley including Minton and Regway | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2442442687.2026-1</guid>
+      <pubDate>2026-08-23T15:40:45-00:00</pubDate>
+      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain. Hazards: Hail up to toonie sized. Wind gusts of... | Areas: R.M. of Maple Bush including Riverhurst and Douglas Prov. Park, R.M. of Huron including Tugaske, R.M. of Enfield including Central Butte, R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Craik including Craik and Aylesbury, R.M. of Sarnia including Holdfast Chamberlain and Dilke, R.M. of Marquis including Tuxford Keeler and Buffalo Pound, R.M. of Dufferin including Bethune and Findlater, R.M. of Chaplin including Chaplin, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Caron including Caronport and Caron, R.M. of Pense including Pense Belle Plaine and Stony Beach, City of Moose Jaw, R.M. of Hillsborough including Crestwynd and Old Wives lake, R.M. of Redburn including Rouleau and Hearne, R.M. of Baildon including Briercrest, R.M. of Moose Jaw east of Highway 2 including Pasqua, R.M. of Moose Jaw west of Highway 2 including Bushell Park, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, R.M. of Wood River including Lafleche Woodrow and Melaval, R.M. of Stonehenge including Limerick and Congress, R.M. of Waverley including Glentworth and Fir Mountain, R.M. of Old Post including Wood Mountain and Killdeer, R.M. of Lake Johnson including Mossbank and Ardill, R.M. of Terrell including Spring Valley and Cardross, R.M. of Lake of The Rivers including Assiniboia, R.M. of Excel including Viceroy Ormiston and Verwood, R.M. of Willow Bunch including Willow Bunch and St Victor, R.M. of Poplar Valley including Rockglen and Fife Lake, R.M. of Hart Butte including Coronach, R.M. of Elmsthorpe including Avonlea and Truax, R.M. of Key West including Ogema and Kayville, R.M. of Bengough including Bengough, R.M. of The Gap including Ceylon and Hardy, R.M. of Happy Valley including Big Beaver, R.M. of Surprise Valley including Minton and Regway, R.M. of Dundurn including Dundurn and Blackstrap Prov. Park, R.M. of Rudy including Outlook and Glenside, R.M. of Rosedale including Hanley, R.M. of Loreburn including Elbow Loreburn and Hawarden, R.M. of Lost River including South Allan and the Allan Hills, R.M. of Morris including Watrous Young and Zelma, R.M. of McCraney including Kenaston and Bladworth, R.M. of Wood Creek including Simpson, R.M. of Arm River including Davidson and Girvin, R.M. of Willner west of Davidson, R.M. of Big Arm including Imperial and Liberty | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
-      <title>Thunderstorm (Issued)</title>
+      <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3132583240.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3132583240.2026-1</guid>
-      <pubDate>2026-08-23T14:45:02-00:00</pubDate>
-      <description>South Central Saskatchewan. Extra care and attention should be exercised in and around the following localities: Assiniboia, Mossbank, Ardill, Gravelbourg, Bateman, Mazenod, Palmer, Vantage,... | Areas: R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, new active threat area | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0898243750.2026-1</guid>
+      <pubDate>2026-08-23T15:14:28-00:00</pubDate>
+      <description>South Central Saskatchewan. Assiniboia, Mossbank, Ardill, Gravelbourg, Bateman, Mazenod, Palmer, Vantage, Lafleche, Woodrow, Melaval, Limerick, Congress, Chaplin, Mortlach, Parkbeg, Shamrock,... | Areas: R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
-      <title>Thunderstorm (Issued)</title>
+      <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1273775782.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1273775782.2026-1</guid>
-      <pubDate>2026-08-23T14:44:39-00:00</pubDate>
-      <description>South Central Saskatchewan. Extra care and attention should be exercised in and around the following localities: Assiniboia, Mossbank, Ardill, Gravelbourg, Bateman, Mazenod, Palmer, Vantage,... | Areas: R.M. of Chaplin including Chaplin, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Gravelbourg including Gravelbourg and Bateman, new active threat area | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4005408991.2026-1</guid>
+      <pubDate>2026-08-23T15:14:23-00:00</pubDate>
+      <description>South Central Saskatchewan. Assiniboia, Mossbank, Ardill, Gravelbourg, Bateman, Mazenod, Palmer, Vantage, Lafleche, Woodrow, Melaval, Limerick, Congress, Chaplin, Mortlach, Parkbeg, Shamrock,... | Areas: R.M. of Chaplin including Chaplin, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Gravelbourg including Gravelbourg and Bateman, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
       <title>Heat (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2501664076.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0607541658.2026-1</guid>
-      <pubDate>2026-08-23T10:28:19-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0329617432.2026-1</guid>
+      <pubDate>2026-08-23T15:00:12-00:00</pubDate>
       <description>Temperatures reaching 29 degrees Celsius combined with overnight lows near 16 degrees Celsius are expected for the next day. The heat event continues for today. The heat will end overnight Sunday... | Areas: R.M. of Meadow Lake including Waterhen Res., R.M. of Beaver River including Pierceland and Goodsoil, Green Lake, R.M. of Loon Lake including Loon Lake and Makwa, R.M. of Big River including Big River and Chitek Lake, R.M. of Frenchman Butte including St. Walburg, R.M. of Mervin including Turtleford Mervin and Spruce Lake, R.M. of Turtle River including Edam and Vawn, R.M. of Britannia including Hillmond, R.M. of Wilton including Lashburn Marshall and Lone Rock, R.M. of Eldon including Maidstone and Waseca, R.M. of Paynton including Paynton, R.M. of Manitou Lake including Marsden, R.M. of Hillsdale including Neilburg and Baldwinton, R.M. of Senlac including Senlac, R.M. of Round Valley including Unity, R.M. of Cut Knife including Cut Knife, R.M. of Battle River including Sweet Grass Res. and Delmas, R.M. of Buffalo including Phippen, R.M. of Parkdale including Glaslyn and Fairholme, R.M. of Medstead including Medstead Belbutte and Birch Lake, R.M. of Meota including Meota and The Battlefords Prov. Park, R.M. of Round Hill including Rabbit Lake and Whitkow, The Battlefords, R.M. of North Battleford northwest of The Battlefords, R.M. of Douglas including Speers Richard and Alticane, R.M. of Mayfield including Maymont Denholm and Fielding, R.M. of Glenside north of Biggar | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
@@ -304,6 +304,98 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-08-23T13:47:05-00:00</pubDate>
       <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: this morning until early Monday morning. Maximum wind gusts: southeasterly near 90 km/h... | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Statement by Premier Lantz on the suspension of Canada-U.S. trade discussions and implementation of new U.S. tariffs</title>
+      <link>https://www.princeedwardisland.ca/en/news/statement-by-premier-lantz-on-the-suspension-of-canada-us-trade-discussions-and-implementation</link>
+      <guid isPermaLink="false">81082 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Sun, 23 Aug 2026 14:48:06 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Statement by Premier Lantz on the suspension of Canada-U.S. trade discussions and implementation of new U.S. tariffs &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-23T11:48:06-03:00" title="Sunday, August 23, 2026 - 11:48"&gt;Sun, 08/23/2026 - 11:48&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="Canada Flag" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/b3cf/Untitled%20design%20%2818%29.jpg.webp?itok=nIzoxIj9" title="Canada Flag" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Hon. Rob Lantz, Premier of Prince Edward Island, issued the following statement following the suspension&amp;nbsp;of trade discussions between Canada and the United States and the implementation of new U.S. tariffs on Canadian goods:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;“The breakdown of the Canada-U.S. trade negotiations was not the news any of us wanted to hear. I know this was a difficult decision for Prime Minister Carney, but I want to be very clear: it was absolutely the right one for our country.&lt;br /&gt;&lt;br /&gt;Canada went to the table looking for a fair deal. But there are some things we should never be willing to trade away simply for the sake of reaching an agreement. We will never accept terms that undermine Canadian industry, Canadian workers or our national sovereignty.&lt;br /&gt;&lt;br /&gt;These are unjustified tariffs being imposed by the United States, and the unfortunate reality is they will have real and direct impacts on businesses, workers and families here in Prince Edward Island and across Canada.&lt;br /&gt;&lt;br /&gt;I want to thank Prime Minister Carney, Minister Dominic LeBlanc, Chief Negotiator Janice Charette and the entire Canadian negotiating team for their leadership and close collaboration with First Ministers throughout these negotiations.&lt;br /&gt;&lt;br /&gt;Here at home, our job now is to stand with Island workers, businesses and families, and make sure our province is ready for what comes next. Our government is immediately convening Cabinet and the Cabinet Committee on Trade Relations to assess what these latest U.S. trade actions mean for Prince Edward Island.&lt;br /&gt;&lt;br /&gt;We will review the supports already in place for businesses and workers and make adjustments where they are needed. We will continue to support the industries that are the backbone of our economy, help Island businesses diversify their markets, and pursue strategic investments that strengthen our economy for the long term.&lt;br /&gt;&lt;br /&gt;Because our response cannot only be about getting through the days and weeks ahead. It also has to be about building a stronger Island economy for the future.&lt;br /&gt;&lt;br /&gt;We cannot control the decisions being made in Washington. But we can control how we respond here at home, and every Islander has a part to play.&lt;br /&gt;&lt;br /&gt;When you have the choice, buy local and buy Canadian. Every dollar spent on an Island or Canadian product supports the worker who made it, the farmer who grew it, the fisher who caught it, the producer who processed it and the business that put it on the shelf. Where we spend our hard-earned money matters. Those choices add up.&lt;br /&gt;&lt;br /&gt;There is uncertainty ahead, and we should be honest about that. But Islanders know how to meet difficult moments. We pull together. We look out for one another. And when something matters, we stand up for it.&lt;br /&gt;&lt;br /&gt;That is what Canada is doing now, and it is what our government will continue to do for our province. We will stand up for our businesses. We will stand up for our workers. And we will make sure Islanders have the support they need in the days ahead.&lt;br /&gt;&lt;br /&gt;There will be challenges, but I have every confidence in our province and in the people who call it home. We will get through this, and we will do it together.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Watch video statement here:&amp;nbsp;&lt;/p&gt;
+&lt;article class="media media--type-remote-video media--view-mode-default"&gt;
+&lt;div class="field field--name-field-media-oembed-video field--type-string field--label-hidden field__item"&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Emily Blue&lt;br /&gt;Office of the Premier&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:adamross@gov.pe.ca"&gt;emilyblue@gov.pe.ca&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -994,62 +1086,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Millar</title>
-      <link>https://www.princeedwardisland.ca/en/employee/millar-carla-2</link>
-      <guid isPermaLink="false">81067 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 14:15:34 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Millar&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;stevengallant&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T11:15:34-03:00" title="Thursday, August 20, 2026 - 11:15"&gt;Thu, 08/20/2026 - 11:15&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Project Manager, Corporate Talent Development and Employee Expert&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Public Service Commission&lt;/strong&gt;
-            &lt;div&gt;Organizational Development, Culture &amp;amp; HR Planning&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
