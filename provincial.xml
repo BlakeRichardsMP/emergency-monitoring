@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 24 Aug 2026 21:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 22:01:37 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -469,15 +469,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1288699464.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2380197652.2026-1</guid>
-      <pubDate>2026-08-23T20:50:02-00:00</pubDate>
-      <description>Northwestern Saskatchewan. Île à la Crosse, Buffalo Narrows and Beauval. | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -487,10 +478,28 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a8ca872e3cf2e4fb7ee9548</guid>
+      <pubDate>2026-08-24T21:39:19.307Z</pubDate>
+      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;A trough of low pressure moving across southern Manitoba this afternoon and evening may produce severe thunderstorms.
+
+What: wind gusts up to 60 knots.
+Up to ping-pong ball-sized hail.
+
+
+
+Large hail can damage vessels and cause injury.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
       <title>BE ALERT - ORANGE WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a8ca8769f6636093ddcad89</guid>
-      <pubDate>2026-08-24T20:24:20.541Z</pubDate>
+      <pubDate>2026-08-24T21:38:54.035Z</pubDate>
       <description>Severe Thunderstorm/Lightning Warning | Orange Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of dangerous thunderstorms that may be capable of producing strong wind gusts, damaging hail and heavy rain.
 
 A trough of low pressure moving across southern Manitoba this evening may cause severe thunderstorms to develop.
@@ -506,24 +515,6 @@ Additional information: a isolated tornado threat is also possible with any stor
 Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour | Brookdale, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8ca872e3cf2e4fb7ee9548</guid>
-      <pubDate>2026-08-24T20:24:16.989Z</pubDate>
-      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;A trough of low pressure moving across southern Manitoba this afternoon and evening may produce severe thunderstorms.
-
-What: wind gusts up to 60 knots.
-Up to ping-pong ball-sized hail.
-
-
-
-Large hail can damage vessels and cause injury.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour | Gimli, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
@@ -585,29 +576,29 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Thunderstorm (Updated)</title>
+      <title>Thunderstorm (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0771183731.2026-1</guid>
-      <pubDate>2026-08-24T20:27:54-00:00</pubDate>
-      <description>Mainland Nova Scotia. Extra care and attention should be exercised in and around the following localities: Queens County, Annapolis County, Cumberland County Minas Shore, Kings County and Lunenburg... | Areas: Kings County, Annapolis County, Lunenburg County, Queens County, Cumberland County - Minas Shore, new active threat area, continued active threat area | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1534390808.2026-1</guid>
+      <pubDate>2026-08-24T21:49:20-00:00</pubDate>
+      <description>Mainland Nova Scotia. Cumberland County Minas Shore. | Areas: Cumberland County - Minas Shore, ended threat area | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Thunderstorm (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0771183731.2026-2</guid>
-      <pubDate>2026-08-24T20:27:54-00:00</pubDate>
-      <description>Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: Cumberland County North and Cobequid Pass, ended threat area | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0678019110.2026-1</guid>
+      <pubDate>2026-08-24T21:35:15-00:00</pubDate>
+      <description>Kings County. | Areas: Kings County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Thunderstorm (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3991153991.2026-1</guid>
-      <pubDate>2026-08-24T19:43:06-00:00</pubDate>
-      <description>There is a risk of localized flash flooding. Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. When thunder roars, go indoors!... | Areas: Kings County, Annapolis County, Lunenburg County, Queens County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0678019110.2026-2</guid>
+      <pubDate>2026-08-24T21:35:15-00:00</pubDate>
+      <description>There is a risk of localized flash flooding. Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. When thunder roars, go indoors!... | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
