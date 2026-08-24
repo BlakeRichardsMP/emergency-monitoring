@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 24 Aug 2026 17:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:20:00 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,11 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Updated)</title>
+      <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2442989326.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4223471885.2026-1</guid>
-      <pubDate>2026-08-24T17:36:59-00:00</pubDate>
-      <description>Northeastern and East Central Saskatchewan. Extra care and attention should be exercised in and around the following localities: Cumberland House, Creighton, Hudson Bay and Porcupine Plain... | Areas: R.M. of Hudson Bay including Shoal Lake and Red Earth Reserves, Cumberland House, continued active threat area, new active threat area | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2759770775.2026-1</guid>
+      <pubDate>2026-08-24T18:16:07-00:00</pubDate>
+      <description>Northeastern and East Central Saskatchewan. Cumberland House, Creighton, Hudson Bay and Porcupine Plain. | Areas: R.M. of Hudson Bay including Shoal Lake and Red Earth Reserves, Cumberland House, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -478,33 +478,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3098421926.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1176519287.2026-1</guid>
-      <pubDate>2026-08-23T17:56:08-00:00</pubDate>
-      <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: R.M. of Caledonia including Milestone and Parry, R.M. of Scott including Yellow Grass Lang and Lewvan, R.M. of Norton including Pangman and Khedive, R.M. of Brokenshell including Trossachs, R.M. of Wellington including Cedoux Colfax and Tyvan, R.M. of Fillmore including Fillmore Creelman and Osage, R.M. of Weyburn including Weyburn and McTaggart, R.M. of Griffin including Griffin and Froude, R.M. of Laurier including Radville, R.M. of Lomond including Colgate and Goodwater, R.M. of Lake Alma including Lake Alma and Beaubier, R.M. of Souris Valley including Tribune and Oungre, R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Benson including Benson, R.M. of Cambria including Torquay and Outram, R.M. of Estevan including Estevan and Hitchcock | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4030000199.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1908029089.2026-1</guid>
-      <pubDate>2026-08-23T17:25:50-00:00</pubDate>
-      <description>South Central Saskatchewan. Watrous, Young, South Allan, Kenaston and Simpson. | Areas: R.M. of Lost River including South Allan and the Allan Hills, R.M. of Morris including Watrous Young and Zelma, R.M. of McCraney including Kenaston and Bladworth, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2320595158.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3040131370.2026-1</guid>
-      <pubDate>2026-08-23T17:25:41-00:00</pubDate>
-      <description>South Central and Southeastern Saskatchewan. Radville, Colgate, Goodwater, Lake Alma, Beaubier, Tribune, Oungre, Coronach, Bengough, Ceylon, Hardy, Big Beaver, Minton and Regway. | Areas: R.M. of The Gap including Ceylon and Hardy, R.M. of Surprise Valley including Minton and Regway, R.M. of Laurier including Radville, R.M. of Lomond including Colgate and Goodwater, R.M. of Lake Alma including Lake Alma and Beaubier, R.M. of Souris Valley including Tribune and Oungre, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -514,63 +487,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <title>BE ALERT - HIGH WIND EFFECT ISSUED BY HYDROLOGIC FORECAST CENTRE.</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8c822ad775b7e155194c5e</guid>
-      <pubDate>2026-08-24T17:40:57.179Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 12:38 p.m. CDT, a severe thunderstorm is located near Waterhen Lake. This severe thunderstorm is moving northeast at 40 km/h. Damaging wind gusts, up to quarter size hail and heavy rain are possible.
-
-Locations and nearby areas that could be impacted include: Waterhen Lake, Barker Lake, Cawker Lake
-
-
-
-
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8c818ad775b7e155194a90</guid>
-      <pubDate>2026-08-24T17:38:14.680Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 12:35 p.m. CDT, a severe thunderstorm is located near Helldiver Lake. This severe thunderstorm is moving northeast at 40 km/h. Damaging wind gusts, up to quarter size hail and heavy rain are possible.
-
-Locations and nearby areas that could be impacted include: Helldiver Lake
-
-
-
-
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8c726502b06e10fb1d72b8</guid>
-      <pubDate>2026-08-24T17:38:10.701Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 11:35 a.m. CST (12:35 p.m. CDT), a severe thunderstorm is located near Helldiver Lake. This severe thunderstorm is moving northeast at 40 km/h. Damaging wind gusts, up to quarter size hail and heavy rain are possible.
-
-Locations and nearby areas that could be impacted include: Helldiver Lake
-
-
-
-
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - SQUALL WARNING IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8c74443453c05588234838</guid>
-      <pubDate>2026-08-24T16:41:39.757Z</pubDate>
-      <description>Windstorm Warning | Squall Warning In Effect | &lt;p&gt;Severe thunderstorms are approaching Lake Winnipegosis.  Strong wind gusts of greater than 35 knots are expected from these thunderstorms.
-
-
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Immediate - act now</description>
+      <guid isPermaLink="false">6a8c92cbe36aa33dba562dda</guid>
+      <pubDate>2026-08-24T18:51:54.755Z</pubDate>
+      <description>Windstorm Warning | High Wind Effect Issued By Hydrologic Forecast Centre. | &lt;p&gt;Manitoba Transportation and Infrastructure’s Hydrologic Forecast Centre advises high winds are expected in the afternoon of August 25th. High winds may raise water levels on the lake between 0.9 - 1.5m with significant wave action expected.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Grand Marais, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
@@ -625,9 +546,18 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     <item>
       <title>Thunderstorm (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2273702512.2026-1</guid>
-      <pubDate>2026-08-24T17:22:56-00:00</pubDate>
-      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. There is a risk of localized flash flooding. When thunder roars, go indoors!... | Areas: Kings County, Lunenburg County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0290641762.2026-1</guid>
+      <pubDate>2026-08-24T18:30:06-00:00</pubDate>
+      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. There is a risk of localized flash flooding. When thunder roars, go indoors!... | Areas: Kings County, Lunenburg County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0290641762.2026-2</guid>
+      <pubDate>2026-08-24T18:30:06-00:00</pubDate>
+      <description>Thunderstorm | Areas: Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
@@ -659,13 +589,13 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Beaulieu</title>
-      <link>https://www.princeedwardisland.ca/en/employee/beaulieu-tracy</link>
-      <guid isPermaLink="false">81085 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 24 Aug 2026 14:06:41 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Beaulieu&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;fshitawa&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T11:06:41-03:00" title="Monday, August 24, 2026 - 11:06"&gt;Mon, 08/24/2026 - 11:06&lt;/time&gt;
+      <title>Turner</title>
+      <link>https://www.princeedwardisland.ca/en/employee/turner-karen</link>
+      <guid isPermaLink="false">81098 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 24 Aug 2026 19:19:07 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Turner&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T16:19:07-03:00" title="Monday, August 24, 2026 - 16:19"&gt;Mon, 08/24/2026 - 16:19&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
@@ -675,62 +605,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     
       
 &lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Director of Educational Effectiveness&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                  &lt;div&gt;Education and Early Years&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Ruff</title>
-      <link>https://www.princeedwardisland.ca/en/employee/ruff-christie</link>
-      <guid isPermaLink="false">81083 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 24 Aug 2026 11:19:02 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ruff&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tylermahar&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T08:19:02-03:00" title="Monday, August 24, 2026 - 08:19"&gt;Mon, 08/24/2026 - 08:19&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Chief People and Professional Practice Officer&lt;/span&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Interim Manager, Kings Primary Care Network&lt;/span&gt;
   &lt;/div&gt;
 
   &lt;/div&gt;
@@ -748,7 +623,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
 &lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
       &lt;li&gt;
                     &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;People and Professional Practice&lt;/div&gt;
+            &lt;div&gt;Primary Care, Chronic Disease and Renew&lt;/div&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
 
@@ -770,152 +645,13 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Statement by Premier Lantz on the suspension of Canada-U.S. trade discussions and implementation of new U.S. tariffs</title>
-      <link>https://www.princeedwardisland.ca/en/news/statement-by-premier-lantz-on-the-suspension-of-canada-us-trade-discussions-and-implementation</link>
-      <guid isPermaLink="false">81082 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Sun, 23 Aug 2026 14:48:06 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Statement by Premier Lantz on the suspension of Canada-U.S. trade discussions and implementation of new U.S. tariffs &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-23T11:48:06-03:00" title="Sunday, August 23, 2026 - 11:48"&gt;Sun, 08/23/2026 - 11:48&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Canada Flag" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/b3cf/Untitled%20design%20%2818%29.jpg.webp?itok=nIzoxIj9" title="Canada Flag" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Hon. Rob Lantz, Premier of Prince Edward Island, issued the following statement following the suspension&amp;nbsp;of trade discussions between Canada and the United States and the implementation of new U.S. tariffs on Canadian goods:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;“The breakdown of the Canada-U.S. trade negotiations was not the news any of us wanted to hear. I know this was a difficult decision for Prime Minister Carney, but I want to be very clear: it was absolutely the right one for our country.&lt;br /&gt;&lt;br /&gt;Canada went to the table looking for a fair deal. But there are some things we should never be willing to trade away simply for the sake of reaching an agreement. We will never accept terms that undermine Canadian industry, Canadian workers or our national sovereignty.&lt;br /&gt;&lt;br /&gt;These are unjustified tariffs being imposed by the United States, and the unfortunate reality is they will have real and direct impacts on businesses, workers and families here in Prince Edward Island and across Canada.&lt;br /&gt;&lt;br /&gt;I want to thank Prime Minister Carney, Minister Dominic LeBlanc, Chief Negotiator Janice Charette and the entire Canadian negotiating team for their leadership and close collaboration with First Ministers throughout these negotiations.&lt;br /&gt;&lt;br /&gt;Here at home, our job now is to stand with Island workers, businesses and families, and make sure our province is ready for what comes next. Our government is immediately convening Cabinet and the Cabinet Committee on Trade Relations to assess what these latest U.S. trade actions mean for Prince Edward Island.&lt;br /&gt;&lt;br /&gt;We will review the supports already in place for businesses and workers and make adjustments where they are needed. We will continue to support the industries that are the backbone of our economy, help Island businesses diversify their markets, and pursue strategic investments that strengthen our economy for the long term.&lt;br /&gt;&lt;br /&gt;Because our response cannot only be about getting through the days and weeks ahead. It also has to be about building a stronger Island economy for the future.&lt;br /&gt;&lt;br /&gt;We cannot control the decisions being made in Washington. But we can control how we respond here at home, and every Islander has a part to play.&lt;br /&gt;&lt;br /&gt;When you have the choice, buy local and buy Canadian. Every dollar spent on an Island or Canadian product supports the worker who made it, the farmer who grew it, the fisher who caught it, the producer who processed it and the business that put it on the shelf. Where we spend our hard-earned money matters. Those choices add up.&lt;br /&gt;&lt;br /&gt;There is uncertainty ahead, and we should be honest about that. But Islanders know how to meet difficult moments. We pull together. We look out for one another. And when something matters, we stand up for it.&lt;br /&gt;&lt;br /&gt;That is what Canada is doing now, and it is what our government will continue to do for our province. We will stand up for our businesses. We will stand up for our workers. And we will make sure Islanders have the support they need in the days ahead.&lt;br /&gt;&lt;br /&gt;There will be challenges, but I have every confidence in our province and in the people who call it home. We will get through this, and we will do it together.”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Watch video statement here:&amp;nbsp;&lt;/p&gt;
-&lt;article class="media media--type-remote-video media--view-mode-default"&gt;
-&lt;div class="field field--name-field-media-oembed-video field--type-string field--label-hidden field__item"&gt;
-&lt;/div&gt;
-&lt;/article&gt;
-&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Emily Blue&lt;br /&gt;Office of the Premier&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:adamross@gov.pe.ca"&gt;emilyblue@gov.pe.ca&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Singh</title>
-      <link>https://www.princeedwardisland.ca/en/employee/singh-harnoor</link>
-      <guid isPermaLink="false">81081 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 21 Aug 2026 05:27:57 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Singh&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;DSMACKINNON&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-21T02:27:57-03:00" title="Friday, August 21, 2026 - 02:27"&gt;Fri, 08/21/2026 - 02:27&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Education and Early Years&lt;/strong&gt;
-            &lt;div&gt;Public Schools&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Fernandez</title>
-      <link>https://www.princeedwardisland.ca/en/employee/fernandez-kimberley</link>
-      <guid isPermaLink="false">81078 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 17:11:31 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fernandez&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;fshitawa&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T14:11:31-03:00" title="Thursday, August 20, 2026 - 14:11"&gt;Thu, 08/20/2026 - 14:11&lt;/time&gt;
+      <title>Duruji</title>
+      <link>https://www.princeedwardisland.ca/en/employee/duruji-chinazaekpere</link>
+      <guid isPermaLink="false">81097 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 24 Aug 2026 19:17:27 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Duruji&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T16:17:27-03:00" title="Monday, August 24, 2026 - 16:17"&gt;Mon, 08/24/2026 - 16:17&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
@@ -925,7 +661,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     
       
 &lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Director, Seniors Health&lt;/span&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Manager, Unaffiliated Virtual Care&lt;/span&gt;
   &lt;/div&gt;
 
   &lt;/div&gt;
@@ -942,8 +678,8 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       
 &lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
       &lt;li&gt;
-                    &lt;strong&gt;Health and Wellness&lt;/strong&gt;
-            &lt;div&gt;Senior's Health&lt;/div&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Primary Care, Chronic Disease and Renew&lt;/div&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
 
@@ -965,47 +701,46 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>PEI offering free hunting licences to Canadian Armed Forces Veterans and active members of the Canadian Forces</title>
-      <link>https://www.princeedwardisland.ca/en/news/pei-offering-free-hunting-licences-to-canadian-armed-forces-veterans-and-active-members-of-the</link>
-      <guid isPermaLink="false">81076 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 17:03:15 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PEI offering free hunting licences to Canadian Armed Forces Veterans and active members of the Canadian Forces &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T14:03:15-03:00" title="Thursday, August 20, 2026 - 14:03"&gt;Thu, 08/20/2026 - 14:03&lt;/time&gt;
+      <title>Proude</title>
+      <link>https://www.princeedwardisland.ca/en/employee/proude-lauren</link>
+      <guid isPermaLink="false">81096 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 24 Aug 2026 19:16:05 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Proude&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T16:16:05-03:00" title="Monday, August 24, 2026 - 16:16"&gt;Mon, 08/24/2026 - 16:16&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
           &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
   
     
       
-  
-
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Clinical Lead, Queens Primary Care Network&lt;/span&gt;
+  &lt;/div&gt;
 
   &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Beginning this hunting season, Canadian Armed Forces Veterans and active members of the Canadian Forces can receive a free hunting licence.&amp;nbsp; &amp;nbsp;&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;“Hunting is&amp;nbsp;enjoyed by residents and visitors to the Island, with more than 2,500 licences sold&amp;nbsp;annually, and time spent outdoors is good for our mental and physical health. In addition to free angling licences for Veterans and active members of the Canadian Forces introduced in 2024, adding free hunting licences is just a small token of appreciation for those who have served our country.”&lt;/p&gt;
-&lt;p&gt;- Land and Environment Minister Darlene Compton&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Duck and goose populations are healthy, thanks in part to decades of conservation efforts, both here in PEI and throughout North America.&lt;/p&gt;
-&lt;p&gt;Registration is now open for the 2026 Provincial Hunting Workshop which will take place on Saturday, September 12 from 8:30 a.m. to 2:30 p.m.&amp;nbsp; Participants (ages 12 and up) will rotate through stations learning about firearm safety, wildlife conservation, hunting regulations and enforcement, map and compass use, skeet shooting and waterfowl hunting techniques.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Participants who complete this free workshop, along with the online portion of the Hunter Safety Course, receive hunter certification and a PEI Wildlife card as well as a free 2026-2027 hunting licence and conservation fee. Register online at &lt;a href="https://www.princeedwardisland.ca/en/service/hunting-firearms-and-bow-hunting-safety-courses"&gt;Hunting, Firearms, and Bow Hunting Safety Courses&lt;/a&gt;. Individuals who are unable to register online can call Forests, Fish and Wildlife at (902) 368-4683 to complete their registration by phone.&lt;/p&gt;
-&lt;p&gt;Hunting licences, including courtesy licences for Veterans and active members of the Canadian Forces, will be available August 25 online at&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/online-hunting-license"&gt;Buy a Hunting Licence Online&lt;/a&gt; and at local retailers.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Morgan Martin&lt;br /&gt;Department of Land and Environment&lt;br /&gt;902-218-3430&lt;br /&gt;&lt;a href="mailto:mxmartin@gov.pe.ca"&gt;mxmartin@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;/div&gt;
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
       
   &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Primary Care, Chronic Disease and Renew&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
   
     
       
@@ -1014,25 +749,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       &lt;/div&gt;
     
           &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
+        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
@@ -1040,59 +757,46 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Programme d'études de sciences humaines 10e année - HIS421M</title>
-      <link>https://www.princeedwardisland.ca/en/publication/programme-detudes-de-sciences-humaines-10e-annee-his421m</link>
-      <guid isPermaLink="false">81075 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 15:19:19 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Programme d'études de sciences humaines 10e année - HIS421M&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T12:19:19-03:00" title="Thursday, August 20, 2026 - 12:19"&gt;Thu, 08/20/2026 - 12:19&lt;/time&gt;
+      <title>MacDonald</title>
+      <link>https://www.princeedwardisland.ca/en/employee/macdonald-stephanie</link>
+      <guid isPermaLink="false">81095 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 24 Aug 2026 19:14:10 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MacDonald&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T16:14:10-03:00" title="Monday, August 24, 2026 - 16:14"&gt;Mon, 08/24/2026 - 16:14&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
           &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Clinical Lead, Queens Primary Care Network&lt;/span&gt;
   &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
   
     
       
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
       
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
   
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/d1c1/PROG.%20DETUDES%20HIS421M%20francais%2014%20aout%202018.pdf"&gt;
-              &lt;span&gt;PROG. DETUDES HIS421M francais 14 aout 2018.pdf&lt;/span&gt;
     
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Primary Care, Chronic Disease and Renew&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
 
   &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
   
     
       
@@ -1101,25 +805,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       &lt;/div&gt;
     
           &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
+        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
@@ -1127,59 +813,46 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Programme d'études de sciences humaines 12e année -  ECO621M</title>
-      <link>https://www.princeedwardisland.ca/en/publication/programme-detudes-de-sciences-humaines-12e-annee-eco621m</link>
-      <guid isPermaLink="false">81073 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 15:15:28 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Programme d'études de sciences humaines 12e année -  ECO621M &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T12:15:28-03:00" title="Thursday, August 20, 2026 - 12:15"&gt;Thu, 08/20/2026 - 12:15&lt;/time&gt;
+      <title>Bishop</title>
+      <link>https://www.princeedwardisland.ca/en/employee/bishop-jenny</link>
+      <guid isPermaLink="false">81094 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 24 Aug 2026 19:12:07 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Bishop&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T16:12:07-03:00" title="Monday, August 24, 2026 - 16:12"&gt;Mon, 08/24/2026 - 16:12&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
           &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Administrative Assistant, Queens Primary Care Network&lt;/span&gt;
   &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
   
     
       
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
       
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
   
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/8246/Economie%20621%20-%20NE%202008_0.pdf"&gt;
-              &lt;span&gt;Economie 621 - NE 2008.pdf&lt;/span&gt;
     
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Primary Care, Chronic Disease and Renew&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
 
   &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
   
     
       
@@ -1188,25 +861,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       &lt;/div&gt;
     
           &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
+        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
@@ -1214,59 +869,46 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Programme d'études de sciences humaines 12e année - GEO621M</title>
-      <link>https://www.princeedwardisland.ca/en/publication/programme-detudes-de-sciences-humaines-12e-annee-geo621m</link>
-      <guid isPermaLink="false">81072 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 15:13:13 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Programme d'études de sciences humaines 12e année - GEO621M&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T12:13:13-03:00" title="Thursday, August 20, 2026 - 12:13"&gt;Thu, 08/20/2026 - 12:13&lt;/time&gt;
+      <title>Millar</title>
+      <link>https://www.princeedwardisland.ca/en/employee/millar-katie</link>
+      <guid isPermaLink="false">81093 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 24 Aug 2026 19:09:39 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Millar&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T16:09:39-03:00" title="Monday, August 24, 2026 - 16:09"&gt;Mon, 08/24/2026 - 16:09&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
           &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Clinical Lead, Kings Primary Care Network&lt;/span&gt;
   &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
   
     
       
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
       
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
   
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/b856/1-SOC621M-Programmes%20etudes.pdf"&gt;
-              &lt;span&gt;1-SOC621M-Programmes etudes.pdf&lt;/span&gt;
     
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Primary Care, Chronic Disease and Renew&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
 
   &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
   
     
       
@@ -1275,25 +917,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       &lt;/div&gt;
     
           &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
+        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
@@ -1301,59 +925,46 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Programme d'études de sciences humaines 11e année - DRO521M</title>
-      <link>https://www.princeedwardisland.ca/en/publication/programme-detudes-de-sciences-humaines-11e-annee-dro521m</link>
-      <guid isPermaLink="false">81071 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 20 Aug 2026 15:10:21 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Programme d'études de sciences humaines 11e année - DRO521M&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-20T12:10:21-03:00" title="Thursday, August 20, 2026 - 12:10"&gt;Thu, 08/20/2026 - 12:10&lt;/time&gt;
+      <title>Tibbetts</title>
+      <link>https://www.princeedwardisland.ca/en/employee/tibbetts-sarah</link>
+      <guid isPermaLink="false">81092 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 24 Aug 2026 19:03:48 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Tibbetts&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T16:03:48-03:00" title="Monday, August 24, 2026 - 16:03"&gt;Mon, 08/24/2026 - 16:03&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
           &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Provincial Stroke Coordinator&lt;/span&gt;
   &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
   
     
       
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
       
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
   
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/db14/Programmes%20etudes-septembre%202022.Droit521M.pdf"&gt;
-              &lt;span&gt;Programmes etudes-septembre 2022.Droit521M.pdf&lt;/span&gt;
     
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Primary Care, Chronic Disease and Renew&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
 
   &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
   
     
       
@@ -1362,25 +973,175 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       &lt;/div&gt;
     
           &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Cutcliffe</title>
+      <link>https://www.princeedwardisland.ca/en/employee/cutcliffe-heather</link>
+      <guid isPermaLink="false">81091 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 24 Aug 2026 19:02:28 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cutcliffe&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T16:02:28-03:00" title="Monday, August 24, 2026 - 16:02"&gt;Mon, 08/24/2026 - 16:02&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
   
     
       
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Vision Care Program Coordinator&lt;/span&gt;
   &lt;/div&gt;
 
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Primary Care, Chronic Disease and Renew&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>MacKenzie</title>
+      <link>https://www.princeedwardisland.ca/en/employee/mackenzie-mark</link>
+      <guid isPermaLink="false">81090 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 24 Aug 2026 19:00:52 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MacKenzie&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T16:00:52-03:00" title="Monday, August 24, 2026 - 16:00"&gt;Mon, 08/24/2026 - 16:00&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Neuromuscular Coordinator&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Primary Care, Chronic Disease and Renew&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Buote</title>
+      <link>https://www.princeedwardisland.ca/en/employee/buote-jennifer</link>
+      <guid isPermaLink="false">81089 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 24 Aug 2026 18:59:26 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Buote&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T15:59:26-03:00" title="Monday, August 24, 2026 - 15:59"&gt;Mon, 08/24/2026 - 15:59&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Musculoskeletal Coordinator&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Primary Care, Chronic Disease and Renew&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
