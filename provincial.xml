@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 24 Aug 2026 22:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:02:11 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -460,15 +460,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4234620782.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2117789225.2026-1</guid>
-      <pubDate>2026-08-23T21:16:45-00:00</pubDate>
-      <description>Southwestern Saskatchewan. Dollard, Eastend, Ravenscrag, Frontier, Claydon, Maple Creek, Cypress Hills Park, Consul, Robsart and Willow Creek. | Areas: R.M. of Reno including Consul Robsart and Willow Creek, R.M. of White Valley including Eastend and Ravenscrag, R.M. of Frontier including Frontier and Claydon, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -573,6 +564,24 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Squall (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1488141415.2026-1</guid>
+      <pubDate>2026-08-24T22:43:41-00:00</pubDate>
+      <description>Conditions are favourable for the development of squalls with wind gusts up to 35 knots. | Areas: Chaleur - Miscou - eastern half, Gulf - Magdalen - western half, Northumberland Strait - western half | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Squall (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3802134435.2026-1</guid>
+      <pubDate>2026-08-24T22:43:41-00:00</pubDate>
+      <description>Northumberland Strait - western half. | Areas: Northumberland Strait - western half | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
