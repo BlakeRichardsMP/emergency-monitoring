@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 24 Aug 2026 16:07:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:52:02 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -205,6 +205,33 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/17aug23a/"&gt;BC Emer
       <description>&lt;p&gt;On Saturday, June 29, 2023, at 2227, a BC Emergency Alert announcing an Evacuation Order was issued by the Town of Osoyoos and the Regional District of Okanagan-Similkameen due to wildfire. Impacted residents should evacuate the area immediately. An Evacuation Alert has also been issued for nearby areas (details below). BC Emergency Alert Message Evacuation [&amp;#8230;]&lt;/p&gt;
 The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emergency Alert: Evacuation Order for parts of Osoyoos and surrounding area due to wildfire. July 29, 2023.&lt;/a&gt; first appeared on &lt;a href="https://www.emergencyinfobc.gov.bc.ca"&gt;EmergencyInfoBC&lt;/a&gt;.</description>
       <source>British Columbia</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2442989326.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4223471885.2026-1</guid>
+      <pubDate>2026-08-24T17:36:59-00:00</pubDate>
+      <description>Northeastern and East Central Saskatchewan. Extra care and attention should be exercised in and around the following localities: Cumberland House, Creighton, Hudson Bay and Porcupine Plain... | Areas: R.M. of Hudson Bay including Shoal Lake and Red Earth Reserves, Cumberland House, continued active threat area, new active threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2287132548.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3939292595.2026-1</guid>
+      <pubDate>2026-08-24T16:54:25-00:00</pubDate>
+      <description>Northeastern Saskatchewan. Cumberland House and Creighton. | Areas: Cumberland House, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1071463419.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1071463419.2026-1</guid>
+      <pubDate>2026-08-24T16:30:48-00:00</pubDate>
+      <description>Conditions are favourable for the development of dangerous thunderstorms that may be capable of producing torrential rain. Slow moving thunderstorms producing torrential rainfall is expected... | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, Hwy 165 between hwys 2 and 914 including Pinehouse Lake, Lac la Ronge Prov. Park including La Ronge, Candle Lake Prov. Park and Narrow Hills Prov. Park, Montreal Lake and Molanosa, Prince Albert Nat. Park, Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House, Cluff Lake Mine, La Loche and Clearwater River Prov. Park | Level: advisory</description>
+      <source>Saskatchewan</source>
     </item>
 
     <item>
@@ -478,24 +505,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3132583240.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0898243750.2026-1</guid>
-      <pubDate>2026-08-23T15:14:28-00:00</pubDate>
-      <description>South Central Saskatchewan. Assiniboia, Mossbank, Ardill, Gravelbourg, Bateman, Mazenod, Palmer, Vantage, Lafleche, Woodrow, Melaval, Limerick, Congress, Chaplin, Mortlach, Parkbeg, Shamrock,... | Areas: R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1273775782.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4005408991.2026-1</guid>
-      <pubDate>2026-08-23T15:14:23-00:00</pubDate>
-      <description>South Central Saskatchewan. Assiniboia, Mossbank, Ardill, Gravelbourg, Bateman, Mazenod, Palmer, Vantage, Lafleche, Woodrow, Melaval, Limerick, Congress, Chaplin, Mortlach, Parkbeg, Shamrock,... | Areas: R.M. of Chaplin including Chaplin, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Gravelbourg including Gravelbourg and Bateman, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -507,32 +516,82 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8c63d50325f7c56c7b1883</guid>
-      <pubDate>2026-08-24T15:52:23.156Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 10:49 a.m. CDT, a severe thunderstorm is located near Bellsite. This severe thunderstorm is moving northeast at 40 km/h. Damaging wind gusts, up to quarter size hail and heavy rain are possible.
+      <guid isPermaLink="false">6a8c822ad775b7e155194c5e</guid>
+      <pubDate>2026-08-24T17:40:57.179Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 12:38 p.m. CDT, a severe thunderstorm is located near Waterhen Lake. This severe thunderstorm is moving northeast at 40 km/h. Damaging wind gusts, up to quarter size hail and heavy rain are possible.
 
-Locations and nearby areas that could be impacted include: Bellsite, Pelican Rapids
-
-
+Locations and nearby areas that could be impacted include: Waterhen Lake, Barker Lake, Cawker Lake
 
 
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Mafeking, Manitoba</description>
+
+
+Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
       <source>Manitoba</source>
     </item>
 
     <item>
       <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8c5aa60325f7c56c7b0b24</guid>
-      <pubDate>2026-08-24T15:47:00.407Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 10:42 a.m. CDT, a severe thunderstorm is located over Cowan. This severe thunderstorm is moving northeast at 35 km/h. Strong wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
+      <guid isPermaLink="false">6a8c818ad775b7e155194a90</guid>
+      <pubDate>2026-08-24T17:38:14.680Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 12:35 p.m. CDT, a severe thunderstorm is located near Helldiver Lake. This severe thunderstorm is moving northeast at 40 km/h. Damaging wind gusts, up to quarter size hail and heavy rain are possible.
 
-Locations and nearby areas that could be impacted include: Cowan
-
-
+Locations and nearby areas that could be impacted include: Helldiver Lake
 
 
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Pine River, Manitoba</description>
+
+
+Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a8c726502b06e10fb1d72b8</guid>
+      <pubDate>2026-08-24T17:38:10.701Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 11:35 a.m. CST (12:35 p.m. CDT), a severe thunderstorm is located near Helldiver Lake. This severe thunderstorm is moving northeast at 40 km/h. Damaging wind gusts, up to quarter size hail and heavy rain are possible.
+
+Locations and nearby areas that could be impacted include: Helldiver Lake
+
+
+
+
+Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - SQUALL WARNING IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a8c74443453c05588234838</guid>
+      <pubDate>2026-08-24T16:41:39.757Z</pubDate>
+      <description>Windstorm Warning | Squall Warning In Effect | &lt;p&gt;Severe thunderstorms are approaching Lake Winnipegosis.  Strong wind gusts of greater than 35 knots are expected from these thunderstorms.
+
+
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Immediate - act now</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - ORANGE WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a8c72113453c055882338ed</guid>
+      <pubDate>2026-08-24T16:32:16.279Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Orange Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of dangerous thunderstorms that may be capable of producing torrential rain.
+
+Slow moving thunderstorms producing torrential rainfall is expected beginning late this morning and persisting though to this evening.
+
+
+
+Fast-moving and rapidly rising water can sweep vehicles away and damage infrastructure.
+
+Heavy rain can cause flash flooding and significant reductions to visibility.
+
+Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
       <source>Manitoba</source>
     </item>
 
@@ -566,27 +625,18 @@ Severe thunderstorm warnings are issued when imminent or occurring thunderstorms
     <item>
       <title>Thunderstorm (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2253348063.2026-1</guid>
-      <pubDate>2026-08-24T16:01:05-00:00</pubDate>
-      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. There is a risk of localized flash flooding. When thunder roars, go indoors!... | Areas: Kings County, Lunenburg County, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2273702512.2026-1</guid>
+      <pubDate>2026-08-24T17:22:56-00:00</pubDate>
+      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing heavy rain. There is a risk of localized flash flooding. When thunder roars, go indoors!... | Areas: Kings County, Lunenburg County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Rainfall (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0588809590.2026-1</guid>
-      <pubDate>2026-08-24T12:32:10-00:00</pubDate>
-      <description>Halifax County - east of Porters Lake. | Areas: Halifax County - east of Porters Lake | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0588809590.2026-2</guid>
-      <pubDate>2026-08-24T12:32:10-00:00</pubDate>
-      <description>Heavy rain is occurring. Locations: Guysborough County and eastern Cape Breton. Additional rainfall: 10 to 40 mm. Time span: continuing today. Remarks: Persistent bands of heavy rain and... | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0765592593.2026-1</guid>
+      <pubDate>2026-08-24T17:10:41-00:00</pubDate>
+      <description>The heaviest rainfall has moved out of the alerted region. Showers in the vicinity continue this evening and tonight, but are below warning criteria. | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
