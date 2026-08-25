@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:08:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:17:49 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -244,36 +244,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8d0ca323aebc8b7f9da4f4</guid>
-      <pubDate>2026-08-25T11:01:42.303Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of dangerous thunderstorms that may be capable of producing strong wind gusts, damaging hail and heavy rain.
-
-Lines of thunderstorms is slowly moving eastward across northwestern Ontario early this morning. Some of these thunderstorms could become severe.
-
-What:
-Wind gusts up to 90 km/h.
-Up to loonie  sized hail. 
-Locally heavy rain.
-
-
-
-Heavy rain can cause flash flooding and significant reductions to visibility.
-
-Strong wind gusts can damage trees, buildings and overturn vehicles.
-
-Large hail can cause significant damage and injury.
-
-Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
-
-For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour | Stratton, Ontario</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - HIGH WIND EFFECT ISSUED BY HYDROLOGIC FORECAST CENTRE.</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a8c92cbe36aa33dba562dda</guid>
@@ -307,6 +277,15 @@ For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&g
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1264688975.2026-1</guid>
+      <pubDate>2026-08-25T15:34:32-00:00</pubDate>
+      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain. When thunder roars, go indoors! Lightning kills... | Areas: Kings County, Annapolis County, Digby County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
@@ -361,6 +340,151 @@ For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&g
       <pubDate>2026-08-24T17:10:41-00:00</pubDate>
       <description>The heaviest rainfall has moved out of the alerted region. Showers in the vicinity continue this evening and tonight, but are below warning criteria. | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>MacKenzie</title>
+      <link>https://www.princeedwardisland.ca/en/employee/mackenzie-adam-0</link>
+      <guid isPermaLink="false">81117 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 25 Aug 2026 14:34:18 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MacKenzie&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;CDMURNAGHAN&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-25T11:34:18-03:00" title="Tuesday, August 25, 2026 - 11:34"&gt;Tue, 08/25/2026 - 11:34&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Executive Assistant&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Executive Council Office&lt;/strong&gt;
+            &lt;div&gt;Executive Council Office&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Employer Advisor August 2026 Newsletter</title>
+      <link>https://www.princeedwardisland.ca/en/publication/employer-advisor-august-2026-newsletter</link>
+      <guid isPermaLink="false">81116 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 25 Aug 2026 14:21:14 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Employer Advisor August 2026 Newsletter&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;nataleesmith&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-25T11:21:14-03:00" title="Tuesday, August 25, 2026 - 11:21"&gt;Tue, 08/25/2026 - 11:21&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Newsletter&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/7f79/Employer%20Advisor%20August%202026%20Newsletter.pdf"&gt;
+              &lt;span&gt;Employer Advisor August 2026 Newsletter.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -643,6 +767,39 @@ For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&g
             &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;Because these documents are meant for students who speak French as a first language, this document is only available in French.&lt;/strong&gt;&lt;/p&gt;
 &lt;/div&gt;
       
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/af97/juin%202018%20-%20SCI421M%20-%20Programme%20complet.pdf"&gt;
+              &lt;span&gt;juin 2018 - SCI421M - Programme complet.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
   
@@ -1021,118 +1178,6 @@ For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&g
 
   &lt;/div&gt;
 
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Marshall</title>
-      <link>https://www.princeedwardisland.ca/en/employee/marshall-stephanie</link>
-      <guid isPermaLink="false">81107 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 24 Aug 2026 23:40:49 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Marshall&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T20:40:49-03:00" title="Monday, August 24, 2026 - 20:40"&gt;Mon, 08/24/2026 - 20:40&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Child Protection Social Worker&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Social Development and Seniors&lt;/strong&gt;
-            &lt;div&gt;Child Protection Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Keizer</title>
-      <link>https://www.princeedwardisland.ca/en/employee/keizer-emilee</link>
-      <guid isPermaLink="false">81106 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 24 Aug 2026 23:24:58 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Keizer&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-24T20:24:58-03:00" title="Monday, August 24, 2026 - 20:24"&gt;Mon, 08/24/2026 - 20:24&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Youth Worker&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Social Development and Seniors&lt;/strong&gt;
-            &lt;div&gt;Residential Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
