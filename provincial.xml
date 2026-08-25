@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 24 Aug 2026 23:55:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 03:15:57 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -210,18 +210,9 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1071463419.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3060302809.2026-1</guid>
-      <pubDate>2026-08-24T23:34:54-00:00</pubDate>
-      <description>Thunderstorm | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, Cluff Lake Mine, La Loche and Clearwater River Prov. Park | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1071463419.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3060302809.2026-2</guid>
-      <pubDate>2026-08-24T23:34:54-00:00</pubDate>
-      <description>Conditions are favourable for the development of dangerous thunderstorms that may be capable of producing torrential rain. Slow moving thunderstorms producing torrential rainfall is expected to... | Areas: Hwy 165 between hwys 2 and 914 including Pinehouse Lake, Lac la Ronge Prov. Park including La Ronge, Candle Lake Prov. Park and Narrow Hills Prov. Park, Montreal Lake and Molanosa, Prince Albert Nat. Park, Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2311028091.2026-1</guid>
+      <pubDate>2026-08-25T02:02:42-00:00</pubDate>
+      <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Hwy 165 between hwys 2 and 914 including Pinehouse Lake, Lac la Ronge Prov. Park including La Ronge, Candle Lake Prov. Park and Narrow Hills Prov. Park, Montreal Lake and Molanosa, Prince Albert Nat. Park, Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -442,24 +433,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0615278372.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3220259894.2026-1</guid>
-      <pubDate>2026-08-24T00:57:58-00:00</pubDate>
-      <description>North Central and Northwestern Saskatchewan. Île à la Crosse, Buffalo Narrows, Beauval, Pinehouse Lake and La Ronge. | Areas: Île à la Crosse and Beauval, Hwy 165 between hwys 2 and 914 including Pinehouse Lake, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1220649686.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1504158587.2026-1</guid>
-      <pubDate>2026-08-24T00:01:01-00:00</pubDate>
-      <description>South Central Saskatchewan. Assiniboia, Gravelbourg, Wood Mountain, Rockglen, Coronach, Minton, Avonlea and Kayville. | Areas: R.M. of Old Post including Wood Mountain and Killdeer, R.M. of Lake of The Rivers including Assiniboia, R.M. of Excel including Viceroy Ormiston and Verwood, R.M. of Willow Bunch including Willow Bunch and St Victor, R.M. of Poplar Valley including Rockglen and Fife Lake, R.M. of Hart Butte including Coronach, R.M. of Bengough including Bengough, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -469,23 +442,67 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - ORANGE WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8c72113453c055882338ed</guid>
-      <pubDate>2026-08-24T23:36:33.506Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Orange Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of dangerous thunderstorms that may be capable of producing torrential rain.
-
-Slow moving thunderstorms producing torrential rainfall is expected to continue this evening.
+      <guid isPermaLink="false">6a8d080a78e0296326756515</guid>
+      <pubDate>2026-08-25T03:12:09.617Z</pubDate>
+      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Showers and thunderstorms are expected to track east across the region after midnight. Some of these storms could produce squalls with wind gusts up to 45 knots and hail up to 2 cm in diameter.
 
 
 
-Fast-moving and rapidly rising water can sweep vehicles away and damage infrastructure.
+Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
 
-Heavy rain can cause flash flooding and significant reductions to visibility.
+    <item>
+      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a8d072178e0296326755e9b</guid>
+      <pubDate>2026-08-25T03:08:15.992Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 10:05 p.m. CDT, a line of severe thunderstorms is located from Dugald to Ile des Chênes. These severe thunderstorms are moving east at 30 km/h. Strong wind gusts, up to quarter size hail and heavy rain are possible.
 
-Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
+Locations and nearby areas that could be impacted include: Grande Pointe, Ile des Chênes, Oakbank, Dugald, Landmark, Anola, La Coulée, Ste-Geneviève
 
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
+
+
+
+Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Tyndall, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a8d045bc87d1013296d4171</guid>
+      <pubDate>2026-08-25T03:06:51.650Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 10:02 p.m. CDT, a severe thunderstorm is located about 20 km northeast of Aikens Lake. This severe thunderstorm is moving east at 45 km/h. Damaging wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
+
+
+
+
+
+
+Damage to roofs, fences, soft shelters or trees is likely. Large hail may cause significant damage and injury.
+
+Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a8d0445c87d1013296d3fad</guid>
+      <pubDate>2026-08-25T03:06:44.474Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 10:02 p.m. CDT, a severe thunderstorm is located about 20 km northeast of Aikens Lake. This severe thunderstorm is moving east at 45 km/h. Damaging wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
+
+
+
+
+
+
+Damage to roofs, fences, soft shelters or trees is likely. Large hail may cause significant damage and injury.
+
+Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
       <source>Manitoba</source>
     </item>
 
@@ -493,8 +510,8 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a8ca872e3cf2e4fb7ee9548</guid>
-      <pubDate>2026-08-24T21:39:19.307Z</pubDate>
-      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;A trough of low pressure moving across southern Manitoba this afternoon and evening may produce severe thunderstorms.
+      <pubDate>2026-08-25T02:57:56.129Z</pubDate>
+      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;A trough of low pressure moving across southern Manitoba this evening may produce severe thunderstorms.
 
 What: wind gusts up to 60 knots.
 Up to ping-pong ball-sized hail.
@@ -511,7 +528,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
       <title>BE ALERT - ORANGE WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a8ca8769f6636093ddcad89</guid>
-      <pubDate>2026-08-24T21:38:54.035Z</pubDate>
+      <pubDate>2026-08-25T02:15:32.545Z</pubDate>
       <description>Severe Thunderstorm/Lightning Warning | Orange Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of dangerous thunderstorms that may be capable of producing strong wind gusts, damaging hail and heavy rain.
 
 A trough of low pressure moving across southern Manitoba this evening may cause severe thunderstorms to develop.
@@ -526,7 +543,7 @@ Additional information: a isolated tornado threat is also possible with any stor
 
 Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
 
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour | Brookdale, Manitoba</description>
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour | Winnipeg, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
@@ -567,20 +584,29 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
+      <title>Squall (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1954479110.2026-1</guid>
+      <pubDate>2026-08-25T00:15:28-00:00</pubDate>
+      <description>Conditions are favourable for the development of squalls with wind gusts up to 35 knots. | Areas: Chaleur - Miscou - eastern half, Gulf - Magdalen - western half | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Squall (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1954479110.2026-2</guid>
+      <pubDate>2026-08-25T00:15:28-00:00</pubDate>
+      <description>Northumberland Strait - western half. | Areas: Northumberland Strait - western half | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Thunderstorm (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1489225320.2026-1</guid>
       <pubDate>2026-08-24T23:44:52-00:00</pubDate>
       <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Squall (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1488141415.2026-1</guid>
-      <pubDate>2026-08-24T22:43:41-00:00</pubDate>
-      <description>Conditions are favourable for the development of squalls with wind gusts up to 35 knots. | Areas: Chaleur - Miscou - eastern half, Gulf - Magdalen - western half, Northumberland Strait - western half | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
