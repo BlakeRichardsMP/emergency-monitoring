@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:59:52 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -254,33 +254,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
     <item>
       <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3384454651.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2431953362.2026-1</guid>
-      <pubDate>2026-08-24T08:18:16-00:00</pubDate>
-      <description>West Central and Northwestern Saskatchewan. Meadow Lake, Pierceland, Goodsoil, Green lake, Waterhen Reserve and Big River. | Areas: R.M. of Meadow Lake including Waterhen Res., ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3274522321.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1692335491.2026-1</guid>
-      <pubDate>2026-08-24T07:41:26-00:00</pubDate>
-      <description>North Central and West Central Saskatchewan. Prince Albert Park, Narrow Hills Park, Meadow Lake, Pierceland, Goodsoil, Green lake, Waterhen Reserve and Big River. | Areas: Green Lake, R.M. of Big River including Big River and Chitek Lake, Prince Albert Nat. Park, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2829100243.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2298099314.2026-1</guid>
-      <pubDate>2026-08-24T07:16:42-00:00</pubDate>
-      <description>Saskatchewan. Meadow Lake, Pierceland, Goodsoil, Green lake, Waterhen Reserve, Big River, Île à la Crosse, Buffalo Narrows, Beauval, Pinehouse Lake and La Ronge. | Areas: Green Lake, Île à la Crosse and Beauval, Hwy 165 between hwys 2 and 914 including Pinehouse Lake, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1502710585.2026</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1079122277.2026-1</guid>
       <pubDate>2026-08-24T06:59:34-00:00</pubDate>
@@ -310,10 +283,10 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a8d0ca323aebc8b7f9da4f4</guid>
-      <pubDate>2026-08-25T06:37:17.936Z</pubDate>
+      <pubDate>2026-08-25T09:19:53.032Z</pubDate>
       <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of dangerous thunderstorms that may be capable of producing strong wind gusts, damaging hail and heavy rain.
 
-Lines of thunderstorms developing over southern Manitoba are slowly moving eastward tonight and some of these thunderstorms could become severe.
+Lines of thunderstorms is slowly moving eastward across northwestern Ontario early this morning. Some of these thunderstorms could become severe.
 
 What:
 Wind gusts up to 90 km/h.
@@ -333,19 +306,6 @@ Severe thunderstorm watches are issued when conditions are favourable for the de
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
 
 For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8d080a78e0296326756515</guid>
-      <pubDate>2026-08-25T03:12:09.617Z</pubDate>
-      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Showers and thunderstorms are expected to track east across the region after midnight. Some of these storms could produce squalls with wind gusts up to 45 knots and hail up to 2 cm in diameter.
-
-
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
       <source>Manitoba</source>
     </item>
 
@@ -436,15 +396,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.0765592593.2026-1</guid>
       <pubDate>2026-08-24T17:10:41-00:00</pubDate>
       <description>The heaviest rainfall has moved out of the alerted region. Showers in the vicinity continue this evening and tonight, but are below warning criteria. | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Weather (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3465494069.2026-1</guid>
-      <pubDate>2026-08-24T07:11:29-00:00</pubDate>
-      <description>Weather | Areas: Pictou County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
