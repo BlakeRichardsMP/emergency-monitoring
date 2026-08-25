@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:59:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:04:49 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -235,42 +235,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2380473797.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2826033123.2026-1</guid>
-      <pubDate>2026-08-24T09:28:40-00:00</pubDate>
-      <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: R.M. of Spiritwood including Spiritwood and Leoville, R.M. of Canwood including Debden and Big River Res., R.M. of Meeting Lake, R.M. of Leask including Leask Mistawasis Res. and Parkside, R.M. of Shellbrook including Sturgeon Lake Res., R.M. of Duck Lake including Duck Lake and Beardy's Res., District of Lakeland including Emma Lake and Anglin Lake, R.M. of Paddockwood including Candle Lake and Paddockwood, R.M. of Buckland including Wahpeton Res. and Spruce Home, R.M. of Garden River including Meath Park and Albertville, City of Prince Albert, R.M. of Prince Albert including Davis, R.M. of Birch Hills including Muskoday Res., R.M. of St Louis including One Arrow Res. and Domremy, R.M. of Torch River including Choiceland and White Fox, R.M. of Nipawin including Nipawin Aylsham and Pontrilas, R.M. of Moose Range including Carrot River and Tobin Lake, R.M. of Kinistino including Kinistino and James Smith Res., R.M. of Invergordon including Yellow Creek and Tarnopol, R.M. of Flett's Springs including Beatty Ethelton and Pathlow, R.M. of Three Lakes including Middle Lake and St Benedict, R.M. of Lake Lenore including St. Brieux, R.M. of Willow Creek including Gronlid and Fairy Glen, R.M. of Connaught including Ridgedale and New Osgoode, R.M. of Star City including Melfort and Star City, R.M. of Tisdale including Tisdale Eldersley and Sylvania, R.M. of Pleasantdale including Naicam and Pleasantdale, R.M. of Barrier Valley including Archerwill and McKague, R.M. of Arborfield including Arborfield and Zenon Park, R.M. of Bjorkdale including Greenwater Lake Prov. Park, R.M. of Meadow Lake including Waterhen Res., R.M. of Beaver River including Pierceland and Goodsoil, Green Lake, R.M. of Loon Lake including Loon Lake and Makwa, R.M. of Big River including Big River and Chitek Lake | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1546050258.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0814761184.2026-1</guid>
-      <pubDate>2026-08-24T09:16:46-00:00</pubDate>
-      <description>East Central Saskatchewan. Melfort, St. Brieux, Middle Lake, Yellow Creek, Kinistino, Gronlid, Nipawin, Choiceland, Carrot River and Tobin Lake. | Areas: R.M. of Nipawin including Nipawin Aylsham and Pontrilas, R.M. of Willow Creek including Gronlid and Fairy Glen, R.M. of Connaught including Ridgedale and New Osgoode, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1502710585.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1079122277.2026-1</guid>
-      <pubDate>2026-08-24T06:59:34-00:00</pubDate>
-      <description>Thunderstorm | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1502710585.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1079122277.2026-2</guid>
-      <pubDate>2026-08-24T06:59:34-00:00</pubDate>
-      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain. The risk of severe thunderstorms will continue... | Areas: Lac La Biche Co. near Plamondon Hylo and Avenir, Lac La Biche Co. near Heart Lake, Lac La Biche Co. near Lac La Biche and Square Lake, Lac La Biche Co. near Lakeland Prov. Park and Rec. Area, Lac La Biche Co. near Fork Lake, M.D. of Bonnyville including Cold Lake Air Weapons Range, Smoky Lake Co. near Buffalo Lake and Kikino Smts, Smoky Lake Co. near Vilna Saddle Lake and Whitefish Lake, Co. of St. Paul near Ashmont St. Vincent and St. Lina, Co. of St. Paul near St. Paul and Lafond, Co. of St. Paul near Elk Point and St. Edouard, Co. of St. Paul near Lindbergh and Frog Lake, M.D. of Bonnyville near La Corey Wolf Lake and Truman, M.D. of Bonnyville near Glendon and Moose Lake, M.D. of Bonnyville near Bonnyville Ardmore and Kehewin Res., M.D. of Bonnyville near Cold Lake and City of Cold Lake, M.D. of Bonnyville near Beaverdam, M.D. of Bonnyville near Fishing Lake Smt | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -283,7 +247,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a8d0ca323aebc8b7f9da4f4</guid>
-      <pubDate>2026-08-25T09:19:53.032Z</pubDate>
+      <pubDate>2026-08-25T11:01:42.303Z</pubDate>
       <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of dangerous thunderstorms that may be capable of producing strong wind gusts, damaging hail and heavy rain.
 
 Lines of thunderstorms is slowly moving eastward across northwestern Ontario early this morning. Some of these thunderstorms could become severe.
@@ -305,7 +269,7 @@ Severe thunderstorm watches are issued when conditions are favourable for the de
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
 
-For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
+For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour | Stratton, Ontario</description>
       <source>Manitoba</source>
     </item>
 
