@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 25 Aug 2026 19:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:00:12 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -264,18 +264,18 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Thunderstorm (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1471237989.2026-1</guid>
-      <pubDate>2026-08-25T18:46:55-00:00</pubDate>
-      <description>Annapolis Valley, Hants Nova Scotia. Annapolis County. | Areas: Annapolis County, ended threat area | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2436345576.2026-1</guid>
+      <pubDate>2026-08-25T20:31:22-00:00</pubDate>
+      <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Colchester County - Cobequid Bay, Colchester County North, Hants County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Thunderstorm (Updated)</title>
+      <title>Thunderstorm (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3428233619.2026-1</guid>
-      <pubDate>2026-08-25T17:53:03-00:00</pubDate>
-      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain. When thunder roars, go indoors! Lightning kills... | Areas: Kings County, Annapolis County, Digby County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1471237989.2026-1</guid>
+      <pubDate>2026-08-25T18:46:55-00:00</pubDate>
+      <description>Annapolis Valley, Hants Nova Scotia. Annapolis County. | Areas: Annapolis County, ended threat area | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
