@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 25 Aug 2026 03:15:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:17:36 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -388,51 +388,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2612103799.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2625410377.2026-1</guid>
-      <pubDate>2026-08-24T03:57:24-00:00</pubDate>
-      <description>Northwestern Saskatchewan. Île à la Crosse, Buffalo Narrows and Beauval. | Areas: Buffalo Narrows and Peter Pond Lake, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2222025727.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1683158310.2026-1</guid>
-      <pubDate>2026-08-24T03:52:52-00:00</pubDate>
-      <description>West Central Saskatchewan. Marsden, Neilburg, Senlac, Unity, Cut Knife, Sweet Grass Reserve, the City of Lloydminster, Lashburn, Maidstone, St. Walburg and Hillmond. | Areas: R.M. of Britannia including Hillmond, R.M. of Wilton including Lashburn Marshall and Lone Rock, R.M. of Manitou Lake including Marsden, City of Lloydminster, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0863750106.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1514587058.2026-1</guid>
-      <pubDate>2026-08-24T03:52:52-00:00</pubDate>
-      <description>East Central Alberta. Innisfree, Mannville, Viking, Lloydminster, the County of Vermilion River and the Municipal District of Wainwright. | Areas: City of Lloydminster, Co. of Minburn near Minburn and Mannville, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2873289170.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1778325535.2026-1</guid>
-      <pubDate>2026-08-24T03:44:32-00:00</pubDate>
-      <description>Northwestern Saskatchewan. Île à la Crosse, Buffalo Narrows and Beauval. | Areas: Buffalo Narrows and Peter Pond Lake, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3244143245.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2104627480.2026-1</guid>
-      <pubDate>2026-08-24T03:36:16-00:00</pubDate>
-      <description>Southwestern and West Central Saskatchewan. Marsden, Neilburg, Senlac, Unity, Cut Knife, Sweet Grass Reserve, Lashburn, Maidstone, St. Walburg and Hillmond. | Areas: R.M. of Wilton including Lashburn Marshall and Lone Rock, R.M. of Manitou Lake including Marsden, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -442,42 +397,13 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8d080a78e0296326756515</guid>
-      <pubDate>2026-08-25T03:12:09.617Z</pubDate>
-      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Showers and thunderstorms are expected to track east across the region after midnight. Some of these storms could produce squalls with wind gusts up to 45 knots and hail up to 2 cm in diameter.
-
-
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8d072178e0296326755e9b</guid>
-      <pubDate>2026-08-25T03:08:15.992Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 10:05 p.m. CDT, a line of severe thunderstorms is located from Dugald to Ile des Chênes. These severe thunderstorms are moving east at 30 km/h. Strong wind gusts, up to quarter size hail and heavy rain are possible.
+      <guid isPermaLink="false">6a8d13dd4290e493857d71b1</guid>
+      <pubDate>2026-08-25T04:52:41.993Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 11:50 p.m. CDT, a severe thunderstorm is located about 25 km east of Woodland Caribou Provincial Park. This severe thunderstorm is moving east at 55 km/h. Damaging wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
 
-Locations and nearby areas that could be impacted include: Grande Pointe, Ile des Chênes, Oakbank, Dugald, Landmark, Anola, La Coulée, Ste-Geneviève
-
-
-
-
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Tyndall, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8d045bc87d1013296d4171</guid>
-      <pubDate>2026-08-25T03:06:51.650Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 10:02 p.m. CDT, a severe thunderstorm is located about 20 km northeast of Aikens Lake. This severe thunderstorm is moving east at 45 km/h. Damaging wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
-
-
+Locations and nearby areas that could be impacted include: Red Lake, McKenzie Island, Cochenour, Balmertown
 
 
 
@@ -491,11 +417,11 @@ Severe thunderstorm warnings are issued when imminent or occurring thunderstorms
     <item>
       <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8d0445c87d1013296d3fad</guid>
-      <pubDate>2026-08-25T03:06:44.474Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 10:02 p.m. CDT, a severe thunderstorm is located about 20 km northeast of Aikens Lake. This severe thunderstorm is moving east at 45 km/h. Damaging wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
+      <guid isPermaLink="false">6a8d13d923aebc8b7f9db713</guid>
+      <pubDate>2026-08-25T04:40:05.108Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 11:37 p.m. CDT, a severe thunderstorm is located over Larus Lake. This severe thunderstorm is moving northeast at 35 km/h. Damaging wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
 
-
+Locations and nearby areas that could be impacted include: Larus Lake
 
 
 
@@ -503,24 +429,6 @@ Severe thunderstorm warnings are issued when imminent or occurring thunderstorms
 Damage to roofs, fences, soft shelters or trees is likely. Large hail may cause significant damage and injury.
 
 Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8ca872e3cf2e4fb7ee9548</guid>
-      <pubDate>2026-08-25T02:57:56.129Z</pubDate>
-      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;A trough of low pressure moving across southern Manitoba this evening may produce severe thunderstorms.
-
-What: wind gusts up to 60 knots.
-Up to ping-pong ball-sized hail.
-
-
-
-Large hail can damage vessels and cause injury.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
       <source>Manitoba</source>
     </item>
 
@@ -528,7 +436,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
       <title>BE ALERT - ORANGE WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a8ca8769f6636093ddcad89</guid>
-      <pubDate>2026-08-25T02:15:32.545Z</pubDate>
+      <pubDate>2026-08-25T04:04:37.253Z</pubDate>
       <description>Severe Thunderstorm/Lightning Warning | Orange Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of dangerous thunderstorms that may be capable of producing strong wind gusts, damaging hail and heavy rain.
 
 A trough of low pressure moving across southern Manitoba this evening may cause severe thunderstorms to develop.
@@ -543,7 +451,50 @@ Additional information: a isolated tornado threat is also possible with any stor
 
 Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
 
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour | Winnipeg, Manitoba</description>
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour | Richer, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a8d0ca323aebc8b7f9da4f4</guid>
+      <pubDate>2026-08-25T03:31:46.454Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of dangerous thunderstorms that may be capable of producing strong wind gusts, damaging hail and heavy rain.
+
+Lines of thunderstorms developing over southern Manitoba are slowly moving eastward tonight and some of these thunderstorms could become severe.
+
+What:
+Wind gusts up to 110 km/h.
+Loonie to  ping pong sized hail. 
+Locally heavy rain.
+
+
+
+Heavy rain can cause flash flooding and significant reductions to visibility.
+
+Strong wind gusts can damage trees, buildings and overturn vehicles.
+
+Large hail can cause significant damage and injury.
+
+Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
+
+For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a8d080a78e0296326756515</guid>
+      <pubDate>2026-08-25T03:12:09.617Z</pubDate>
+      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Showers and thunderstorms are expected to track east across the region after midnight. Some of these storms could produce squalls with wind gusts up to 45 knots and hail up to 2 cm in diameter.
+
+
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
       <source>Manitoba</source>
     </item>
 
