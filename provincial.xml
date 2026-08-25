@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 25 Aug 2026 05:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:01:38 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -298,96 +298,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3532361972.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2093658873.2026-1</guid>
-      <pubDate>2026-08-24T06:35:39-00:00</pubDate>
-      <description>West Central and Northwestern Saskatchewan. Meadow Lake, Pierceland, Goodsoil, Green lake, Waterhen Reserve, Big River, Île à la Crosse, Buffalo Narrows and Beauval. | Areas: Green Lake, Île à la Crosse and Beauval, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1772234374.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0509595320.2026-1</guid>
-      <pubDate>2026-08-24T05:58:39-00:00</pubDate>
-      <description>West Central and Northwestern Saskatchewan. Meadow Lake, Pierceland, Goodsoil, Green lake, Waterhen Reserve, Big River, Île à la Crosse, Buffalo Narrows and Beauval. | Areas: Green Lake, R.M. of Big River including Big River and Chitek Lake, Île à la Crosse and Beauval, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3788875499.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2664335307.2026-1</guid>
-      <pubDate>2026-08-24T05:57:23-00:00</pubDate>
-      <description>West Central Saskatchewan. Meadow Lake, Pierceland, Goodsoil, Green lake, Waterhen Reserve, Big River, Lashburn, Maidstone, St. Walburg and Hillmond. | Areas: R.M. of Beaver River including Pierceland and Goodsoil, R.M. of Loon Lake including Loon Lake and Makwa, R.M. of Frenchman Butte including St. Walburg, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3985278388.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3553054939.2026-1</guid>
-      <pubDate>2026-08-24T05:23:24-00:00</pubDate>
-      <description>South Central and Southeastern Saskatchewan. Radville, Colgate, Goodwater, Lake Alma, Beaubier, Tribune, Oungre, Estevan, Hitchcock, Midale, Macoun, Halbrite, Benson, Torquay, Outram, Stoughton,... | Areas: R.M. of Lomond including Colgate and Goodwater, R.M. of Souris Valley including Tribune and Oungre, R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Benson including Benson, R.M. of Cambria including Torquay and Outram, R.M. of Estevan including Estevan and Hitchcock, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0749007190.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1643986110.2026-1</guid>
-      <pubDate>2026-08-24T05:16:02-00:00</pubDate>
-      <description>Northwestern Saskatchewan. Île à la Crosse, Buffalo Narrows and Beauval. | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Heat (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2501664076.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1383304146.2026-1</guid>
-      <pubDate>2026-08-24T05:14:52-00:00</pubDate>
-      <description>Conditions are no longer expected to reach heat warning criteria. | Areas: R.M. of Meadow Lake including Waterhen Res., R.M. of Beaver River including Pierceland and Goodsoil, Green Lake, R.M. of Loon Lake including Loon Lake and Makwa, R.M. of Big River including Big River and Chitek Lake, R.M. of Frenchman Butte including St. Walburg, R.M. of Mervin including Turtleford Mervin and Spruce Lake, R.M. of Turtle River including Edam and Vawn, R.M. of Britannia including Hillmond, R.M. of Wilton including Lashburn Marshall and Lone Rock, R.M. of Eldon including Maidstone and Waseca, R.M. of Paynton including Paynton, R.M. of Manitou Lake including Marsden, R.M. of Hillsdale including Neilburg and Baldwinton, R.M. of Senlac including Senlac, R.M. of Round Valley including Unity, R.M. of Cut Knife including Cut Knife, R.M. of Battle River including Sweet Grass Res. and Delmas, R.M. of Buffalo including Phippen, R.M. of Parkdale including Glaslyn and Fairholme, R.M. of Medstead including Medstead Belbutte and Birch Lake, R.M. of Meota including Meota and The Battlefords Prov. Park, R.M. of Round Hill including Rabbit Lake and Whitkow, The Battlefords, R.M. of North Battleford northwest of The Battlefords, R.M. of Douglas including Speers Richard and Alticane, R.M. of Mayfield including Maymont Denholm and Fielding, R.M. of Glenside north of Biggar | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2431001565.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2517822325.2026-1</guid>
-      <pubDate>2026-08-24T05:02:11-00:00</pubDate>
-      <description>East Central Alberta. Lloydminster. | Areas: City of Lloydminster | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3824292398.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1406945785.2026-1</guid>
-      <pubDate>2026-08-24T04:49:58-00:00</pubDate>
-      <description>Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: City of Lloydminster, Beaver Co. near Viking and Kinsella, M.D. of Wainwright near Irma, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3824292398.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1406945785.2026-2</guid>
-      <pubDate>2026-08-24T04:49:58-00:00</pubDate>
-      <description>East Central Alberta. Extra care and attention should be exercised in and around the following localities: Lloydminster, Wainwright, Vermilion, Provost, Bonnyville, St. Paul, Cold Lake and Lac La... | Areas: Co. of St. Paul near St. Paul and Lafond, Co. of St. Paul near Elk Point and St. Edouard, Co. of St. Paul near Lindbergh and Frog Lake, M.D. of Bonnyville near Bonnyville Ardmore and Kehewin Res., M.D. of Bonnyville near Beaverdam, M.D. of Bonnyville near Fishing Lake Smt, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, continued active threat area, new active threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0774390936.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3990123559.2026-1</guid>
-      <pubDate>2026-08-24T04:49:58-00:00</pubDate>
-      <description>West Central Saskatchewan. the City of Lloydminster. | Areas: City of Lloydminster | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -397,76 +307,17 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8d13dd4290e493857d71b1</guid>
-      <pubDate>2026-08-25T04:52:41.993Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 11:50 p.m. CDT, a severe thunderstorm is located about 25 km east of Woodland Caribou Provincial Park. This severe thunderstorm is moving east at 55 km/h. Damaging wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
-
-Locations and nearby areas that could be impacted include: Red Lake, McKenzie Island, Cochenour, Balmertown
-
-
-
-
-Damage to roofs, fences, soft shelters or trees is likely. Large hail may cause significant damage and injury.
-
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8d13d923aebc8b7f9db713</guid>
-      <pubDate>2026-08-25T04:40:05.108Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 11:37 p.m. CDT, a severe thunderstorm is located over Larus Lake. This severe thunderstorm is moving northeast at 35 km/h. Damaging wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
-
-Locations and nearby areas that could be impacted include: Larus Lake
-
-
-
-
-Damage to roofs, fences, soft shelters or trees is likely. Large hail may cause significant damage and injury.
-
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - ORANGE WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a8ca8769f6636093ddcad89</guid>
-      <pubDate>2026-08-25T04:04:37.253Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Orange Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of dangerous thunderstorms that may be capable of producing strong wind gusts, damaging hail and heavy rain.
-
-A trough of low pressure moving across southern Manitoba this evening may cause severe thunderstorms to develop.
-
-What: wind gusts up to 110 km/h.
-Up to ping pong sized hail.
-Locally heavy rain.
-
-Additional information: a isolated tornado threat is also possible with any storm that develops.
-
-
-
-Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour | Richer, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a8d0ca323aebc8b7f9da4f4</guid>
-      <pubDate>2026-08-25T03:31:46.454Z</pubDate>
+      <pubDate>2026-08-25T06:37:17.936Z</pubDate>
       <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of dangerous thunderstorms that may be capable of producing strong wind gusts, damaging hail and heavy rain.
 
 Lines of thunderstorms developing over southern Manitoba are slowly moving eastward tonight and some of these thunderstorms could become severe.
 
 What:
-Wind gusts up to 110 km/h.
-Loonie to  ping pong sized hail. 
+Wind gusts up to 90 km/h.
+Up to loonie  sized hail. 
 Locally heavy rain.
 
 
@@ -535,7 +386,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
     </item>
 
     <item>
-      <title>Squall (Updated)</title>
+      <title>Squall (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1954479110.2026-1</guid>
       <pubDate>2026-08-25T00:15:28-00:00</pubDate>
@@ -594,15 +445,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3465494069.2026-1</guid>
       <pubDate>2026-08-24T07:11:29-00:00</pubDate>
       <description>Weather | Areas: Pictou County, Antigonish County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Wind (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1064143034.2026-1</guid>
-      <pubDate>2026-08-24T04:20:07-00:00</pubDate>
-      <description>Inverness County - Mabou and north. Damaging winds are no longer expected. | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
