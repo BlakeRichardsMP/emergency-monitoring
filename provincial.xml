@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 25 Aug 2026 17:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 19:45:34 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,24 +217,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2442989326.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2759770775.2026-1</guid>
-      <pubDate>2026-08-24T18:16:07-00:00</pubDate>
-      <description>Northeastern and East Central Saskatchewan. Cumberland House, Creighton, Hudson Bay and Porcupine Plain. | Areas: R.M. of Hudson Bay including Shoal Lake and Red Earth Reserves, Cumberland House, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2287132548.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3939292595.2026-1</guid>
-      <pubDate>2026-08-24T16:54:25-00:00</pubDate>
-      <description>Northeastern Saskatchewan. Cumberland House and Creighton. | Areas: Cumberland House, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -277,6 +259,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1471237989.2026-1</guid>
+      <pubDate>2026-08-25T18:46:55-00:00</pubDate>
+      <description>Annapolis Valley, Hants Nova Scotia. Annapolis County. | Areas: Annapolis County, ended threat area | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
@@ -330,15 +321,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1534390808.2026-1</guid>
       <pubDate>2026-08-24T21:49:20-00:00</pubDate>
       <description>Mainland Nova Scotia. Cumberland County Minas Shore. | Areas: Cumberland County - Minas Shore, ended threat area | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0765592593.2026-1</guid>
-      <pubDate>2026-08-24T17:10:41-00:00</pubDate>
-      <description>The heaviest rainfall has moved out of the alerted region. Showers in the vicinity continue this evening and tonight, but are below warning criteria. | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
