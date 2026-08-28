@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 28 Aug 2026 12:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:41:04 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,11 +208,47 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Updated)</title>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1549761467.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0587121888.2026-1</guid>
+      <pubDate>2026-08-28T17:32:06-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Carlyle, Redvers, Storthoaks, Alida, Carnduff and Gainsborough. | Areas: R.M. of Mount Pleasant including Carnduff, R.M. of Argyle including Gainsborough and Carievale, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1136006813.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4243136913.2026-1</guid>
+      <pubDate>2026-08-28T15:51:18-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Estevan, Hitchcock, Midale, Macoun, Halbrite, Benson, Torquay, Outram, Stoughton, Arcola, Lampman, Bienfait, North Portal, Alameda and Oxbow. | Areas: R.M. of Benson including Benson, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0676744293.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0301862213.2026-1</guid>
+      <pubDate>2026-08-28T15:51:11-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Stoughton, Arcola, Lampman, Bienfait, North Portal, Alameda and Oxbow. | Areas: R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3783031536.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1144027084.2026-1</guid>
+      <pubDate>2026-08-28T14:24:59-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Radville, Colgate, Goodwater, Lake Alma, Beaubier, Tribune, Oungre, Estevan, Hitchcock, Midale, Macoun, Halbrite, Benson, Torquay and Outram. | Areas: R.M. of Souris Valley including Tribune and Oungre, R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Cambria including Torquay and Outram, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3887641782.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0767733204.2026-1</guid>
-      <pubDate>2026-08-28T12:32:11-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Weyburn, McTaggart, Cedoux, Colfax, Tyvan, Fillmore, Creelman, Osage, Griffin,... | Areas: R.M. of Weyburn including Weyburn and McTaggart, R.M. of Griffin including Griffin and Froude, R.M. of Lomond including Colgate and Goodwater, R.M. of Cymri including Midale Macoun and Halbrite, continued active threat area, new active threat area | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3350436957.2026-1</guid>
+      <pubDate>2026-08-28T12:49:17-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Weyburn, McTaggart, Cedoux, Colfax, Tyvan, Fillmore, Creelman, Osage, Griffin, Froude, Radville, Colgate, Goodwater, Lake Alma, Beaubier, Tribune, Oungre, Estevan,... | Areas: R.M. of Weyburn including Weyburn and McTaggart, R.M. of Griffin including Griffin and Froude, R.M. of Lomond including Colgate and Goodwater, R.M. of Cymri including Midale Macoun and Halbrite, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -262,434 +298,22 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Patient Medical Home at UPEI</title>
-      <link>https://www.princeedwardisland.ca/en/building/patient-medical-home-at-upei</link>
-      <guid isPermaLink="false">81141 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 27 Aug 2026 14:18:37 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Patient Medical Home at UPEI&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gwydionmorris&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-27T11:18:37-03:00" title="Thursday, August 27, 2026 - 11:18"&gt;Thu, 08/27/2026 - 11:18&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="tw-block block-layout-builder block-field-blocknodebuildingfield-building-address tw-pb-5 md:tw-pb-8"&gt;
-  
-    
-      &lt;div class="rich-text"&gt;
-            &lt;div class="field field--name-field-building-address field--type-address field--label-hidden field__item"&gt;&lt;p class="address"&gt;&lt;span class="address-line1"&gt;550 University Avenue&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Charlottetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1A 4P3&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodebuildingfield-location-geo"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-location-geo field--type-geofield field--label-hidden field__item"&gt;
-    &lt;a class="group" href="https://www.google.com/maps/dir//46.258216,-63.140707/" target="_blank"&gt;
-    &lt;span class="align-middle text-dark text-base font-headers font-medium text-dark underline decoration-1 underline-offset-2 decoration-transparent transition duration-300 group-hover:text-primary-green group-hover:decoration-primary-green"&gt;Get Driving Directions on Google Maps&lt;/span&gt;
-    &lt;svg class="inline-block align-middle ml-1.5" fill="none" height="14" viewBox="0 0 24 14" width="24" xmlns="http://www.w3.org/2000/svg"&gt;
-      &lt;path class="stroke-primary-green -translate-x-2 group-hover:translate-x-0 transition duration-300" d="M1 7H23M23 7L16.7368 1M23 7L16.7368 13" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"&gt;
-    &lt;/svg&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodebuildingfield-location-geo"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-location-geo field--type-geofield field--label-hidden field__item"&gt;&lt;div class="geofield-google-map" id="geofield-map-node-building-81141-field-location-geo--2" style="width: 100%; height: 450px;"&gt;&lt;/div&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodebuildingcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
+      <title>Squall (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3324924656.2026-1</guid>
+      <pubDate>2026-08-28T21:45:02-00:00</pubDate>
+      <description>Northumberland Strait - western half. Conditions are favourable for the development of squalls with wind gusts up to 35 knots and frequent lightning. | Areas: Northumberland Strait - western half | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Summerside Community Health Centre</title>
-      <link>https://www.princeedwardisland.ca/en/building/summerside-community-health-centre</link>
-      <guid isPermaLink="false">81140 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 27 Aug 2026 14:16:56 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Summerside Community Health Centre&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gwydionmorris&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-27T11:16:56-03:00" title="Thursday, August 27, 2026 - 11:16"&gt;Thu, 08/27/2026 - 11:16&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="tw-block block-layout-builder block-field-blocknodebuildingfield-building-address tw-pb-5 md:tw-pb-8"&gt;
-  
-    
-      &lt;div class="rich-text"&gt;
-            &lt;div class="field field--name-field-building-address field--type-address field--label-hidden field__item"&gt;&lt;p class="address"&gt;&lt;span class="address-line1"&gt;95 Anna Drive&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Summerside&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1N 0X3&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-      &lt;/div&gt;
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodebuildingfield-location-geo"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-location-geo field--type-geofield field--label-hidden field__item"&gt;
-    &lt;a class="group" href="https://www.google.com/maps/dir//46.390518,-63.78979/" target="_blank"&gt;
-    &lt;span class="align-middle text-dark text-base font-headers font-medium text-dark underline decoration-1 underline-offset-2 decoration-transparent transition duration-300 group-hover:text-primary-green group-hover:decoration-primary-green"&gt;Get Driving Directions on Google Maps&lt;/span&gt;
-    &lt;svg class="inline-block align-middle ml-1.5" fill="none" height="14" viewBox="0 0 24 14" width="24" xmlns="http://www.w3.org/2000/svg"&gt;
-      &lt;path class="stroke-primary-green -translate-x-2 group-hover:translate-x-0 transition duration-300" d="M1 7H23M23 7L16.7368 1M23 7L16.7368 13" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"&gt;
-    &lt;/svg&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodebuildingfield-location-geo"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-location-geo field--type-geofield field--label-hidden field__item"&gt;&lt;div class="geofield-google-map" id="geofield-map-node-building-81140-field-location-geo--2" style="width: 100%; height: 450px;"&gt;&lt;/div&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodebuildingcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Test Building</title>
-      <link>https://www.princeedwardisland.ca/en/building/test-building</link>
-      <guid isPermaLink="false">81134 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 27 Aug 2026 12:31:33 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Test Building&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;nbmullen&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-27T09:31:33-03:00" title="Thursday, August 27, 2026 - 09:31"&gt;Thu, 08/27/2026 - 09:31&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodebuildingbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Test&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodebuildingcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Food program provides thousands of meals for children this summer</title>
-      <link>https://www.princeedwardisland.ca/en/news/food-program-provides-thousands-of-meals-for-children-this-summer</link>
-      <guid isPermaLink="false">81133 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 27 Aug 2026 11:32:53 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Food program provides thousands of meals for children this summer&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-27T08:32:53-03:00" title="Thursday, August 27, 2026 - 08:32"&gt;Thu, 08/27/2026 - 08:32&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="John Pritchard, chef and owner of Pure Kitchen Catering and Minister of Social Development and Seniors Barb Ramsay prepare summer food program deliveries." height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/b2f9/Summer%20Food%20program.jpg.webp?itok=9XqGOkJz" title="Food program provides thousands of meals for children this summer" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;More than 1,000 Island children from across the province received healthy meals through the summer food program this year.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Throughout the summer months, precooked, frozen meals that can be reheated were delivered directly to Island family homes with school-aged children. As of August 26, 51,231 meals have been served, with approximately 58,000 meals projected to be delivered by the end of the program.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"This is a wonderful program that helps ensure Island children have access to nutritious meals throughout the summer months. Thank you to the local food vendors and the delivery drivers from across the province who helped make this year's program such a success."&lt;/p&gt;&lt;p&gt;- Social Development and Seniors Minister Barb Ramsay&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Since launching on July 8, the program has provided weekly meal deliveries every Wednesday and will continue through September 2, 2026. Meals were prepared by eight local food vendors located across the province. Registration for the program is now closed.&lt;/p&gt;&lt;p&gt;"Pure Kitchen has always held the view that in a prosperous country such as ours, no-one should ever go hungry," said owner of Pure Kitchen Catering Chef John Pritchard. "We believe it is our ethical responsibility to help whenever possible when it comes to food security. Whether we're preparing meals for the Summer Food Program, the PEI School Food Program or providing meals through our own community food efforts, we do what we can, when we can, as often as we can."&amp;nbsp;&lt;/p&gt;&lt;p&gt;Visit the &lt;a href="https://www.princeedwardisland.ca/en/service/2026-childrens-summer-food-program"&gt;Summer Food Program&lt;/a&gt; to learn more.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hillary Proctor&lt;br /&gt;Department of Social Development and Seniors&lt;br /&gt;&lt;a href="mailto:hproctor@gov.pe.ca"&gt;hproctor@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Orders in Council August 25, 2026 (838-869)</title>
-      <link>https://www.princeedwardisland.ca/en/publication/orders-in-council-august-25-2026-838-869</link>
-      <guid isPermaLink="false">81132 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 27 Aug 2026 11:03:14 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orders in Council August 25, 2026 (838-869)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tamperry&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-27T08:03:14-03:00" title="Thursday, August 27, 2026 - 08:03"&gt;Thu, 08/27/2026 - 08:03&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Orders in Council&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/83be/20260825truwww.pdf"&gt;
-              &lt;span&gt;20260825truwww.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Gallant</title>
-      <link>https://www.princeedwardisland.ca/en/employee/gallant-sydney</link>
-      <guid isPermaLink="false">81131 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 27 Aug 2026 06:35:14 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Gallant&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;bjones&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-27T03:35:14-03:00" title="Thursday, August 27, 2026 - 03:35"&gt;Thu, 08/27/2026 - 03:35&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                  &lt;div&gt;Executive Council Office&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>New disc golf course open at Brudenell River Provincial Park</title>
-      <link>https://www.princeedwardisland.ca/en/news/new-disc-golf-course-open-at-brudenell-river-provincial-park</link>
-      <guid isPermaLink="false">81128 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 26 Aug 2026 18:40:26 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New disc golf course open at Brudenell River Provincial Park&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ssdrummond&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-26T15:40:26-03:00" title="Wednesday, August 26, 2026 - 15:40"&gt;Wed, 08/26/2026 - 15:40&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Residents and visitors can enjoy a new family-friendly 18-hole disc golf course at Brudenell River Provincial Park with the opening of Divine Pines at Brudenell.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Designed by Benjamin Smith, the course is located on the former Divine Nine golf course and combines open fairways, lightly wooded sections and gentle elevation changes to offer an enjoyable experience for players of all skill levels. Features from the former golf course, including sand bunkers and raised tee boxes, have been incorporated into the design, creating unique challenges and strategic shot opportunities.&lt;/p&gt;&lt;p&gt;The cost to play is $10 per person, plus HST. Players can pay using the QR code located at the first tee or at the Brudenell Park Campground office. Tee times are not required. Players are encouraged to bring their own discs or rent a pack of three discs for $2.&lt;/p&gt;&lt;p&gt;Tourism PEI continues to invest in experiences that showcase the Island's natural beauty and encourage visitors to explore Prince Edward Island in every season. Open year-round, Divine Pines adds a unique outdoor activity to eastern PEI and supports opportunities to attract visitors beyond the peak summer season.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Quotes:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;"Brudenell River Provincial Park is one of Prince Edward Island's premier outdoor destinations, and we're pleased to offer visitors another way to experience it. Divine Pines at Brudenell builds on the park's recreational offerings and creates new opportunities for residents and visitors to enjoy the Island throughout the year."&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Minister of Fisheries, Rural Development and Tourism Ernie Hudson&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;"The new disc golf course, Divine Pines at Brudenell, is the perfect blend of sweet and challenging.&amp;nbsp; The layout offers a great opportunity for people to come and experience disc golf for the first time, or for experienced players to let loose and watch some discs fly! Once you try it, we know you’ll love it."&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Course designer Benjamin Smith&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;"The Province of PEI has been an integral partner in the growth of our sport. They have continued to believe in the economic impact and accessibility of disc golf, helping shape PEI into a destination for disc golfers far and wide. The Divine Pines at Brudenell property is truly unique, and the course design is perfect for new and experienced players alike."&lt;/p&gt;&lt;ul&gt;&lt;li&gt;President of Disc Golf PEI James Mallard&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For more information about the disc golf course visit the &lt;a href="https://www.tourismpei.com/brudenell-divine-pines-disc-golf"&gt;Divine Pines at Brudenell&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media Contact:&lt;/strong&gt;&lt;br /&gt;Jill Edwards&lt;br /&gt;Department of Fisheries, Rural Development and Tourism&lt;br /&gt;&lt;a href="mailto:Jedwards@gov.pe.ca"&gt;Jedwards@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Backgrounder:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;The final event of the 2026 Disc Golf PEI Tour will take place over two days, September 26 and 27 at the Belfast Disc Golf Course and the Divine Pines at Brudenell. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Divine Pines will host the final round on Sunday, September 27 with tee times scheduled between&lt;/p&gt;&lt;p&gt;9-11:30 a.m. The event is open to the public.&lt;/p&gt;&lt;p&gt;For more information about the 2026 Disc Golf PEI Tour visit &lt;a href="https://www.discgolfpei.com"&gt;www.discgolfpei.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Neil</title>
-      <link>https://www.princeedwardisland.ca/en/employee/neil-carolyn</link>
-      <guid isPermaLink="false">81127 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 26 Aug 2026 18:13:55 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Neil&lt;/span&gt;
+      <title>McGuirk</title>
+      <link>https://www.princeedwardisland.ca/en/employee/mcguirk-drew</link>
+      <guid isPermaLink="false">81164 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 28 Aug 2026 17:13:01 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;McGuirk&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-26T15:13:55-03:00" title="Wednesday, August 26, 2026 - 15:13"&gt;Wed, 08/26/2026 - 15:13&lt;/time&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T14:13:01-03:00" title="Friday, August 28, 2026 - 14:13"&gt;Fri, 08/28/2026 - 14:13&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
@@ -699,119 +323,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
       
 &lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Administrative Assistant&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Mental Health and Addictions&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Heckbert</title>
-      <link>https://www.princeedwardisland.ca/en/employee/heckbert-julia</link>
-      <guid isPermaLink="false">81126 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 26 Aug 2026 18:07:25 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Heckbert&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-26T15:07:25-03:00" title="Wednesday, August 26, 2026 - 15:07"&gt;Wed, 08/26/2026 - 15:07&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Program Development Lead&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Mental Health and Addictions&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Callbeck</title>
-      <link>https://www.princeedwardisland.ca/en/employee/callbeck-sandra</link>
-      <guid isPermaLink="false">81125 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 26 Aug 2026 16:51:09 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Callbeck&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-26T13:51:09-03:00" title="Wednesday, August 26, 2026 - 13:51"&gt;Wed, 08/26/2026 - 13:51&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Manager of Materials Management&lt;/span&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Casual Inventory Technician&lt;/span&gt;
   &lt;/div&gt;
 
   &lt;/div&gt;
@@ -830,6 +342,510 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       &lt;li&gt;
                     &lt;strong&gt;Health PEI&lt;/strong&gt;
             &lt;div&gt;Materials Management&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Owolabi</title>
+      <link>https://www.princeedwardisland.ca/en/employee/owolabi-toyin</link>
+      <guid isPermaLink="false">81163 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 28 Aug 2026 17:11:32 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Owolabi&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T14:11:32-03:00" title="Friday, August 28, 2026 - 14:11"&gt;Fri, 08/28/2026 - 14:11&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Casual Inventory Technician&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Materials Management&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Makelskyi</title>
+      <link>https://www.princeedwardisland.ca/en/employee/makelskyi-yehven</link>
+      <guid isPermaLink="false">81161 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 28 Aug 2026 17:09:09 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Makelskyi&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T14:09:09-03:00" title="Friday, August 28, 2026 - 14:09"&gt;Fri, 08/28/2026 - 14:09&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Casual Procurement Technician&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Materials Management&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Vanneste</title>
+      <link>https://www.princeedwardisland.ca/en/employee/vanneste-marcus</link>
+      <guid isPermaLink="false">81160 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 28 Aug 2026 17:07:49 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Vanneste&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T14:07:49-03:00" title="Friday, August 28, 2026 - 14:07"&gt;Fri, 08/28/2026 - 14:07&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Casual Inventory Technician&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Materials Management&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Walfield</title>
+      <link>https://www.princeedwardisland.ca/en/employee/walfield-wyatt</link>
+      <guid isPermaLink="false">81159 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 28 Aug 2026 17:06:19 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Walfield&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T14:06:19-03:00" title="Friday, August 28, 2026 - 14:06"&gt;Fri, 08/28/2026 - 14:06&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Casual Inventory Technician&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Materials Management&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Fernandez</title>
+      <link>https://www.princeedwardisland.ca/en/employee/fernandez-marcelo</link>
+      <guid isPermaLink="false">81158 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 28 Aug 2026 17:03:04 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fernandez&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T14:03:04-03:00" title="Friday, August 28, 2026 - 14:03"&gt;Fri, 08/28/2026 - 14:03&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Casual Inventory Technician&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Materials Management&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Crosman</title>
+      <link>https://www.princeedwardisland.ca/en/employee/crosman-morgan</link>
+      <guid isPermaLink="false">81157 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 28 Aug 2026 17:01:20 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Crosman&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T14:01:20-03:00" title="Friday, August 28, 2026 - 14:01"&gt;Fri, 08/28/2026 - 14:01&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Inventory Technician&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Materials Management&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Masoud</title>
+      <link>https://www.princeedwardisland.ca/en/employee/masoud-mostafa</link>
+      <guid isPermaLink="false">81156 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 28 Aug 2026 16:59:53 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Masoud&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T13:59:53-03:00" title="Friday, August 28, 2026 - 13:59"&gt;Fri, 08/28/2026 - 13:59&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Inventory Technician&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Materials Management&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Trainor</title>
+      <link>https://www.princeedwardisland.ca/en/employee/trainor-patty-0</link>
+      <guid isPermaLink="false">81154 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 28 Aug 2026 16:32:17 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Trainor&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T13:32:17-03:00" title="Friday, August 28, 2026 - 13:32"&gt;Fri, 08/28/2026 - 13:32&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Employee Services Assistant&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Human Resources and Labour Relations&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Buote</title>
+      <link>https://www.princeedwardisland.ca/en/employee/buote-joanne</link>
+      <guid isPermaLink="false">81153 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 28 Aug 2026 16:31:10 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Buote&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T13:31:10-03:00" title="Friday, August 28, 2026 - 13:31"&gt;Fri, 08/28/2026 - 13:31&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Employee Services Assistant&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Human Resources and Labour Relations&lt;/div&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
 
