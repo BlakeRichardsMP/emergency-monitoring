@@ -5,7 +5,16 @@
     <link>https://github.com/BlakeRichardsMP/emergency-monitoring</link>
     <description>Normalized Government of Canada emergency-related feeds</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 28 Aug 2026 12:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:30:14 +0000</lastBuildDate>
+
+    <item>
+      <title>Government of Canada to match donations to the Red Cross’ 2026 British Columbia Wildfires Appeal</title>
+      <link>https://www.canada.ca/en/public-safety-canada/news/2026/08/government-of-canada-to-match-donations-to-the-red-cross-2026-british-columbia-wildfires-appeal.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/08/government-of-canada-to-match-donations-to-the-red-cross-2026-british-columbia-wildfires-appeal.html</guid>
+      <pubDate>2026-08-28T13:55:30-04:00</pubDate>
+      <description>Today, the Honourable Eleanor Olszewski, Minister of Emergency Management and Community Resilience and Minister responsible for Prairies Economic Development Canada, announced that the Government of Canada will match donations to the Canadian Red Cross’ 2026 British Columbia Wildfires Appeal in support of wildfires disaster relief and recovery efforts in British Columbia (B.C.).</description>
+      <source>Public Safety Canada</source>
+    </item>
 
     <item>
       <title>Government of Canada announces funding for Indigenous-led alternatives to incarceration in Manitoba</title>
@@ -85,15 +94,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/08/government-of-canada-establishes-foreign-influence-registry.html</guid>
       <pubDate>2026-08-04T11:10:01-04:00</pubDate>
       <description>In a rapidly changing world, Canadians deserve to feel confident about the integrity of their country’s democratic institutions and processes, including knowing when foreign states and actors are trying to influence public life.</description>
-      <source>Public Safety Canada</source>
-    </item>
-
-    <item>
-      <title>Government of Canada announces funding to support those affected by the Tumbler Ridge tragedy</title>
-      <link>https://www.canada.ca/en/public-safety-canada/news/2026/07/government-of-canada-announces-funding-to-support-those-affected-by-the-tumbler-ridge-tragedy.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/07/government-of-canada-announces-funding-to-support-those-affected-by-the-tumbler-ridge-tragedy.html</guid>
-      <pubDate>2026-07-31T15:00:56-04:00</pubDate>
-      <description>The Government of Canada is providing more than $4 million in federal funding to support those affected by the tragedy that occurred in Tumbler Ridge, British Columbia, in February 2026.</description>
       <source>Public Safety Canada</source>
     </item>
 
