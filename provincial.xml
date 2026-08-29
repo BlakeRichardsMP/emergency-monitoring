@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 29 Aug 2026 10:49:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:29:59 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -231,33 +231,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.0301862213.2026-1</guid>
       <pubDate>2026-08-28T15:51:11-00:00</pubDate>
       <description>Southeastern Saskatchewan. Stoughton, Arcola, Lampman, Bienfait, North Portal, Alameda and Oxbow. | Areas: R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3783031536.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1144027084.2026-1</guid>
-      <pubDate>2026-08-28T14:24:59-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Radville, Colgate, Goodwater, Lake Alma, Beaubier, Tribune, Oungre, Estevan, Hitchcock, Midale, Macoun, Halbrite, Benson, Torquay and Outram. | Areas: R.M. of Souris Valley including Tribune and Oungre, R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Cambria including Torquay and Outram, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3887641782.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3350436957.2026-1</guid>
-      <pubDate>2026-08-28T12:49:17-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Weyburn, McTaggart, Cedoux, Colfax, Tyvan, Fillmore, Creelman, Osage, Griffin, Froude, Radville, Colgate, Goodwater, Lake Alma, Beaubier, Tribune, Oungre, Estevan,... | Areas: R.M. of Weyburn including Weyburn and McTaggart, R.M. of Griffin including Griffin and Froude, R.M. of Lomond including Colgate and Goodwater, R.M. of Cymri including Midale Macoun and Halbrite, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1436642359.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3912946520.2026-1</guid>
-      <pubDate>2026-08-28T11:45:56-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Weyburn, McTaggart, Cedoux, Colfax, Tyvan, Fillmore, Creelman, Osage, Griffin and Froude. | Areas: R.M. of Fillmore including Fillmore Creelman and Osage, R.M. of Weyburn including Weyburn and McTaggart, R.M. of Griffin including Griffin and Froude, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
