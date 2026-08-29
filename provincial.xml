@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 28 Aug 2026 22:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 03:53:04 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -298,11 +298,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Squall (Issued)</title>
+      <title>Squall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3324924656.2026-1</guid>
-      <pubDate>2026-08-28T21:45:02-00:00</pubDate>
-      <description>Northumberland Strait - western half. Conditions are favourable for the development of squalls with wind gusts up to 35 knots and frequent lightning. | Areas: Northumberland Strait - western half | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1305775826.2026-1</guid>
+      <pubDate>2026-08-29T00:30:12-00:00</pubDate>
+      <description>Chaleur - Miscou - eastern half. Conditions are favourable for the development of squalls with wind gusts up to 35 knots and frequent lightning. | Areas: Chaleur - Miscou - eastern half | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Squall (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1305775826.2026-2</guid>
+      <pubDate>2026-08-29T00:30:12-00:00</pubDate>
+      <description>Northumberland Strait - western half. | Areas: Northumberland Strait - western half | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
