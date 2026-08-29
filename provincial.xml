@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 29 Aug 2026 21:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:35:59 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -209,19 +209,73 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
     <item>
       <title>Thunderstorm (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3041168687.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2763614349.2026-1</guid>
-      <pubDate>2026-08-29T21:23:39-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Estevan, Hitchcock, Midale, Macoun, Halbrite, Benson, Torquay and Outram. Environment... | Areas: R.M. of Benson including Benson, R.M. of Cambria including Torquay and Outram, R.M. of Estevan including Estevan and Hitchcock, new active threat area, continued active threat area | Level: advisory</description>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0698407583.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1382064515.2026-1</guid>
+      <pubDate>2026-08-29T23:27:08-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Weyburn, McTaggart, Cedoux, Colfax, Tyvan, Fillmore, Creelman, Osage, Griffin,... | Areas: R.M. of Montmartre including Assiniboine Res., R.M. of Wellington including Cedoux Colfax and Tyvan, R.M. of Fillmore including Fillmore Creelman and Osage, continued active threat area, new active threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3845060906.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3491741083.2026-1</guid>
+      <pubDate>2026-08-29T23:26:56-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Springside, Ebenezer, Yorkton, Melville, Grayson, Neudorf, Goodeve, Balcarres, Abernethy and Peepeekisis Reserve. | Areas: R.M. of Tullymet including Peepeekisis Res., R.M. of Stanley including Goodeve Fenwood and Duff, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2773382064.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1521953117.2026-1</guid>
+      <pubDate>2026-08-29T23:20:16-00:00</pubDate>
+      <description>Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: R.M. of McLeod including Lemberg and Neudorf, R.M. of Wolseley including Wolseley and Summerberry, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
       <title>Thunderstorm (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2773382064.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2278305636.2026-1</guid>
-      <pubDate>2026-08-29T21:22:11-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Springside, Ebenezer, Yorkton, Melville, Grayson, Neudorf, Goodeve, Balcarres,... | Areas: R.M. of Abernethy including Balcarres and Abernethy, R.M. of Stanley including Goodeve Fenwood and Duff, R.M. of Cana including Melville, R.M. of McLeod including Lemberg and Neudorf, R.M. of Grayson including Grayson Dubuc and Killaly, new active threat area, continued active threat area | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1521953117.2026-2</guid>
+      <pubDate>2026-08-29T23:20:16-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Moosomin, Grenfell, Kipling, Wawota, Yorkton, Melville and Esterhazy. Environment... | Areas: R.M. of Grayson including Grayson Dubuc and Killaly, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, R.M. of Elcapo including Broadview and Cowessess Res., R.M. of Willowdale including Whitewood and Ochapowace Res., continued active threat area, new active threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Tornado (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2062398750.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0374210287.2026-1</guid>
+      <pubDate>2026-08-29T23:19:03-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Moosomin, Grenfell, Kipling, Wawota, Yorkton, Melville and Esterhazy. | Areas: R.M. of Grayson including Grayson Dubuc and Killaly, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Elcapo including Broadview and Cowessess Res., R.M. of Willowdale including Whitewood and Ochapowace Res., ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1754332194.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2059983103.2026-1</guid>
+      <pubDate>2026-08-29T22:51:22-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Wolseley, Grenfell, Broadview, Kipling, Ocean Man Reserve and Glenavon. | Areas: R.M. of Wolseley including Wolseley and Summerberry, R.M. of Elcapo including Broadview and Cowessess Res., ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2104737747.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0903208666.2026-1</guid>
+      <pubDate>2026-08-29T22:46:49-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Estevan, Hitchcock, Midale, Macoun, Halbrite, Benson, Torquay, Outram, Stoughton, Arcola, Lampman, Bienfait, North Portal, Alameda and Oxbow. | Areas: R.M. of Benson including Benson, R.M. of Tecumseh including Stoughton Forget and Heward, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3041168687.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2154002651.2026-1</guid>
+      <pubDate>2026-08-29T22:06:42-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Estevan, Hitchcock, Midale, Macoun, Halbrite, Benson, Torquay, Outram, Stoughton, Arcola, Lampman, Bienfait, North Portal, Alameda and Oxbow. | Areas: R.M. of Benson including Benson, R.M. of Estevan including Estevan and Hitchcock, R.M. of Coalfields including Bienfait and North Portal, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
