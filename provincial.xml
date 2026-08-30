@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 30 Aug 2026 17:29:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 19:59:22 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -209,10 +209,55 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
     <item>
       <title>Thunderstorm (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3904884730.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3105318762.2026-1</guid>
+      <pubDate>2026-08-30T19:49:11-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Estevan, Hitchcock, Midale, Macoun, Halbrite, Benson, Torquay, Outram, Stoughton,... | Areas: R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Benson including Benson, R.M. of Cambria including Torquay and Outram, R.M. of Estevan including Estevan and Hitchcock, R.M. of Golden West including Ocean Man Res. and Handsworth, R.M. of Tecumseh including Stoughton Forget and Heward, R.M. of Brock including Arcola and Kisbey, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, new active threat area, continued active threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0872413850.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2595580658.2026-1</guid>
+      <pubDate>2026-08-30T19:47:00-00:00</pubDate>
+      <description>Southern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Kamsack, Canora, Preeceville, Norquay, Moosomin, Grenfell, Kipling, Wawota, Estevan,... | Areas: R.M. of Tullymet including Peepeekisis Res., R.M. of Montmartre including Assiniboine Res., R.M. of Abernethy including Balcarres and Abernethy, R.M. of Indian Head including Indian Head and Sintaluta, R.M. of Fillmore including Fillmore Creelman and Osage, R.M. of Garry including Jedburgh, R.M. of Stanley including Goodeve Fenwood and Duff, R.M. of Cana including Melville, R.M. of McLeod including Lemberg and Neudorf, R.M. of Grayson including Grayson Dubuc and Killaly, R.M. of Wolseley including Wolseley and Summerberry, R.M. of Elcapo including Broadview and Cowessess Res., R.M. of Chester including Windthorst Glenavon and Peebles, R.M. of Kingsley including Kipling, R.M. of Invermay including Invermay and Rama, R.M. of Insinger including Theodore and Sheho, R.M. of Emerald including Wishart and Bankend, R.M. of Kellross including Kelliher and Lestock, R.M. of Foam Lake including Foam Lake and Fishing Lake Res., R.M. of Ituna Bon Accord including Ituna and Hubbard, continued active threat area, new active threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0872413850.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2595580658.2026-2</guid>
+      <pubDate>2026-08-30T19:47:00-00:00</pubDate>
+      <description>Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: R.M. of Orkney including Yorkton Springside and Ebenezer, R.M. of Golden West including Ocean Man Res. and Handsworth, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3595169681.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1756939673.2026-1</guid>
-      <pubDate>2026-08-30T17:03:52-00:00</pubDate>
-      <description>South Central and Southeastern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Strasbourg, Rowans Ravine Park, Lumsden, Regina Beach, Craven,... | Areas: R.M. of Longlaketon including Earl Grey and Silton, R.M. of Lumsden including Lumsden Regina Beach and Craven, R.M. of Cupar including Southey Cupar and Markinch, R.M. of Lipton including Lipton and Dysart, R.M. of Edenwold including Balgonie and Piapot Res., R.M. of North Qu'Appelle including Fort Qu'Appelle, R.M. of Touchwood including Serath and Touchwood Hills Prov. Park, R.M. of Kellross including Kelliher and Lestock, continued active threat area, new active threat area | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1214002565.2026-1</guid>
+      <pubDate>2026-08-30T18:43:06-00:00</pubDate>
+      <description>South Central and Southeastern Saskatchewan. Watson, Wadena, Wynyard, Foam Lake, Raymore, Fort Qu'Appelle, Southey, Cupar, Balcarres, Peepeekisis Reserve, Indian Head, Sintaluta, Qu'Appelle,... | Areas: R.M. of Cupar including Southey Cupar and Markinch, R.M. of Lipton including Lipton and Dysart, R.M. of Tullymet including Peepeekisis Res., R.M. of Mount Hope including Semans, R.M. of Big Quill including Wynyard Dafoe and Kandahar, R.M. of Elfros including Elfros Leslie and Mozart, R.M. of Kutawa including Raymore Punnichy and Poorman Res., R.M. of Emerald including Wishart and Bankend, R.M. of Touchwood including Serath and Touchwood Hills Prov. Park, R.M. of Kellross including Kelliher and Lestock, R.M. of Foam Lake including Foam Lake and Fishing Lake Res., R.M. of Ituna Bon Accord including Ituna and Hubbard, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Tornado (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3489004238.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3262754027.2026-1</guid>
+      <pubDate>2026-08-30T17:55:19-00:00</pubDate>
+      <description>South Central and Southeastern Saskatchewan. Lanigan, Jansen, Semans, Duval, Govan, Nokomis, Strasbourg, Rowans Ravine Park, Earl Grey, Silton, Lumsden, Regina Beach, Craven, Wynyard, Elfros, Foam... | Areas: R.M. of Longlaketon including Earl Grey and Silton, R.M. of Mount Hope including Semans, R.M. of Touchwood including Serath and Touchwood Hills Prov. Park, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3221477336.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3935867130.2026-1</guid>
+      <pubDate>2026-08-30T17:48:06-00:00</pubDate>
+      <description>A cold front associated with an intensifying low pressure system will combine with an unseasonably warm and unstable atmosphere creating favourable conditions for the development of severe... | Areas: City of Regina, R.M. of Dufferin including Bethune and Findlater, R.M. of Pense including Pense Belle Plaine and Stony Beach, R.M. of Redburn including Rouleau and Hearne, R.M. of McKillop including Strasbourg and Rowans Ravine Prov. Park, R.M. of Longlaketon including Earl Grey and Silton, R.M. of Lumsden including Lumsden Regina Beach and Craven, R.M. of Cupar including Southey Cupar and Markinch, R.M. of Lipton including Lipton and Dysart, R.M. of Tullymet including Peepeekisis Res., R.M. of Bratt's Lake including Wilcox Corinne and Estlin, R.M. of Sherwood east of Highway 6, R.M. of Sherwood west of Highway 6 including Grand Coulee, R.M. of Lajord including Lajord Kronau and Riceton, R.M. of Francis including Vibank Sedley and Odessa, R.M. of Montmartre including Assiniboine Res., R.M. of Edenwold including Balgonie and Piapot Res., R.M. of North Qu'Appelle including Fort Qu'Appelle, R.M. of South Qu'Appelle including Qu'Appelle and Edgeley, R.M. of Abernethy including Balcarres and Abernethy, R.M. of Indian Head including Indian Head and Sintaluta, R.M. of Elmsthorpe including Avonlea and Truax, R.M. of Key West including Ogema and Kayville, R.M. of Bengough including Bengough, R.M. of The Gap including Ceylon and Hardy, R.M. of Happy Valley including Big Beaver, R.M. of Surprise Valley including Minton and Regway, R.M. of Caledonia including Milestone and Parry, R.M. of Scott including Yellow Grass Lang and Lewvan, R.M. of Norton including Pangman and Khedive, R.M. of Brokenshell including Trossachs, R.M. of Wellington including Cedoux Colfax and Tyvan, R.M. of Fillmore including Fillmore Creelman and Osage, R.M. of Weyburn including Weyburn and McTaggart, R.M. of Griffin including Griffin and Froude, R.M. of Laurier including Radville, R.M. of Lomond including Colgate and Goodwater, R.M. of Lake Alma including Lake Alma and Beaubier, R.M. of Souris Valley including Tribune and Oungre, R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Benson including Benson, R.M. of Cambria including Torquay and Outram, R.M. of Estevan including Estevan and Hitchcock, R.M. of Garry including Jedburgh, R.M. of Orkney including Yorkton Springside and Ebenezer, R.M. of Stanley including Goodeve Fenwood and Duff, R.M. of Cana including Melville, R.M. of McLeod including Lemberg and Neudorf, R.M. of Grayson including Grayson Dubuc and Killaly, R.M. of Wallace including Rhein Stornoway Tonkin and Rokeby, R.M. of Calder including Calder and Wroxton, R.M. of Saltcoats including Saltcoats and Bredenbury, R.M. of Churchbridge including Churchbridge and MacNutt, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, R.M. of Wolseley including Wolseley and Summerberry, R.M. of Elcapo including Broadview and Cowessess Res., R.M. of Chester including Windthorst Glenavon and Peebles, R.M. of Hazelwood south of Kipling, R.M. of Golden West including Ocean Man Res. and Handsworth, R.M. of Kingsley including Kipling, R.M. of Silverwood south of Whitewood, R.M. of Wawken including Wawota Kennedy and Kenosee Lake, R.M. of Martin including Wapella and Red Jacket, R.M. of Moosomin including Moosomin Welwyn and Fleming, R.M. of Walpole including Kelso, R.M. of Maryfield including Maryfield and Fairlight, R.M. of Willowdale including Whitewood and Ochapowace Res., R.M. of Rocanville including Rocanville, R.M. of Tecumseh including Stoughton Forget and Heward, R.M. of Brock including Arcola and Kisbey, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, R.M. of Moose Mountain including Carlyle and Manor, R.M. of Antler including Redvers Antler and Wauchope, R.M. of Storthoaks including Storthoaks and Fertile, R.M. of Reciprocity including Alida, R.M. of Mount Pleasant including Carnduff, R.M. of Argyle including Gainsborough and Carievale, R.M. of Hazel Dell including Lintlaw and Hazel Dell, R.M. of Preeceville including Preeceville and Sturgis, R.M. of Invermay including Invermay and Rama, R.M. of Buchanan including Buchanan Amsterdam and Tadmore, R.M. of Insinger including Theodore and Sheho, R.M. of Good Lake including Canora and Good Spirit Lake Prov. Park, R.M. of Keys including The Key Res., R.M. of St Philips including Pelly and St Philips, R.M. of Sliding Hills including Veregin Mikado and Hamton, R.M. of Cote including Kamsack Togo and Duck Mountain Prov. Park, R.M. of Clayton including Norquay Stenen and Swan Plain, R.M. of Livingston including Arran, R.M. of Humboldt including Humboldt Carmel and Fulda, R.M. of St Peter including Muenster and Lake Lenore, R.M. of Wolverine including Burr, R.M. of Leroy including Leroy, R.M. of Spalding including Spalding, R.M. of Ponass Lake including Rose Valley Fosston and Nora, R.M. of Lakeside including Watson and Quill Lake, R.M. of Lakeview including Wadena and Clair, R.M. of Usborne including Lanigan Drake and Guernsey, R.M. of Prairie Rose including Jansen and Esk, R.M. of Wreford including Nokomis and Venn, R.M. of Mount Hope including Semans, R.M. of Last Mountain Valley including Govan and Duval, R.M. of Big Quill including Wynyard Dafoe and Kandahar, R.M. of Elfros including Elfros Leslie and Mozart, R.M. of Kutawa including Raymore Punnichy and Poorman Res., R.M. of Emerald including Wishart and Bankend, R.M. of Touchwood including Serath and Touchwood Hills Prov. Park, R.M. of Kellross including Kelliher and Lestock, R.M. of Kelvington including Yellowquill Res., R.M. of Sasman including Margo Kylemore and Nut Mountain, R.M. of Foam Lake including Foam Lake and Fishing Lake Res., R.M. of Ituna Bon Accord including Ituna and Hubbard | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -222,15 +267,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1723475759.2026-1</guid>
       <pubDate>2026-08-30T16:00:33-00:00</pubDate>
       <description>South Central Saskatchewan. Lanigan, Jansen, Semans, Duval, Govan and Nokomis. | Areas: R.M. of Usborne including Lanigan Drake and Guernsey, R.M. of Prairie Rose including Jansen and Esk, R.M. of Wreford including Nokomis and Venn, R.M. of Mount Hope including Semans, R.M. of Last Mountain Valley including Govan and Duval, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Issued)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3221477336.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3221477336.2026-1</guid>
-      <pubDate>2026-08-30T15:44:22-00:00</pubDate>
-      <description>A cold front associated with an intensifying low pressure system will combine with an unseasonably warm and unstable atmosphere creating favourable conditions for the development of severe... | Areas: City of Regina, R.M. of Dufferin including Bethune and Findlater, R.M. of Pense including Pense Belle Plaine and Stony Beach, R.M. of Redburn including Rouleau and Hearne, R.M. of McKillop including Strasbourg and Rowans Ravine Prov. Park, R.M. of Longlaketon including Earl Grey and Silton, R.M. of Lumsden including Lumsden Regina Beach and Craven, R.M. of Cupar including Southey Cupar and Markinch, R.M. of Lipton including Lipton and Dysart, R.M. of Tullymet including Peepeekisis Res., R.M. of Bratt's Lake including Wilcox Corinne and Estlin, R.M. of Sherwood east of Highway 6, R.M. of Sherwood west of Highway 6 including Grand Coulee, R.M. of Lajord including Lajord Kronau and Riceton, R.M. of Francis including Vibank Sedley and Odessa, R.M. of Montmartre including Assiniboine Res., R.M. of Edenwold including Balgonie and Piapot Res., R.M. of North Qu'Appelle including Fort Qu'Appelle, R.M. of South Qu'Appelle including Qu'Appelle and Edgeley, R.M. of Abernethy including Balcarres and Abernethy, R.M. of Indian Head including Indian Head and Sintaluta, R.M. of Elmsthorpe including Avonlea and Truax, R.M. of Key West including Ogema and Kayville, R.M. of Bengough including Bengough, R.M. of The Gap including Ceylon and Hardy, R.M. of Happy Valley including Big Beaver, R.M. of Surprise Valley including Minton and Regway, R.M. of Caledonia including Milestone and Parry, R.M. of Scott including Yellow Grass Lang and Lewvan, R.M. of Norton including Pangman and Khedive, R.M. of Brokenshell including Trossachs, R.M. of Wellington including Cedoux Colfax and Tyvan, R.M. of Fillmore including Fillmore Creelman and Osage, R.M. of Weyburn including Weyburn and McTaggart, R.M. of Griffin including Griffin and Froude, R.M. of Laurier including Radville, R.M. of Lomond including Colgate and Goodwater, R.M. of Lake Alma including Lake Alma and Beaubier, R.M. of Souris Valley including Tribune and Oungre, R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Benson including Benson, R.M. of Cambria including Torquay and Outram, R.M. of Estevan including Estevan and Hitchcock, R.M. of Stanley including Goodeve Fenwood and Duff, R.M. of Cana including Melville, R.M. of McLeod including Lemberg and Neudorf, R.M. of Grayson including Grayson Dubuc and Killaly, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, R.M. of Wolseley including Wolseley and Summerberry, R.M. of Elcapo including Broadview and Cowessess Res., R.M. of Chester including Windthorst Glenavon and Peebles, R.M. of Hazelwood south of Kipling, R.M. of Golden West including Ocean Man Res. and Handsworth, R.M. of Kingsley including Kipling, R.M. of Silverwood south of Whitewood, R.M. of Wawken including Wawota Kennedy and Kenosee Lake, R.M. of Martin including Wapella and Red Jacket, R.M. of Moosomin including Moosomin Welwyn and Fleming, R.M. of Walpole including Kelso, R.M. of Maryfield including Maryfield and Fairlight, R.M. of Willowdale including Whitewood and Ochapowace Res., R.M. of Rocanville including Rocanville, R.M. of Tecumseh including Stoughton Forget and Heward, R.M. of Brock including Arcola and Kisbey, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, R.M. of Moose Mountain including Carlyle and Manor, R.M. of Antler including Redvers Antler and Wauchope, R.M. of Storthoaks including Storthoaks and Fertile, R.M. of Reciprocity including Alida, R.M. of Mount Pleasant including Carnduff, R.M. of Argyle including Gainsborough and Carievale | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -354,8 +390,35 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a9450261484fe6de158f48d</guid>
+      <pubDate>2026-08-30T17:48:59.560Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;A cold front associated with an intensifying low pressure system will combine with an unseasonably warm and unstable atmosphere creating favourable conditions for the development of severe thunderstorms. 
+
+Thunderstorms are currently ongoing over the region and will continue to increase in coverage over the area and eventually develop into a line and move eastward toward the Manitoba border later this afternoon. 
+
+Thunderstorms will also gradually intensify early this afternoon. The primary hazards with these thunderstorms will be strong wind gusts of 90-100 km/h, large hail, and heavy rainfall. Brief tornadoes are also possible with intense thunderstorms. 
+
+The severe weather threat will diminish once the cold front pushes eastward into Manitoba later this evening.
+
+
+
+Driving conditions may be difficult. Damage to roofs, fences, branches or soft shelters is possible.
+
+Heavy rain can cause flash flooding and significant reductions to visibility.
+
+Strong wind gusts can damage trees, buildings and overturn vehicles.
+
+Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Yorkton, Saskatchewan</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a945025aabfd1a13f78fcc4</guid>
-      <pubDate>2026-08-30T15:45:40.711Z</pubDate>
+      <pubDate>2026-08-30T17:48:54.615Z</pubDate>
       <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;A cold front associated with an intensifying low pressure system will combine with an unseasonably warm and unstable atmosphere creating favourable conditions for the development of severe thunderstorms. 
 
 Thunderstorms are currently ongoing over the region and will continue to increase in coverage over the area and eventually develop into a line and move eastward toward the Manitoba border later this afternoon. 
@@ -375,33 +438,6 @@ Strong wind gusts can damage trees, buildings and overturn vehicles.
 Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Kenton, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a9450261484fe6de158f48d</guid>
-      <pubDate>2026-08-30T15:45:39.155Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;A cold front associated with an intensifying low pressure system will combine with an unseasonably warm and unstable atmosphere creating favourable conditions for the development of severe thunderstorms. 
-
-Thunderstorms are currently ongoing over the region and will continue to increase in coverage over the area and eventually develop into a line and move eastward toward the Manitoba border later this afternoon. 
-
-Thunderstorms will also gradually intensify early this afternoon. The primary hazards with these thunderstorms will be strong wind gusts of 90-100 km/h, large hail, and heavy rainfall. Brief tornadoes are also possible with intense thunderstorms. 
-
-The severe weather threat will diminish once the cold front pushes eastward into Manitoba later this evening.
-
-
-
-Driving conditions may be difficult. Damage to roofs, fences, branches or soft shelters is possible.
-
-Heavy rain can cause flash flooding and significant reductions to visibility.
-
-Strong wind gusts can damage trees, buildings and overturn vehicles.
-
-Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Esterhazy, Saskatchewan</description>
       <source>Manitoba</source>
     </item>
 
