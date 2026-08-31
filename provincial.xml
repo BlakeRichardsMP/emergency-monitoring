@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 31 Aug 2026 00:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 06:41:41 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,29 +208,38 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Tornado (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2876004733.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3138594233.2026-1</guid>
-      <pubDate>2026-08-31T00:32:41-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Tonkin, Rhein, Wroxton, MacNutt, Langenburg, Spy Hill, Esterhazy, Bangor and Saltcoats. | Areas: R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, ended threat area | Level: advisory</description>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3221477336.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3095794357.2026-1</guid>
+      <pubDate>2026-08-31T02:29:33-00:00</pubDate>
+      <description>Thunderstorm | Areas: R.M. of Garry including Jedburgh, R.M. of Orkney including Yorkton Springside and Ebenezer, R.M. of Stanley including Goodeve Fenwood and Duff, R.M. of Cana including Melville, R.M. of McLeod including Lemberg and Neudorf, R.M. of Grayson including Grayson Dubuc and Killaly, R.M. of Wallace including Rhein Stornoway Tonkin and Rokeby, R.M. of Calder including Calder and Wroxton, R.M. of Saltcoats including Saltcoats and Bredenbury, R.M. of Churchbridge including Churchbridge and MacNutt, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, R.M. of Wolseley including Wolseley and Summerberry, R.M. of Elcapo including Broadview and Cowessess Res., R.M. of Chester including Windthorst Glenavon and Peebles, R.M. of Hazelwood south of Kipling, R.M. of Golden West including Ocean Man Res. and Handsworth, R.M. of Kingsley including Kipling, R.M. of Silverwood south of Whitewood, R.M. of Wawken including Wawota Kennedy and Kenosee Lake, R.M. of Martin including Wapella and Red Jacket, R.M. of Moosomin including Moosomin Welwyn and Fleming, R.M. of Walpole including Kelso, R.M. of Maryfield including Maryfield and Fairlight, R.M. of Willowdale including Whitewood and Ochapowace Res., R.M. of Rocanville including Rocanville, R.M. of Tecumseh including Stoughton Forget and Heward, R.M. of Brock including Arcola and Kisbey, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, R.M. of Moose Mountain including Carlyle and Manor, R.M. of Antler including Redvers Antler and Wauchope, R.M. of Storthoaks including Storthoaks and Fertile, R.M. of Reciprocity including Alida, R.M. of Mount Pleasant including Carnduff, R.M. of Argyle including Gainsborough and Carievale, R.M. of Hazel Dell including Lintlaw and Hazel Dell, R.M. of Preeceville including Preeceville and Sturgis, R.M. of Invermay including Invermay and Rama, R.M. of Buchanan including Buchanan Amsterdam and Tadmore, R.M. of Insinger including Theodore and Sheho, R.M. of Good Lake including Canora and Good Spirit Lake Prov. Park, R.M. of Keys including The Key Res., R.M. of St Philips including Pelly and St Philips, R.M. of Sliding Hills including Veregin Mikado and Hamton, R.M. of Cote including Kamsack Togo and Duck Mountain Prov. Park, R.M. of Clayton including Norquay Stenen and Swan Plain, R.M. of Livingston including Arran | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
-      <title>Thunderstorm (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2116026328.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0562692059.2026-1</guid>
-      <pubDate>2026-08-30T23:49:22-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Tonkin, Rhein, Wroxton, MacNutt, Langenburg, Spy Hill, Esterhazy, Bangor, Saltcoats,... | Areas: R.M. of Calder including Calder and Wroxton, R.M. of Churchbridge including Churchbridge and MacNutt, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, R.M. of Silverwood south of Whitewood, R.M. of Martin including Wapella and Red Jacket, R.M. of Moosomin including Moosomin Welwyn and Fleming, R.M. of Maryfield including Maryfield and Fairlight, R.M. of Willowdale including Whitewood and Ochapowace Res., R.M. of Rocanville including Rocanville, continued active threat area | Level: advisory</description>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2909833989.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1220394099.2026-1</guid>
+      <pubDate>2026-08-31T01:14:18-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Tonkin, Rhein, Wroxton, MacNutt, Langenburg, Spy Hill, Esterhazy, Bangor and Saltcoats. | Areas: R.M. of Calder including Calder and Wroxton, R.M. of Churchbridge including Churchbridge and MacNutt, R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
       <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2116026328.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0562692059.2026-2</guid>
-      <pubDate>2026-08-30T23:49:22-00:00</pubDate>
-      <description>Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: R.M. of Walpole including Kelso, R.M. of Antler including Redvers Antler and Wauchope, R.M. of Cote including Kamsack Togo and Duck Mountain Prov. Park, ended threat area | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3400801384.2026-1</guid>
+      <pubDate>2026-08-31T00:59:03-00:00</pubDate>
+      <description>Southeastern and East Central Saskatchewan. Tonkin, Rhein, Wroxton, MacNutt, Langenburg, Spy Hill, Esterhazy, Bangor, Saltcoats, Whitewood, Wapella, Moosomin, Fairlight, Wawota and Kenosee Lake. | Areas: R.M. of Calder including Calder and Wroxton, R.M. of Churchbridge including Churchbridge and MacNutt, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, R.M. of Willowdale including Whitewood and Ochapowace Res., R.M. of Rocanville including Rocanville, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Tornado (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2876004733.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3138594233.2026-1</guid>
+      <pubDate>2026-08-31T00:32:41-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Tonkin, Rhein, Wroxton, MacNutt, Langenburg, Spy Hill, Esterhazy, Bangor and Saltcoats. | Areas: R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -249,24 +258,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.4012090316.2026-1</guid>
       <pubDate>2026-08-30T23:26:39-00:00</pubDate>
       <description>East Central Saskatchewan. Kamsack, Duck Mountain Park, Arran, Pelly, Norquay, The Key Reserve and Stenen. | Areas: R.M. of Livingston including Arran, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3221477336.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1246553512.2026-1</guid>
-      <pubDate>2026-08-30T22:52:02-00:00</pubDate>
-      <description>A cold front associated with an intensifying low pressure system will combine with an unseasonably warm and unstable atmosphere creating favourable conditions for the development of severe... | Areas: R.M. of Garry including Jedburgh, R.M. of Orkney including Yorkton Springside and Ebenezer, R.M. of Stanley including Goodeve Fenwood and Duff, R.M. of Cana including Melville, R.M. of McLeod including Lemberg and Neudorf, R.M. of Grayson including Grayson Dubuc and Killaly, R.M. of Wallace including Rhein Stornoway Tonkin and Rokeby, R.M. of Calder including Calder and Wroxton, R.M. of Saltcoats including Saltcoats and Bredenbury, R.M. of Churchbridge including Churchbridge and MacNutt, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, R.M. of Wolseley including Wolseley and Summerberry, R.M. of Elcapo including Broadview and Cowessess Res., R.M. of Chester including Windthorst Glenavon and Peebles, R.M. of Hazelwood south of Kipling, R.M. of Golden West including Ocean Man Res. and Handsworth, R.M. of Kingsley including Kipling, R.M. of Silverwood south of Whitewood, R.M. of Wawken including Wawota Kennedy and Kenosee Lake, R.M. of Martin including Wapella and Red Jacket, R.M. of Moosomin including Moosomin Welwyn and Fleming, R.M. of Walpole including Kelso, R.M. of Maryfield including Maryfield and Fairlight, R.M. of Willowdale including Whitewood and Ochapowace Res., R.M. of Rocanville including Rocanville, R.M. of Tecumseh including Stoughton Forget and Heward, R.M. of Brock including Arcola and Kisbey, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, R.M. of Moose Mountain including Carlyle and Manor, R.M. of Antler including Redvers Antler and Wauchope, R.M. of Storthoaks including Storthoaks and Fertile, R.M. of Reciprocity including Alida, R.M. of Mount Pleasant including Carnduff, R.M. of Argyle including Gainsborough and Carievale, R.M. of Hazel Dell including Lintlaw and Hazel Dell, R.M. of Preeceville including Preeceville and Sturgis, R.M. of Invermay including Invermay and Rama, R.M. of Buchanan including Buchanan Amsterdam and Tadmore, R.M. of Insinger including Theodore and Sheho, R.M. of Good Lake including Canora and Good Spirit Lake Prov. Park, R.M. of Keys including The Key Res., R.M. of St Philips including Pelly and St Philips, R.M. of Sliding Hills including Veregin Mikado and Hamton, R.M. of Cote including Kamsack Togo and Duck Mountain Prov. Park, R.M. of Clayton including Norquay Stenen and Swan Plain, R.M. of Livingston including Arran | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3221477336.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1246553512.2026-2</guid>
-      <pubDate>2026-08-30T22:52:02-00:00</pubDate>
-      <description>Thunderstorm | Areas: R.M. of Humboldt including Humboldt Carmel and Fulda, R.M. of St Peter including Muenster and Lake Lenore, R.M. of Wolverine including Burr, R.M. of Leroy including Leroy, R.M. of Spalding including Spalding, R.M. of Ponass Lake including Rose Valley Fosston and Nora, R.M. of Lakeside including Watson and Quill Lake, R.M. of Lakeview including Wadena and Clair, R.M. of Usborne including Lanigan Drake and Guernsey, R.M. of Prairie Rose including Jansen and Esk, R.M. of Wreford including Nokomis and Venn, R.M. of Mount Hope including Semans, R.M. of Last Mountain Valley including Govan and Duval, R.M. of Big Quill including Wynyard Dafoe and Kandahar, R.M. of Elfros including Elfros Leslie and Mozart, R.M. of Kutawa including Raymore Punnichy and Poorman Res., R.M. of Emerald including Wishart and Bankend, R.M. of Touchwood including Serath and Touchwood Hills Prov. Park, R.M. of Kellross including Kelliher and Lestock, R.M. of Kelvington including Yellowquill Res., R.M. of Sasman including Margo Kylemore and Nut Mountain, R.M. of Foam Lake including Foam Lake and Fishing Lake Res., R.M. of Ituna Bon Accord including Ituna and Hubbard | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -415,24 +406,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0754745599.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2404874478.2026-1</guid>
-      <pubDate>2026-08-30T02:42:49-00:00</pubDate>
-      <description>Conditions are no longer favourable for the development of severe thunderstorms. | Areas: R.M. of Garry including Jedburgh, R.M. of Orkney including Yorkton Springside and Ebenezer, R.M. of Stanley including Goodeve Fenwood and Duff, R.M. of Cana including Melville, R.M. of McLeod including Lemberg and Neudorf, R.M. of Grayson including Grayson Dubuc and Killaly, R.M. of Wallace including Rhein Stornoway Tonkin and Rokeby, R.M. of Calder including Calder and Wroxton, R.M. of Saltcoats including Saltcoats and Bredenbury, R.M. of Churchbridge including Churchbridge and MacNutt, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, R.M. of Wolseley including Wolseley and Summerberry, R.M. of Elcapo including Broadview and Cowessess Res., R.M. of Chester including Windthorst Glenavon and Peebles, R.M. of Hazelwood south of Kipling, R.M. of Golden West including Ocean Man Res. and Handsworth, R.M. of Kingsley including Kipling, R.M. of Silverwood south of Whitewood, R.M. of Wawken including Wawota Kennedy and Kenosee Lake, R.M. of Martin including Wapella and Red Jacket, R.M. of Moosomin including Moosomin Welwyn and Fleming, R.M. of Walpole including Kelso, R.M. of Maryfield including Maryfield and Fairlight, R.M. of Willowdale including Whitewood and Ochapowace Res., R.M. of Rocanville including Rocanville, R.M. of Tecumseh including Stoughton Forget and Heward, R.M. of Brock including Arcola and Kisbey, R.M. of Browning including Lampman, R.M. of Coalfields including Bienfait and North Portal, R.M. of Moose Creek including Alameda, R.M. of Enniskillen including Oxbow and Northgate, R.M. of Moose Mountain including Carlyle and Manor, R.M. of Antler including Redvers Antler and Wauchope, R.M. of Storthoaks including Storthoaks and Fertile, R.M. of Reciprocity including Alida, R.M. of Mount Pleasant including Carnduff, R.M. of Argyle including Gainsborough and Carievale | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2773382064.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4073461663.2026-1</guid>
-      <pubDate>2026-08-30T01:29:24-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Moosomin, Grenfell, Kipling, Wawota, Yorkton, Melville and Esterhazy. | Areas: R.M. of Grayson including Grayson Dubuc and Killaly, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, R.M. of Wolseley including Wolseley and Summerberry, R.M. of Elcapo including Broadview and Cowessess Res., R.M. of Chester including Windthorst Glenavon and Peebles, R.M. of Kingsley including Kipling, R.M. of Willowdale including Whitewood and Ochapowace Res., ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -442,118 +415,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>TAKE ACTION - RED WARNING - TORNADO - IN EFFECT</title>
+      <title>BE ALERT - OVERLAND FLOOD WATCH</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a94bfe96943666d63dfa786</guid>
-      <pubDate>2026-08-31T00:44:46.222Z</pubDate>
-      <description>Tornado Emergency | Red Warning - Tornado - In Effect | &lt;p&gt;At 7:43 p.m. CDT, a tornado is located near Birdtail Sioux. The tornado is moving northeast at 40 km/h. Destructive winds, damaging hail and flooding rainfall are possible.
-
-Locations and nearby areas that could be impacted include: Birdtail Sioux, St-Lazare, Birtle
-
-
-
-
-This is a very dangerous and potentially life-threatening situation.
-
-Tornado warnings are issued when a thunderstorm is producing or is likely to produce a tornado.
-
-Tornadoes can be wrapped in rain and may not be visible.
-
-Tornadoes at night cannot be seen and may strike suddenly. Sometimes they are preceded by strengthening winds, large hail, or an approaching whistling or roaring sound.&lt;/p&gt; | Extreme - extraordinary threat | Immediate - act now | St-Lazare, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a94b8a735ea8f3543dd2338</guid>
-      <pubDate>2026-08-30T23:50:26.411Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 5:48 p.m. CST, a line of severe thunderstorms is located from San Clara to Ebor. These severe thunderstorms are moving east at 40 km/h. Damaging wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
-
-Locations and nearby areas that could be impacted include: San Clara, Roblin, St-Lazare, Binscarth, Russell, Elkhorn, Inglis, Foxwarren, Miniota, Virden
-
-
-
-
-Driving conditions will likely be difficult. Heavy rain may cause flash flooding and significant reductions to visibility. Large hail may cause significant damage and injury.
-
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.
-
-Severe thunderstorms can produce tornadoes.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Wroxton, Saskatchewan</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a94b88e35ea8f3543dd217e</guid>
-      <pubDate>2026-08-30T23:50:17.817Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 6:48 p.m. CDT, a line of severe thunderstorms is located from San Clara to Ebor. These severe thunderstorms are moving east at 40 km/h. Damaging wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
-
-Locations and nearby areas that could be impacted include: San Clara, Roblin, St-Lazare, Binscarth, Russell, Elkhorn, Inglis, Foxwarren, Miniota, Virden
-
-
-
-
-Driving conditions will likely be difficult. Heavy rain may cause flash flooding and significant reductions to visibility. Large hail may cause significant damage and injury.
-
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.
-
-Severe thunderstorms can produce tornadoes.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Kenton, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a9450261484fe6de158f48d</guid>
-      <pubDate>2026-08-30T22:53:46.593Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;A cold front associated with an intensifying low pressure system will combine with an unseasonably warm and unstable atmosphere creating favourable conditions for the development of severe thunderstorms. 
-
-Thunderstorms are currently ongoing over the region and will continue to grow into a line and move eastward into southwestern Manitoba.
-
-The primary hazards with these thunderstorms will be strong wind gusts of 90-100 km/h, large hail, and heavy rainfall. Brief tornadoes are also possible with intense portions in the developing line of thunderstorms.
-
-The severe weather threat will diminish once the cold front pushes eastward later this evening.
-
-
-
-Driving conditions may be difficult. Damage to roofs, fences, branches or soft shelters is possible.
-
-Heavy rain can cause flash flooding and significant reductions to visibility.
-
-Strong wind gusts can damage trees, buildings and overturn vehicles.
-
-Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Yorkton, Saskatchewan</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a945025aabfd1a13f78fcc4</guid>
-      <pubDate>2026-08-30T22:53:42.441Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;A cold front associated with an intensifying low pressure system will combine with an unseasonably warm and unstable atmosphere creating favourable conditions for the development of severe thunderstorms. 
-
-Thunderstorms are currently ongoing over the region and will continue to grow into a line and move eastward into southwestern Manitoba.
-
-The primary hazards with these thunderstorms will be strong wind gusts of 90-100 km/h, large hail, and heavy rainfall. Brief tornadoes are also possible with intense portions in the developing line of thunderstorms.
-
-The severe weather threat will diminish once the cold front pushes eastward later this evening.
-
-
-
-Driving conditions may be difficult. Damage to roofs, fences, branches or soft shelters is possible.
-
-Heavy rain can cause flash flooding and significant reductions to visibility.
-
-Strong wind gusts can damage trees, buildings and overturn vehicles.
-
-Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Kenton, Manitoba</description>
+      <guid isPermaLink="false">6a94f98831695ed723555b30</guid>
+      <pubDate>2026-08-31T03:48:23.723Z</pubDate>
+      <description>Seasonal Overland Flooding Warning | Overland Flood Watch | &lt;p&gt;This is a Manitoba Emergency Alert. Manitoba Transportation and Infrastructure's Hydrologic Forecast Centre has issued an Overland Flood Watch for portions of western Manitoba due to 30 to 80 mm of rainfall, with localized amounts exceeding 80 mm, beginning this evening, August 30, through late Monday afternoon, August 31. Impacts are expected in the Parkland Region, including the Shell and Swan River basins, and the Shellmouth Reservoir basin. Rapid water level increases and localized overland flooding are possible in low-lying areas.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Swan River, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
