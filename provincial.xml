@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 01 Sep 2026 14:32:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:57:34 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,24 +217,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Rainfall (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3606171156.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3712490127.2026-1</guid>
-      <pubDate>2026-08-31T16:53:00-00:00</pubDate>
-      <description>Significant rainfall is no longer expected. | Areas: City of Saskatoon, R.M. of Spiritwood including Spiritwood and Leoville, R.M. of Canwood including Debden and Big River Res., R.M. of Meeting Lake, R.M. of Leask including Leask Mistawasis Res. and Parkside, R.M. of Shellbrook including Sturgeon Lake Res., R.M. of Duck Lake including Duck Lake and Beardy's Res., District of Lakeland including Emma Lake and Anglin Lake, R.M. of Paddockwood including Candle Lake and Paddockwood, R.M. of Buckland including Wahpeton Res. and Spruce Home, R.M. of Garden River including Meath Park and Albertville, City of Prince Albert, R.M. of Prince Albert including Davis, R.M. of Birch Hills including Muskoday Res., R.M. of St Louis including One Arrow Res. and Domremy, R.M. of Torch River including Choiceland and White Fox, R.M. of Nipawin including Nipawin Aylsham and Pontrilas, R.M. of Moose Range including Carrot River and Tobin Lake, R.M. of Kinistino including Kinistino and James Smith Res., R.M. of Invergordon including Yellow Creek and Tarnopol, R.M. of Flett's Springs including Beatty Ethelton and Pathlow, R.M. of Three Lakes including Middle Lake and St Benedict, R.M. of Lake Lenore including St. Brieux, R.M. of Willow Creek including Gronlid and Fairy Glen, R.M. of Connaught including Ridgedale and New Osgoode, R.M. of Star City including Melfort and Star City, R.M. of Tisdale including Tisdale Eldersley and Sylvania, R.M. of Pleasantdale including Naicam and Pleasantdale, R.M. of Barrier Valley including Archerwill and McKague, R.M. of Arborfield including Arborfield and Zenon Park, R.M. of Bjorkdale including Greenwater Lake Prov. Park, R.M. of Redberry including Hafford and Krydor, R.M. of Blaine Lake including Blaine Lake, R.M. of Great Bend including Radisson and Borden, R.M. of Laird including Waldheim Hepburn and Laird, R.M. of Rosthern including Rosthern Hague and Carlton, R.M. of Eagle Creek including Arelee and Sonningdale, R.M. of Perdue including Perdue and Kinley, R.M. of Vanscoy including Delisle Asquith and Vanscoy, R.M. of Corman Park northeast of the Yellowhead Highway incl. Martensville Warman and Langham, R.M. of Corman Park southwest of the Yellowhead Highway, R.M. of Aberdeen including Aberdeen, R.M. of Fish Creek including Alvena, R.M. of Hoodoo including Wakaw and Cudworth, R.M. of Grant including Vonda Prud'homme and Smuts, R.M. of Bayne including Bruno Peterson and Dana, R.M. of Colonsay including Colonsay and Meacham, R.M. of Viscount including Viscount and Plunkett, R.M. of Blucher including Allan Clavet Bradwell and Elstow | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3275734428.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1961382608.2026-1</guid>
-      <pubDate>2026-08-31T16:53:00-00:00</pubDate>
-      <description>Prince Albert Nat. Park. Significant rainfall is no longer expected. | Areas: Prince Albert Nat. Park | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -277,6 +259,237 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Canada's Outdoor Farm Show</title>
+      <link>https://www.princeedwardisland.ca/en/event/canadas-outdoor-farm-show</link>
+      <guid isPermaLink="false">81179 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 01 Sep 2026 17:26:31 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Canada's Outdoor Farm Show&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-01T14:26:31-03:00" title="Tuesday, September 1, 2026 - 14:26"&gt;Tue, 09/01/2026 - 14:26&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Where Farmers Come to Meet!&lt;/p&gt;&lt;p&gt;For over 30 years, farmers have attended Canada’s Outdoor Farm Show to learn about the newest and most innovative products and technology in agriculture. Here’s what is planned:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.outdoorfarmshow.com/demo-events/#equipment-demos"&gt;Equipment Demos&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.outdoorfarmshow.com/demo-events/#livestock-central"&gt;Livestock Central&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.outdoorfarmshow.com/demo-events/#crop-plots"&gt;Crop Plots&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.outdoorfarmshow.com/demo-events/special-events/"&gt;Special Events&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Outdoor Farm Show &lt;a href="https://www.outdoorfarmshow.com/"&gt;website&lt;/a&gt; &amp;nbsp;and the interactive &lt;a href="https://cofs26.mapyourshow.com/8_0/floorplan/"&gt;map of exhibitors&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-09-15T13:00:00Z"&gt;September 15, 2026 10:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-09-17T20:00:00Z"&gt;September 17, 2026 5:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Canada's Outdoor&lt;/span&gt; &lt;span class="family-name"&gt;Farm Show&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;744906 Oxford Road #17&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Woodstock&lt;/span&gt; &lt;span class="administrative-area"&gt;ON&lt;/span&gt; &lt;span class="postal-code"&gt;N4S 7W1&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Affordable rural transit helps students get to campus</title>
+      <link>https://www.princeedwardisland.ca/en/news/affordable-rural-transit-helps-students-get-to-campus</link>
+      <guid isPermaLink="false">81178 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 01 Sep 2026 16:22:46 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Affordable rural transit helps students get to campus&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-01T13:22:46-03:00" title="Tuesday, September 1, 2026 - 13:22"&gt;Tue, 09/01/2026 - 13:22&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;As thousands of post-secondary students prepare for the fall semester, the province is reminding students in rural communities that public transit can provide a convenient and affordable ride to campus.&lt;/p&gt;&lt;p&gt;Transit PEI connects communities across Prince Edward Island to Charlottetown, Summerside, Georgetown and other regional centres every weekday (Mon - Fri).&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Rural transit gives Island students another option for getting to and from school. It’s a convenient, safe and affordable way to travel.”&lt;/p&gt;&lt;p&gt;- Transportation, Infrastructure and Energy Minister Ernie Hudson&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;For students, choosing transit can mean spending less money on gas, parking, vehicle maintenance and other costs associated with driving. Post-secondary students can purchase a monthly pass for $10. A single trip costs $2.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Full-time UPEI students have access to the T3 Transit network through the U-Pass included with tuition.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Due to the popularity of the service, students are encouraged to review their route and reserve their seats as early as possible.&amp;nbsp; Since January, ridership on rural transit routes has increased by more than 4 per cent year over year.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Bookings should be made at least three hours before travel and can be secured up to 30 days in advance. Recurring bookings are also available for students who follow a regular class schedule.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Online bookings can be made at &lt;a href="https://www.t3transit.ca/transit-pei-schedules"&gt;T3 Rural Transit Schedules&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quick facts:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Average daily ridership for rural transit in 2025 was almost 600 one-way passenger trips, excluding the seasonal north shore route.&lt;/li&gt;&lt;li&gt;Local and intercommunity transit services link workers to jobs, students to schools, shoppers to businesses, and Islanders to the essential services they need to enhance their quality of life.&lt;/li&gt;&lt;li&gt;The North Shore summer shuttle service became a permanent service in 2025. This summer, more runs were added to give riders more options in the evening.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Stacey Miller&lt;br /&gt;Department of Transportation, Infrastructure and Energy&lt;br /&gt;&lt;a href="mailto:samiller@gov.pe.ca"&gt;samiller@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Debt Risk Advisory Committee</title>
+      <link>https://www.princeedwardisland.ca/en/information/executive-council-office/debt-risk-advisory-committee</link>
+      <guid isPermaLink="false">81177 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 01 Sep 2026 15:59:44 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Debt Risk Advisory Committee&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kenantes&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-01T12:59:44-03:00" title="Tuesday, September 1, 2026 - 12:59"&gt;Tue, 09/01/2026 - 12:59&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;h2&gt;What is the function of the Debt Risk Advisory Committee?&lt;/h2&gt;&lt;p&gt;The committee will provide independent strategic oversight and guidance to support sound debt management practices and help the Province identify, assess and mitigate financial risks associated with borrowing, investments and other liabilities.&lt;/p&gt;&lt;p&gt;The &lt;a href="https://www.princeedwardisland.ca/en/information/finance-and-affordability/debt-risk-advisory-committee" title="Debt Risk Advisory Committee"&gt;Debt Risk Advisory Committee&lt;/a&gt; will provide advice and recommendations to the Deputy Minister of Finance and Affordability on matters related to the Province’s debt and financial risk profile, such as:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reviewing and advising on the annual borrowing strategy&lt;/li&gt;&lt;li&gt;Providing guidance on debt portfolio risk parameters&lt;/li&gt;&lt;li&gt;Assessing collateral management frameworks&lt;/li&gt;&lt;li&gt;Recommending investment policies related to the Sinking funds&lt;/li&gt;&lt;li&gt;Supporting strategic initiatives and special projects as required&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The Committee will also contribute to shaping policy direction to ensure that financial risks remain aligned with the Province’s established fiscal anchor and broader financial goals.&lt;/p&gt;&lt;h2&gt;How many people are on the Debt Risk Advisory Committee?&lt;/h2&gt;&lt;p&gt;Committee members will include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Deputy Minister of Finance and Affordability (Chair)&lt;/li&gt;&lt;li&gt;Four non-government finance professionals&lt;/li&gt;&lt;li&gt;Two employees from the Province, appointed by the Minister of Finance and Affordability&lt;/li&gt;&lt;li&gt;Ex-Officio Members&lt;/li&gt;&lt;li&gt;Secretary to Treasury Board&lt;/li&gt;&lt;li&gt;Clerk of Executive Council&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;What are the nomination requirements of the Committee?&lt;/h2&gt;&lt;p&gt;Non-government professionals with significant expertise in finance, risk management, and public administration.&lt;/p&gt;&lt;h2&gt;Will I get paid?&lt;/h2&gt;&lt;p&gt;As per the Treasury Board Policy and Procedures Section 9: Honoraria for Category C Boards:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Chair: $113 per diem&lt;/li&gt;&lt;li&gt;Members: $73 per diem&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;What is the time commitment of the Committee?&lt;/h2&gt;&lt;p&gt;The Board will meet semi-annually for less than half a day.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Debt Risk Advisory Committee - Members&lt;/strong&gt;&lt;/p&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;County&amp;nbsp;&lt;/td&gt;&lt;td&gt;Term Start&amp;nbsp;&lt;/td&gt;&lt;td&gt;Term End&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Craig Noonan, Chair&lt;/td&gt;&lt;td&gt;Prince&lt;/td&gt;&lt;td&gt;Aug 25, 2026&lt;/td&gt;&lt;td&gt;Aug 25, 2028&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Jody Sanderson&amp;nbsp;&lt;/td&gt;&lt;td&gt;Queens&lt;/td&gt;&lt;td&gt;Aug 25, 2026&lt;/td&gt;&lt;td&gt;Aug 25, 2028&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;David Arsenault&lt;/td&gt;&lt;td&gt;Queens&lt;/td&gt;&lt;td&gt;Aug 25, 2026&lt;/td&gt;&lt;td&gt;Aug 25, 2028&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Christine Helsdon Tekker&lt;/td&gt;&lt;td&gt;Queens&lt;/td&gt;&lt;td&gt;Aug 25, 2026&lt;/td&gt;&lt;td&gt;Aug 25, 2028&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h2&gt;How can I apply?&amp;nbsp;&lt;/h2&gt;&lt;p&gt;If you would like to serve as a member of a provincial government agency, board, or commission (ABC) you can apply online through &lt;a href="https://www.princeedwardisland.ca/en/service/apply-to-engage-pei" title="Apply to Engage PEI"&gt;Engage PEI.&amp;nbsp;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;For further information about this committee, you may contact:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ryan Bradley, Director Pensions and Capital Markets&lt;br /&gt;902-213-0927&lt;br /&gt;&lt;a href="mailto:PEIcapitalmarkets@gov.pe.ca"&gt;PEIcapitalmarkets@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeinformationfield-resources"&gt;
+  
+    
+      
+                
+
+
+  &lt;div class="ew-card ew-card-quicklink-listing"&gt;
+                    
+                        &lt;h3 class="ew-card-quicklink-listing__title"&gt;
+            Resources
+          &lt;/h3&gt;
+              
+          &lt;div class="ew-card-quicklink-listing__content"&gt;
+                  &lt;ul class="tw-flex tw-flex-col tw-list-none tw-p-0"&gt;
+                          &lt;li&gt;
+                
+  	  
+
+
+
+          
+    &lt;a class="ew-button ew-button--tertiary" href="https://www.princeedwardisland.ca/en/service/apply-to-engage-pei%20%20"&gt;
+              &lt;span&gt;Apply to Engage PEI&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-arrow-right"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+              &lt;/li&gt;
+                          &lt;li&gt;
+                
+  	  
+
+
+
+          
+    &lt;a class="ew-button ew-button--tertiary" href="https://www.princeedwardisland.ca/en/information/executive-council-office/engage-pei%20%20"&gt;
+              &lt;span&gt;Engage PEI&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-arrow-right"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+              &lt;/li&gt;
+                      &lt;/ul&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+&lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -796,174 +1009,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;McGuirk&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T14:13:01-03:00" title="Friday, August 28, 2026 - 14:13"&gt;Fri, 08/28/2026 - 14:13&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Casual Inventory Technician&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Materials Management&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Owolabi</title>
-      <link>https://www.princeedwardisland.ca/en/employee/owolabi-toyin</link>
-      <guid isPermaLink="false">81163 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 28 Aug 2026 17:11:32 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Owolabi&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T14:11:32-03:00" title="Friday, August 28, 2026 - 14:11"&gt;Fri, 08/28/2026 - 14:11&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Casual Inventory Technician&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Materials Management&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Makelskyi</title>
-      <link>https://www.princeedwardisland.ca/en/employee/makelskyi-yehven</link>
-      <guid isPermaLink="false">81161 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 28 Aug 2026 17:09:09 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Makelskyi&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T14:09:09-03:00" title="Friday, August 28, 2026 - 14:09"&gt;Fri, 08/28/2026 - 14:09&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Casual Procurement Technician&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Materials Management&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Vanneste</title>
-      <link>https://www.princeedwardisland.ca/en/employee/vanneste-marcus</link>
-      <guid isPermaLink="false">81160 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 28 Aug 2026 17:07:49 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Vanneste&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-28T14:07:49-03:00" title="Friday, August 28, 2026 - 14:07"&gt;Fri, 08/28/2026 - 14:07&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
