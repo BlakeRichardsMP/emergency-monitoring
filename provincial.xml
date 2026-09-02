@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 02 Sep 2026 18:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 21:03:21 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -255,19 +255,100 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Weather (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2330522933.2026-1</guid>
-      <pubDate>2026-09-02T13:51:32-00:00</pubDate>
-      <description>Significant rainfall is expected. Locations: Western and Central Nova Scotia. Time span: Thursday night until Saturday night. Remarks: A developing and slow-moving weather system is expected to... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3256859211.2026-1</guid>
+      <pubDate>2026-09-02T18:58:17-00:00</pubDate>
+      <description>Significant rainfall is expected. Locations: Eastern Nova Scotia and Cape Breton. Time span: Friday midday until Monday morning. Remarks: A developing and slow-moving weather system is expected to... | Areas: Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Weather (Issued)</title>
+      <title>Weather (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0471346530.2026-1</guid>
-      <pubDate>2026-09-02T13:50:44-00:00</pubDate>
-      <description>Significant rainfall is expected. Locations: Eastern Nova Scotia and Cape Breton. Time span: Friday midday until Monday morning. Remarks: A developing and slow-moving weather system is expected to... | Areas: Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2974107807.2026-1</guid>
+      <pubDate>2026-09-02T18:55:33-00:00</pubDate>
+      <description>Significant rainfall is expected. Locations: Western and Central Nova Scotia. Time span: Thursday night until Sunday. Remarks: A developing and slow-moving weather system is expected to bring a... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Premier Rob Lantz announces changes to cabinet</title>
+      <link>https://www.princeedwardisland.ca/en/news/premier-rob-lantz-announces-changes-to-cabinet-1</link>
+      <guid isPermaLink="false">81190 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 02 Sep 2026 19:03:29 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Premier Rob Lantz announces changes to cabinet&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-02T16:03:29-03:00" title="Wednesday, September 2, 2026 - 16:03"&gt;Wed, 09/02/2026 - 16:03&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="Minister of Economic Development, Trade and Artificial Intelligence, and Minister responsible for Acadian and Francophone Affairs, Zack Bell; Minister of Finance and Affordability, and Minister of Energy, Jill Burridge; Premier Rob Lantz; Minister of Workforce and Advanced Learning, and Minister responsible for the Status of Women, Jenn Redmond; Minister of Agriculture, Hilton MacLennan." height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/c297/Premier%20Rob%20Lantz%20announces%20changes%20to%20cabinet.jpg.webp?itok=7XZYa2Tc" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Premier Rob Lantz announced changes to Cabinet today, with a clear focus on the priorities facing Islanders, including improving health care, making life more affordable, strengthening our energy security, and growing the Island economy.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“We have a lot of work ahead of us. Islanders expect their government to deliver better healthcare, make life more affordable and build a stronger more resilient economy. This team is ready continue the work and continue delivering results.”&lt;/p&gt;&lt;p&gt;-Premier Rob Lantz&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Following today’s changes, Prince Edward Island’s Executive Council is:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hon. Bloyce Thompson, Minister of Transportation and Infrastructure, Minister of Justice and Public Safety, and Attorney General;&lt;/li&gt;&lt;li&gt;Hon. Darlene Compton, Minister of Land and Environment;&lt;/li&gt;&lt;li&gt;Hon. Ernie Hudson, Minister of Fisheries, Rural Development and Tourism;&lt;/li&gt;&lt;li&gt;Hon. Cory Deagle, Minister of Health and Wellness;&lt;/li&gt;&lt;li&gt;Hon. Jill Burridge, Minister of Finance and Affordability, Minister of Energy;&lt;/li&gt;&lt;li&gt;Hon. Barb Ramsay, Minister of Social Development and Seniors;&lt;/li&gt;&lt;li&gt;Hon. Jenn Redmond, Minister of Workforce and Advanced Learning, Minister responsible for the Status of Women;&lt;/li&gt;&lt;li&gt;Hon. Zack Bell, Minister of Economic Development, Trade and Artificial Intelligence, Minister responsible for Acadian and Francophone Affairs;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Hon. Robin Croucher, Minister of Education and Early Years;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Hon. Kent Dollar, Minister of Housing and Communities;&lt;/li&gt;&lt;li&gt;Hon. Hilton MacLennan, Minister of Agriculture.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;“There is a lot happening in the world around us that we cannot control, but we can control what we do here at home. We need to keep building our economy, provide more timely access to primary care, strengthen our energy future and improve the services that Islanders rely on. There is no shortage of work to do. We have the team in place, we know what needs to be done, and we will keep working to deliver results.”&lt;/p&gt;&lt;p&gt;- Premier Rob Lantz&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Emily Blue&lt;br /&gt;Office of the Premier&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:adamross@gov.pe.ca"&gt;emilyblue@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -885,87 +966,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Islanders are reminded to focus on school bus safety as students return to class next week</title>
-      <link>https://www.princeedwardisland.ca/en/news/islanders-are-reminded-to-focus-on-school-bus-safety-as-students-return-to-class-next-week</link>
-      <guid isPermaLink="false">81169 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 31 Aug 2026 14:37:26 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Islanders are reminded to focus on school bus safety as students return to class next week&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-08-31T11:37:26-03:00" title="Monday, August 31, 2026 - 11:37"&gt;Mon, 08/31/2026 - 11:37&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Image of Minister of Justice and Public Safety Bloyce Thompson, Public Schools Branch Bus Driver Kirby McInnis, Minister of Education and Early Years Robin Croucher, and Minister of Transportation, Infrastructure and Energy Ernie Hudson (foreground, left to right), Summerside Police Sergeant Grant MacLeod, Charlottetown Police Constable Dale Johnson, Queens District RCMP Constable Tim Keizer, and Kensington Police Constable Braeden Steenson " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/0cf2/school%20bus%20safety.jpg.webp?itok=CzmTqu_O" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;As the school year approaches, the province, local law enforcements agencies, and bus drivers are letting Islanders know that we all have a role to play in keeping kids safe.&lt;/p&gt;&lt;p&gt;Today, a month-long campaign was launched aimed at reminding Island drivers about the rules of the road around school buses, providing helpful tips to students and parents about bus stop safety, and calling on everyone to immediately report incidents to police.&lt;/p&gt;&lt;p&gt;Passing school buses with red lights flashing is a persistent issue reported by bus drivers across the province. Not only is it illegal, but also extremely dangerous, and it puts lives at risk every time it happens.&lt;/p&gt;&lt;p&gt;The campaign encourages parents and educators to talk to children about bus stop safety to help ensure they know all the steps to be as safe as possible getting to and from the bus. Those include arriving early, staying back from the road, looking both ways, and waiting for signal from the driver before crossing the road.&lt;/p&gt;&lt;p&gt;It also shares tips from police on how to report a car passing the school bus illegally. Police suggest noting the plate number, a driver and vehicle description, the location of the incident and the time of day, then calling 9-1-1.&lt;/p&gt;&lt;p&gt;Safety tips will be shared on radio, social media, and print, as well as in classrooms across the province and with parents via direct communication. The campaign will run until the end of September with routine reminders throughout the school year.&lt;/p&gt;&lt;p&gt;To learn more about school bus safety and the rules of the road, visit our&lt;a href="https://www.princeedwardisland.ca/en/information/transportation-infrastructure-and-energy/school-bus-safety"&gt; website&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quotes:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“With the school year around the corner, it is paramount that all drivers, parents, and students have the information they need to stay safe around school buses. The more often they are reminded of the potential dangers, the less likely it will be that people put themselves or others in situations with potentially tragic consequences.”&lt;/p&gt;&lt;p&gt;- Minister of Education and Early Years, Robin Croucher&lt;/p&gt;&lt;p&gt;This campaign is an opportunity to remind Islanders that school bus safety is a responsibility that we all share. By stopping for school buses with flashing red lights, slowing down in school zones and reporting dangerous driving, together, we can all help protect students and make our roads safer."&lt;/p&gt;&lt;p&gt;- Minister of Transportation, Infrastructure and Energy, Ernie Hudson&lt;/p&gt;&lt;p&gt;“Local police and our entire justice system takes the enforcement of road safety rules involving school buses very seriously. Report incidents of passing the bus and these will be investigated. Every driver can help by slowing down, exercising care, and following the rules of the road.”&lt;/p&gt;&lt;p&gt;- Minister of Justice and Public Safety, Bloyce Thompson&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Andrew Sprague&lt;br /&gt;Department of Education and Early Years&lt;br /&gt;&lt;a href="mailto:asgsprague@gov.pe.ca"&gt;asgsprague@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
   
     
       
