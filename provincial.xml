@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 02 Sep 2026 21:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 23:19:14 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -205,6 +205,33 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/17aug23a/"&gt;BC Emer
       <description>&lt;p&gt;On Saturday, June 29, 2023, at 2227, a BC Emergency Alert announcing an Evacuation Order was issued by the Town of Osoyoos and the Regional District of Okanagan-Similkameen due to wildfire. Impacted residents should evacuate the area immediately. An Evacuation Alert has also been issued for nearby areas (details below). BC Emergency Alert Message Evacuation [&amp;#8230;]&lt;/p&gt;
 The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emergency Alert: Evacuation Order for parts of Osoyoos and surrounding area due to wildfire. July 29, 2023.&lt;/a&gt; first appeared on &lt;a href="https://www.emergencyinfobc.gov.bc.ca"&gt;EmergencyInfoBC&lt;/a&gt;.</description>
       <source>British Columbia</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4123945879.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1653066731.2026-1</guid>
+      <pubDate>2026-09-02T23:14:08-00:00</pubDate>
+      <description>Southwestern Saskatchewan. Kyle, Tyner, Cabri, Pennant, Saskatchewan Landing, Stewart Valley, Beechy, Lucky Lake, Waldeck, Herbert, Morse and Ernfold. | Areas: R.M. of Lacadena including Kyle Tyner and Sanctuary, R.M. of Victory including Beechy, R.M. of Saskatchewan Landing including Stewart Valley, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2252163424.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2783470842.2026-1</guid>
+      <pubDate>2026-09-02T22:54:36-00:00</pubDate>
+      <description>Southwestern Saskatchewan. Eatonia, Glidden, Eston, Kyle, Tyner, Cabri, Pennant, Saskatchewan Landing, Stewart Valley, Sceptre, Lemsford, Portreeve, Abbey, Lancer and Shackleton. | Areas: R.M. of Miry Creek including Abbey Lancer and Shackleton, R.M. of Lacadena including Kyle Tyner and Sanctuary, R.M. of Riverside including Cabri Pennant and Success, R.M. of Snipe Lake including Eston and Plato, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2283894824.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2283894824.2026-1</guid>
+      <pubDate>2026-09-02T21:30:38-00:00</pubDate>
+      <description>A developing low pressure system over southern Alberta is drawing in a warm, unstable airmass creating favourable conditions for the development of severe thunderstorms. Thunderstorms are currently... | Areas: R.M. of Deer Forks including Burstall and Estuary, R.M. of Happyland including Leader Prelate and Mendham, R.M. of Enterprise including Richmound, R.M. of Fox Valley including Fox Valley, R.M. of Big Stick including Golden Prairie, R.M. of Clinworth including Sceptre Lemsford and Portreeve, R.M. of Miry Creek including Abbey Lancer and Shackleton, R.M. of Pittville including Hazlet, R.M. of Piapot including Piapot, R.M. of Gull Lake including Gull Lake and Tompkins, R.M. of Carmichael including Carmichael, R.M. of Lacadena including Kyle Tyner and Sanctuary, R.M. of Victory including Beechy, R.M. of Canaan including Lucky Lake, R.M. of Riverside including Cabri Pennant and Success, R.M. of Saskatchewan Landing including Stewart Valley, R.M. of Webb including Webb and Antelope lake, R.M. of Swift Current including Swift Current and Wymark, R.M. of Lac Pelletier including Blumenhof, R.M. of Excelsior including Waldeck Rush Lake and Main Centre, R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of Coulee including Neidpath and McMahon, R.M. of Lawtonia including Hodgeville, R.M. of Glen Bain including Glen Bain, R.M. of Whiska Creek including Vanguard Neville and Pambrun, R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Reno including Consul Robsart and Willow Creek, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag, R.M. of Frontier including Frontier and Claydon, R.M. of Bone Creek including Simmie and Scotsguard, R.M. of Grassy Creek including Shaunavon, R.M. of Wise Creek including Cadillac and Admiral, R.M. of Lone Tree including Climax and Bracken, R.M. of Val Marie including Val Marie Orkney and Monchy, R.M. of Auvergne including Ponteix and Aneroid, R.M. of Pinto Creek including Kincaid and Hazenmore, R.M. of Glen McPherson west of Mankota, R.M. of Mankota including Mankota and Ferland, R.M. of Eye Hill including Macklin Denzil and Evesham, R.M. of Grass Lake including Salvador and Reward, R.M. of Heart's Hill including Cactus Lake, R.M. of Progress including Kerrobert and Luseland, R.M. of Tramping Lake including Scott and Revenue, R.M. of Reford including Wilkie Landis and Leipzig, R.M. of Mariposa including Tramping Lake and Broadacres, R.M. of Grandview including Handel and Kelfield, R.M. of Rosemount including Cando and Traynor, R.M. of Biggar including Biggar and Springwater, R.M. of Antelope Park including Loverna and Hoosier, R.M. of Prairiedale including Major and Smiley, R.M. of Milton including Alsask and Marengo, R.M. of Oakdale including Coleville, R.M. of Winslow including Dodsland and Plenty, R.M. of Kindersley including Kindersley Brock and Flaxcombe, R.M. of Mountain View including Herschel and Stranraer, R.M. of Marriott south of Biggar, R.M. of Pleasant Valley including McGee and Fiske, R.M. of St Andrews including Rosetown and Zealandia, R.M. of Chesterfield including Eatonia and Mantario, R.M. of Newcombe including Glidden and Madison, R.M. of Monet including Elrose Wartime and Forgan, R.M. of Snipe Lake including Eston and Plato | Level: advisory</description>
+      <source>Saskatchewan</source>
     </item>
 
     <item>
