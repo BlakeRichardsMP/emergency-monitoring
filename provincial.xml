@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:06:24 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -363,19 +363,426 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Weather (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2509881674.2026-1</guid>
-      <pubDate>2026-09-03T07:38:52-00:00</pubDate>
-      <description>Significant rainfall is possible. Locations: Western and central Nova Scotia. Total rainfall amounts: 30 to 50 mm. Possibly higher in areas of heaviest rain. Time span: this evening until Saturday... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2928864546.2026-1</guid>
+      <pubDate>2026-09-03T13:58:23-00:00</pubDate>
+      <description>Significant rainfall is expected. Locations: Eastern Nova Scotia and Cape Breton. Potential rainfall amounts: 60 to 100 mm. Possibly higher in areas of heaviest rain. Time span: Tonight until... | Areas: Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Weather (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3091497096.2026-1</guid>
-      <pubDate>2026-09-03T07:36:08-00:00</pubDate>
-      <description>Significant rainfall is expected. Locations: Eastern Nova Scotia and Cape Breton. Potential rainfall amounts: 60 to 100 mm. Possibly higher in areas of heaviest rain. Time span: Friday midday until... | Areas: Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3388437160.2026-1</guid>
+      <pubDate>2026-09-03T13:56:34-00:00</pubDate>
+      <description>Significant rainfall is possible. Locations: Western and central Nova Scotia. Total rainfall amounts: 30 to 50 mm. Possibly higher in areas of heaviest rain. Time span: Until Saturday evening... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Supports available for community wildfire resiliency planning</title>
+      <link>https://www.princeedwardisland.ca/en/news/supports-available-for-community-wildfire-resiliency-planning</link>
+      <guid isPermaLink="false">81196 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 03 Sep 2026 14:28:11 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Supports available for community wildfire resiliency planning&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-03T11:28:11-03:00" title="Thursday, September 3, 2026 - 11:28"&gt;Thu, 09/03/2026 - 11:28&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="Two people looking at a Fire Resiliency poster" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/0717/Supports%20available%20for%20community%20wildfire%20resiliency%20planning.jpg.webp?itok=Fo3DDcQI" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Municipalities across the province can access support to develop community wildfire resiliency plans, identify risks and strengthen emergency preparedness.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The provincial government is providing this help to municipalities through the Community Wildfire Prevention and Mitigations Program. Once a plan has been completed, municipalities may also be eligible for funding to help implement priority wildfire prevention and mitigation projects.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Wildfires are becoming an increasing concern across Canada, and while we have been fortunate here in PEI to experience relatively few significant wildfire events so far, it's important that we continue to prepare. Preparation is one of the most effective tools when it comes to reducing wildfire risk. These plans will help municipalities understand their risk and build stronger, more resilient communities across the Island."&lt;/p&gt;&lt;p&gt;- Minister of Land and Environment Darlene Compton&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Community wildfire resiliency plans are based on &lt;a href="https://www.princeedwardisland.ca/en/information/land-and-environment/firesmart"&gt;FireSmart&lt;/a&gt; principles and provide a roadmap to identify local wildfire risks and recommend practical actions to reduce them. Plans are developed collaboratively with municipalities, local fire departments, residents, businesses, and other community partners.&lt;/p&gt;&lt;p&gt;Each plan is tailored to the unique needs of the community and includes recommendations across the seven FireSmart disciplines: public education, emergency planning, vegetation management, legislation, development, interagency cooperation and cross-training.&amp;nbsp;&lt;/p&gt;&lt;p&gt;"Every community has unique strengths and challenges when it comes to wildfire risk. A community wildfire resiliency plan provides practical, locally driven actions that help reduce risk before a wildfire occurs. Working together with municipalities and community partners is key to building long term resilience."&lt;/p&gt;&lt;p&gt;- Prevention and Mitigation Specialist Bradley MacIssac&lt;/p&gt;&lt;p&gt;Municipalities interested in getting help to develop a community wildfire resiliency plan can visit &lt;a href="https://www.princeedwardisland.ca/en/service/community-wildfire-prevention-and-mitigation-program-community-wildfire-resilience"&gt;Community Wildfire Prevention and Mitigation Program (Community Wildfire Resilience) | Government of Prince Edward Island.&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Morgan Martin&lt;br /&gt;Department of Land and Environment&lt;br /&gt;&lt;a href="mailto:mxmartin@gov.pe.ca"&gt;mxmartin@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Agreements for the Voluntary  Temporary or Permanent Transfer of Custody and Guardianship Policy</title>
+      <link>https://www.princeedwardisland.ca/en/publication/agreements-for-the-voluntary-temporary-or-permanent-transfer-of-custody-and</link>
+      <guid isPermaLink="false">81194 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 03 Sep 2026 13:48:59 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Agreements for the Voluntary  Temporary or Permanent Transfer of Custody and Guardianship Policy&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jamacleod&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-03T10:48:59-03:00" title="Thursday, September 3, 2026 - 10:48"&gt;Thu, 09/03/2026 - 10:48&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/415f/2020731%203.08%20VoluntaryAgreementsPolicy.pdf"&gt;
+              &lt;span&gt;2020731 3.08 VoluntaryAgreementsPolicy.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Director's File Service Policy</title>
+      <link>https://www.princeedwardisland.ca/en/publication/directors-file-service-policy</link>
+      <guid isPermaLink="false">81193 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 03 Sep 2026 13:47:15 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Director's File Service Policy&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jamacleod&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-03T10:47:15-03:00" title="Thursday, September 3, 2026 - 10:47"&gt;Thu, 09/03/2026 - 10:47&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/dea0/20260731DirectorsFileService_Policy%201.01.pdf"&gt;
+              &lt;span&gt;20260731DirectorsFileService_Policy 1.01.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Orders in Council September 2, 2026 (870-876)</title>
+      <link>https://www.princeedwardisland.ca/en/publication/orders-in-council-september-2-2026-870-876</link>
+      <guid isPermaLink="false">81192 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 03 Sep 2026 13:29:59 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orders in Council September 2, 2026 (870-876)&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tamperry&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-03T10:29:59-03:00" title="Thursday, September 3, 2026 - 10:29"&gt;Thu, 09/03/2026 - 10:29&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Orders in Council&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/221b/20260902truwww.pdf"&gt;
+              &lt;span&gt;20260902truwww.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Support Coordination Policy</title>
+      <link>https://www.princeedwardisland.ca/en/publication/support-coordination-policy</link>
+      <guid isPermaLink="false">81191 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 03 Sep 2026 13:14:23 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Support Coordination Policy&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jamacleod&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-03T10:14:23-03:00" title="Thursday, September 3, 2026 - 10:14"&gt;Thu, 09/03/2026 - 10:14&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/1bda/20260723Support%20Coordination%20Policy%202.11.pdf"&gt;
+              &lt;span&gt;20260723Support Coordination Policy 2.11.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -724,356 +1131,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Lund</title>
-      <link>https://www.princeedwardisland.ca/en/employee/lund-dean-0</link>
-      <guid isPermaLink="false">81181 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 01 Sep 2026 18:02:36 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Lund&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-01T15:02:36-03:00" title="Tuesday, September 1, 2026 - 15:02"&gt;Tue, 09/01/2026 - 15:02&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Executive Director - Fiscal Responsibility &amp;amp; Red Tape Reduction&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Economic Development, Trade and Artificial Intelligence&lt;/strong&gt;
-            &lt;div&gt;Project ART&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Canada's Outdoor Farm Show</title>
-      <link>https://www.princeedwardisland.ca/en/event/canadas-outdoor-farm-show</link>
-      <guid isPermaLink="false">81179 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 01 Sep 2026 17:26:31 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Canada's Outdoor Farm Show&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-01T14:26:31-03:00" title="Tuesday, September 1, 2026 - 14:26"&gt;Tue, 09/01/2026 - 14:26&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Where Farmers Come to Meet!&lt;/p&gt;&lt;p&gt;For over 30 years, farmers have attended Canada’s Outdoor Farm Show to learn about the newest and most innovative products and technology in agriculture. Here’s what is planned:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.outdoorfarmshow.com/demo-events/#equipment-demos"&gt;Equipment Demos&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.outdoorfarmshow.com/demo-events/#livestock-central"&gt;Livestock Central&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.outdoorfarmshow.com/demo-events/#crop-plots"&gt;Crop Plots&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.outdoorfarmshow.com/demo-events/special-events/"&gt;Special Events&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Outdoor Farm Show &lt;a href="https://www.outdoorfarmshow.com/"&gt;website&lt;/a&gt; &amp;nbsp;and the interactive &lt;a href="https://cofs26.mapyourshow.com/8_0/floorplan/"&gt;map of exhibitors&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-09-15T13:00:00Z"&gt;September 15, 2026 10:00 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-09-17T20:00:00Z"&gt;September 17, 2026 5:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
-  
-    
-      
-&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
-          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Canada's Outdoor&lt;/span&gt; &lt;span class="family-name"&gt;Farm Show&lt;/span&gt;&lt;br /&gt;
-&lt;span class="address-line1"&gt;744906 Oxford Road #17&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Woodstock&lt;/span&gt; &lt;span class="administrative-area"&gt;ON&lt;/span&gt; &lt;span class="postal-code"&gt;N4S 7W1&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Affordable rural transit helps students get to campus</title>
-      <link>https://www.princeedwardisland.ca/en/news/affordable-rural-transit-helps-students-get-to-campus</link>
-      <guid isPermaLink="false">81178 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 01 Sep 2026 16:22:46 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Affordable rural transit helps students get to campus&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-01T13:22:46-03:00" title="Tuesday, September 1, 2026 - 13:22"&gt;Tue, 09/01/2026 - 13:22&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;As thousands of post-secondary students prepare for the fall semester, the province is reminding students in rural communities that public transit can provide a convenient and affordable ride to campus.&lt;/p&gt;&lt;p&gt;Transit PEI connects communities across Prince Edward Island to Charlottetown, Summerside, Georgetown and other regional centres every weekday (Mon - Fri).&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Rural transit gives Island students another option for getting to and from school. It’s a convenient, safe and affordable way to travel.”&lt;/p&gt;&lt;p&gt;- Transportation, Infrastructure and Energy Minister Ernie Hudson&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;For students, choosing transit can mean spending less money on gas, parking, vehicle maintenance and other costs associated with driving. Post-secondary students can purchase a monthly pass for $10. A single trip costs $2.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Full-time UPEI students have access to the T3 Transit network through the U-Pass included with tuition.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Due to the popularity of the service, students are encouraged to review their route and reserve their seats as early as possible.&amp;nbsp; Since January, ridership on rural transit routes has increased by more than 4 per cent year over year.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Bookings should be made at least three hours before travel and can be secured up to 30 days in advance. Recurring bookings are also available for students who follow a regular class schedule.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Online bookings can be made at &lt;a href="https://www.t3transit.ca/transit-pei-schedules"&gt;T3 Rural Transit Schedules&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quick facts:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Average daily ridership for rural transit in 2025 was almost 600 one-way passenger trips, excluding the seasonal north shore route.&lt;/li&gt;&lt;li&gt;Local and intercommunity transit services link workers to jobs, students to schools, shoppers to businesses, and Islanders to the essential services they need to enhance their quality of life.&lt;/li&gt;&lt;li&gt;The North Shore summer shuttle service became a permanent service in 2025. This summer, more runs were added to give riders more options in the evening.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Stacey Miller&lt;br /&gt;Department of Transportation, Infrastructure and Energy&lt;br /&gt;&lt;a href="mailto:samiller@gov.pe.ca"&gt;samiller@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>New framework for chronic disease prevention and care</title>
-      <link>https://www.princeedwardisland.ca/en/news/new-framework-for-chronic-disease-prevention-and-care</link>
-      <guid isPermaLink="false">81174 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 01 Sep 2026 13:06:29 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New framework for chronic disease prevention and care&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-01T10:06:29-03:00" title="Tuesday, September 1, 2026 - 10:06"&gt;Tue, 09/01/2026 - 10:06&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="New Chronic Disease Framework" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/f8fa/new%20framework.jpg.webp?itok=3ndspQcV" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The province is launching a new framework to guide efforts to reduce the impact of chronic disease in Prince Edward Island and help Islanders live longer, healthier lives.&lt;/p&gt;&lt;p&gt;The &lt;a href="https://www.princeedwardisland.ca/en/information/health-and-wellness/chronic-disease-framework-for-prince-edward-island"&gt;Chronic Disease Framework&lt;/a&gt; is a province-wide approach that brings together government, healthcare and community partners, and Islanders to help people stay healthy, prevent chronic disease where possible and improve coordinated care for those living with chronic disease. It will guide future policies, strategies, and services through three pillars: prevention; screening and early detection; and disease management.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Chronic disease affects thousands of people and it's one of the biggest pressures on our health system. We want Islanders to have the best possible health and quality of life, and we want those living with chronic diseases to have the support and resources they need to manage their health. This framework gives us a roadmap to do that work together."&lt;/p&gt;&lt;p&gt;- Minister of Health and Wellness Cory Deagle&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Chronic diseases account for seven of the 10 leading causes of death in Prince Edward Island and Canada. Many chronic diseases have shared risk factors, and evidence-based management and coordinated care can improve prevention, early detection, and long-term health outcomes.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“This framework reinforces our commitment to providing person-centred care that supports Islanders at every stage of chronic disease prevention and management," said Health PEI interim Chief Executive Officer Laurae Kloschinsky. "By strengthening coordination across healthcare services and working closely with community partners, we can help Islanders access the right care and support at the right time and make it easier to navigate the services they need.”&lt;/p&gt;&lt;p&gt;The Chronic Disease Framework supports government's commitment to building a stronger, more sustainable healthcare system. It also aligns with &lt;a href="https://www.livewellpei.ca"&gt;Live Well PEI&lt;/a&gt; and the &lt;a href="https://www.princeedwardisland.ca/en/publication/pei-provincial-health-plan-2023-2028"&gt;Provincial Health Plan 2023–2028&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“The Live Well PEI approach recognizes the many factors that influence health and the importance of reducing barriers to healthy living,” said Chief Public Health Officer Dr. Heather Morrison. “The Chronic Disease Framework builds on this work, creating a shared focus across communities and the healthcare system. Together, we can help prevent chronic disease and support healthier futures for all Islanders.”&lt;/p&gt;&lt;p&gt;Developed with input from Island residents and key partners, the Chronic Disease Framework will guide future initiatives under each pillar. Continued engagement, leadership,&amp;nbsp;and collaboration will support implementation in the years ahead.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Review the &lt;a href="https://www.princeedwardisland.ca/en/information/health-and-wellness/chronic-disease-framework-for-prince-edward-island"&gt;Chronic Disease Framework for Prince Edward Island&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Marla Morrison&lt;br /&gt;Department of Health and Wellness&lt;br /&gt;&lt;a href="mailto:marlamorrison@gov.pe.ca"&gt;marlamorrison@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Notice of Change to Race and Ethnicity Data Form</title>
-      <link>https://www.princeedwardisland.ca/en/form/notice-of-change-to-race-and-ethnicity-data-form</link>
-      <guid isPermaLink="false">81173 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 01 Sep 2026 13:04:00 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Notice of Change to Race and Ethnicity Data Form&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-01T10:04:00-03:00" title="Tuesday, September 1, 2026 - 10:04"&gt;Tue, 09/01/2026 - 10:04&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeformbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Complete and submit this form to add, remove, or update existing race and ethnicity information on your health card record.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/6f92/Notice_of_Change_to_Race_and_Ethnicity_Data_Form.pdf"&gt;
-              &lt;span&gt;Notice_of_Change_to_Race_and_Ethnicity_Data_Form.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
   
     
       
