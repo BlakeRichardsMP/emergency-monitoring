@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 03 Sep 2026 15:06:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:39:00 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -361,21 +361,120 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Weather (Updated)</title>
+      <title>Weather (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2928864546.2026-1</guid>
-      <pubDate>2026-09-03T13:58:23-00:00</pubDate>
-      <description>Significant rainfall is expected. Locations: Eastern Nova Scotia and Cape Breton. Potential rainfall amounts: 60 to 100 mm. Possibly higher in areas of heaviest rain. Time span: Tonight until... | Areas: Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3503404264.2026-1</guid>
+      <pubDate>2026-09-03T18:35:40-00:00</pubDate>
+      <description>Weather | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Weather (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3388437160.2026-1</guid>
-      <pubDate>2026-09-03T13:56:34-00:00</pubDate>
-      <description>Significant rainfall is possible. Locations: Western and central Nova Scotia. Total rainfall amounts: 30 to 50 mm. Possibly higher in areas of heaviest rain. Time span: Until Saturday evening... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3503404264.2026-2</guid>
+      <pubDate>2026-09-03T18:35:40-00:00</pubDate>
+      <description>Significant rainfall is possible. Locations: central, northern Nova Scotia and Halifax County. Total rainfall amounts: 30 to 50 mm. Possibly higher in areas of heaviest rain. Time span: Until... | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Weather (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0809898120.2026-1</guid>
+      <pubDate>2026-09-03T18:32:29-00:00</pubDate>
+      <description>Weather | Areas: Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Rainfall (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3166890905.2026-1</guid>
+      <pubDate>2026-09-03T18:31:42-00:00</pubDate>
+      <description>Heavy rain is expected. Locations: Eastern Nova Scotia. Total rainfall: 80 to 120 mm. Time span: Tonight until Monday morning. Remarks: A developing and slow-moving weather system is expected to... | Areas: Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Anti-Racism Microgrant funding available for community-led projects</title>
+      <link>https://www.princeedwardisland.ca/en/news/anti-racism-microgrant-funding-available-for-community-led-projects</link>
+      <guid isPermaLink="false">81197 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 03 Sep 2026 18:11:35 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Anti-Racism Microgrant funding available for community-led projects&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-03T15:11:35-03:00" title="Thursday, September 3, 2026 - 15:11"&gt;Thu, 09/03/2026 - 15:11&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="Group image of UPEI Shared Spaces Group" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/fd69/page%201.pdf%20%281920%20x%201080%20px%29%20%281%29.jpg.webp?itok=dnD9Kvfs" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Applications are open for the&amp;nbsp;2026-2027 round of the Anti-Racism Microgrant with a total of&amp;nbsp;$100,000 in funding available.&lt;/p&gt;&lt;p&gt;The microgrant supports PEI’s anti-racism goals by funding small, community-based initiatives and enhancing larger projects that work to remove barriers affecting racialized and Indigenous peoples.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Lasting change takes time and happens in stages. These grants support early planning, start-up activities and important steps within larger efforts. The funding helps individuals, organizations and communities reduce racial barriers, build skills and resources and support lasting positive change across Prince Edward Island.&lt;/p&gt;&lt;p&gt;Eligible projects must align with one or more of the following goals:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Making changes to policies, practices, and organizations to remove barriers and address systemic racism&amp;nbsp;&lt;/li&gt;&lt;li&gt;Strengthening the ability of organizations and public institutions to advance anti-racism efforts&lt;/li&gt;&lt;li&gt;Empowering BIPOC communities by building partnerships, advocating for change and leading community-led research&lt;/li&gt;&lt;li&gt;Advancing public awareness, community engagement and advocacy efforts that address racism&amp;nbsp;&lt;/li&gt;&lt;li&gt;Strengthening BIPOC community networks, leadership, and involvement in public life and decision-making&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Projects must promote anti-racism education and awareness, community support, capacity-building and improve organizational governance.&lt;/p&gt;&lt;p&gt;Funding is available through three streams:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Youth, aged 14 to 24, can apply for amounts ranging from $100 to $1,500&lt;/li&gt;&lt;li&gt;Individuals, aged 25 and over, can apply for amounts ranging from $100 to $2,000&lt;/li&gt;&lt;li&gt;Non-profit organizations and professional associations can apply for amounts ranging from $1,000 to $5,000&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Applications will be accepted until&amp;nbsp;&lt;strong&gt;11:59 p.m. on October 2, 2026&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quotes:&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“We’re pleased to offer another round of microgrants that empower individual and organizations to advance anti-racism efforts in their communities. Each year, we receive many applications and we look forward to supporting these efforts as we work toward a more inclusive PEI, free from discrimination and racism.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;- Premier Rob Lantz&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;“The Anti-Racism Table is proud to see the ongoing interest in the microgrants. We are inspired by the innovative ways communities across PEI are working to break down racial barriers in PEI and bring people together through education and awareness.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;- Co-Chair of the PEI Anti-Racism Table Brad Cooper&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;“The Anti-Racism Microgrant allowed Women’s Network PEI to work with Seed Room Consulting to examine our organizational policies and systems through an anti-racist and equity-focused lens. The project helped us identify gaps and develop practical tools and response guidelines to better address harm, strengthen accountability, and create a safer, more equitable organization.”&lt;/p&gt;&lt;p&gt;- Women’s Network PEI executive director Jacki Freamo&amp;nbsp;&lt;/p&gt;&lt;p&gt;“The Anti-Racism Microgrant empowered the UPEI Student Union to host transformative workshops on mental health, systemic racism, and community wellbeing. Post-workshop surveys revealed that 82–87 per cent of participants gained a deeper understanding of systemic racism, while up to 80 per cent reported increased confidence in practicing allyship and supporting peers. This initiative meaningfully strengthened campus inclusion and student belonging.”&lt;/p&gt;&lt;p&gt;- UPEI Student Union president Amy Cristina Montesdeoca Castro&amp;nbsp;&lt;/p&gt;&lt;p&gt;To apply, and for more information about the microgrant, visit&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/executive-council-office/anti-racism-microgrants"&gt;Anti-Racism Microgrants&lt;/a&gt;.&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nicole Yeba&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Media contact:&lt;br /&gt;Executive Council Office&lt;br /&gt;&lt;a href="mailto:ntyeba@gov.pe.ca"&gt;ntyeba@gov.pe.ca&lt;/a&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -1037,85 +1136,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
           
     &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/ff97/2025%20AgriStability%20Inventory%20Prices%20Summary.pdf"&gt;
               &lt;span&gt;2025 AgriStability Inventory Prices Summary.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Focused Intervention Policy</title>
-      <link>https://www.princeedwardisland.ca/en/publication/focused-intervention-policy</link>
-      <guid isPermaLink="false">81185 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 02 Sep 2026 12:50:30 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Focused Intervention Policy&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jamacleod&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-02T09:50:30-03:00" title="Wednesday, September 2, 2026 - 09:50"&gt;Wed, 09/02/2026 - 09:50&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/f07c/20241220FocusedInterventionPol.pdf"&gt;
-              &lt;span&gt;20241220FocusedInterventionPol.pdf&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
