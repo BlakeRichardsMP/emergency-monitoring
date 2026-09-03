@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 03 Sep 2026 21:20:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 23:25:00 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -322,6 +322,51 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-05-19T11:34:08-06:00</pubDate>
       <description>A Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun water... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a99e6911dd328fe2251de62</guid>
+      <pubDate>2026-09-03T23:22:04.064Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain.
+
+Hazards:
+Strong wind gusts of 90 km/h
+Quarter sized hail
+Torrential downpours
+
+When:
+This evening.
+
+Additional information:
+A line of thunderstorms moving northward from Minnesota may impact the area this evening.
+
+
+
+Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.
+
+Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
+
+For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Stratton, Ontario</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a99e7e61dd328fe2251e4ed</guid>
+      <pubDate>2026-09-03T21:34:30.098Z</pubDate>
+      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 45 knots and poor to very poor visibility in thunderstorms heavy at times.
+
+Strong thunderstorms may affect southern portions of Lake of the Woods this evening.
+
+
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
     </item>
 
     <item>
