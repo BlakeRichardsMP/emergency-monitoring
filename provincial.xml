@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 04 Sep 2026 17:49:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:19:59 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,6 +208,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Thunderstorm (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0847693777.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0847693777.2026-1</guid>
+      <pubDate>2026-09-04T18:01:03-00:00</pubDate>
+      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain. Severe thunderstorms are possible this afternoon... | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2472540878.2026</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1797946441.2026-1</guid>
@@ -264,18 +273,18 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Rainfall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2553410265.2026-1</guid>
-      <pubDate>2026-09-04T14:02:03-00:00</pubDate>
-      <description>Very heavy rain is expected. Locations: Eastern Nova Scotia. Total rainfall: 100 to 150 mm. Time span: now until Monday morning. Remarks: A developing and slow-moving weather system is expected to... | Areas: Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1200261201.2026-1</guid>
+      <pubDate>2026-09-04T18:28:24-00:00</pubDate>
+      <description>Very heavy rain is expected. Locations: Eastern Nova Scotia. Total rainfall: 100 to 150 mm. Time span: now until Monday morning. Remarks: A slow-moving weather system is bringing periods of... | Areas: Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Rainfall (Updated)</title>
+      <title>Rainfall (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2056019685.2026-1</guid>
-      <pubDate>2026-09-04T14:01:15-00:00</pubDate>
-      <description>Heavy rain is expected. Locations: Halifax County, Northern and Central Nova Scotia Total rainfall: 70 to 100 mm. Time span: now until Saturday evening. Remarks: A developing and slow-moving... | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2139572331.2026-1</guid>
+      <pubDate>2026-09-04T18:26:52-00:00</pubDate>
+      <description>Significant rainfall is no longer expected. | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
@@ -285,15 +294,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.0938916648.2026-1</guid>
       <pubDate>2026-09-04T11:47:44-00:00</pubDate>
       <description>Weather | Areas: Cumberland County - Minas Shore, Colchester County - Cobequid Bay, Hants County, Halifax Metro and Halifax County West | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Weather (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0809898120.2026-1</guid>
-      <pubDate>2026-09-03T18:32:29-00:00</pubDate>
-      <description>Weather | Areas: Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
