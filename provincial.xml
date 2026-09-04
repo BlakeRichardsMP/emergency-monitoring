@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 04 Sep 2026 01:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 05:54:04 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,11 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Updated)</title>
+      <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2472540878.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4082531906.2026-1</guid>
-      <pubDate>2026-09-04T00:38:05-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Weyburn, McTaggart, Cedoux, Colfax, Tyvan, Fillmore, Creelman, Osage, Griffin,... | Areas: R.M. of Weyburn including Weyburn and McTaggart, R.M. of Lomond including Colgate and Goodwater, R.M. of Souris Valley including Tribune and Oungre, R.M. of Cymri including Midale Macoun and Halbrite, continued active threat area, new active threat area | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1797946441.2026-1</guid>
+      <pubDate>2026-09-04T01:32:39-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Radville, Colgate, Goodwater, Lake Alma, Beaubier, Tribune, Oungre, Estevan, Hitchcock, Midale, Macoun, Halbrite, Benson, Torquay and Outram. | Areas: R.M. of Lomond including Colgate and Goodwater, R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Cambria including Torquay and Outram, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -235,120 +235,12 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0684990682.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0452672948.2026-1</guid>
-      <pubDate>2026-09-03T04:10:26-00:00</pubDate>
-      <description>Southwestern and South Central Saskatchewan. Birsay, Danielson Park, Lucky Lake, Beechy, Lucky Lake, Waldeck, Herbert, Morse and Ernfold. | Areas: R.M. of Victory including Beechy, R.M. of Canaan including Lucky Lake, R.M. of Excelsior including Waldeck Rush Lake and Main Centre, R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of King George northwest of Lucky Lake, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2559437580.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1448883872.2026-1</guid>
-      <pubDate>2026-09-03T03:11:25-00:00</pubDate>
-      <description>Southwestern and South Central Saskatchewan. Kyle, Tyner, Cabri, Saskatchewan Landing, Beechy, Lucky Lake, Herbert, Harris, Outlook, Danielson Park, Elbow, Dundurn, Riverhurst, Douglas Park,... | Areas: R.M. of Victory including Beechy, R.M. of Canaan including Lucky Lake, R.M. of Maple Bush including Riverhurst and Douglas Prov. Park, R.M. of Milden including Dinsmore Milden and Wiseton, R.M. of Fertile Valley including Conquest Macrorie and Bounty, R.M. of King George northwest of Lucky Lake, R.M. of Coteau including Birsay and Danielson Prov. Park, R.M. of Loreburn including Elbow Loreburn and Hawarden, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3799711127.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2935342664.2026-1</guid>
-      <pubDate>2026-09-03T02:43:14-00:00</pubDate>
-      <description>Southwestern Saskatchewan. Herschel, Marriott, Rosetown, Elrose, Fiske, Scott, Landis, Tramping Lake, Handel, Wilkie, Biggar, Cando and Kelfield. | Areas: R.M. of Grandview including Handel and Kelfield, R.M. of Biggar including Biggar and Springwater, R.M. of Mountain View including Herschel and Stranraer, R.M. of Marriott south of Biggar, R.M. of Pleasant Valley including McGee and Fiske, R.M. of St Andrews including Rosetown and Zealandia, R.M. of Monet including Elrose Wartime and Forgan, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2569567984.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2284571079.2026-1</guid>
-      <pubDate>2026-09-03T02:13:46-00:00</pubDate>
-      <description>Southwestern and South Central Saskatchewan. Herschel, Marriott, Rosetown, Elrose, Fiske, Birsay, Danielson Park, Lucky Lake, Beechy, Lucky Lake, Waldeck, Herbert, Morse and Ernfold. | Areas: R.M. of Victory including Beechy, R.M. of Canaan including Lucky Lake, R.M. of King George northwest of Lucky Lake, R.M. of Coteau including Birsay and Danielson Prov. Park, R.M. of Monet including Elrose Wartime and Forgan, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0484961206.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0535008334.2026-1</guid>
-      <pubDate>2026-09-03T02:10:00-00:00</pubDate>
-      <description>Southwestern Saskatchewan. Shaunavon, Simmie, Scotsguard, Cadillac, Admiral, Val Marie, Orkney, Monchy, Climax, Bracken, Ponteix, Aneroid, Kincaid, Hazenmore, Mankota and Ferland. | Areas: R.M. of Wise Creek including Cadillac and Admiral, R.M. of Val Marie including Val Marie Orkney and Monchy, R.M. of Auvergne including Ponteix and Aneroid, R.M. of Pinto Creek including Kincaid and Hazenmore, R.M. of Glen McPherson west of Mankota, R.M. of Mankota including Mankota and Ferland, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1115982344.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2386769374.2026-1</guid>
-      <pubDate>2026-09-03T01:00:05-00:00</pubDate>
-      <description>Southwestern Saskatchewan. Eatonia, Glidden, Eston, Sceptre, Lemsford, Portreeve, Abbey, Lancer and Shackleton. | Areas: R.M. of Clinworth including Sceptre Lemsford and Portreeve, R.M. of Miry Creek including Abbey Lancer and Shackleton, R.M. of Newcombe including Glidden and Madison, R.M. of Snipe Lake including Eston and Plato, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4225458763.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1434790464.2026-1</guid>
-      <pubDate>2026-09-03T00:45:26-00:00</pubDate>
-      <description>Southwestern Saskatchewan. Webb, Antelope Lake, Swift Current, Blumenhof, Neidpath, Hodgeville, Glen Bain, Vanguard, Kyle, Tyner, Cabri, Saskatchewan Landing, Beechy, Lucky Lake and Herbert. | Areas: R.M. of Victory including Beechy, R.M. of Saskatchewan Landing including Stewart Valley, R.M. of Swift Current including Swift Current and Wymark, R.M. of Excelsior including Waldeck Rush Lake and Main Centre, R.M. of Coulee including Neidpath and McMahon, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
       <pubDate>2026-05-19T11:34:08-06:00</pubDate>
       <description>A Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun water... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a99e6911dd328fe2251de62</guid>
-      <pubDate>2026-09-03T23:22:04.064Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain.
-
-Hazards:
-Strong wind gusts of 90 km/h
-Quarter sized hail
-Torrential downpours
-
-When:
-This evening.
-
-Additional information:
-A line of thunderstorms moving northward from Minnesota may impact the area this evening.
-
-
-
-Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.
-
-Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
-
-For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Stratton, Ontario</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a99e7e61dd328fe2251e4ed</guid>
-      <pubDate>2026-09-03T21:34:30.098Z</pubDate>
-      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 45 knots and poor to very poor visibility in thunderstorms heavy at times.
-
-Strong thunderstorms may affect southern portions of Lake of the Woods this evening.
-
-
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
     </item>
 
     <item>
