@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:33:31 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -262,29 +262,29 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Weather (Updated)</title>
+      <title>Rainfall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2076511494.2026-1</guid>
-      <pubDate>2026-09-04T07:55:42-00:00</pubDate>
-      <description>Significant rainfall is possible. Locations: central, northern Nova Scotia and Halifax County. Total rainfall amounts: 30 to 50 mm. Possibly higher in areas of heaviest rain. Time span: now until... | Areas: Cumberland County - Minas Shore, Colchester County - Cobequid Bay, Hants County, Halifax Metro and Halifax County West | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Weather (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2076511494.2026-2</guid>
-      <pubDate>2026-09-04T07:55:42-00:00</pubDate>
-      <description>Weather | Areas: Cumberland County North and Cobequid Pass, Colchester County North, Colchester County - Truro and south, Halifax County - east of Porters Lake | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2553410265.2026-1</guid>
+      <pubDate>2026-09-04T14:02:03-00:00</pubDate>
+      <description>Very heavy rain is expected. Locations: Eastern Nova Scotia. Total rainfall: 100 to 150 mm. Time span: now until Monday morning. Remarks: A developing and slow-moving weather system is expected to... | Areas: Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Rainfall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4230425003.2026-1</guid>
-      <pubDate>2026-09-04T07:52:16-00:00</pubDate>
-      <description>Heavy rain is expected. Locations: Eastern Nova Scotia. Total rainfall: 70 to 120 mm. Time span: now until Monday morning. Remarks: A developing and slow-moving weather system is expected to bring... | Areas: Cumberland County North and Cobequid Pass, Colchester County North, Colchester County - Truro and south, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2056019685.2026-1</guid>
+      <pubDate>2026-09-04T14:01:15-00:00</pubDate>
+      <description>Heavy rain is expected. Locations: Halifax County, Northern and Central Nova Scotia Total rainfall: 70 to 100 mm. Time span: now until Saturday evening. Remarks: A developing and slow-moving... | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Weather (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0938916648.2026-1</guid>
+      <pubDate>2026-09-04T11:47:44-00:00</pubDate>
+      <description>Weather | Areas: Cumberland County - Minas Shore, Colchester County - Cobequid Bay, Hants County, Halifax Metro and Halifax County West | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
