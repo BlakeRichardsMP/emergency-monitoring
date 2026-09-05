@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 05 Sep 2026 19:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 21:30:30 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -209,6 +209,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
     <item>
       <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1343317396.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1095328621.2026-1</guid>
+      <pubDate>2026-09-05T20:26:10-00:00</pubDate>
+      <description>East Central Saskatchewan. Hudson Bay and Porcupine Plain. | Areas: R.M. of Hudson Bay including Shoal Lake and Red Earth Reserves, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1034976444.2026</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.2393673719.2026-1</guid>
       <pubDate>2026-09-05T12:07:54-00:00</pubDate>
@@ -316,6 +325,26 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a9c7ccafafb3c94619eb8f0</guid>
+      <pubDate>2026-09-05T21:25:28.499Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 4:23 p.m. CDT, a severe thunderstorm is located over Goodlands. This severe thunderstorm is moving east at 35 km/h. Damaging wind gusts, up to quarter size hail and heavy rain are possible.
+
+Locations and nearby areas that could be impacted include: Goodlands, Deloraine, Turtle Mountain Provincial Park
+
+
+
+
+Large hail may cause significant damage and injury. Heavy rain may cause flash flooding and significant reductions to visibility. Fast-moving and rapidly rising water can sweep vehicles away and damage infrastructure.
+
+Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.
+
+Severe thunderstorms can produce tornadoes.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Medora, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
       <title>BE ALERT - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a49079ff68e8bba0e4a4444</guid>
@@ -352,6 +381,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Flash Flood (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">8599A943-103C-45C0-B510-79581CA3161E-1</guid>
+      <pubDate>2026-09-05T17:28:16-03:00</pubDate>
+      <description>Local State of Emergency - Alert. State of Local Emergency declared in Inverness, Richmond and Victoria Counties due to severe flooding and widespread damage. Multiple roads are closed and... | Areas: State of Local Emergency declared in Inverness, Richmond and Victoria Counties due to severe flooding and widespread damage. | Level: critical</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Rainfall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3237642987.2026-1</guid>
@@ -375,15 +413,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3680225695.2026-1</guid>
       <pubDate>2026-09-05T12:20:00-00:00</pubDate>
       <description>Inverness County - Mabou and north. Damaging winds are no longer expected. | Areas: Inverness County - Mabou and north | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2139572331.2026-1</guid>
-      <pubDate>2026-09-04T18:26:52-00:00</pubDate>
-      <description>Significant rainfall is no longer expected. | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
