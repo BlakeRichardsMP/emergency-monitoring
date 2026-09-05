@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:24:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:26:39 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -316,45 +316,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a9bce3b8522f8b5bde970e2</guid>
-      <pubDate>2026-09-05T12:09:00.640Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 7:06 a.m. CDT, a line of severe thunderstorms is located from about 15 km south of Lyleton to Goodlands then to Turtle Mountain Provincial Park. These severe thunderstorms are moving east at 30 km/h. Damaging wind gusts, up to quarter size hail and heavy rain are possible.
-
-Locations and nearby areas that could be impacted include: Waskada, Boissevain
-
-
-
-
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Pierson, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a9bd3665b9418588f2b1981</guid>
-      <pubDate>2026-09-05T12:08:31.435Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain.
-
-A line of thunderstorms, some of which may be severe, has developed south of the international border and is currently moving through southeast Saskatchewan. These storms are expected to move eastward through the night, reaching the Manitoba border before morning.
-
-
-
-Heavy rain can cause flash flooding and significant reductions to visibility.
-
-Strong wind gusts can damage trees, buildings and overturn vehicles.
-
-Large hail can cause significant damage and injury.
-
-Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Lauder, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a49079ff68e8bba0e4a4444</guid>
@@ -391,6 +352,24 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
+      <title>Rainfall (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4118228658.2026-1</guid>
+      <pubDate>2026-09-05T13:51:55-00:00</pubDate>
+      <description>Very heavy rainfall is occurring and is expected to continue. Locations: Cape Breton Additional rainfall: 40 to 60 mm, potentially higher in some areas. Time span: now until Monday morning... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Rainfall (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1429921555.2026-1</guid>
+      <pubDate>2026-09-05T13:51:11-00:00</pubDate>
+      <description>Heavy rain is expected. Locations: Eastern Nova Scotia. Additional rainfall: 20 to 40 mm. Time span: now until Monday morning. Remarks: Heavier rain is expected to redevelop this afternoon... | Areas: Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Wind (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3680225695.2026-1</guid>
@@ -400,38 +379,11 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Rainfall (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2510706083.2026-1</guid>
-      <pubDate>2026-09-05T10:55:56-00:00</pubDate>
-      <description>Very heavy rainfall is occurring and is expected to continue. Locations: Cape Breton Total rainfall: 100 to 200 mm. Time span: now until Monday morning. Remarks: A slow moving weather system is... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2422904267.2026-1</guid>
-      <pubDate>2026-09-05T07:12:50-00:00</pubDate>
-      <description>Very heavy rain is expected. Locations: Eastern Nova Scotia. Total rainfall: 100 to 150 mm. Time span: now until Monday morning. Remarks: A slow-moving weather system is bringing periods of... | Areas: Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
       <title>Rainfall (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.2139572331.2026-1</guid>
       <pubDate>2026-09-04T18:26:52-00:00</pubDate>
       <description>Significant rainfall is no longer expected. | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Weather (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0938916648.2026-1</guid>
-      <pubDate>2026-09-04T11:47:44-00:00</pubDate>
-      <description>Weather | Areas: Cumberland County - Minas Shore, Colchester County - Cobequid Bay, Hants County, Halifax Metro and Halifax County West | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
