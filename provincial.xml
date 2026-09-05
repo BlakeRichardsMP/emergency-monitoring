@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 05 Sep 2026 17:29:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 19:22:06 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -354,18 +354,18 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Rainfall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4118228658.2026-1</guid>
-      <pubDate>2026-09-05T13:51:55-00:00</pubDate>
-      <description>Very heavy rainfall is occurring and is expected to continue. Locations: Cape Breton Additional rainfall: 40 to 60 mm, potentially higher in some areas. Time span: now until Monday morning... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3237642987.2026-1</guid>
+      <pubDate>2026-09-05T18:50:10-00:00</pubDate>
+      <description>Very heavy rainfall is occurring and is expected to continue. Locations: Cape Breton Additional rainfall: 15 to 30 mm, potentially higher in some areas. Time span: now until Monday morning... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Rainfall (Updated)</title>
+      <title>Rainfall (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1429921555.2026-1</guid>
-      <pubDate>2026-09-05T13:51:11-00:00</pubDate>
-      <description>Heavy rain is expected. Locations: Eastern Nova Scotia. Additional rainfall: 20 to 40 mm. Time span: now until Monday morning. Remarks: Heavier rain is expected to redevelop this afternoon... | Areas: Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0471218088.2026-1</guid>
+      <pubDate>2026-09-05T18:46:54-00:00</pubDate>
+      <description>Significant rainfall is no longer expected. | Areas: Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
