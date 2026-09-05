@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 05 Sep 2026 00:18:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 04:48:59 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,47 +208,101 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0880061576.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3381788354.2026-1</guid>
-      <pubDate>2026-09-05T00:08:28-00:00</pubDate>
-      <description>Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: R.M. of Lacadena including Kyle Tyner and Sanctuary, R.M. of Snipe Lake including Eston and Plato, ended threat area | Level: advisory</description>
+      <title>Thunderstorm (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3653754944.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3491881662.2026-1</guid>
+      <pubDate>2026-09-05T04:35:21-00:00</pubDate>
+      <description>Southern Saskatchewan. Extra care and attention should be exercised in and around the following localities: The Battlefords, Speers, Maymont, Martensville, Warman, Langham, Arelee, Perdue, Delisle,... | Areas: R.M. of Eagle Creek including Arelee and Sonningdale, R.M. of Perdue including Perdue and Kinley, R.M. of Glenside north of Biggar, R.M. of Biggar including Biggar and Springwater, new active threat area, continued active threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
-      <title>Thunderstorm (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0880061576.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3381788354.2026-2</guid>
-      <pubDate>2026-09-05T00:08:28-00:00</pubDate>
-      <description>Southwestern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Herschel, Marriott, Rosetown, Elrose and Fiske. Environment Canada meteorologists are... | Areas: R.M. of Pleasant Valley including McGee and Fiske, R.M. of St Andrews including Rosetown and Zealandia, R.M. of Monet including Elrose Wartime and Forgan, continued active threat area, new active threat area | Level: advisory</description>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3653754944.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3491881662.2026-2</guid>
+      <pubDate>2026-09-05T04:35:21-00:00</pubDate>
+      <description>Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: R.M. of Mountain View including Herschel and Stranraer, R.M. of Marriott south of Biggar, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
       <title>Thunderstorm (Issued)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1801906716.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1801906716.2026-1</guid>
-      <pubDate>2026-09-05T00:04:22-00:00</pubDate>
-      <description>Southwestern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Neidpath, McMahon, Hodgeville, Glen Bain, Vanguard, Neville, Beechy, Lucky Lake,... | Areas: R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of Lawtonia including Hodgeville, R.M. of Glen Bain including Glen Bain, new active threat area | Level: advisory</description>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1034976444.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1034976444.2026-1</guid>
+      <pubDate>2026-09-05T04:32:43-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Radville, Colgate, Goodwater, Lake Alma, Beaubier, Tribune, Oungre, Estevan,... | Areas: R.M. of Souris Valley including Tribune and Oungre, R.M. of Cambria including Torquay and Outram, new active threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0880061576.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1971489573.2026-1</guid>
+      <pubDate>2026-09-05T04:18:32-00:00</pubDate>
+      <description>Southwestern and South Central Saskatchewan. Saskatoon, Martensville, Warman, Langham, Arelee, Perdue and Delisle. | Areas: City of Saskatoon, R.M. of Vanscoy including Delisle Asquith and Vanscoy, R.M. of Corman Park northeast of the Yellowhead Highway incl. Martensville Warman and Langham, R.M. of Corman Park southwest of the Yellowhead Highway, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3464690157.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0414312891.2026-1</guid>
+      <pubDate>2026-09-05T03:54:31-00:00</pubDate>
+      <description>South Central Saskatchewan. Chaplin, Mortlach, Parkbeg, Shamrock, Kelstern, Coderre, Courval, Crestwynd, Old Wives Lake, Caronport, Caron, Riverhurst, Douglas Park, Tugaske, Central Butte, Eyebrow... | Areas: R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Caron including Caronport and Caron, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3737814541.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0817053928.2026-1</guid>
+      <pubDate>2026-09-05T03:19:02-00:00</pubDate>
+      <description>South Central Saskatchewan. Glentworth, Fir Mountain, Wood Mountain, Killdeer, Willow Bunch, St Victor, Rockglen and Fife Lake. | Areas: R.M. of Old Post including Wood Mountain and Killdeer, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1436950678.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4169578079.2026-1</guid>
+      <pubDate>2026-09-05T02:25:52-00:00</pubDate>
+      <description>South Central Saskatchewan. Chaplin, Mortlach, Parkbeg, Shamrock, Kelstern, Coderre, Courval, Crestwynd, Old Wives Lake, Caronport and Caron. | Areas: R.M. of Chaplin including Chaplin, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0847693777.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3149547577.2026-1</guid>
+      <pubDate>2026-09-05T02:23:19-00:00</pubDate>
+      <description>Wollaston Lake - Collins Bay. Conditions are no longer favourable for the development of severe thunderstorms. | Areas: Wollaston Lake - Collins Bay | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
       <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3776127605.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3245652444.2026-1</guid>
-      <pubDate>2026-09-04T23:45:56-00:00</pubDate>
-      <description>Thunderstorm | Areas: R.M. of Deer Forks including Burstall and Estuary, R.M. of Happyland including Leader Prelate and Mendham, R.M. of Fox Valley including Fox Valley, R.M. of Clinworth including Sceptre Lemsford and Portreeve, R.M. of Miry Creek including Abbey Lancer and Shackleton, R.M. of Pittville including Hazlet | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1367062207.2026-1</guid>
+      <pubDate>2026-09-05T02:14:26-00:00</pubDate>
+      <description>Thunderstorm | Areas: R.M. of Lacadena including Kyle Tyner and Sanctuary, R.M. of Victory including Beechy, R.M. of Canaan including Lucky Lake, R.M. of Riverside including Cabri Pennant and Success, R.M. of Saskatchewan Landing including Stewart Valley, R.M. of Webb including Webb and Antelope lake, R.M. of Swift Current including Swift Current and Wymark, R.M. of Lac Pelletier including Blumenhof, R.M. of Excelsior including Waldeck Rush Lake and Main Centre, R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of Coulee including Neidpath and McMahon, R.M. of Lawtonia including Hodgeville, R.M. of Glen Bain including Glen Bain, R.M. of Whiska Creek including Vanguard Neville and Pambrun | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
       <title>Thunderstorm (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3776127605.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3245652444.2026-2</guid>
-      <pubDate>2026-09-04T23:45:56-00:00</pubDate>
-      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain. A trough of low pressure tracking across... | Areas: R.M. of Lacadena including Kyle Tyner and Sanctuary, R.M. of Victory including Beechy, R.M. of Canaan including Lucky Lake, R.M. of Riverside including Cabri Pennant and Success, R.M. of Saskatchewan Landing including Stewart Valley, R.M. of Webb including Webb and Antelope lake, R.M. of Swift Current including Swift Current and Wymark, R.M. of Lac Pelletier including Blumenhof, R.M. of Excelsior including Waldeck Rush Lake and Main Centre, R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of Coulee including Neidpath and McMahon, R.M. of Lawtonia including Hodgeville, R.M. of Glen Bain including Glen Bain, R.M. of Whiska Creek including Vanguard Neville and Pambrun, R.M. of Maple Bush including Riverhurst and Douglas Prov. Park, R.M. of Huron including Tugaske, R.M. of Enfield including Central Butte, R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Chaplin including Chaplin, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Harris including Harris and Tessier, R.M. of Montrose including Donovan and Swanson, R.M. of Milden including Dinsmore Milden and Wiseton, R.M. of Fertile Valley including Conquest Macrorie and Bounty, R.M. of King George northwest of Lucky Lake, R.M. of Coteau including Birsay and Danielson Prov. Park, R.M. of Dundurn including Dundurn and Blackstrap Prov. Park, R.M. of Rudy including Outlook and Glenside, R.M. of Rosedale including Hanley, R.M. of Loreburn including Elbow Loreburn and Hawarden, R.M. of Lost River including South Allan and the Allan Hills, R.M. of Morris including Watrous Young and Zelma, R.M. of McCraney including Kenaston and Bladworth, R.M. of Wood Creek including Simpson, R.M. of Arm River including Davidson and Girvin, R.M. of Willner west of Davidson, R.M. of Big Arm including Imperial and Liberty, R.M. of Eye Hill including Macklin Denzil and Evesham, R.M. of Grass Lake including Salvador and Reward, R.M. of Heart's Hill including Cactus Lake, R.M. of Progress including Kerrobert and Luseland, R.M. of Tramping Lake including Scott and Revenue, R.M. of Reford including Wilkie Landis and Leipzig, R.M. of Mariposa including Tramping Lake and Broadacres, R.M. of Grandview including Handel and Kelfield, R.M. of Rosemount including Cando and Traynor, R.M. of Biggar including Biggar and Springwater, R.M. of Antelope Park including Loverna and Hoosier, R.M. of Prairiedale including Major and Smiley, R.M. of Milton including Alsask and Marengo, R.M. of Oakdale including Coleville, R.M. of Winslow including Dodsland and Plenty, R.M. of Kindersley including Kindersley Brock and Flaxcombe, R.M. of Mountain View including Herschel and Stranraer, R.M. of Marriott south of Biggar, R.M. of Pleasant Valley including McGee and Fiske, R.M. of St Andrews including Rosetown and Zealandia, R.M. of Chesterfield including Eatonia and Mantario, R.M. of Newcombe including Glidden and Madison, R.M. of Monet including Elrose Wartime and Forgan, R.M. of Snipe Lake including Eston and Plato | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1367062207.2026-2</guid>
+      <pubDate>2026-09-05T02:14:26-00:00</pubDate>
+      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain. A trough of low pressure tracking across... | Areas: R.M. of Maple Bush including Riverhurst and Douglas Prov. Park, R.M. of Huron including Tugaske, R.M. of Enfield including Central Butte, R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Craik including Craik and Aylesbury, R.M. of Sarnia including Holdfast Chamberlain and Dilke, R.M. of Marquis including Tuxford Keeler and Buffalo Pound, R.M. of Dufferin including Bethune and Findlater, R.M. of Chaplin including Chaplin, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Caron including Caronport and Caron, R.M. of Pense including Pense Belle Plaine and Stony Beach, City of Moose Jaw, R.M. of Hillsborough including Crestwynd and Old Wives lake, R.M. of Redburn including Rouleau and Hearne, R.M. of Baildon including Briercrest, R.M. of Moose Jaw east of Highway 2 including Pasqua, R.M. of Moose Jaw west of Highway 2 including Bushell Park, City of Saskatoon, R.M. of Eagle Creek including Arelee and Sonningdale, R.M. of Perdue including Perdue and Kinley, R.M. of Vanscoy including Delisle Asquith and Vanscoy, R.M. of Corman Park northeast of the Yellowhead Highway incl. Martensville Warman and Langham, R.M. of Corman Park southwest of the Yellowhead Highway, R.M. of Aberdeen including Aberdeen, R.M. of Grant including Vonda Prud'homme and Smuts, R.M. of Bayne including Bruno Peterson and Dana, R.M. of Colonsay including Colonsay and Meacham, R.M. of Viscount including Viscount and Plunkett, R.M. of Blucher including Allan Clavet Bradwell and Elstow, R.M. of Harris including Harris and Tessier, R.M. of Montrose including Donovan and Swanson, R.M. of Milden including Dinsmore Milden and Wiseton, R.M. of Fertile Valley including Conquest Macrorie and Bounty, R.M. of King George northwest of Lucky Lake, R.M. of Coteau including Birsay and Danielson Prov. Park, R.M. of Dundurn including Dundurn and Blackstrap Prov. Park, R.M. of Rudy including Outlook and Glenside, R.M. of Rosedale including Hanley, R.M. of Loreburn including Elbow Loreburn and Hawarden, R.M. of Lost River including South Allan and the Allan Hills, R.M. of Morris including Watrous Young and Zelma, R.M. of McCraney including Kenaston and Bladworth, R.M. of Wood Creek including Simpson, R.M. of Arm River including Davidson and Girvin, R.M. of Willner west of Davidson, R.M. of Big Arm including Imperial and Liberty, R.M. of Eye Hill including Macklin Denzil and Evesham, R.M. of Grass Lake including Salvador and Reward, R.M. of Heart's Hill including Cactus Lake, R.M. of Progress including Kerrobert and Luseland, R.M. of Tramping Lake including Scott and Revenue, R.M. of Reford including Wilkie Landis and Leipzig, R.M. of Mariposa including Tramping Lake and Broadacres, R.M. of Grandview including Handel and Kelfield, R.M. of Rosemount including Cando and Traynor, R.M. of Biggar including Biggar and Springwater, R.M. of Antelope Park including Loverna and Hoosier, R.M. of Prairiedale including Major and Smiley, R.M. of Milton including Alsask and Marengo, R.M. of Oakdale including Coleville, R.M. of Winslow including Dodsland and Plenty, R.M. of Kindersley including Kindersley Brock and Flaxcombe, R.M. of Mountain View including Herschel and Stranraer, R.M. of Marriott south of Biggar, R.M. of Pleasant Valley including McGee and Fiske, R.M. of St Andrews including Rosetown and Zealandia, R.M. of Chesterfield including Eatonia and Mantario, R.M. of Newcombe including Glidden and Madison, R.M. of Monet including Elrose Wartime and Forgan, R.M. of Snipe Lake including Eston and Plato | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1801906716.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1486035055.2026-1</guid>
+      <pubDate>2026-09-05T01:33:13-00:00</pubDate>
+      <description>Southwestern and South Central Saskatchewan. Moose Jaw, Pense, Central Butte, Craik, Swift Current, Herbert, Cabri, Kyle and Lucky Lake. | Areas: R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of Lawtonia including Hodgeville, R.M. of Enfield including Central Butte, R.M. of Chaplin including Chaplin, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -258,24 +312,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1944877194.2026-1</guid>
       <pubDate>2026-09-04T23:36:50-00:00</pubDate>
       <description>Northwestern Saskatchewan. La Loche, Clearwater River Park, Cluff Lake, Cree Lake and Key Lake. | Areas: La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Issued)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0847693777.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0847693777.2026-1</guid>
-      <pubDate>2026-09-04T18:01:03-00:00</pubDate>
-      <description>Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain. Severe thunderstorms are possible this afternoon... | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2472540878.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1797946441.2026-1</guid>
-      <pubDate>2026-09-04T01:32:39-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Radville, Colgate, Goodwater, Lake Alma, Beaubier, Tribune, Oungre, Estevan, Hitchcock, Midale, Macoun, Halbrite, Benson, Torquay and Outram. | Areas: R.M. of Lomond including Colgate and Goodwater, R.M. of Cymri including Midale Macoun and Halbrite, R.M. of Cambria including Torquay and Outram, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -325,20 +361,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Wind (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3208535970.2026-1</guid>
+      <pubDate>2026-09-05T00:22:04-00:00</pubDate>
+      <description>Inverness County - Mabou and north. Damaging winds are expected. Time span: until after midnight tonight. Maximum wind gusts: southeasterly up to 110 km/h. Locations: Margaree Harbour to Bay St... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Rainfall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.2979757814.2026-1</guid>
       <pubDate>2026-09-05T00:13:40-00:00</pubDate>
       <description>Very heavy rain is expected. Locations: Eastern Nova Scotia. Total rainfall: 100 to 150 mm. Time span: now until Monday morning. Remarks: A slow-moving weather system is bringing periods of... | Areas: Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Wind (Issued)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2061866736.2026-1</guid>
-      <pubDate>2026-09-04T21:34:45-00:00</pubDate>
-      <description>Inverness County - Mabou and north. Damaging winds are expected. Time span: until near midnight tonight. Maximum wind gusts: southeasterly up to 90 km/h. Locations: Margaree Harbour to Bay St... | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
