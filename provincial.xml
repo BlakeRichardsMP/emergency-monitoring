@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 06 Sep 2026 21:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 22:53:19 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -209,28 +209,28 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
     <item>
       <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4079134289.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1886771017.2026-1</guid>
-      <pubDate>2026-09-06T20:52:14-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Grand Coulee, Balgonie, Piapot Reserve, Wilcox, Corinne, Estlin, Lajord, Kronau, Riceton, Indian Head, Sintaluta, Vibank, Sedley, Odessa, Qu'Appelle, Edgeley and... | Areas: R.M. of Sherwood east of Highway 6, R.M. of Lajord including Lajord Kronau and Riceton, R.M. of Francis including Vibank Sedley and Odessa, R.M. of Edenwold including Balgonie and Piapot Res., R.M. of South Qu'Appelle including Qu'Appelle and Edgeley, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2790670628.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2686236619.2026-1</guid>
-      <pubDate>2026-09-06T20:37:43-00:00</pubDate>
-      <description>Southwestern and South Central Saskatchewan. Extra care and attention should be exercised in and around the following localities: Moose Jaw, Pense, Central Butte, Craik, Swift Current, Herbert,... | Areas: R.M. of Victory including Beechy, R.M. of Saskatchewan Landing including Stewart Valley, R.M. of Swift Current including Swift Current and Wymark, R.M. of Excelsior including Waldeck Rush Lake and Main Centre, R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of Coulee including Neidpath and McMahon, R.M. of Lawtonia including Hodgeville, R.M. of Glen Bain including Glen Bain, R.M. of Whiska Creek including Vanguard Neville and Pambrun, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Gravelbourg including Gravelbourg and Bateman, continued active threat area, new active threat area | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1433462710.2026-1</guid>
+      <pubDate>2026-09-06T22:44:23-00:00</pubDate>
+      <description>Southwestern and South Central Saskatchewan. Moose Jaw, Pense, Central Butte, Craik, Swift Current, Herbert, Cabri, Kyle, Lucky Lake, Assiniboia, Gravelbourg and Coronach. | Areas: R.M. of Lawtonia including Hodgeville, R.M. of Marquis including Tuxford Keeler and Buffalo Pound, R.M. of Chaplin including Chaplin, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Caron including Caronport and Caron, R.M. of Hillsborough including Crestwynd and Old Wives lake, R.M. of Baildon including Briercrest, R.M. of Moose Jaw west of Highway 2 including Bushell Park, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
       <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2790670628.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2686236619.2026-2</guid>
-      <pubDate>2026-09-06T20:37:43-00:00</pubDate>
-      <description>Severe thunderstorms associated with this alert have weakened or moved out of the area. | Areas: R.M. of Lac Pelletier including Blumenhof, ended threat area | Level: advisory</description>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3189682371.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3324848018.2026-1</guid>
+      <pubDate>2026-09-06T21:55:40-00:00</pubDate>
+      <description>South Central Saskatchewan. Watrous, Kenaston, Davidson, Imperial, Riverhurst, Douglas Park, Central Butte, Eyebrow, Craik, Aylesbury, Chamberlain, Buffalo Pound and Bethune. | Areas: R.M. of Huron including Tugaske, R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Craik including Craik and Aylesbury, R.M. of McCraney including Kenaston and Bladworth, R.M. of Arm River including Davidson and Girvin, R.M. of Willner west of Davidson, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4079134289.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1886771017.2026-1</guid>
+      <pubDate>2026-09-06T20:52:14-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Grand Coulee, Balgonie, Piapot Reserve, Wilcox, Corinne, Estlin, Lajord, Kronau, Riceton, Indian Head, Sintaluta, Vibank, Sedley, Odessa, Qu'Appelle, Edgeley and... | Areas: R.M. of Sherwood east of Highway 6, R.M. of Lajord including Lajord Kronau and Riceton, R.M. of Francis including Vibank Sedley and Odessa, R.M. of Edenwold including Balgonie and Piapot Res., R.M. of South Qu'Appelle including Qu'Appelle and Edgeley, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -244,7 +244,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Updated)</title>
+      <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4190873174.2026</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1920170576.2026-1</guid>
       <pubDate>2026-09-06T20:29:43-00:00</pubDate>
@@ -361,15 +361,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1343317396.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1095328621.2026-1</guid>
-      <pubDate>2026-09-05T20:26:10-00:00</pubDate>
-      <description>East Central Saskatchewan. Hudson Bay and Porcupine Plain. | Areas: R.M. of Hudson Bay including Shoal Lake and Red Earth Reserves, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -379,22 +370,17 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a9db0631b42de60003f6462</guid>
-      <pubDate>2026-09-06T20:45:53.372Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 3:44 p.m. CDT, a severe thunderstorm is located near Hargrave. This severe thunderstorm is moving east at 55 km/h. Damaging wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
+      <guid isPermaLink="false">6a9deeb639f270d7a0c73e0a</guid>
+      <pubDate>2026-09-06T22:52:37.351Z</pubDate>
+      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 35 knots, frequent lightning and poor to very poor visibility in thunderstorms heavy at times.
 
-Locations and nearby areas that could be impacted include: Virden, Kenton, Sioux Valley
-
-
+Thunderstorms are expected to track over the Lake of the Woods area evening.
 
 
-Heavy rain may cause flash flooding and significant reductions to visibility. Fast-moving and rapidly rising water can sweep vehicles away and damage infrastructure. Large hail may cause significant damage and injury.
 
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.
-
-Severe thunderstorms can produce tornadoes.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Kenton, Manitoba</description>
+Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
       <source>Manitoba</source>
     </item>
 
@@ -402,19 +388,37 @@ Severe thunderstorms can produce tornadoes.&lt;/p&gt; | Moderate - possible thre
       <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a9dc9e7132773551f2b9e55</guid>
-      <pubDate>2026-09-06T20:40:49.931Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 3:39 p.m. CDT, a line of severe thunderstorms is located from Souris to Treesbank then to Baldur. These severe thunderstorms are moving northeast at 55 km/h. Damaging wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
+      <pubDate>2026-09-06T22:51:19.283Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 5:48 p.m. CDT, an area of severe thunderstorms is located about 40 km west of Winnipeg. These severe thunderstorms are moving east at 40 km/h. Damaging wind gusts, up to quarter size hail and heavy rain are possible.
 
-Locations and nearby areas that could be impacted include: Souris, Brandon
-
-
+Locations and nearby areas that could be impacted include: Winnipeg, Selkirk
 
 
-Fast-moving and rapidly rising water can sweep vehicles away and damage infrastructure. Large hail may cause significant damage and injury. Heavy rain may cause flash flooding and significant reductions to visibility.
+
+
+Fast-moving and rapidly rising water can sweep vehicles away and damage infrastructure. Heavy rain may cause flash flooding and significant reductions to visibility.
 
 Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.
 
-Severe thunderstorms can produce tornadoes.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Alexander, Manitoba</description>
+Severe thunderstorms can produce tornadoes.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Winnipeg, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6a9ddee7697d6d797148a204</guid>
+      <pubDate>2026-09-06T22:45:50.837Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 5:43 p.m. CDT, a severe thunderstorm is located over Rosenfeld. This severe thunderstorm is moving east at 35 km/h. Strong wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
+
+Locations and nearby areas that could be impacted include: Rosenfeld, St. Jean Baptiste, Dominion City, St. Malo
+
+
+
+
+Heavy rain may cause flash flooding and significant reductions to visibility. Large hail may cause significant damage and injury.
+
+Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Roseau River 2, Letellier, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
@@ -422,10 +426,10 @@ Severe thunderstorms can produce tornadoes.&lt;/p&gt; | Moderate - possible thre
       <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a9d894bc130d76f673d5cf9</guid>
-      <pubDate>2026-09-06T20:36:21.647Z</pubDate>
+      <pubDate>2026-09-06T22:17:11.050Z</pubDate>
       <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain.
 
-Thunderstorms have been ongoing in much of western Manitoba through the afternoon, and isolated severe thunderstorms may persist into this evening.  The risk of severe weather will diminish late this evening.
+Thunderstorms have been ongoing in much of western Manitoba through the afternoon, and isolated severe thunderstorms may persist into this evening.  Thunderstorms are now also moving into the Red River Valley.  The risk of severe weather will diminish late this evening.
 
 
 
