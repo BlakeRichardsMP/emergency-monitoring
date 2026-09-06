@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 05 Sep 2026 23:19:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 01:13:15 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -307,15 +307,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2126069394.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1944877194.2026-1</guid>
-      <pubDate>2026-09-04T23:36:50-00:00</pubDate>
-      <description>Northwestern Saskatchewan. La Loche, Clearwater River Park, Cluff Lake, Cree Lake and Key Lake. | Areas: La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Issued)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0-1</guid>
@@ -361,20 +352,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Rainfall (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4219964053.2026-1</guid>
+      <pubDate>2026-09-06T00:42:43-00:00</pubDate>
+      <description>Rainfall is occurring and is expected to continue. Locations: Cape Breton Additional rainfall: 15 to 30 mm, potentially higher in some areas. Time span: now until Monday morning. Remarks: A slow... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Flash Flood (Issued)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">8599A943-103C-45C0-B510-79581CA3161E-1</guid>
       <pubDate>2026-09-05T17:28:16-03:00</pubDate>
       <description>Local State of Emergency - Alert. State of Local Emergency declared in Inverness, Richmond and Victoria Counties due to severe flooding and widespread damage. Multiple roads are closed and... | Areas: State of Local Emergency declared in Inverness, Richmond and Victoria Counties due to severe flooding and widespread damage. | Level: critical</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3237642987.2026-1</guid>
-      <pubDate>2026-09-05T18:50:10-00:00</pubDate>
-      <description>Very heavy rainfall is occurring and is expected to continue. Locations: Cape Breton Additional rainfall: 15 to 30 mm, potentially higher in some areas. Time span: now until Monday morning... | Areas: Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
