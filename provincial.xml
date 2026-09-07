@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 07 Sep 2026 16:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 19:57:59 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -438,78 +438,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3261240705.2026-1</guid>
       <pubDate>2026-09-06T20:17:17-00:00</pubDate>
       <description>Southeastern Saskatchewan. Whitewood, Wapella, Moosomin, Fairlight, Wawota and Kenosee Lake. | Areas: R.M. of Moosomin including Moosomin Welwyn and Fleming, R.M. of Maryfield including Maryfield and Fairlight, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3286350241.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1950909000.2026-1</guid>
-      <pubDate>2026-09-06T17:32:41-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Tonkin, Rhein, Wroxton, MacNutt, Langenburg, Spy Hill, Esterhazy, Bangor, Saltcoats, Whitewood, Wapella, Moosomin, Fairlight, Wawota and Kenosee Lake. | Areas: R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, R.M. of Silverwood south of Whitewood, R.M. of Martin including Wapella and Red Jacket, R.M. of Willowdale including Whitewood and Ochapowace Res., R.M. of Rocanville including Rocanville, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2106389155.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2582771988.2026-1</guid>
-      <pubDate>2026-09-06T17:28:14-00:00</pubDate>
-      <description>Southern Saskatchewan. Kamsack, Canora, Preeceville, Norquay, Moosomin, Grenfell, Kipling, Wawota, Humboldt, Wynyard, Wadena, Lanigan, Foam Lake, Hudson Bay, Porcupine Plain, Yorkton, Melville and... | Areas: R.M. of Garry including Jedburgh, R.M. of Orkney including Yorkton Springside and Ebenezer, R.M. of Stanley including Goodeve Fenwood and Duff, R.M. of Cana including Melville, R.M. of McLeod including Lemberg and Neudorf, R.M. of Grayson including Grayson Dubuc and Killaly, R.M. of Wallace including Rhein Stornoway Tonkin and Rokeby, R.M. of Saltcoats including Saltcoats and Bredenbury, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Wolseley including Wolseley and Summerberry, R.M. of Elcapo including Broadview and Cowessess Res., R.M. of Hudson Bay including Hudson Bay and Reserve, R.M. of Porcupine including Porcupine Plain and Weekes, R.M. of Hazel Dell including Lintlaw and Hazel Dell, R.M. of Preeceville including Preeceville and Sturgis, R.M. of Invermay including Invermay and Rama, R.M. of Buchanan including Buchanan Amsterdam and Tadmore, R.M. of Insinger including Theodore and Sheho, R.M. of Good Lake including Canora and Good Spirit Lake Prov. Park, R.M. of Keys including The Key Res., R.M. of Sliding Hills including Veregin Mikado and Hamton, R.M. of Clayton including Norquay Stenen and Swan Plain, R.M. of Kelvington including Yellowquill Res., R.M. of Sasman including Margo Kylemore and Nut Mountain, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0288742938.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0484283442.2026-1</guid>
-      <pubDate>2026-09-06T17:19:16-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Tonkin, Rhein, Wroxton, MacNutt, Langenburg, Spy Hill, Esterhazy, Bangor, Saltcoats, Whitewood, Wapella, Moosomin, Fairlight, Wawota and Kenosee Lake. | Areas: R.M. of Churchbridge including Churchbridge and MacNutt, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, R.M. of Willowdale including Whitewood and Ochapowace Res., R.M. of Rocanville including Rocanville, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3799414993.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2122937255.2026-1</guid>
-      <pubDate>2026-09-06T17:10:46-00:00</pubDate>
-      <description>South Central and East Central Saskatchewan. Melfort, St. Brieux, Middle Lake, Yellow Creek, Kinistino, Gronlid, Humboldt, Muenster, Burr and Leroy. | Areas: R.M. of Three Lakes including Middle Lake and St Benedict, R.M. of Lake Lenore including St. Brieux, R.M. of Humboldt including Humboldt Carmel and Fulda, R.M. of St Peter including Muenster and Lake Lenore, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3965084323.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1477023302.2026-1</guid>
-      <pubDate>2026-09-06T17:10:44-00:00</pubDate>
-      <description>South Central and East Central Saskatchewan. Tisdale, Arborfield, Greenwater Lake Park, Archerwill, Naicam, Spalding, Rose Valley, Yellowquill Reserve, Kelvington, Wadena, Quill Lake and Watson. | Areas: R.M. of Pleasantdale including Naicam and Pleasantdale, R.M. of Barrier Valley including Archerwill and McKague, R.M. of Spalding including Spalding, R.M. of Ponass Lake including Rose Valley Fosston and Nora, R.M. of Lakeside including Watson and Quill Lake, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3046913116.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0755177764.2026-1</guid>
-      <pubDate>2026-09-06T17:10:04-00:00</pubDate>
-      <description>Southern Saskatchewan. Kamsack, Canora, Preeceville, Norquay, Moosomin, Grenfell, Kipling, Wawota, Estevan, Weyburn, Radville, Milestone, Humboldt, Wynyard, Wadena, Lanigan, Foam Lake, Hudson Bay,... | Areas: R.M. of Montmartre including Assiniboine Res., R.M. of Abernethy including Balcarres and Abernethy, R.M. of Fillmore including Fillmore Creelman and Osage, R.M. of Garry including Jedburgh, R.M. of Orkney including Yorkton Springside and Ebenezer, R.M. of Stanley including Goodeve Fenwood and Duff, R.M. of Cana including Melville, R.M. of McLeod including Lemberg and Neudorf, R.M. of Grayson including Grayson Dubuc and Killaly, R.M. of Wallace including Rhein Stornoway Tonkin and Rokeby, R.M. of Saltcoats including Saltcoats and Bredenbury, R.M. of Wolseley including Wolseley and Summerberry, R.M. of Elcapo including Broadview and Cowessess Res., R.M. of Chester including Windthorst Glenavon and Peebles, R.M. of Hazelwood south of Kipling, R.M. of Golden West including Ocean Man Res. and Handsworth, R.M. of Kingsley including Kipling, R.M. of Porcupine including Porcupine Plain and Weekes, R.M. of Hazel Dell including Lintlaw and Hazel Dell, R.M. of Preeceville including Preeceville and Sturgis, R.M. of Invermay including Invermay and Rama, R.M. of Buchanan including Buchanan Amsterdam and Tadmore, R.M. of Insinger including Theodore and Sheho, R.M. of Good Lake including Canora and Good Spirit Lake Prov. Park, R.M. of Keys including The Key Res., R.M. of Sliding Hills including Veregin Mikado and Hamton, R.M. of Lakeview including Wadena and Clair, R.M. of Kelvington including Yellowquill Res., R.M. of Sasman including Margo Kylemore and Nut Mountain, R.M. of Foam Lake including Foam Lake and Fishing Lake Res., ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3203516903.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1548392506.2026-1</guid>
-      <pubDate>2026-09-06T15:34:17-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Weyburn, McTaggart, Cedoux, Colfax, Tyvan, Fillmore, Creelman, Osage, Griffin, Froude, Indian Head, Sintaluta, Vibank, Sedley, Odessa, Qu'Appelle, Edgeley and Assiniboine... | Areas: R.M. of Francis including Vibank Sedley and Odessa, R.M. of Montmartre including Assiniboine Res., R.M. of Wellington including Cedoux Colfax and Tyvan, R.M. of Fillmore including Fillmore Creelman and Osage, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Thunderstorm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0868868635.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0602890828.2026-1</guid>
-      <pubDate>2026-09-06T15:34:14-00:00</pubDate>
-      <description>Southeastern Saskatchewan. Milestone, Parry, Yellow Grass, Lang, Lewvan, Pangman, Khedive, Trossachs, Grand Coulee, Balgonie, Piapot Reserve, Wilcox, Corinne, Estlin, Lajord, Kronau, Riceton,... | Areas: R.M. of Lajord including Lajord Kronau and Riceton, R.M. of Francis including Vibank Sedley and Odessa, R.M. of Scott including Yellow Grass Lang and Lewvan, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
