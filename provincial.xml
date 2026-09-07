@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 06 Sep 2026 22:53:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:42:15 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,6 +208,24 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Thunderstorm (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2157920167.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2157920167.2026-1</guid>
+      <pubDate>2026-09-07T00:25:33-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Extra care and attention should be exercised in and around the following localities: Springside, Ebenezer, Yorkton, Melville, Grayson, Neudorf and Goodeve. Environment... | Areas: R.M. of Garry including Jedburgh, R.M. of Orkney including Yorkton Springside and Ebenezer, R.M. of Stanley including Goodeve Fenwood and Duff, R.M. of Cana including Melville, R.M. of McLeod including Lemberg and Neudorf, new active threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1203856099.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2491095249.2026-1</guid>
+      <pubDate>2026-09-07T00:17:16-00:00</pubDate>
+      <description>Southeastern Saskatchewan. Springside, Ebenezer, Yorkton, Melville, Grayson, Neudorf, Goodeve, Balcarres, Abernethy and Peepeekisis Reserve. | Areas: R.M. of Abernethy including Balcarres and Abernethy, R.M. of Stanley including Goodeve Fenwood and Duff, R.M. of McLeod including Lemberg and Neudorf, ended threat area | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2790670628.2026</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1433462710.2026-1</guid>
@@ -373,12 +391,14 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - SQUALL WATCH IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a9deeb639f270d7a0c73e0a</guid>
-      <pubDate>2026-09-06T22:52:37.351Z</pubDate>
-      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 35 knots, frequent lightning and poor to very poor visibility in thunderstorms heavy at times.
+      <pubDate>2026-09-07T00:40:09.919Z</pubDate>
+      <description>Windstorm Warning | Squall Watch In Effect | &lt;p&gt;Conditions are favourable for the development of squalls with wind gusts up to 50 knots, frequent lightning, hail and poor to very poor visibility in thunderstorms heavy at times.
 
-Thunderstorms are expected to track over the Lake of the Woods area evening.
+Thunderstorms approaching from Manitoba and Minnesota are expected to move across the lake late this evening and after midnight.
 
 
+
+Proceed with caution as visibility may suddenly be reduced to near-zero.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
       <source>Manitoba</source>
@@ -387,38 +407,49 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
     <item>
       <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a9dc9e7132773551f2b9e55</guid>
-      <pubDate>2026-09-06T22:51:19.283Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 5:48 p.m. CDT, an area of severe thunderstorms is located about 40 km west of Winnipeg. These severe thunderstorms are moving east at 40 km/h. Damaging wind gusts, up to quarter size hail and heavy rain are possible.
+      <guid isPermaLink="false">6a9e02ac1ed590d1cb03aee5</guid>
+      <pubDate>2026-09-07T00:34:59.043Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 7:33 p.m. CDT, a line of severe thunderstorms is located from about 15 km south of Caliento to Ste. Rita then to Netley Creek Provincial Park. These severe thunderstorms are moving east at 40 km/h. Damaging wind gusts, loonie to ping pong ball size hail and very heavy rain are possible.
 
-Locations and nearby areas that could be impacted include: Winnipeg, Selkirk
-
-
+Locations and nearby areas that could be impacted include: Beausejour, Woodridge, Brokenhead Reserve, Elma, Whitemouth, Hadashville, Vassar, Pinawa, East Braintree, Sprague
 
 
-Fast-moving and rapidly rising water can sweep vehicles away and damage infrastructure. Heavy rain may cause flash flooding and significant reductions to visibility.
+
+
+Heavy rain may cause flash flooding and significant reductions to visibility. Fast-moving and rapidly rising water can sweep vehicles away and damage infrastructure. Large hail may cause significant damage and injury.
 
 Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.
 
-Severe thunderstorms can produce tornadoes.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Winnipeg, Manitoba</description>
+Severe thunderstorms can produce tornadoes.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Petersfield, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a9ddee7697d6d797148a204</guid>
-      <pubDate>2026-09-06T22:45:50.837Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 5:43 p.m. CDT, a severe thunderstorm is located over Rosenfeld. This severe thunderstorm is moving east at 35 km/h. Strong wind gusts, loonie to ping pong ball size hail and heavy rain are possible.
+      <guid isPermaLink="false">6a9e02371ed590d1cb03abd0</guid>
+      <pubDate>2026-09-07T00:15:50.153Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts and heavy rain.
 
-Locations and nearby areas that could be impacted include: Rosenfeld, St. Jean Baptiste, Dominion City, St. Malo
+Hazards:
+Torrential downpours with local rainfall totals near 50 mm.
+Strong wind gusts up to 90 km/h
+
+When:
+Late this evening and after midnight.
+
+Additional information:
+Thunderstorms over Manitoba and Minnesota will move into the area tonight.
 
 
 
+Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.
 
-Heavy rain may cause flash flooding and significant reductions to visibility. Large hail may cause significant damage and injury.
+Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
 
-Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Roseau River 2, Letellier, Manitoba</description>
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
+
+For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
       <source>Manitoba</source>
     </item>
 
@@ -426,10 +457,10 @@ Severe thunderstorm warnings are issued when imminent or occurring thunderstorms
       <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a9d894bc130d76f673d5cf9</guid>
-      <pubDate>2026-09-06T22:17:11.050Z</pubDate>
+      <pubDate>2026-09-06T23:25:35.823Z</pubDate>
       <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts, large hail and heavy rain.
 
-Thunderstorms have been ongoing in much of western Manitoba through the afternoon, and isolated severe thunderstorms may persist into this evening.  Thunderstorms are now also moving into the Red River Valley.  The risk of severe weather will diminish late this evening.
+The risk of severe weather will diminish late this evening.
 
 
 
@@ -439,7 +470,7 @@ Heavy rain can cause flash flooding and significant reductions to visibility.
 
 Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
 
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Kenton, Manitoba</description>
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Belmont, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
