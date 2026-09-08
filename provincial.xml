@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 08 Sep 2026 21:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 23:23:12 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,20 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Rainfall (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1842216249.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2155398234.2026-1</guid>
-      <pubDate>2026-09-08T19:03:51-00:00</pubDate>
-      <description>Rain continues through parts of southern Saskatchewan today. Another 5 to 10 mm is expected. The rain will taper off through the day. Don't drive through flooded roadways. Allow extra time for... | Areas: R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Reno including Consul Robsart and Willow Creek, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag, R.M. of Frontier including Frontier and Claydon, R.M. of Bone Creek including Simmie and Scotsguard, R.M. of Grassy Creek including Shaunavon, R.M. of Wise Creek including Cadillac and Admiral, R.M. of Lone Tree including Climax and Bracken, R.M. of Val Marie including Val Marie Orkney and Monchy, R.M. of Auvergne including Ponteix and Aneroid, R.M. of Pinto Creek including Kincaid and Hazenmore, R.M. of Glen McPherson west of Mankota, R.M. of Mankota including Mankota and Ferland | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Rainfall (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1842216249.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2155398234.2026-2</guid>
-      <pubDate>2026-09-08T19:03:51-00:00</pubDate>
-      <description>Rainfall | Areas: R.M. of Torch River including Choiceland and White Fox, R.M. of Nipawin including Nipawin Aylsham and Pontrilas, R.M. of Moose Range including Carrot River and Tobin Lake, R.M. of Kinistino including Kinistino and James Smith Res., R.M. of Invergordon including Yellow Creek and Tarnopol, R.M. of Flett's Springs including Beatty Ethelton and Pathlow, R.M. of Three Lakes including Middle Lake and St Benedict, R.M. of Lake Lenore including St. Brieux, R.M. of Willow Creek including Gronlid and Fairy Glen, R.M. of Connaught including Ridgedale and New Osgoode, R.M. of Star City including Melfort and Star City, R.M. of Tisdale including Tisdale Eldersley and Sylvania, R.M. of Pleasantdale including Naicam and Pleasantdale, R.M. of Barrier Valley including Archerwill and McKague, R.M. of Arborfield including Arborfield and Zenon Park, R.M. of Bjorkdale including Greenwater Lake Prov. Park | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4039764283.2026-1</guid>
+      <pubDate>2026-09-08T22:34:20-00:00</pubDate>
+      <description>Significant rainfall is no longer expected. | Areas: R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Reno including Consul Robsart and Willow Creek, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag, R.M. of Frontier including Frontier and Claydon, R.M. of Bone Creek including Simmie and Scotsguard, R.M. of Grassy Creek including Shaunavon, R.M. of Wise Creek including Cadillac and Admiral, R.M. of Lone Tree including Climax and Bracken, R.M. of Val Marie including Val Marie Orkney and Monchy, R.M. of Auvergne including Ponteix and Aneroid, R.M. of Pinto Creek including Kincaid and Hazenmore, R.M. of Glen McPherson west of Mankota, R.M. of Mankota including Mankota and Ferland | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -259,6 +250,52 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-05-19T11:34:08-06:00</pubDate>
       <description>A Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun water... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aa08c44ca14daff2d184728</guid>
+      <pubDate>2026-09-08T23:06:21.362Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 6:03 p.m. CDT (7:03 p.m. EDT), an area of severe thunderstorms is located near Whitestone Lake. These severe thunderstorms are moving northeast at 50 km/h. Strong wind gusts, up to quarter size hail and heavy rain are possible.
+
+Locations and nearby areas that could be impacted include: Cat Lake, Whitestone Lake
+
+
+
+
+There is a risk of injury. Large hail may cause significant damage and injury.
+
+Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aa0906cca14daff2d185300</guid>
+      <pubDate>2026-09-08T22:47:07.298Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts and large hail.
+
+Hazards:
+Strong wind gusts of 90 km/h
+Quarter to ping pong ball sized hail
+
+When:
+This evening.
+
+
+
+Damage to roofs, fences, branches or soft shelters is possible. There is a risk of injury.
+
+Large hail can cause significant damage and injury.
+
+Severe thunderstorm watches are issued when conditions are favourable for the development of thunderstorms capable of producing damaging hail, wind or rain.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.
+
+For more information: https://www.ontario.ca/page/be-prepared-emergency.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
     </item>
 
     <item>
@@ -304,6 +341,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Flood (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">83A8C3EF-2F74-4643-BBCA-874DFCA46AC2-1</guid>
+      <pubDate>2026-09-08T18:46:30-03:00</pubDate>
+      <description>Inverness &amp; Victoria Counties. The State of Local Emergency has been lifted for Inverness and Victoria Counties. The State of Local Emergency remains in place for Richmond County. For more details,... | Areas: Inverness &amp; Victoria Counties | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
