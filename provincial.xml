@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:30:20 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -271,16 +271,16 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Flood (Updated)</title>
+      <title>Flood (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">83A8C3EF-2F74-4643-BBCA-874DFCA46AC2-1</guid>
-      <pubDate>2026-09-08T18:46:30-03:00</pubDate>
-      <description>Inverness &amp; Victoria Counties. The State of Local Emergency has been lifted for Inverness and Victoria Counties. The State of Local Emergency remains in place for Richmond County. For more details,... | Areas: Inverness &amp; Victoria Counties | Level: advisory</description>
+      <guid isPermaLink="false">0E37E2C4-E920-4F98-8C22-969A6D51C702-1</guid>
+      <pubDate>2026-09-09T18:00:32-03:00</pubDate>
+      <description>The State of Local Emergency has been lifted for Richmond County. For more details, visit https://invernesscounty.ca/state-of-local-emergency-lifted-for-richmond-county/ | Areas: Richmond County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Drinking Water (Issued)</title>
+      <title>Drinking Water (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">66D77DE8-4F63-4C0A-B061-2061074636B2-1</guid>
       <pubDate>2026-09-08T17:32:28-03:00</pubDate>
