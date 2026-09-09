@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 08 Sep 2026 23:23:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:22:32 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -255,16 +255,14 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>BE ALERT - YELLOW WARNING - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6aa08c44ca14daff2d184728</guid>
-      <pubDate>2026-09-08T23:06:21.362Z</pubDate>
-      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 6:03 p.m. CDT (7:03 p.m. EDT), an area of severe thunderstorms is located near Whitestone Lake. These severe thunderstorms are moving northeast at 50 km/h. Strong wind gusts, up to quarter size hail and heavy rain are possible.
+      <guid isPermaLink="false">6aa0a8d74ccf296d3449c1ac</guid>
+      <pubDate>2026-09-09T01:21:39.058Z</pubDate>
+      <description>Severe Thunderstorm/Lightning Warning | Yellow Warning - Severe Thunderstorm - In Effect | &lt;p&gt;At 8:17 p.m. CDT (9:17 p.m. EDT), a severe thunderstorm is located near Knife Lake. This severe thunderstorm is moving quickly to the east at 65 km/h. Strong wind gusts, up to quarter size hail and heavy rain are possible.
 
-Locations and nearby areas that could be impacted include: Cat Lake, Whitestone Lake
-
-
+Locations and nearby areas that could be impacted include: Asipoquobah Lake, Knife Lake, Bearskin Lake, Bearbone Lake, Severn River Provincial Park
 
 
-There is a risk of injury. Large hail may cause significant damage and injury.
+
 
 Severe thunderstorm warnings are issued when imminent or occurring thunderstorms are expected to produce damaging hail, wind or rain.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
       <source>Manitoba</source>
@@ -274,7 +272,7 @@ Severe thunderstorm warnings are issued when imminent or occurring thunderstorms
       <title>BE ALERT - YELLOW WATCH - SEVERE THUNDERSTORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6aa0906cca14daff2d185300</guid>
-      <pubDate>2026-09-08T22:47:07.298Z</pubDate>
+      <pubDate>2026-09-09T00:28:13.278Z</pubDate>
       <description>Severe Thunderstorm/Lightning Warning | Yellow Watch - Severe Thunderstorm - In Effect | &lt;p&gt;Conditions are favourable for the development of severe thunderstorms that may be capable of producing strong wind gusts and large hail.
 
 Hazards:
