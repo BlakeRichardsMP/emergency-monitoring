@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 09 Sep 2026 06:24:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:42:52 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -213,15 +213,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.4039764283.2026-1</guid>
       <pubDate>2026-09-08T22:34:20-00:00</pubDate>
       <description>Significant rainfall is no longer expected. | Areas: R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Reno including Consul Robsart and Willow Creek, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag, R.M. of Frontier including Frontier and Claydon, R.M. of Bone Creek including Simmie and Scotsguard, R.M. of Grassy Creek including Shaunavon, R.M. of Wise Creek including Cadillac and Admiral, R.M. of Lone Tree including Climax and Bracken, R.M. of Val Marie including Val Marie Orkney and Monchy, R.M. of Auvergne including Ponteix and Aneroid, R.M. of Pinto Creek including Kincaid and Hazenmore, R.M. of Glen McPherson west of Mankota, R.M. of Mankota including Mankota and Ferland | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0436151061.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1325253822.2026-1</guid>
-      <pubDate>2026-09-08T08:14:39-00:00</pubDate>
-      <description>Significant rainfall is no longer expected. | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
