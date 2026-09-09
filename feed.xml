@@ -5,7 +5,16 @@
     <link>https://github.com/BlakeRichardsMP/emergency-monitoring</link>
     <description>Normalized Government of Canada emergency-related feeds</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:44:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:13:59 +0000</lastBuildDate>
+
+    <item>
+      <title>Government of Canada invests in youth crime prevention in Edmonton</title>
+      <link>https://www.canada.ca/en/public-safety-canada/news/2026/09/government-of-canada-invests-in-youth-crime-prevention-in-edmonton.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/09/government-of-canada-invests-in-youth-crime-prevention-in-edmonton.html</guid>
+      <pubDate>2026-09-09T13:55:52-04:00</pubDate>
+      <description>Today, the Honourable Sean Fraser, Minister of Justice and Attorney General of Canada, announced $2.2 million in federal funding for REACH Edmonton Council for Safe Communities to support a youth crime prevention project through the Crime Prevention Action Fund (CPAF).</description>
+      <source>Public Safety Canada</source>
+    </item>
 
     <item>
       <title>The Government of Canada extends federal fuel excise tax relief on gasoline, diesel, and aviation fuels for Canadians</title>
@@ -85,15 +94,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/08/responding-to-canadas-2026-wildfire-season.html</guid>
       <pubDate>2026-08-18T14:34:45-04:00</pubDate>
       <description>Wildfires continue to impact communities across Canada. The Government of Canada’s Wildfires 2026 web page includes vital information about programs, policies and initiatives to keep Canadians informed about the ongoing wildfire situation across the country.</description>
-      <source>Public Safety Canada</source>
-    </item>
-
-    <item>
-      <title>Government of Canada supports search and rescue in Québec by investing in boating safety initiative</title>
-      <link>https://www.canada.ca/en/public-safety-canada/news/2026/08/government-of-canada-supports-search-and-rescue-in-quebec-by-investing-in-boating-safety-initiative.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/08/government-of-canada-supports-search-and-rescue-in-quebec-by-investing-in-boating-safety-initiative.html</guid>
-      <pubDate>2026-08-14T10:13:02-04:00</pubDate>
-      <description>Today, on behalf of the Honourable Eleanor Olszewski, Minister of Emergency Management and Community Resilience and Minister responsible for Prairies Economic Development Canada, the Honourable François-Philippe Champagne, Minister of Finance and National Revenue and Member of Parliament for Saint-Maurice–Champlain, Québec, announced $378,700 in funding to the Regional County Municipality of Les Chenaux (MRC des Chenaux) for their one-year initiative entitled Safe Navigation: Awareness, Prevention and Implementation of Boating Safety in the MRC des Chenaux.</description>
       <source>Public Safety Canada</source>
     </item>
 
