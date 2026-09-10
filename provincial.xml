@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 10 Sep 2026 18:29:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:07:44 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -220,10 +220,10 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW WARNING - RAINFALL - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6aa275c3c7b78d594685edc0</guid>
-      <pubDate>2026-09-10T16:15:55.318Z</pubDate>
+      <pubDate>2026-09-10T21:06:05.226Z</pubDate>
       <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Heavy rain is expected in northern Manitoba tonight and Friday.
 
-A low pressure system will bring heavy rain to northern Manitoba beginning this evening.  By the time rain becomes light on Friday afternoon, a total of 25 to 40 mm is expected.
+A low pressure system is bringing heavy rain to northern Manitoba beginning this evening.  By the time rain becomes light on Friday afternoon, a total of 25 to 40 mm is expected. Light rain will continue until Saturday afternoon.
 
 
 
@@ -286,15 +286,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <guid isPermaLink="false">0E37E2C4-E920-4F98-8C22-969A6D51C702-1</guid>
       <pubDate>2026-09-09T18:00:32-03:00</pubDate>
       <description>The State of Local Emergency has been lifted for Richmond County. For more details, visit https://invernesscounty.ca/state-of-local-emergency-lifted-for-richmond-county/ | Areas: Richmond County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Drinking Water (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">66D77DE8-4F63-4C0A-B061-2061074636B2-1</guid>
-      <pubDate>2026-09-08T17:32:28-03:00</pubDate>
-      <description>Community of Inverness. The Municipality of Inverness County is issuing a boil water advisory and water conservation advisory for all users of the Inverness water system, following a water main... | Areas: Community of Inverness. | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
