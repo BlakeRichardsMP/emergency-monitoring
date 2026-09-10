@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:07:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:10:51 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -281,12 +281,113 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Flood (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">0E37E2C4-E920-4F98-8C22-969A6D51C702-1</guid>
-      <pubDate>2026-09-09T18:00:32-03:00</pubDate>
-      <description>The State of Local Emergency has been lifted for Richmond County. For more details, visit https://invernesscounty.ca/state-of-local-emergency-lifted-for-richmond-county/ | Areas: Richmond County | Level: advisory</description>
-      <source>Nova Scotia</source>
+      <title>Naveen</title>
+      <link>https://www.princeedwardisland.ca/en/employee/naveen-naveen</link>
+      <guid isPermaLink="false">81241 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 10 Sep 2026 21:56:11 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Naveen&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-10T18:56:11-03:00" title="Thursday, September 10, 2026 - 18:56"&gt;Thu, 09/10/2026 - 18:56&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;RCW&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                  &lt;div&gt;Health and Wellness&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Junior</title>
+      <link>https://www.princeedwardisland.ca/en/employee/junior-kofi</link>
+      <guid isPermaLink="false">81240 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 10 Sep 2026 21:39:24 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Junior&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-10T18:39:24-03:00" title="Thursday, September 10, 2026 - 18:39"&gt;Thu, 09/10/2026 - 18:39&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;LPN&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                  &lt;div&gt;Health and Wellness&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -880,128 +981,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     
       
             &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Alzheimer Society of PEI is developing a new approach to care supported by the province's 2025 Health Innovation Fund, to help families better understand and respond to behavioural changes associated with dementia.&amp;nbsp;&lt;/p&gt;&lt;p&gt;These changes can include repetitive vocal or physical expressions, changes in daily activities (i.e. sleeping or personal cares), verbal or physical expressions of risk, or changes in mood and personality. Often, caregivers are left trying to understand what is happening and how best to respond.&lt;/p&gt;&lt;p&gt;For many families, a dementia diagnosis can change daily life in ways they never expected. As symptoms progress, caregivers often find themselves navigating new challenges while trying to support a loved one and maintain a sense of normalcy. That is why more Islanders are reaching out for support.&lt;/p&gt;&lt;p&gt;In 2025, the Alzheimer Society of PEI served 1,108 Islanders, up from 737 in 2023. During the same period, the number of times Islanders turned to the Society for support increased from 3,030 to 7,076.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Doing this work, I have seen people struggle and be devastated by the disease, and I have seen lives turn around by having the appropriate level of support," said Jaime Constable, CEO of the Alzheimer Society of PEI. "Help can literally change people's lives."&lt;/p&gt;&lt;p&gt;The Alzheimer Society has spent the past several months working with a steering committee of home care leaders, geriatric specialists, clinicians, and other health-care partners to develop a more coordinated approach to behaviour support. Input received from clients and caregivers will also help ensure their new approach reflects the real experiences and needs of Islanders living with dementia.&lt;/p&gt;&lt;p&gt;As a part of this work, beginning this fall, all new and existing clients will participate in a behaviour screening process to help with earlier identification of changes that affect the quality of life and well-being of both the person living with dementia and their caregiver.&lt;/p&gt;&lt;p&gt;All families will receive education about behavioural changes linked to dementia and why they happen. Support will then be tailored to each person's needs. For those experiencing less significant changes, the focus will be on proactive, person-centred care including activity kits, social engagement and overall well-being strategies.&lt;/p&gt;&lt;p&gt;For families facing more complex challenges, they will be provided the opportunity for an in-depth assessment which will support caregivers in tracking responsive behaviours over time to identify factors that may be contributing, like the environment, needs, and preferences of the person living with dementia. &amp;nbsp;This information will inform personalized intervention plans, helping families and care providers monitor progress and adjust supports as needed.&lt;/p&gt;&lt;p&gt;The work is also strengthening collaboration across the healthcare system. By connecting with home care teams, geriatric specialists, clinicians, the provincial Dementia Specialty Team and other partners, the Alzheimer Society is co-creating clearer pathways to accessing help and support for people living with dementia and their caregivers.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The Alzheimer Society of PEI is a registered non-profit organization dedicated to supporting Islanders living with dementia, as well as the family members and friends who care for them. Through counselling, education, support groups, social programs, and public awareness initiatives, the Society provides valuable resources and services to individuals and families across the province.&lt;/p&gt;&lt;p&gt;As September marks World Alzheimer's Month, with World Alzheimer's Day recognized on September 21, Islanders are encouraged to connect with the&amp;nbsp;&lt;a href="https://alzheimer.ca/pei/en"&gt;Alzheimer Society of PEI&lt;/a&gt; to learn more about available supports, access helpful resources, and to explore the enhanced behaviour support services offered. &amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Province reviews business supports</title>
-      <link>https://www.princeedwardisland.ca/en/news/province-reviews-business-supports</link>
-      <guid isPermaLink="false">81224 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 08 Sep 2026 18:16:56 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province reviews business supports&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-08T15:16:56-03:00" title="Tuesday, September 8, 2026 - 15:16"&gt;Tue, 09/08/2026 - 15:16&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Island businesses are invited to provide their feedback on how to modernize financial assistance programs.&lt;/p&gt;&lt;p&gt;In response to ongoing economic uncertainty and current trade conditions, the province is reviewing its suite of financial assistance programs for business delivered by Innovation PEI. To better understand the pressures businesses are facing, the province is hosting dedicated engagement sessions across the Island and launching another business feedback survey.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Government’s job is to create the most favourable conditions for business to grow on the Island. We do this through tax credits, labour rebates, and non-repayable grants. Today’s economic realities call on us, more than ever, to ensure that our supports for businesses are flexible, and responsive not just to what they need, but to their potential for growth and expansion within our country and global markets as well.”&lt;/p&gt;&lt;p&gt;- Economic Development, Trade and Artificial Intelligence Minister Zack Bell&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Innovation PEI will be hosting businesses in September to hear their feedback.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;September 9 between 12:00-1:30 p.m. at Summerside Shipyard&amp;nbsp;&lt;/li&gt;&lt;li&gt;September 14 between 12:00-:30 p.m. at Mill River Resort&lt;/li&gt;&lt;li&gt;September 23 between 12:00-1:30 p.m. at Innovation PEI in Charlottetown&lt;/li&gt;&lt;li&gt;September 24 between 12:00-1:30 p.m. at the Rural Action Centre in Montague&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Island businesses wishing to participate must register with Kathleen Townshend by email (&lt;a href="mailto:kvtownshend@gov.pe.ca"&gt;kvtownshend@gov.pe.ca&lt;/a&gt;).&lt;/p&gt;&lt;p&gt;The&amp;nbsp;&lt;a href="https://innovationpei.com/innovation-pei-client-feedback-survey-2026/"&gt;survey&lt;/a&gt; will be open until October 9, 2026. Information from the survey will help inform how Innovation PEI can modernize financial assistance programs to better serve the Island economy.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media Contact:&lt;/strong&gt;&lt;br /&gt;Vicki Tse&lt;br /&gt;Department of Economic Development, Trade and Artificial Intelligence&lt;br /&gt;&lt;a href="mailto:vickitse@gov.pe.ca"&gt;vickitse@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Feedback wanted on annual minimum wage review</title>
-      <link>https://www.princeedwardisland.ca/en/news/feedback-wanted-on-annual-minimum-wage-review</link>
-      <guid isPermaLink="false">81223 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 08 Sep 2026 17:36:15 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Feedback wanted on annual minimum wage review&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-08T14:36:15-03:00" title="Tuesday, September 8, 2026 - 14:36"&gt;Tue, 09/08/2026 - 14:36&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Islanders are invited to provide feedback as part of the Employment Standards Board annual review of the minimum wage.&lt;/p&gt;&lt;p&gt;Under the &lt;em&gt;Employment Standards Act&lt;/em&gt;, the board reviews the minimum wage each year and recommends future rates to government based on economic conditions and feedback from the public and stakeholders.&lt;/p&gt;&lt;p&gt;Islanders can submit written feedback until October 30, 2026, in the following ways:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;By mail:&lt;/strong&gt;&lt;br /&gt;Employment Standards Board&lt;br /&gt;Atlantic Technology Centre&lt;br /&gt;PO Box 2000&lt;br /&gt;176 Great George Street, Suite 306&lt;br /&gt;Charlottetown, PE C1A 4K9&lt;/li&gt;&lt;li&gt;&lt;strong&gt;By email:&lt;/strong&gt;&lt;br /&gt;&lt;a href="mailto:labourrelations@gov.pe.ca"&gt;labourrelations@gov.pe.ca&lt;/a&gt;&lt;br /&gt;Please include &lt;strong&gt;“&lt;/strong&gt;Minimum Wage Review Feedback” in the subject line.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Individuals and organizations who provide written submissions may also request an opportunity to make an in-person presentation to the Employment Standards Board. If you wish to make a presentation, contact&amp;nbsp;&lt;a href="mailto:labourrelations@gov.pe.ca"&gt;labourrelations@gov.pe.ca&lt;/a&gt; or call 902-368-5550.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Prince Edward Island's minimum wage is currently $17.00 per hour, the highest in Atlantic Canada, and is scheduled to increase to $17.30 on October 1, 2026, and to $17.60 on April 1, 2027.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The annual review will consider future minimum wage rates beyond the increases already announced. For more information, click &lt;a href="https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/minimum-wage-review-2026"&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contac&lt;/strong&gt;t:&lt;br /&gt;April Gallant&lt;br /&gt;Department of Workforce and Advanced Learning&lt;br /&gt;&lt;a href="mailto:aldgallant@gov.pe.ca"&gt;aldgallant@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
       
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
