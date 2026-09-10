@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:10:53 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -236,15 +236,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>BE ALERT - HIGH WIND EFFECT ISSUED BY HYDROLOGIC FORECAST CENTRE.</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6aa1732496135a332c403ed5</guid>
-      <pubDate>2026-09-09T14:54:27.561Z</pubDate>
-      <description>Windstorm Warning | High Wind Effect Issued By Hydrologic Forecast Centre. | &lt;p&gt;Manitoba Transportation and Infrastructure’s Hydrologic Forecast Centre advises high winds are expected on September 9th. High winds may raise water levels on the lake between 0.9 - 1.5m with significant wave action expected.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Grand Marais, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a49079ff68e8bba0e4a4444</guid>
@@ -296,6 +287,155 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <pubDate>2026-09-08T17:32:28-03:00</pubDate>
       <description>Community of Inverness. The Municipality of Inverness County is issuing a boil water advisory and water conservation advisory for all users of the Inverness water system, following a water main... | Areas: Community of Inverness. | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Canada-wide Early Learning and Child Care Agreement 2023-2024 Annual Report</title>
+      <link>https://www.princeedwardisland.ca/en/publication/canada-wide-early-learning-and-child-care-agreement-2023-2024-annual-report</link>
+      <guid isPermaLink="false">81234 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 10 Sep 2026 14:31:21 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Canada-wide Early Learning and Child Care Agreement 2023-2024 Annual Report&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;lphachey&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-10T11:31:21-03:00" title="Thursday, September 10, 2026 - 11:31"&gt;Thu, 09/10/2026 - 11:31&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Report&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Fiscal year 2023-2024 annual report of the&amp;nbsp;Canada-wide Early Learning and Child Care (CWELCC) Agreement between the Province of Prince Edward Island and the Government of Canada.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/2df2/Canada-wide_Early_Learning_and_Child_Care_%28ELCC%29_Agreement_2023-2024_Annual_Report.pdf"&gt;
+              &lt;span&gt;Canada-wide_Early_Learning_and_Child_Care_(ELCC)_Agreement_2023-2024_Annual_Report.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>August 2026 Engage PEI Appointments</title>
+      <link>https://www.princeedwardisland.ca/en/information/executive-council-office/august-2026-engage-pei-appointments</link>
+      <guid isPermaLink="false">81233 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 10 Sep 2026 13:27:20 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;August 2026 Engage PEI Appointments&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ntyeba&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-10T10:27:20-03:00" title="Thursday, September 10, 2026 - 10:27"&gt;Thu, 09/10/2026 - 10:27&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Here are the 19 people appointed or reappointed to 8 agencies, boards and commissions by Cabinet in August 2026.&lt;/p&gt;&lt;h3&gt;Acadian and Francophone Community Advisory Committee&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Pierre Arsenault – Summerside&lt;/li&gt;&lt;li&gt;Michelle Pineau – North Rustico (reappointment)&lt;/li&gt;&lt;li&gt;Alexia Riche – New Glasgow (reappointment)&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Alberton Housing Authority&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Kramer Gallant – Alberton (reappointment)&lt;/li&gt;&lt;li&gt;Lowell Barbour – Elmsdale&lt;/li&gt;&lt;li&gt;Eva Yeo – O’Leary&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Debt Risk Advisory Committee&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Craig Noonan – Prince County&lt;/li&gt;&lt;li&gt;Jody Sanderson – Queens County&lt;/li&gt;&lt;li&gt;David Arsenault – Queens County&lt;/li&gt;&lt;li&gt;Christine Helsdon Tekker - Queens County&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Early Learning and Child Care Board&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Darlene Mellish – Victoria Cross (reappointment)&lt;/li&gt;&lt;li&gt;Nichola Herinková – Stratford&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Montague Housing Authority&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mallory L. Campbell – Montague&lt;/li&gt;&lt;li&gt;Tyson Sheppard – Montague&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Summerside Housing Authority&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Crystal Gardiner – Summerside&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Tignish Housing Authority&amp;nbsp;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Nicole Ready Doucette – Tignish&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Workers Compensation Board of Prince Edward Island&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Gail Ellis – Richmond&amp;nbsp;&lt;/li&gt;&lt;li&gt;Julieann Gauthier – Rusticoville&lt;/li&gt;&lt;li&gt;Karen Creighan – Souris (reappointment)&lt;/li&gt;&lt;li&gt;Jim McInnis – Pleasant Grove (reappointment)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -882,103 +1022,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
 
   &lt;/div&gt;
 
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Minimum Wage Review 2026</title>
-      <link>https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/minimum-wage-review-2026</link>
-      <guid isPermaLink="false">81215 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 08 Sep 2026 14:31:24 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Minimum Wage Review 2026&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jaclynnbarrett&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-08T11:31:24-03:00" title="Tuesday, September 8, 2026 - 11:31"&gt;Tue, 09/08/2026 - 11:31&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Employment Standards Board is inviting Islanders to provide feedback as part of its annual review of the minimum wage.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Under the Employment Standards Act, the board reviews the minimum wage each year and recommends future rates to government based on economic conditions and feedback from the public and stakeholders.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Prince Edward Island's minimum wage is currently $17.00 per hour and is scheduled to increase to $17.30 on October 1, 2026, and to $17.60 on April 1, 2027.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;The annual review will consider&amp;nbsp;future&amp;nbsp;minimum wage rates beyond the increases already announced.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;Written feedback can be submitted until &lt;strong&gt;October 30, 2026&lt;/strong&gt;, in the following ways:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;By mail:&amp;nbsp;&lt;br /&gt;Employment Standards Board&lt;br /&gt;Atlantic Technology Centre&lt;br /&gt;Po Box 2000&lt;br /&gt;176 Great George Street, Suite 306&lt;br /&gt;Charlottetown, PE C1A 4K9&lt;br /&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;By email:&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:labourrelations@gov.pe.ca"&gt;labourrelations@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;br /&gt;Please include “Minimum Wage Review Feedback” in the subject line.&amp;nbsp;&lt;br /&gt;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Individuals and organizations who provide written submissions may also request an opportunity to make an in-person presentation to the Employment Standards Board. If you wish to make a presentation, contact&amp;nbsp;&lt;a href="mailto:labourrelations@gov.pe.ca"&gt;labourrelations@gov.pe.ca&lt;/a&gt;&amp;nbsp;or call&amp;nbsp;902-368-5550.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Gass</title>
-      <link>https://www.princeedwardisland.ca/en/employee/gass-rebecca</link>
-      <guid isPermaLink="false">81214 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 08 Sep 2026 14:27:55 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Gass&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-08T11:27:55-03:00" title="Tuesday, September 8, 2026 - 11:27"&gt;Tue, 09/08/2026 - 11:27&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Senior Communications Officer&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
