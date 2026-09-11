@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:01:34 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -220,10 +220,10 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW WARNING - RAINFALL - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6aa275c3c7b78d594685edc0</guid>
-      <pubDate>2026-09-10T21:06:05.226Z</pubDate>
-      <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Heavy rain is expected in northern Manitoba tonight and Friday.
+      <pubDate>2026-09-11T14:12:28.169Z</pubDate>
+      <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Heavy rain will continue today.
 
-A low pressure system is bringing heavy rain to northern Manitoba beginning this evening.  By the time rain becomes light on Friday afternoon, a total of 25 to 40 mm is expected. Light rain will continue until Saturday afternoon.
+A low pressure system is bringing heavy rain to northern Manitoba.  By the time rain becomes light this afternoon, a total of 25 to 40 mm is expected. Light rain will continue until Saturday afternoon.
 
 
 
@@ -278,6 +278,270 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <pubDate>2026-09-10T14:13:20-03:00</pubDate>
       <description>Community of Inverness. The Municipality of Inverness County boil water advisory and water conservation advisory has been lifted for all users of the Inverness water system, following a water main... | Areas: Community of Inverness | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Upcoming Food Safety Courses - Montague</title>
+      <link>https://www.princeedwardisland.ca/en/event/upcoming-food-safety-courses-montague</link>
+      <guid isPermaLink="false">81245 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 11 Sep 2026 14:01:59 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Upcoming Food Safety Courses - Montague&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-11T11:01:59-03:00" title="Friday, September 11, 2026 - 11:01"&gt;Fri, 09/11/2026 - 11:01&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Submit your online registration with full payment &lt;strong&gt;at least 24 hours before&lt;/strong&gt; the course date. Early registration is recommended to ensure seating is available.&lt;/p&gt;&lt;p&gt;Please note:&amp;nbsp;&lt;strong&gt;Subject to cancellation if minimum registration numbers are not met.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The cost is &lt;strong&gt;$57.50&lt;/strong&gt; per participant ($50 +HST) and is payable online. &lt;strong&gt;The fee is non-refundable.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/register-for-a-food-safety-course" title="Register for a Food Safety Course "&gt;Register for the course online.&amp;nbsp;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-18T13:00:00Z"&gt;November 18, 2026 9:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-18T20:00:00Z"&gt;November 18, 2026 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Cavendish Farms&lt;/span&gt; &lt;span class="family-name"&gt;Wellness Centre&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;21 Sullivan Drive&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Monatgue&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0A 1R0&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Upcoming Food Safety Course - Bloomfield Station</title>
+      <link>https://www.princeedwardisland.ca/en/event/upcoming-food-safety-course-bloomfield-station</link>
+      <guid isPermaLink="false">81244 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 11 Sep 2026 14:00:21 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Upcoming Food Safety Course - Bloomfield Station &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-11T11:00:21-03:00" title="Friday, September 11, 2026 - 11:00"&gt;Fri, 09/11/2026 - 11:00&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Submit your online registration with full payment &lt;strong&gt;at least 24 hours before&lt;/strong&gt; the course date. Early registration is recommended to ensure seating is available.&lt;/p&gt;&lt;p&gt;Please note:&amp;nbsp;&lt;strong&gt;Subject to cancellation if minimum registration numbers are not met.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The cost is &lt;strong&gt;$57.50&lt;/strong&gt; per participant ($50 +HST) and is payable online. &lt;strong&gt;The fee is non-refundable.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/register-for-a-food-safety-course" title="Register for a Food Safety Course "&gt;Register for the course online.&amp;nbsp;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-03T13:00:00Z"&gt;November 3, 2026 9:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-03T20:00:00Z"&gt;November 3, 2026 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Millriver&lt;/span&gt; &lt;span class="family-name"&gt;Resort&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;180 Mill River Resort Rd #136&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Bloomfield Station &lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0B 1V0&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Upcoming Food Safety Course - Summerside</title>
+      <link>https://www.princeedwardisland.ca/en/event/upcoming-food-safety-course-summerside</link>
+      <guid isPermaLink="false">81243 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 11 Sep 2026 13:54:53 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Upcoming Food Safety Course - Summerside&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-11T10:54:53-03:00" title="Friday, September 11, 2026 - 10:54"&gt;Fri, 09/11/2026 - 10:54&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Submit your online registration with full payment &lt;strong&gt;at least 24 hours before&lt;/strong&gt; the course date. Early registration is recommended to ensure seating is available.&lt;/p&gt;&lt;p&gt;Please note:&amp;nbsp;&lt;strong&gt;Subject to cancellation if minimum registration numbers are not met.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The cost is &lt;strong&gt;$57.50&lt;/strong&gt; per participant ($50 +HST) and is payable online. &lt;strong&gt;The fee is non-refundable.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/register-for-a-food-safety-course" title="Register for a Food Safety Course "&gt;Register for the course online.&amp;nbsp;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-10-22T12:00:00Z"&gt;October 22, 2026 9:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-10-22T19:00:00Z"&gt;October 22, 2026 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Loyalist Country&lt;/span&gt; &lt;span class="family-name"&gt;Inn&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;195 Heather Moyse Drive&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Summerside&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1N 5R1&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Upcoming Food Safety Course - Charlottetown</title>
+      <link>https://www.princeedwardisland.ca/en/event/upcoming-food-safety-course-charlottetown</link>
+      <guid isPermaLink="false">81242 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 11 Sep 2026 13:45:54 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Upcoming Food Safety Course - Charlottetown&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-11T10:45:54-03:00" title="Friday, September 11, 2026 - 10:45"&gt;Fri, 09/11/2026 - 10:45&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Submit your online registration with full payment &lt;strong&gt;at least 24 hours before&lt;/strong&gt; the course date. Early registration is recommended to ensure seating is available.&lt;/p&gt;&lt;p&gt;Please note:&amp;nbsp;&lt;strong&gt;Subject to cancellation if minimum registration numbers are not met.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The cost is &lt;strong&gt;$57.50&lt;/strong&gt; per participant ($50 +HST) and is payable online. &lt;strong&gt;The fee is non-refundable.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/register-for-a-food-safety-course" title="Register for a Food Safety Course "&gt;Register for the course online.&amp;nbsp;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-10-20T12:00:00Z"&gt;October 20, 2026 9:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-10-20T19:00:00Z"&gt;October 20, 2026 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Holiday Inn &lt;/span&gt; &lt;span class="family-name"&gt;Express&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt; 200 Capital Drive&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Charlottetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1E 2E8&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -672,318 +936,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
 
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Public Schools Branch Board of Trustees</title>
-      <link>https://www.princeedwardisland.ca/en/publication/public-schools-branch-board-of-trustees-0</link>
-      <guid isPermaLink="false">81235 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 10 Sep 2026 15:12:55 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Public Schools Branch Board of Trustees &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kenantes&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-10T12:12:55-03:00" title="Thursday, September 10, 2026 - 12:12"&gt;Thu, 09/10/2026 - 12:12&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-vnd-openxmlformats-officedocument-wordprocessingml-document file--x-office-document"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/5887/PSB%20Appointment%20-%20Role%20of%20Trustee%20-%20Aug%2025%2C%202026.docx"&gt;
-              &lt;span&gt;PSB Role of Trustee&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Canada-wide Early Learning and Child Care Agreement 2023-2024 Annual Report</title>
-      <link>https://www.princeedwardisland.ca/en/publication/canada-wide-early-learning-and-child-care-agreement-2023-2024-annual-report</link>
-      <guid isPermaLink="false">81234 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 10 Sep 2026 14:31:21 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Canada-wide Early Learning and Child Care Agreement 2023-2024 Annual Report&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;lphachey&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-10T11:31:21-03:00" title="Thursday, September 10, 2026 - 11:31"&gt;Thu, 09/10/2026 - 11:31&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Report&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Fiscal year 2023-2024 annual report of the&amp;nbsp;Canada-wide Early Learning and Child Care (CWELCC) Agreement between the Province of Prince Edward Island and the Government of Canada.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/2df2/Canada-wide_Early_Learning_and_Child_Care_%28ELCC%29_Agreement_2023-2024_Annual_Report.pdf"&gt;
-              &lt;span&gt;Canada-wide_Early_Learning_and_Child_Care_(ELCC)_Agreement_2023-2024_Annual_Report.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>August 2026 Engage PEI Appointments</title>
-      <link>https://www.princeedwardisland.ca/en/information/executive-council-office/august-2026-engage-pei-appointments</link>
-      <guid isPermaLink="false">81233 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 10 Sep 2026 13:27:20 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;August 2026 Engage PEI Appointments&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ntyeba&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-10T10:27:20-03:00" title="Thursday, September 10, 2026 - 10:27"&gt;Thu, 09/10/2026 - 10:27&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Here are the 19 people appointed or reappointed to 8 agencies, boards and commissions by Cabinet in August 2026.&lt;/p&gt;&lt;h3&gt;Acadian and Francophone Community Advisory Committee&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Pierre Arsenault – Summerside&lt;/li&gt;&lt;li&gt;Michelle Pineau – North Rustico (reappointment)&lt;/li&gt;&lt;li&gt;Alexia Riche – New Glasgow (reappointment)&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Alberton Housing Authority&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Kramer Gallant – Alberton (reappointment)&lt;/li&gt;&lt;li&gt;Lowell Barbour – Elmsdale&lt;/li&gt;&lt;li&gt;Eva Yeo – O’Leary&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Debt Risk Advisory Committee&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Craig Noonan – Prince County&lt;/li&gt;&lt;li&gt;Jody Sanderson – Queens County&lt;/li&gt;&lt;li&gt;David Arsenault – Queens County&lt;/li&gt;&lt;li&gt;Christine Helsdon Tekker - Queens County&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Early Learning and Child Care Board&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Darlene Mellish – Victoria Cross (reappointment)&lt;/li&gt;&lt;li&gt;Nichola Herinková – Stratford&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Montague Housing Authority&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Mallory L. Campbell – Montague&lt;/li&gt;&lt;li&gt;Tyson Sheppard – Montague&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Summerside Housing Authority&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Crystal Gardiner – Summerside&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Tignish Housing Authority&amp;nbsp;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Nicole Ready Doucette – Tignish&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Workers Compensation Board of Prince Edward Island&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Gail Ellis – Richmond&amp;nbsp;&lt;/li&gt;&lt;li&gt;Julieann Gauthier – Rusticoville&lt;/li&gt;&lt;li&gt;Karen Creighan – Souris (reappointment)&lt;/li&gt;&lt;li&gt;Jim McInnis – Pleasant Grove (reappointment)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>New approach to strengthen dementia support for Islanders and families</title>
-      <link>https://www.princeedwardisland.ca/en/news/new-approach-to-strengthen-dementia-support-for-islanders-and-families</link>
-      <guid isPermaLink="false">81227 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 09 Sep 2026 13:38:35 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New approach to strengthen dementia support for Islanders and families&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-09T10:38:35-03:00" title="Wednesday, September 9, 2026 - 10:38"&gt;Wed, 09/09/2026 - 10:38&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="two people standing in front of building " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/81a4/Alzheimer%26%23039%3Bs%20society%20feature.jpg.webp?itok=AdmfvASY" width="1000" /&gt;
-
-  
-
-
-        &lt;figcaption class="tw-text-sm tw-text-dark tw-font-normal tw-font-headers tw-tracking-tighter mt-2"&gt;
-      (L-R) Sara Abu Itham, Support Services Coordinator Queens County, and Jaime Constable CEO Alzheimer Society of PEI 
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Alzheimer Society of PEI is developing a new approach to care supported by the province's 2025 Health Innovation Fund, to help families better understand and respond to behavioural changes associated with dementia.&amp;nbsp;&lt;/p&gt;&lt;p&gt;These changes can include repetitive vocal or physical expressions, changes in daily activities (i.e. sleeping or personal cares), verbal or physical expressions of risk, or changes in mood and personality. Often, caregivers are left trying to understand what is happening and how best to respond.&lt;/p&gt;&lt;p&gt;For many families, a dementia diagnosis can change daily life in ways they never expected. As symptoms progress, caregivers often find themselves navigating new challenges while trying to support a loved one and maintain a sense of normalcy. That is why more Islanders are reaching out for support.&lt;/p&gt;&lt;p&gt;In 2025, the Alzheimer Society of PEI served 1,108 Islanders, up from 737 in 2023. During the same period, the number of times Islanders turned to the Society for support increased from 3,030 to 7,076.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Doing this work, I have seen people struggle and be devastated by the disease, and I have seen lives turn around by having the appropriate level of support," said Jaime Constable, CEO of the Alzheimer Society of PEI. "Help can literally change people's lives."&lt;/p&gt;&lt;p&gt;The Alzheimer Society has spent the past several months working with a steering committee of home care leaders, geriatric specialists, clinicians, and other health-care partners to develop a more coordinated approach to behaviour support. Input received from clients and caregivers will also help ensure their new approach reflects the real experiences and needs of Islanders living with dementia.&lt;/p&gt;&lt;p&gt;As a part of this work, beginning this fall, all new and existing clients will participate in a behaviour screening process to help with earlier identification of changes that affect the quality of life and well-being of both the person living with dementia and their caregiver.&lt;/p&gt;&lt;p&gt;All families will receive education about behavioural changes linked to dementia and why they happen. Support will then be tailored to each person's needs. For those experiencing less significant changes, the focus will be on proactive, person-centred care including activity kits, social engagement and overall well-being strategies.&lt;/p&gt;&lt;p&gt;For families facing more complex challenges, they will be provided the opportunity for an in-depth assessment which will support caregivers in tracking responsive behaviours over time to identify factors that may be contributing, like the environment, needs, and preferences of the person living with dementia. &amp;nbsp;This information will inform personalized intervention plans, helping families and care providers monitor progress and adjust supports as needed.&lt;/p&gt;&lt;p&gt;The work is also strengthening collaboration across the healthcare system. By connecting with home care teams, geriatric specialists, clinicians, the provincial Dementia Specialty Team and other partners, the Alzheimer Society is co-creating clearer pathways to accessing help and support for people living with dementia and their caregivers.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The Alzheimer Society of PEI is a registered non-profit organization dedicated to supporting Islanders living with dementia, as well as the family members and friends who care for them. Through counselling, education, support groups, social programs, and public awareness initiatives, the Society provides valuable resources and services to individuals and families across the province.&lt;/p&gt;&lt;p&gt;As September marks World Alzheimer's Month, with World Alzheimer's Day recognized on September 21, Islanders are encouraged to connect with the&amp;nbsp;&lt;a href="https://alzheimer.ca/pei/en"&gt;Alzheimer Society of PEI&lt;/a&gt; to learn more about available supports, access helpful resources, and to explore the enhanced behaviour support services offered. &amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
   
     
       
