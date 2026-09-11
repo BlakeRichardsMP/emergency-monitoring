@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:33:11 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,6 +217,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aa4313c104f7396de5760bf</guid>
+      <pubDate>2026-09-11T16:50:03.555Z</pubDate>
+      <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 12, 2026, at 12:00 AM and continue until September 13, 2026, at 12:00 AM. Wind effect impacts at the eastern shore from Little Black River to Wanipigow are expected to reduce in the afternoon. These winds and wave activity on Lake Winnipeg, particularly along the eastern and southern shorelines, could raise water levels as much as 0.9 to 1.5 meters with significant wave actions expected, posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Grand Marais, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
       <title>BE ALERT - YELLOW WARNING - RAINFALL - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6aa275c3c7b78d594685edc0</guid>
@@ -232,15 +241,6 @@ Parks and forests will likely sustain some damage. Landslides may occur in vulne
 Rainfall warnings are issued when significant impacts are expected due to rainfall amounts.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6a49079ff68e8bba0e4a4444</guid>
-      <pubDate>2026-07-04T08:19:29.606-05:00</pubDate>
-      <description>Flood Warning | MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN and RM OF LAKESHORE | &lt;p&gt;There is higher potential that flooding may impact your community.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Ochre River, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
@@ -272,12 +272,210 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Drinking Water (Issued)</title>
+      <title>Drinking Water (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">B81BB872-D2C2-4AC9-B71C-B026B6340F25-1</guid>
       <pubDate>2026-09-10T14:13:20-03:00</pubDate>
       <description>Community of Inverness. The Municipality of Inverness County boil water advisory and water conservation advisory has been lifted for all users of the Inverness water system, following a water main... | Areas: Community of Inverness | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Taylor</title>
+      <link>https://www.princeedwardisland.ca/en/employee/taylor-erin</link>
+      <guid isPermaLink="false">81249 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 11 Sep 2026 17:14:06 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Taylor&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-11T14:14:06-03:00" title="Friday, September 11, 2026 - 14:14"&gt;Fri, 09/11/2026 - 14:14&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Manager, Policy and Planning &lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;Je parle français&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Land and Environment&lt;/strong&gt;
+            &lt;div&gt;Planning and Development&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>School Attendance</title>
+      <link>https://www.princeedwardisland.ca/en/information/education-and-early-years/school-attendance</link>
+      <guid isPermaLink="false">81247 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 11 Sep 2026 16:22:02 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;School Attendance&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;LHrobinson&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-11T13:22:02-03:00" title="Friday, September 11, 2026 - 13:22"&gt;Fri, 09/11/2026 - 13:22&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;h2&gt;Every day counts. Every student matters.&lt;/h2&gt;&lt;p&gt;Regular attendance helps students build friendships, stay connected to learning, and develop the skills and confidence needed to succeed. We understand that families may face challenges that affect attendance, and schools are committed to partnering with families to support student success.&lt;/p&gt;&lt;p&gt;Start building this habit in kindergarten and through elementary school, so children learn right away that going to school on time, every day, is important.&lt;/p&gt;&lt;p&gt;Children who attend school more regularly are more likely to feel confident, included, and to succeed academically.&lt;/p&gt;&lt;p&gt;Students are more likely to attend school when they feel connected, welcomed, and supported. Strong relationships with peers and school staff play an important role in student attendance and well-being.&lt;/p&gt;&lt;p&gt;Schools are committed to working with families to identify supports and help students stay connected to learning.&lt;/p&gt;&lt;h2&gt;Here are some tips to help build a habit of good attendance:&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;For younger children…&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Set a regular bedtime and morning routine.&lt;/li&gt;&lt;li&gt;Lay out clothes and pack backpacks the night before.&lt;/li&gt;&lt;li&gt;Support your child’s health and make sure your child has the required immunizations.&lt;/li&gt;&lt;li&gt;Have a backup plan for getting to school if something comes up.&lt;/li&gt;&lt;li&gt;Stay informed about your child's attendance and talk with the school if concerns arise.&lt;/li&gt;&lt;li&gt;Try to schedule nonurgent medical appointments, extended trips, and sporting competitions when school isn’t in session.&lt;/li&gt;&lt;li&gt;If your child seems anxious about going to school, talk to teachers and school counsellors for advice on how to make your child feel comfortable and excited about learning.&lt;/li&gt;&lt;li&gt;Ask the teacher for ideas to support missed learning time.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;For older students and teens…&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Talk about the opportunities available when your teenager or preteen shows up at school every day.&lt;/li&gt;&lt;li&gt;Help your middle and high schoolers maintain daily routines, such as finishing homework and getting enough sleep.&lt;/li&gt;&lt;li&gt;Consider limiting use of devices if they interfere with sleep.&lt;/li&gt;&lt;li&gt;Encourage students to maintain consistent sleep routines.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Help your child balance school work, extracurricular activities, work commitments, and personal well-being.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Talk regularly with your child about school engagement, goals, and any challenges they may be experiencing.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Schools are here to help. If attendance is becoming a challenge, please reach out to your school. Working together, families and schools can identify supports that help students stay engaged and connected to learning.&lt;/strong&gt;&lt;/p&gt;&lt;h2&gt;Supports can include:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;School counsellors&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/education-and-early-years/student-well-being-teams"&gt;Student well-being teams&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://psb.edu.pe.ca/parent-and-student-resources/student-services"&gt;Public Schools Branch Student Services&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://cslf.edu.pe.ca/familles-et-communaute/les-services-aux-eleves"&gt;CSLF Student Services&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;If your family is facing challenges with transportation, health, housing, anxiety, caregiving responsibilities, or other circumstances affecting attendance, please contact your school so they can direct you to available supports.&lt;/p&gt;&lt;h2&gt;How schools and education partners are supporting attendance:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Providing training and resources for school staff.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Strengthening student wellness and engagement supports.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Helping schools identify attendance concerns early.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Working with families and community partners to remove barriers to attendance.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Raising awareness about the benefits of regular school attendance.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Orders in Council September 8, 2026 (877-896)</title>
+      <link>https://www.princeedwardisland.ca/en/publication/orders-in-council-september-8-2026-877-896</link>
+      <guid isPermaLink="false">81246 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 11 Sep 2026 16:17:54 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orders in Council September 8, 2026 (877-896)&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tamperry&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-11T13:17:54-03:00" title="Friday, September 11, 2026 - 13:17"&gt;Fri, 09/11/2026 - 13:17&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Orders in Council&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/5560/20260908truwww.pdf"&gt;
+              &lt;span&gt;20260908truwww.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -674,268 +872,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>New funding available through Anti-Racism Grants</title>
-      <link>https://www.princeedwardisland.ca/en/news/new-funding-available-through-anti-racism-grants</link>
-      <guid isPermaLink="false">81238 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 10 Sep 2026 17:20:03 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New funding available through Anti-Racism Grants&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-10T14:20:03-03:00" title="Thursday, September 10, 2026 - 14:20"&gt;Thu, 09/10/2026 - 14:20&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Image of Bog Tour by the Black Cultural Society of PEI" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/2bde/2026-09-09-BogTourGroupPhoto_StartingAtBeaconsfield_03.jpg.webp?itok=H9NxzI5q" width="1000" /&gt;
-
-  
-
-
-        &lt;figcaption class="tw-text-sm tw-text-dark tw-font-normal tw-font-headers tw-tracking-tighter mt-2"&gt;
-      Bog Tour by the Black Cultural Society of PEI
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Applications are open for the&amp;nbsp;2026-2027 Anti-Racism Grants with a total of&amp;nbsp;$275,000 in funding available.&lt;/p&gt;&lt;p&gt;The grant program supports large-scale projectsthat help address systemic racism, strengthen organizations, improve knowledge of racial unfairness, and create real, measurable change in Prince Edward Island.&lt;/p&gt;&lt;p&gt;Eligible projects must align with one or more of the following goals:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Making changes to policies, practices, governance and organizational structures to remove barriers and address systemic racism&amp;nbsp;&lt;/li&gt;&lt;li&gt;Strengthening the ability of organizations and public institutions to advance anti-racism efforts&lt;/li&gt;&lt;li&gt;Empowering BIPOC communities by building partnerships, advocating for change and leading community-led research&lt;/li&gt;&lt;li&gt;Working to end systemic racism by bringing people together to take action and build community power&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Strengthening BIPOC community networks, leadership, and involvement in public life and decision-making&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Projects may advance one or more of the following priority areas:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Reduce systemic racial barriers in institutions and services&lt;/li&gt;&lt;li&gt;Reform organizational governance and practices&lt;/li&gt;&lt;li&gt;Collect and analyze race-based data to better understand outcomes for different groups&lt;/li&gt;&lt;li&gt;Build organizational capacity to better support racialized and Indigenous communities&lt;/li&gt;&lt;li&gt;Address hate incidents and hate-related racism&lt;/li&gt;&lt;li&gt;Reduce harm against racialized and Indigenous women and gender-diverse people&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Applications will be accepted until&amp;nbsp;&lt;strong&gt;11:59 p.m. on October 23, 2026&lt;/strong&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quotes:&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“We’re proud to invest in initiatives tackling systemic racism and creating lasting and meaningful change across PEI. By supporting these projects, we are empowering organizations to address barriers, strengthen communities, and make a positive difference in the lives of Islanders.”&lt;/p&gt;&lt;p&gt;- &amp;nbsp;Premier Rob Lantz&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;“The Anti-Racism Grant has been instrumental in helping Pride PEI develop the Common Cents Club and begin meaningful consultation with BIPOC community members and partners. Even in this early phase, we’re seeing excitement and interest in the project. We look forward to building on this momentum and moving into our next phase with purpose.”&lt;/p&gt;&lt;p&gt;- &amp;nbsp;Pride PEI executive director Cameron Cassidy&lt;/p&gt;&lt;p&gt;“The funding for the Bog Tours has been transformative. With more than 965 people taking the tour in 2026 alone, the response showed Islanders’ desire to learn about and connect with this largely untold history. The Bog has created a bridge between Black Islanders whose families have deep roots here and newer Black Islanders, connecting us through a shared heritage and strengthening a sense of belonging. Participants were often in awe to discover that Black people are not new to the Island; we were here before Confederation.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;- &amp;nbsp;Black Cultural Society of PEI executive director Ujunwa Aja-Onu (Ujay)&lt;/p&gt;&lt;p&gt;To apply, and for more information about the grant, visit&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/antiracismgrants"&gt;Anti-Racism Grants&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Media contacts:&lt;br /&gt;Nicole Yeba&lt;br /&gt;Executive Council Office&lt;br /&gt;&lt;a href="mailto:ntyeba@gov.pe.ca"&gt;ntyeba@gov.pe.ca&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Anti-Racism Grant Application Form</title>
-      <link>https://www.princeedwardisland.ca/en/publication/anti-racism-grant-application-form</link>
-      <guid isPermaLink="false">81237 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 10 Sep 2026 16:05:26 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Anti-Racism Grant Application Form&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ntyeba&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-10T13:05:26-03:00" title="Thursday, September 10, 2026 - 13:05"&gt;Thu, 09/10/2026 - 13:05&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/5ef6/Anti-Racism%20Grant%20Application%20Form.pdf"&gt;
-              &lt;span&gt;Anti-Racism Grant Application Form.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Anti-Racism Grant Scoring Matrix</title>
-      <link>https://www.princeedwardisland.ca/en/publication/anti-racism-grant-scoring-matrix-0</link>
-      <guid isPermaLink="false">81236 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 10 Sep 2026 16:02:01 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Anti-Racism Grant Scoring Matrix&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ntyeba&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-10T13:02:01-03:00" title="Thursday, September 10, 2026 - 13:02"&gt;Thu, 09/10/2026 - 13:02&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/8404/Anti-Racism%20Grant%20Scoring%20Matrix.pdf"&gt;
-              &lt;span&gt;Anti-Racism Grant Scoring Matrix.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
   
     
       
