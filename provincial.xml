@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 11 Sep 2026 18:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:19:22 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,11 +217,21 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
+      <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6aa4313c104f7396de5760bf</guid>
-      <pubDate>2026-09-11T16:50:03.555Z</pubDate>
-      <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 12, 2026, at 12:00 AM and continue until September 13, 2026, at 12:00 AM. Wind effect impacts at the eastern shore from Little Black River to Wanipigow are expected to reduce in the afternoon. These winds and wave activity on Lake Winnipeg, particularly along the eastern and southern shorelines, could raise water levels as much as 0.9 to 1.5 meters with significant wave actions expected, posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Grand Marais, Manitoba</description>
+      <guid isPermaLink="false">6aa46900d0e572bca9bd5767</guid>
+      <pubDate>2026-09-11T20:47:58.910Z</pubDate>
+      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;A strong low pressure system will bring damaging winds to Churchill.
+
+Northwest winds with gusts to 90 km/h are expected to begin Saturday morning.
+
+Winds will ease Saturday evening.
+
+
+
+Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible. There is a risk of injury due to flying or falling debris.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
       <source>Manitoba</source>
     </item>
 
@@ -229,10 +239,10 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW WARNING - RAINFALL - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6aa275c3c7b78d594685edc0</guid>
-      <pubDate>2026-09-11T14:12:28.169Z</pubDate>
-      <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Heavy rain will continue today.
+      <pubDate>2026-09-11T20:42:01.786Z</pubDate>
+      <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Accumulating rain will continue tonight and Saturday.
 
-A low pressure system is bringing heavy rain to northern Manitoba.  By the time rain becomes light this afternoon, a total of 25 to 40 mm is expected. Light rain will continue until Saturday afternoon.
+A low pressure system is bringing heavy rain to northeastern Manitoba.  A total of 30 to 40 mm is expected. Rain will be less intense tonight but will pick up again by Saturday morning. Rain will end Saturday evening.
 
 
 
@@ -241,6 +251,15 @@ Parks and forests will likely sustain some damage. Landslides may occur in vulne
 Rainfall warnings are issued when significant impacts are expected due to rainfall amounts.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aa4313c104f7396de5760bf</guid>
+      <pubDate>2026-09-11T16:50:03.555Z</pubDate>
+      <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 12, 2026, at 12:00 AM and continue until September 13, 2026, at 12:00 AM. Wind effect impacts at the eastern shore from Little Black River to Wanipigow are expected to reduce in the afternoon. These winds and wave activity on Lake Winnipeg, particularly along the eastern and southern shorelines, could raise water levels as much as 0.9 to 1.5 meters with significant wave actions expected, posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Grand Marais, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
@@ -278,6 +297,273 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <pubDate>2026-09-10T14:13:20-03:00</pubDate>
       <description>Community of Inverness. The Municipality of Inverness County boil water advisory and water conservation advisory has been lifted for all users of the Inverness water system, following a water main... | Areas: Community of Inverness | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Anti-Racism Youth Cyberviolence Prevention Grant Timeline and Budget Worksheets</title>
+      <link>https://www.princeedwardisland.ca/en/publication/anti-racism-youth-cyberviolence-prevention-grant-timeline-and-budget-worksheets</link>
+      <guid isPermaLink="false">81253 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 11 Sep 2026 19:58:59 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Anti-Racism Youth Cyberviolence Prevention Grant Timeline and Budget Worksheets&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ntyeba&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-11T16:58:59-03:00" title="Friday, September 11, 2026 - 16:58"&gt;Fri, 09/11/2026 - 16:58&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-vnd-openxmlformats-officedocument-spreadsheetml-sheet file--x-office-spreadsheet"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/7a6a/Anti-Racism%20Youth%20Cyberviolence%20Prevention%20Grant%20Timeline%20and%20Budget%20Worksheets.xlsx"&gt;
+              &lt;span&gt;Anti-Racism Youth Cyberviolence Prevention Grant Timeline and Budget Worksheets.xlsx&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Anti-Racism Youth Cyberviolence Prevention Grant Scoring Matrix</title>
+      <link>https://www.princeedwardisland.ca/en/publication/anti-racism-youth-cyberviolence-prevention-grant-scoring-matrix</link>
+      <guid isPermaLink="false">81252 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 11 Sep 2026 19:56:32 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Anti-Racism Youth Cyberviolence Prevention Grant Scoring Matrix&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ntyeba&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-11T16:56:32-03:00" title="Friday, September 11, 2026 - 16:56"&gt;Fri, 09/11/2026 - 16:56&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/01c7/Anti-Racism%20Youth%20Cyberviolence%20Prevention%20Grant%20Scoring%20Matrix.pdf"&gt;
+              &lt;span&gt;Anti-Racism Youth Cyberviolence Prevention Grant Scoring Matrix.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>PEI Arts Grants Application Checklist</title>
+      <link>https://www.princeedwardisland.ca/en/publication/pei-arts-grants-application-checklist</link>
+      <guid isPermaLink="false">81250 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 11 Sep 2026 19:38:52 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PEI Arts Grants Application Checklist&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jklorch&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-11T16:38:52-03:00" title="Friday, September 11, 2026 - 16:38"&gt;Fri, 09/11/2026 - 16:38&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/6b14/PEI%20Arts%20Grants%20Application%20Checklist_EN.pdf"&gt;
+              &lt;span&gt;PEI Arts Grants Application Checklist_EN.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -733,169 +1019,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
 &lt;span class="locality"&gt;Charlottetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1E 2E8&lt;/span&gt;&lt;br /&gt;
 &lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
     &lt;/div&gt;
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Naveen</title>
-      <link>https://www.princeedwardisland.ca/en/employee/naveen-naveen</link>
-      <guid isPermaLink="false">81241 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 10 Sep 2026 21:56:11 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Naveen&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-10T18:56:11-03:00" title="Thursday, September 10, 2026 - 18:56"&gt;Thu, 09/10/2026 - 18:56&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;RCW&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                  &lt;div&gt;Health and Wellness&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Junior</title>
-      <link>https://www.princeedwardisland.ca/en/employee/junior-kofi</link>
-      <guid isPermaLink="false">81240 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 10 Sep 2026 21:39:24 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Junior&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-10T18:39:24-03:00" title="Thursday, September 10, 2026 - 18:39"&gt;Thu, 09/10/2026 - 18:39&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;LPN&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                  &lt;div&gt;Health and Wellness&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>2027 Envirothon - Current Environmental Topic</title>
-      <link>https://www.princeedwardisland.ca/en/information/land-and-environment/2027-envirothon-current-environmental-topic</link>
-      <guid isPermaLink="false">81239 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 10 Sep 2026 17:41:51 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2027 Envirothon - Current Environmental Topic&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-10T14:41:51-03:00" title="Thursday, September 10, 2026 - 14:41"&gt;Thu, 09/10/2026 - 14:41&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Maryland, host of the 2027 NCF-Envirothon international competition, has chosen the theme "&lt;a href="https://envirothon.org/2027-maryland/"&gt;&lt;strong&gt;Soil Health Management: Agricultural Principles and Stewardship&lt;/strong&gt;&lt;/a&gt;" as its Current Environmental Issue (CEI).&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Please see the synopsis below regarding the CEI:&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Soil Health Principles emphasize the importance of treating soil as a living ecosystem and are the cornerstone for resilient agriculture and ensuring the long-term protection of our natural resources. Maryland has become a national leader in soil health stewardship driven by its commitment to sustainable agriculture and Chesapeake Bay restoration. Farmers from across Maryland have integrated these principles with nutrient management and conservation strategies, making it a model for climate-smart farming. Maryland’s agricultural sector plays a vital role in protecting the Chesapeake Bay and its tributaries through the adoption of soil health practices.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Maryland’s Cover Crop Program is recognized as one of the most successful in the United States. Each year, Maryland farmers plant over 450,000 acres of cover crops, which helps reduce soil erosion, improve soil organic matter, and capture residual nutrients before they leach into waterways. Maryland Farmers also embraced conservation tillage and no-till farming, with more than 50% of cropland managed under reduced tillage systems. These practices protect soil structure, enhance microbial activity, and reduce greenhouse gas emissions. Such efforts demonstrate how healthy soils not only sustain crop productivity but also serve as a powerful tool for water quality improvement and ecosystem restoration. Farmers and conservation professionals are using soil health principles to restore degraded soils and reduce pollution. In Maryland, these efforts have directly improved the Chesapeake Bay’s water quality through reduced nutrient runoff, increased infiltration, and better soil structure. The insights gained from Maryland farmers can be applied worldwide to help promote sustainability in agricultural practices.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;This Envirothon issue explores the biological, chemical, and physical principles of soil health and their importance to sustainable agriculture. Students will learn how soil functions as a living ecosystem, how management practices affect soil processes (nutrient cycling, water dynamics, agricultural sustainability), and how to evaluate and improve soil health on farms.&lt;/em&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Please see below for resources:&amp;nbsp;&lt;/p&gt;&lt;h2&gt;Learning Resources for 2027 Current Environmental Issue&lt;/h2&gt;&lt;h4&gt;Soil Health Concepts and Definitions&lt;/h4&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;NEW as of September 10!&amp;nbsp;&lt;/strong&gt;&lt;/em&gt; &lt;a href="https://cornell.box.com/s/ryy6xgtwok5l85zzy9fgms1276drud0y"&gt;Comprehensive Assessment of Soil Health &lt;/a&gt;(focus on pages 3-11, 12-18, and 22-23)&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
 
   &lt;/div&gt;
 
