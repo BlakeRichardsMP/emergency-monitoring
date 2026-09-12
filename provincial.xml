@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:09:47 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -293,11 +293,11 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Civil Emergency (Updated)</title>
+      <title>Civil Emergency (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">DEF09189-A441-415D-ACF3-0EB3474F63FD-1</guid>
-      <pubDate>2026-09-12T11:00:48-03:00</pubDate>
-      <description>UPDATE: Home Invasion Shooting. Marion Bridge, Cape Breton, Woodbine Road area. UPDATE: Police believe they have located the suspect vehicle in the Woodbine Road area of Marion Bridge. Police... | Areas: Marion Bridge, Cape Breton, Woodbine Road area. | Level: critical</description>
+      <guid isPermaLink="false">2EF12E0B-D512-4023-B480-D73D47B55755-1</guid>
+      <pubDate>2026-09-12T14:02:24-03:00</pubDate>
+      <description>Marion Bridge, Cape Breton, Woodbine Road area. ALERT CANCELLED: Police are treating this as an isolated incident. Police believe there is no further risk to Public. Alert has been cancelled. | Areas: Marion Bridge, Cape Breton, Woodbine Road area. | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
