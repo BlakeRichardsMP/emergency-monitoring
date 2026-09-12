@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 12 Sep 2026 17:09:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:22:18 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -298,15 +298,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <guid isPermaLink="false">2EF12E0B-D512-4023-B480-D73D47B55755-1</guid>
       <pubDate>2026-09-12T14:02:24-03:00</pubDate>
       <description>Marion Bridge, Cape Breton, Woodbine Road area. ALERT CANCELLED: Police are treating this as an isolated incident. Police believe there is no further risk to Public. Alert has been cancelled. | Areas: Marion Bridge, Cape Breton, Woodbine Road area. | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Drinking Water (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">B81BB872-D2C2-4AC9-B71C-B026B6340F25-1</guid>
-      <pubDate>2026-09-10T14:13:20-03:00</pubDate>
-      <description>Community of Inverness. The Municipality of Inverness County boil water advisory and water conservation advisory has been lifted for all users of the Inverness water system, following a water main... | Areas: Community of Inverness | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
