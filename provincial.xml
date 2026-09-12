@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 12 Sep 2026 06:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:05:08 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,10 +217,31 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - YELLOW WARNING - RAINFALL - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aa275c3c7b78d594685edc0</guid>
+      <pubDate>2026-09-12T08:59:12.980Z</pubDate>
+      <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Accumulating rain continues.
+
+A low pressure system is bringing heavy rain to northeastern Manitoba.  A further 5 to 10 mm of rain is expected in Churchill today, for a storm total amount of 30 to 40 mm. 
+
+Rain will end Saturday evening.
+
+
+
+Parks and forests will likely sustain some damage. Landslides may occur in vulnerable areas such as steep slopes, deforested areas or recent burn scars.
+
+Rainfall warnings are issued when significant impacts are expected due to rainfall amounts.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
       <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6aa46900d0e572bca9bd5767</guid>
-      <pubDate>2026-09-11T20:47:58.910Z</pubDate>
+      <pubDate>2026-09-12T08:53:01.843Z</pubDate>
       <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;A strong low pressure system will bring damaging winds to Churchill.
 
 Northwest winds with gusts to 90 km/h are expected to begin Saturday morning.
@@ -230,25 +251,6 @@ Winds will ease Saturday evening.
 
 
 Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible. There is a risk of injury due to flying or falling debris.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - RAINFALL - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6aa275c3c7b78d594685edc0</guid>
-      <pubDate>2026-09-11T20:42:01.786Z</pubDate>
-      <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Accumulating rain will continue tonight and Saturday.
-
-A low pressure system is bringing heavy rain to northeastern Manitoba.  A total of 30 to 40 mm is expected. Rain will be less intense tonight but will pick up again by Saturday morning. Rain will end Saturday evening.
-
-
-
-Parks and forests will likely sustain some damage. Landslides may occur in vulnerable areas such as steep slopes, deforested areas or recent burn scars.
-
-Rainfall warnings are issued when significant impacts are expected due to rainfall amounts.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
       <source>Manitoba</source>
