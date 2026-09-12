@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 12 Sep 2026 11:05:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:07:32 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -290,6 +290,15 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Civil Emergency (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">DEF09189-A441-415D-ACF3-0EB3474F63FD-1</guid>
+      <pubDate>2026-09-12T11:00:48-03:00</pubDate>
+      <description>UPDATE: Home Invasion Shooting. Marion Bridge, Cape Breton, Woodbine Road area. UPDATE: Police believe they have located the suspect vehicle in the Woodbine Road area of Marion Bridge. Police... | Areas: Marion Bridge, Cape Breton, Woodbine Road area. | Level: critical</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
