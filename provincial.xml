@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 13 Sep 2026 01:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 06:33:54 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -214,15 +214,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-05-19T11:34:08-06:00</pubDate>
       <description>A Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun water... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6aa4313c104f7396de5760bf</guid>
-      <pubDate>2026-09-11T16:50:03.555Z</pubDate>
-      <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 12, 2026, at 12:00 AM and continue until September 13, 2026, at 12:00 AM. Wind effect impacts at the eastern shore from Little Black River to Wanipigow are expected to reduce in the afternoon. These winds and wave activity on Lake Winnipeg, particularly along the eastern and southern shorelines, could raise water levels as much as 0.9 to 1.5 meters with significant wave actions expected, posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Grand Marais, Manitoba</description>
-      <source>Manitoba</source>
     </item>
 
     <item>
