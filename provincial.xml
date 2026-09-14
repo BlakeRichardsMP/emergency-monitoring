@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 14 Sep 2026 01:22:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:45:14 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -220,8 +220,8 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW ADVISORY - FROST - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6aa742803356f3045cd82f8e</guid>
-      <pubDate>2026-09-14T00:42:34.336Z</pubDate>
-      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Temperatures are expected to drop near the freezing mark overnight into early Monday morning.
+      <pubDate>2026-09-14T06:39:48.349Z</pubDate>
+      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Patchy frost is expected early this morning as temperatures drop to near the freezing mark.
 
 
 
@@ -259,9 +259,18 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     <item>
       <title>Rainfall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2422164442.2026-1</guid>
-      <pubDate>2026-09-14T00:55:14-00:00</pubDate>
-      <description>Rain, at times heavy, is expected. Locations: Yarmouth to Lunenburg counties. Total rainfall: 30 to 50 mm, with locally higher amounts possible. Time span: ending early Monday morning. Remarks:... | Areas: Lunenburg County, Queens County, Shelburne County, Yarmouth County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3591470163.2026-1</guid>
+      <pubDate>2026-09-14T06:02:47-00:00</pubDate>
+      <description>Lunenburg County. Rain, at times heavy, is expected. Total rainfall: 30 to 50 mm, with locally higher amounts possible. Time span: ending early this morning. Remarks: Rainfall rates of 15 to 25 mm... | Areas: Lunenburg County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Rainfall (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3591470163.2026-2</guid>
+      <pubDate>2026-09-14T06:02:47-00:00</pubDate>
+      <description>Rainfall | Areas: Queens County, Shelburne County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
