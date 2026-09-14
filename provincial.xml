@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 14 Sep 2026 06:45:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:40:14 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,19 +217,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW ADVISORY - FROST - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6aa742803356f3045cd82f8e</guid>
-      <pubDate>2026-09-14T06:39:48.349Z</pubDate>
-      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Patchy frost is expected early this morning as temperatures drop to near the freezing mark.
-
-
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future | Stratton, Ontario</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE PREPARED - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a95d083c382d96f0a4ed419</guid>
@@ -257,21 +244,68 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Rainfall (Updated)</title>
+      <title>Rainfall (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3591470163.2026-1</guid>
-      <pubDate>2026-09-14T06:02:47-00:00</pubDate>
-      <description>Lunenburg County. Rain, at times heavy, is expected. Total rainfall: 30 to 50 mm, with locally higher amounts possible. Time span: ending early this morning. Remarks: Rainfall rates of 15 to 25 mm... | Areas: Lunenburg County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1424836867.2026-1</guid>
+      <pubDate>2026-09-14T07:24:40-00:00</pubDate>
+      <description>Lunenburg County. Significant rainfall is no longer expected. | Areas: Lunenburg County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Rainfall (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3591470163.2026-2</guid>
-      <pubDate>2026-09-14T06:02:47-00:00</pubDate>
-      <description>Rainfall | Areas: Queens County, Shelburne County | Level: advisory</description>
-      <source>Nova Scotia</source>
+      <title>Favro</title>
+      <link>https://www.princeedwardisland.ca/en/employee/favro-valerie</link>
+      <guid isPermaLink="false">81257 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 14 Sep 2026 11:41:35 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Favro&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ljohnston&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-14T08:41:35-03:00" title="Monday, September 14, 2026 - 08:41"&gt;Mon, 09/14/2026 - 08:41&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Bilingual Employer Outreach &amp;amp; Marketing Officer&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;Je parle français&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Office of Immigration&lt;/strong&gt;
+            &lt;div&gt;Intake Unit&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -576,7 +610,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
 &lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
       &lt;li&gt;
                     &lt;strong&gt;Land and Environment&lt;/strong&gt;
-            &lt;div&gt;Planning and Development&lt;/div&gt;
+            &lt;div&gt;Finance and Corporate Services&lt;/div&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
 
@@ -926,72 +960,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
           &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Loyalist Country&lt;/span&gt; &lt;span class="family-name"&gt;Inn&lt;/span&gt;&lt;br /&gt;
 &lt;span class="address-line1"&gt;195 Heather Moyse Drive&lt;/span&gt;&lt;br /&gt;
 &lt;span class="locality"&gt;Summerside&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1N 5R1&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Upcoming Food Safety Course - Charlottetown</title>
-      <link>https://www.princeedwardisland.ca/en/event/upcoming-food-safety-course-charlottetown</link>
-      <guid isPermaLink="false">81242 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 11 Sep 2026 13:45:54 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Upcoming Food Safety Course - Charlottetown&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-11T10:45:54-03:00" title="Friday, September 11, 2026 - 10:45"&gt;Fri, 09/11/2026 - 10:45&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Submit your online registration with full payment &lt;strong&gt;at least 24 hours before&lt;/strong&gt; the course date. Early registration is recommended to ensure seating is available.&lt;/p&gt;&lt;p&gt;Please note:&amp;nbsp;&lt;strong&gt;Subject to cancellation if minimum registration numbers are not met.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The cost is &lt;strong&gt;$57.50&lt;/strong&gt; per participant ($50 +HST) and is payable online. &lt;strong&gt;The fee is non-refundable.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/register-for-a-food-safety-course" title="Register for a Food Safety Course "&gt;Register for the course online.&amp;nbsp;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-10-20T12:00:00Z"&gt;October 20, 2026 9:00 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-10-20T19:00:00Z"&gt;October 20, 2026 4:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
-  
-    
-      
-&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
-          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Holiday Inn &lt;/span&gt; &lt;span class="family-name"&gt;Express&lt;/span&gt;&lt;br /&gt;
-&lt;span class="address-line1"&gt; 200 Capital Drive&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Charlottetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1E 2E8&lt;/span&gt;&lt;br /&gt;
 &lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
     &lt;/div&gt;
 
