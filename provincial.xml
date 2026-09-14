@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 13 Sep 2026 23:19:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 01:22:39 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,6 +217,19 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - YELLOW ADVISORY - FROST - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aa742803356f3045cd82f8e</guid>
+      <pubDate>2026-09-14T00:42:34.336Z</pubDate>
+      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Temperatures are expected to drop near the freezing mark overnight into early Monday morning.
+
+
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future | Stratton, Ontario</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
       <title>BE PREPARED - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a95d083c382d96f0a4ed419</guid>
@@ -244,11 +257,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Rainfall (Issued)</title>
+      <title>Rainfall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2749065960.2026-1</guid>
-      <pubDate>2026-09-13T18:57:01-00:00</pubDate>
-      <description>Rain, at times heavy, is expected. Locations: Yarmouth to Lunenburg counties. Total rainfall: 30 to 50 mm, with locally higher amounts possible. Time span: late this evening until early Monday... | Areas: Lunenburg County, Queens County, Shelburne County, Yarmouth County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2422164442.2026-1</guid>
+      <pubDate>2026-09-14T00:55:14-00:00</pubDate>
+      <description>Rain, at times heavy, is expected. Locations: Yarmouth to Lunenburg counties. Total rainfall: 30 to 50 mm, with locally higher amounts possible. Time span: ending early Monday morning. Remarks:... | Areas: Lunenburg County, Queens County, Shelburne County, Yarmouth County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
