@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 14 Sep 2026 18:52:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 22:16:07 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,6 +217,69 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aa852e069a384020b51a23b</guid>
+      <pubDate>2026-09-14T20:02:39.042Z</pubDate>
+      <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 14, 2026 and continue until September 15, 2026, at 4:00 PM. Wind speeds of 45 to 60 kilometers an hour, increasing to 65 to 75 early Tuesday morning with gusts of up 85 to 95 are forecasted for Monday into Tuesday. These winds and wave activity on Lake Winnipeg, particularly along the western shorelines, including the shorelines near Gimli to Riverton, could raise water levels as much as 5 feet or more with significant wave actions expected, posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Gimli, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aa8529369a384020b519f12</guid>
+      <pubDate>2026-09-14T20:01:22.580Z</pubDate>
+      <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 14, 2026 and continue until September 15, 2026, at 4:00 PM. Wind speeds of 45 to 60 kilometers an hour, increasing to 65 to 75 early Tuesday morning with gusts of up 85 to 95 are forecasted for Monday into Tuesday. These winds and wave activity on Lake Winnipeg, particularly along the southern shorelines, including the shorelines near Winnipeg Beach to Grand Marais, could raise water levels as much as 5 feet or more with significant wave actions expected, posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Grand Marais, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aa8524069a384020b519bc1</guid>
+      <pubDate>2026-09-14T19:59:59.804Z</pubDate>
+      <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 14, 2026 and continue until September 15, 2026, at 4:00 PM. Wind speeds of 45 to 60 kilometers an hour, increasing to 65 to 75 early Tuesday morning with gusts of up 85 to 95 are forecasted for Monday into Tuesday. These winds and wave activity on Lake Winnipeg, particularly along the eastern shorelines, including the shorelines near Grand Marais to Hollow Water, could raise water levels as much as 5 feet or more with significant wave actions expected, posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Grand Marais, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aa851e769a384020b519a07</guid>
+      <pubDate>2026-09-14T19:58:30.456Z</pubDate>
+      <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 14, 2026 and continue until September 15, 2026, at 4:00 PM. Wind speeds of 45 to 60 kilometers an hour, increasing to 65 to 75 early Tuesday morning with gusts of up 85 to 95 are forecasted for Monday into Tuesday. These winds and wave activity on Lake Manitoba, particularly along southern shorelines from south of Big Point to St Laurent, could raise water levels as much as 5 feet or more possible with significant wave actions expected, posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aa8517569a384020b5196c0</guid>
+      <pubDate>2026-09-14T19:56:36.452Z</pubDate>
+      <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 14, 2026 and continue until September 15, 2026, at 4:00 PM. Wind speeds of 45 to 60 kilometers an hour, increasing to 65 to 75 early Tuesday morning with gusts of up to 85 to 95 are forecasted for Monday into Tuesday. These winds and wave activity on Lake Manitoba, particularly along western shorelines from south of Big Point to north of Bluff Creek, could raise water levels as much as 5 feet or more possible with significant wave actions expected, posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aa8508d69a384020b51936f</guid>
+      <pubDate>2026-09-14T19:52:42.757Z</pubDate>
+      <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 14, 2026 and diminishing throughout the day on September 15, 2026. Wind speeds of 45 to 60 kilometers an hour forecasted for Monday into Tuesday. High wind impacts could cause lake levels to exceed flood stage posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Ochre River, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aa84ff069a384020b5191a1</guid>
+      <pubDate>2026-09-14T19:50:07.200Z</pubDate>
+      <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 14, 2026 and diminishing throughout the morning on September 15, 2026. Wind speeds of 45 to 60 kilometers an hour are forecasted for Monday into Tuesday. High wind impacts could cause lake levels to exceed flood stage posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Rock Ridge, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
       <title>BE PREPARED - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a95d083c382d96f0a4ed419</guid>
@@ -250,6 +313,95 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-14T07:24:40-00:00</pubDate>
       <description>Lunenburg County. Significant rainfall is no longer expected. | Areas: Lunenburg County | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Viral Respiratory Infections and Outbreak Management in Long-Term Care and Community Care Facilities Guidelines</title>
+      <link>https://www.princeedwardisland.ca/en/publication/viral-respiratory-infections-and-outbreak-management-in-long-term-care-and-community-0</link>
+      <guid isPermaLink="false">81269 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 14 Sep 2026 19:03:21 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Viral Respiratory Infections and Outbreak Management in Long-Term Care and Community Care Facilities Guidelines         &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-14T16:03:21-03:00" title="Monday, September 14, 2026 - 16:03"&gt;Mon, 09/14/2026 - 16:03&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/550f/Viral%20Respiratory%20Guidelines%20and%20Outbreak%20Management%20for%20LTC%20and%20CCFs%202026%20%28002%29.pdf"&gt;
+              &lt;span&gt;Viral Respiratory Guidelines and Outbreak Management for LTC and CCFs 2026 (002).pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -839,62 +991,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Taylor</title>
-      <link>https://www.princeedwardisland.ca/en/employee/taylor-erin</link>
-      <guid isPermaLink="false">81249 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 11 Sep 2026 17:14:06 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Taylor&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-11T14:14:06-03:00" title="Friday, September 11, 2026 - 14:14"&gt;Fri, 09/11/2026 - 14:14&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Manager, Policy and Planning &lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;Je parle français&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Land and Environment&lt;/strong&gt;
-            &lt;div&gt;Finance and Corporate Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
