@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:47:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 05:52:33 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,20 +217,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - SQUALL WARNING IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6aa8805546a3683e655fe460</guid>
-      <pubDate>2026-09-14T23:16:34.993Z</pubDate>
-      <description>Windstorm Warning | Squall Warning In Effect | &lt;p&gt;Squalls with wind gusts up to 35 knots are expected or occurring in the area.
-
-
-
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. For more information monitor Canadian Coast Guard radio or Weatheradio stations.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6aa852e069a384020b51a23b</guid>
@@ -263,24 +249,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
       <guid isPermaLink="false">6aa851e769a384020b519a07</guid>
       <pubDate>2026-09-14T19:58:30.456Z</pubDate>
       <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 14, 2026 and continue until September 15, 2026, at 4:00 PM. Wind speeds of 45 to 60 kilometers an hour, increasing to 65 to 75 early Tuesday morning with gusts of up 85 to 95 are forecasted for Monday into Tuesday. These winds and wave activity on Lake Manitoba, particularly along southern shorelines from south of Big Point to St Laurent, could raise water levels as much as 5 feet or more possible with significant wave actions expected, posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6aa8517569a384020b5196c0</guid>
-      <pubDate>2026-09-14T19:56:36.452Z</pubDate>
-      <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 14, 2026 and continue until September 15, 2026, at 4:00 PM. Wind speeds of 45 to 60 kilometers an hour, increasing to 65 to 75 early Tuesday morning with gusts of up to 85 to 95 are forecasted for Monday into Tuesday. These winds and wave activity on Lake Manitoba, particularly along western shorelines from south of Big Point to north of Bluff Creek, could raise water levels as much as 5 feet or more possible with significant wave actions expected, posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - THIS IS A MANITOBA EMERGENCY ALERT. THE HYDROLOGIC FORECAST CENTRE HAS ISSUED A WIND ADVISORY ALERT.</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6aa8508d69a384020b51936f</guid>
-      <pubDate>2026-09-14T19:52:42.757Z</pubDate>
-      <description>Windstorm Warning | This Is A Manitoba Emergency Alert. The Hydrologic Forecast Centre Has Issued A Wind Advisory Alert. | &lt;p&gt;High winds are forecasted to begin on September 14, 2026 and diminishing throughout the day on September 15, 2026. Wind speeds of 45 to 60 kilometers an hour forecasted for Monday into Tuesday. High wind impacts could cause lake levels to exceed flood stage posing a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Ochre River, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
