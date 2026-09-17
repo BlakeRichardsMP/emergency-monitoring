@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:50:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:42:23 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,54 +217,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW ADVISORY - FROST - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6aab0b373be81817d1e9ce6e</guid>
-      <pubDate>2026-09-16T21:33:42.200Z</pubDate>
-      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Freezing temperatures with frost are expected tonight.
-
-
-
-
-Frost advisories are issued when widespread frost or freezing temperatures are expected during the growing season.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW ADVISORY - FROST - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6aab0b35413fbd5e0c58c310</guid>
-      <pubDate>2026-09-16T21:33:39.183Z</pubDate>
-      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Freezing temperatures with frost are expected tonight.
-
-
-
-
-Frost advisories are issued when widespread frost or freezing temperatures are expected during the growing season.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW ADVISORY - FROST - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6aab0b304cff979750f4cbdb</guid>
-      <pubDate>2026-09-16T21:33:32.157Z</pubDate>
-      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Freezing temperatures with frost are expected tonight.
-
-
-
-
-Frost advisories are issued when widespread frost or freezing temperatures are expected during the growing season.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE PREPARED - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a95d083c382d96f0a4ed419</guid>
@@ -289,6 +241,667 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>911 Service Inoperative (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">30655236-33E9-4AA1-A9A8-A722333F7E92-1</guid>
+      <pubDate>2026-09-17T09:55:35-03:00</pubDate>
+      <description>Nova Scotia. 9-1-1 service has been restored and is operating normally following intermittent outages that affected some wireless and voice-over-internet-protocol (VoIP) phone users earlier today,... | Areas: Nova Scotia. | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Accessibility Supports &amp; Residential Services Reviews</title>
+      <link>https://www.princeedwardisland.ca/en/publication/accessibility-supports-residential-services-reviews</link>
+      <guid isPermaLink="false">81291 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 17 Sep 2026 14:39:12 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Accessibility Supports &amp;amp; Residential Services Reviews&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jamacleod&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T11:39:12-03:00" title="Thursday, September 17, 2026 - 11:39"&gt;Thu, 09/17/2026 - 11:39&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/8c21/Accessibility%20Supports%20and%20Residential%20Services%20Reviews%20Implementation%20Update%20-%20September%202026.pdf"&gt;
+              &lt;span&gt;Accessibility Supports and Residential Services Reviews Implementation Update - September 2026.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>2026-2027 Influenza LAIV Fact Sheet</title>
+      <link>https://www.princeedwardisland.ca/en/publication/2026-2027-influenza-laiv-fact-sheet</link>
+      <guid isPermaLink="false">81289 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 17 Sep 2026 14:22:44 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026-2027 Influenza LAIV Fact Sheet&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T11:22:44-03:00" title="Thursday, September 17, 2026 - 11:22"&gt;Thu, 09/17/2026 - 11:22&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/6c91/2026-2027%20Influenza%20LAIV%20Fact%20Sheet%20.pdf"&gt;
+              &lt;span&gt;2026-2027 Influenza LAIV Fact Sheet .pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>ANNUAL INFLUENZA IMMUNIZATION POLICY 2026-2027</title>
+      <link>https://www.princeedwardisland.ca/en/publication/annual-influenza-immunization-policy-2026-2027</link>
+      <guid isPermaLink="false">81287 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 17 Sep 2026 14:01:17 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ANNUAL INFLUENZA IMMUNIZATION POLICY 2026-2027&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T11:01:17-03:00" title="Thursday, September 17, 2026 - 11:01"&gt;Thu, 09/17/2026 - 11:01&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/304f/2026-2027%20Influenza%20Immunization%20Policy.pdf"&gt;
+              &lt;span&gt;2026-2027 Influenza Immunization Policy.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>PF.Brockton PID16535.2026Sept</title>
+      <link>https://www.princeedwardisland.ca/en/publication/pfbrockton-pid165352026sept</link>
+      <guid isPermaLink="false">81286 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 17 Sep 2026 13:54:48 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PF.Brockton PID16535.2026Sept&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T10:54:48-03:00" title="Thursday, September 17, 2026 - 10:54"&gt;Thu, 09/17/2026 - 10:54&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/8539/PF.Brockton%20PID16535.2026Sept.pdf"&gt;
+              &lt;span&gt;PF.Brockton PID16535.2026Sept.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>PF.Arlington PID95216.2026Aug</title>
+      <link>https://www.princeedwardisland.ca/en/publication/pfarlington-pid952162026aug</link>
+      <guid isPermaLink="false">81285 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 17 Sep 2026 12:32:44 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PF.Arlington PID95216.2026Aug&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T09:32:44-03:00" title="Thursday, September 17, 2026 - 09:32"&gt;Thu, 09/17/2026 - 09:32&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/690d/PF.Arlington%20PID95216.2026Aug.pdf"&gt;
+              &lt;span&gt;PF.Arlington PID95216.2026Aug.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>PF.Enmore PID23358.2026Aug</title>
+      <link>https://www.princeedwardisland.ca/en/publication/pfenmore-pid233582026aug</link>
+      <guid isPermaLink="false">81284 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 17 Sep 2026 12:19:18 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PF.Enmore PID23358.2026Aug&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T09:19:18-03:00" title="Thursday, September 17, 2026 - 09:19"&gt;Thu, 09/17/2026 - 09:19&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/1029/PF.Enmore%20PID23358.2026Aug.pdf"&gt;
+              &lt;span&gt;PF.Enmore PID23358.2026Aug.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>PF.Glengarry PID538694.2026Sep</title>
+      <link>https://www.princeedwardisland.ca/en/publication/pfglengarry-pid5386942026sep</link>
+      <guid isPermaLink="false">81283 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 17 Sep 2026 12:16:25 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PF.Glengarry PID538694.2026Sep&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T09:16:25-03:00" title="Thursday, September 17, 2026 - 09:16"&gt;Thu, 09/17/2026 - 09:16&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/53b6/PF.Glengarry%20PID538694.2026Sep.pdf"&gt;
+              &lt;span&gt;PF.Glengarry PID538694.2026Sep.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>PF.St-Hubert PID267724.2026Aug</title>
+      <link>https://www.princeedwardisland.ca/en/publication/pfst-hubert-pid2677242026aug</link>
+      <guid isPermaLink="false">81282 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 17 Sep 2026 12:12:06 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PF.St-Hubert PID267724.2026Aug&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T09:12:06-03:00" title="Thursday, September 17, 2026 - 09:12"&gt;Thu, 09/17/2026 - 09:12&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/62c2/PF.St-Hubert%20PID267724.2026Aug.pdf"&gt;
+              &lt;span&gt;PF.St-Hubert PID267724.2026Aug.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -400,625 +1013,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       &lt;/div&gt;
 
 
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Jagersten</title>
-      <link>https://www.princeedwardisland.ca/en/employee/jagersten-shawna</link>
-      <guid isPermaLink="false">81276 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 16 Sep 2026 02:37:27 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Jagersten&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;DSMACKINNON&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-15T23:37:27-03:00" title="Tuesday, September 15, 2026 - 23:37"&gt;Tue, 09/15/2026 - 23:37&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Administrative Support Worker&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Social Development and Seniors&lt;/strong&gt;
-            &lt;div&gt;Child and Family Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Choose PEI, Choose Canadian</title>
-      <link>https://www.princeedwardisland.ca/en/information/executive-council-office/choose-pei-choose-canadian</link>
-      <guid isPermaLink="false">81274 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 15 Sep 2026 14:13:02 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Choose PEI, Choose Canadian&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-15T11:13:02-03:00" title="Tuesday, September 15, 2026 - 11:13"&gt;Tue, 09/15/2026 - 11:13&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Un présentoir représentant le drapeau canadien fait de tomates rouges et de choux-fleurs blancs sur une table en bois, entouré de pieds de maïs et de citrouilles." height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/dcce/Sept_heroEJC09680_FR.jpg.webp?itok=c9FeueWq" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;h2&gt;Here at home, Islanders know how to come together.&lt;/h2&gt;&lt;p&gt;Choose Island products,&amp;nbsp;shop at local businesses,&amp;nbsp;buy Canadian whenever you can!&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;When you have the choice, buy local and buy Canadian. Every dollar spent on an Island or Canadian product supports the worker who made it, the farmer who grew it, the fisher who caught it, the producer who processed it and the business that put it on the shelf. Where we spend our hard-earned money matters. Those choices add up.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Premier Rob Lantz&lt;/p&gt;&lt;/blockquote&gt;&lt;article class="media media--type-remote-video media--view-mode-default"&gt;
-  
-      
-            &lt;div class="field field--name-field-media-oembed-video field--type-string field--label-hidden field__item"&gt;
-&lt;/div&gt;
-      
-  &lt;/article&gt;
-&lt;h2&gt;Shop Local&lt;/h2&gt;&lt;p&gt;When possible, choose &lt;strong&gt;local and Canadian-made products&lt;/strong&gt; when shopping.&lt;/p&gt;&lt;article class="align-right media media--type-image media--view-mode-default"&gt;
-  
-        &lt;img alt="Choose PEI Choose Canadian" class="image-style-large" height="223" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/620d/Choose%20PEI%20Logo%20V1.png?itok=q14HJOim" width="200" /&gt;
-
-
-
-  &lt;/article&gt;
-&lt;ul&gt;&lt;li&gt;Buying local helps:&lt;ul&gt;&lt;li&gt;Keeps money circulating within our economy.&lt;/li&gt;&lt;li&gt;Supports PEI and Canadian jobs and businesses.&lt;/li&gt;&lt;li&gt;Strengthens our economic stability.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Bottom line:&lt;/strong&gt; Support local businesses whenever you can. Choosing Canadian-made products is ideal, but every purchase made at a local business helps strengthen our economy.&lt;/p&gt;&lt;p&gt;Visit the &lt;a href="https://shoplocalpei.ca/"&gt;Shop Local&lt;/a&gt; website to find a local business to support.&lt;/p&gt;&lt;h2&gt;Tariff response supports for Island businesses&lt;/h2&gt;&lt;p&gt;PEI businesses and workers can access a range of supports to help navigate trade disruptions and economic uncertainty.&lt;/p&gt;&lt;p&gt;Connect with Innovation PEI or SkillsPEI, or visit the Government of Prince Edward Island website to find the support that best fits your business or organization.&lt;/p&gt;
-&lt;div class="rich-text alert alert-info"&gt;
-  &lt;p&gt;Learn more at &lt;a href="https://www.princeedwardisland.ca/en/information/executive-council-office/tariff-action-plan" title="Tariff Action Plan"&gt;PrinceEdwardIsland.ca/TariffResponse&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Municipal Development Permit Report</title>
-      <link>https://www.princeedwardisland.ca/en/form/municipal-development-permit-report</link>
-      <guid isPermaLink="false">81273 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 15 Sep 2026 13:52:56 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Municipal Development Permit Report&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mlwilliams&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-15T10:52:56-03:00" title="Tuesday, September 15, 2026 - 10:52"&gt;Tue, 09/15/2026 - 10:52&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeformbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Monthly report of all development permits issued in a Municipality.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/3ee0/FM-074-T-E%2C%20Development%20Permit%20Report%20-%20Fillable%2008-2026.pdf"&gt;
-              &lt;span&gt;FM-074-T-E, Development Permit Report - Fillable 08-2026.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Primary Health Care Teams - Frequently Asked Questions</title>
-      <link>https://www.princeedwardisland.ca/en/information/health-pei/primary-health-care-teams-frequently-asked-questions</link>
-      <guid isPermaLink="false">81271 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 14 Sep 2026 21:25:47 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Primary Health Care Teams - Frequently Asked Questions&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-14T18:25:47-03:00" title="Monday, September 14, 2026 - 18:25"&gt;Mon, 09/14/2026 - 18:25&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;h2&gt;Will I be assigned to a particular doctor or nurse practitioner?&amp;nbsp;&lt;/h2&gt;&lt;p&gt;No. You'll be assigned to a team of primary health care professionals,&amp;nbsp;which include&amp;nbsp;family physicians and nurse practitioners. It could also include nurses, social workers, diabetes educators, and other allied health providers.&amp;nbsp;Depending on your health needs, you may see different members of the team at different times.&lt;/p&gt;&lt;h2&gt;Will I see the same person every time?&lt;/h2&gt;&lt;p&gt;Not necessarily. You are connected to a team that includes family physicians and nurse practitioners rather than one individual family physician or nurse practitioner. You might see different family physicians and nurse practitioners on the team, or another team member, depending on your health needs and the type of care you require. The team works together to coordinate your care and provide appropriate follow-up, so you can expect the same high-quality, consistent care you'd receive from a traditional care model.&amp;nbsp;&lt;/p&gt;&lt;p&gt;This means getting the right care at the right time, since you will see the team member best suited to help.&amp;nbsp;&lt;/p&gt;&lt;h2&gt;How can I make an appointment?&lt;/h2&gt;&lt;p&gt;Your primary health care team will contact you by email or phone to get started, so wait for them to reach out first. They will ask you some questions and help you get started with the team. After that, you will be able to book appointments by phone or online.&amp;nbsp;&lt;/p&gt;&lt;h2&gt;What happens if I need care before the clinic contacts me or before my first appointment?&lt;/h2&gt;&lt;p&gt;If your condition is non-urgent:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;If you're registered for free virtual health care, book an appointment online with Maple. You will have access to free virtual health care with Maple &amp;nbsp;for an additional three months. Additionally, you could access a&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/health-pei/walk-in-clinics" title="Walk-in Clinics"&gt;walk-in clinic&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;You can also access a number of specialty services without a physician's referral. For more information, visit&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/health-pei/find-health-care" title="Find Health Care "&gt;Find Health Care&lt;/a&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;If you're unsure what to do, call 8-1-1 to speak with a registered nurse, 24 hours a day, seven days a week.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Alternatively, if you feel you need an appointment sooner, follow the instructions in your letter.&amp;nbsp;&lt;/p&gt;&lt;p&gt;For serious medical injuries and conditions, call 9-1-1 or go to your nearest emergency department immediately.&lt;/p&gt;&lt;h2&gt;Will I be able to have consistent care and follow up for my chronic condition?&amp;nbsp;&lt;/h2&gt;&lt;p&gt;Yes. Your team will work together to provide consistent care and follow-up; however you might not see the same team member at every appointment. The team will coordinate your care, so you do not have to start over each time you see someone different.&lt;/p&gt;&lt;h2&gt;What happens if&amp;nbsp;a physician or&amp;nbsp;nurse practitioner leaves?&amp;nbsp;&amp;nbsp;&lt;/h2&gt;&lt;p&gt;You remain connected to the primary health care team. If a physician, nurse practitioner, or another team member leaves, the clinic will continue to coordinate your care.&amp;nbsp;&lt;/p&gt;&lt;h2&gt;What kind of care will I get&amp;nbsp;at&amp;nbsp;this clinic?&amp;nbsp; &amp;nbsp;&lt;/h2&gt;&lt;p&gt;Your primary health care team can support many of your ongoing health needs, including assessment and treatment of health concerns, chronic disease management, prescriptions, preventative care, screening, health education and referrals to other services when needed. Different members of the team may support you depending on your needs.&lt;/p&gt;&lt;h2&gt;If I get assigned to a primary health care team, do I have to&amp;nbsp;accept?&amp;nbsp;&lt;/h2&gt;&lt;p&gt;No, you can choose to accept the offer or not. We encourage you to accept, since your new team is ready to start working with you. Through team-based care, you will have reliable access to primary health care from a group of qualified health care professionals. If you decide not to accept, you will return to the Provincial Patient Registry.&lt;/p&gt;&lt;h2&gt;If I have more questions, where can I learn more?&amp;nbsp;&lt;/h2&gt;&lt;p&gt;To learn more about this change, visit&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/health-pei/primary-health-care-teams" title="Primary Health Care Teams"&gt;HealthPEI.ca/CareTeam&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationfield-resources"&gt;
-  
-    
-      
-                                
-
-
-  &lt;div class="ew-card ew-card-quicklink-listing"&gt;
-                    
-                        &lt;h3 class="ew-card-quicklink-listing__title"&gt;
-            Resources
-          &lt;/h3&gt;
-              
-          &lt;div class="ew-card-quicklink-listing__content"&gt;
-                  &lt;ul class="tw-flex tw-flex-col tw-list-none tw-p-0"&gt;
-                          &lt;li&gt;
-                
-  	  
-
-
-
-          
-    &lt;a class="ew-button ew-button--tertiary" href="https://www.princeedwardisland.ca/en/information/health-pei/primary-health-care-teams"&gt;
-              &lt;span&gt;Primary Health Care Teams&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-arrow-right"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-              &lt;/li&gt;
-                          &lt;li&gt;
-                
-  	  
-
-
-
-          
-    &lt;a class="ew-button ew-button--tertiary" href="https://www.princeedwardisland.ca/en/information/health-pei/patient-medical-homes-in-prince-edward-island"&gt;
-              &lt;span&gt;Patient Medical Homes in Prince Edward Island&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-arrow-right"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-              &lt;/li&gt;
-                          &lt;li&gt;
-                
-  	  
-
-
-
-          
-    &lt;a class="ew-button ew-button--tertiary" href="https://www.princeedwardisland.ca/en/information/health-pei/find-health-care"&gt;
-              &lt;span&gt;Find Health Care&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-arrow-right"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-              &lt;/li&gt;
-                          &lt;li&gt;
-                
-  	  
-
-
-
-          
-    &lt;a class="ew-button ew-button--tertiary" href="https://www.princeedwardisland.ca/en/information/health-pei/frequent-health-contacts"&gt;
-              &lt;span&gt;Frequent Health Contacts&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-arrow-right"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-              &lt;/li&gt;
-                      &lt;/ul&gt;
-              &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-&lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Viral Respiratory Infections and Outbreak Management in Long-Term Care and Community Care Facilities Guidelines</title>
-      <link>https://www.princeedwardisland.ca/en/publication/viral-respiratory-infections-and-outbreak-management-in-long-term-care-and-community-0</link>
-      <guid isPermaLink="false">81269 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 14 Sep 2026 19:03:21 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Viral Respiratory Infections and Outbreak Management in Long-Term Care and Community Care Facilities Guidelines         &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-14T16:03:21-03:00" title="Monday, September 14, 2026 - 16:03"&gt;Mon, 09/14/2026 - 16:03&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/550f/Viral%20Respiratory%20Guidelines%20and%20Outbreak%20Management%20for%20LTC%20and%20CCFs%202026%20%28002%29.pdf"&gt;
-              &lt;span&gt;Viral Respiratory Guidelines and Outbreak Management for LTC and CCFs 2026 (002).pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Upcoming Volunteer Food Safety Course - Charlottetown</title>
-      <link>https://www.princeedwardisland.ca/en/event/upcoming-volunteer-food-safety-course-charlottetown</link>
-      <guid isPermaLink="false">81268 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 14 Sep 2026 17:05:10 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Upcoming Volunteer Food Safety Course - Charlottetown&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tpobrien&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-14T14:05:10-03:00" title="Monday, September 14, 2026 - 14:05"&gt;Mon, 09/14/2026 - 14:05&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Wednesday November 17, 2026&lt;/p&gt;&lt;p&gt;9am - 12pm&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Submit your online registration with full payment &lt;strong&gt;at least 24 hours before&lt;/strong&gt; the course date. Early registration is recommended to ensure seating is available.&lt;/p&gt;&lt;p&gt;Please note:&amp;nbsp;&lt;strong&gt;Subject to cancellation if minimum registration numbers are not met.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/service/volunteer-food-safety-presentations" title="Volunteer Food Safety Presentations"&gt;Register for the course online.&amp;nbsp;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-17T13:00:00Z"&gt;November 17, 2026 9:00 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-11-17T16:00:00Z"&gt;November 17, 2026 12:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Upcoming Volunteer Food Safety Course - Summerside</title>
-      <link>https://www.princeedwardisland.ca/en/event/upcoming-volunteer-food-safety-course-summerside</link>
-      <guid isPermaLink="false">81267 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 14 Sep 2026 17:03:31 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Upcoming Volunteer Food Safety Course - Summerside&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tpobrien&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-14T14:03:31-03:00" title="Monday, September 14, 2026 - 14:03"&gt;Mon, 09/14/2026 - 14:03&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Tuesday November 10, 2026&lt;/p&gt;&lt;p&gt;6pm - 9pm&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Submit your online registration with full payment &lt;strong&gt;at least 24 hours before&lt;/strong&gt; the course date. Early registration is recommended to ensure seating is available.&lt;/p&gt;&lt;p&gt;Please note:&amp;nbsp;&lt;strong&gt;Subject to cancellation if minimum registration numbers are not met.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/service/volunteer-food-safety-presentations" title="Volunteer Food Safety Presentations"&gt;Register for the course online.&amp;nbsp;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-10T22:00:00Z"&gt;November 10, 2026 6:00 pm&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-11-11T01:00:00Z"&gt;November 10, 2026 9:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Upcoming Volunteer Food Safety Course - Alberton</title>
-      <link>https://www.princeedwardisland.ca/en/event/upcoming-volunteer-food-safety-course-alberton</link>
-      <guid isPermaLink="false">81266 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 14 Sep 2026 17:02:13 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Upcoming Volunteer Food Safety Course - Alberton&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tpobrien&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-14T14:02:13-03:00" title="Monday, September 14, 2026 - 14:02"&gt;Mon, 09/14/2026 - 14:02&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Saturday November 7, 2026&lt;/p&gt;&lt;p&gt;9am - 12pm&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Submit your online registration with full payment &lt;strong&gt;at least 24 hours before&lt;/strong&gt; the course date. Early registration is recommended to ensure seating is available.&lt;/p&gt;&lt;p&gt;Please note:&amp;nbsp;&lt;strong&gt;Subject to cancellation if minimum registration numbers are not met.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/service/volunteer-food-safety-presentations" title="Volunteer Food Safety Presentations"&gt;Register for the course online.&amp;nbsp;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-07T13:00:00Z"&gt;November 7, 2026 9:00 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-11-07T16:00:00Z"&gt;November 7, 2026 12:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
   &lt;/div&gt;
 
       &lt;/div&gt;
