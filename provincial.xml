@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 17 Sep 2026 00:07:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:52:42 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -289,6 +289,62 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Riley</title>
+      <link>https://www.princeedwardisland.ca/en/employee/riley-karine</link>
+      <guid isPermaLink="false">81281 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 17 Sep 2026 01:35:08 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Riley&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;DSMACKINNON&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-16T22:35:08-03:00" title="Wednesday, September 16, 2026 - 22:35"&gt;Wed, 09/16/2026 - 22:35&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Executive Admin Assistant&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Finance and Affordability&lt;/strong&gt;
+            &lt;div&gt;Minister's Office&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -961,60 +1017,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       
             &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-07T13:00:00Z"&gt;November 7, 2026 9:00 am&lt;/time&gt;
  to &lt;time class="datetime" datetime="2026-11-07T16:00:00Z"&gt;November 7, 2026 12:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Upcoming Volunteer Food Safety Course - Lorne Valley</title>
-      <link>https://www.princeedwardisland.ca/en/event/upcoming-volunteer-food-safety-course-lorne-valley</link>
-      <guid isPermaLink="false">81265 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 14 Sep 2026 17:00:21 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Upcoming Volunteer Food Safety Course - Lorne Valley&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tpobrien&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-14T14:00:21-03:00" title="Monday, September 14, 2026 - 14:00"&gt;Mon, 09/14/2026 - 14:00&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Thursday November 5, 2026&lt;/p&gt;&lt;p&gt;6pm - 9pm&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Submit your online registration with full payment &lt;strong&gt;at least 24 hours before&lt;/strong&gt; the course date. Early registration is recommended to ensure seating is available.&lt;/p&gt;&lt;p&gt;Please note:&amp;nbsp;&lt;strong&gt;Subject to cancellation if minimum registration numbers are not met.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/service/volunteer-food-safety-presentations" title="Volunteer Food Safety Presentations"&gt;Register for the course online.&amp;nbsp;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-05T22:00:00Z"&gt;November 5, 2026 6:00 pm&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-11-06T01:00:00Z"&gt;November 5, 2026 9:00 pm&lt;/time&gt;
 &lt;/div&gt;
       
   &lt;/div&gt;
