@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 18 Sep 2026 13:05:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:04:44 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -244,20 +244,631 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>911 Service Inoperative (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">30655236-33E9-4AA1-A9A8-A722333F7E92-1</guid>
-      <pubDate>2026-09-17T09:55:35-03:00</pubDate>
-      <description>Nova Scotia. 9-1-1 service has been restored and is operating normally following intermittent outages that affected some wireless and voice-over-internet-protocol (VoIP) phone users earlier today,... | Areas: Nova Scotia. | Level: advisory</description>
-      <source>Nova Scotia</source>
+      <title>Orders in Council September 22, 2026 (897-956)</title>
+      <link>https://www.princeedwardisland.ca/en/publication/orders-in-council-september-22-2026-897-956</link>
+      <guid isPermaLink="false">81311 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 18 Sep 2026 16:53:27 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orders in Council September 22, 2026 (897-956)&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tamperry&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-18T13:53:27-03:00" title="Friday, September 18, 2026 - 13:53"&gt;Fri, 09/18/2026 - 13:53&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Orders in Council&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/b680/20260917truwww.pdf"&gt;
+              &lt;span&gt;20260917truwww.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
-      <title>FM-142-R-E, 2027 Municipal Tax Rate Certificate w Non-Resident</title>
-      <link>https://www.princeedwardisland.ca/en/form/fm-142-r-e-2027-municipal-tax-rate-certificate-w-non-resident</link>
+      <title>2026-2027 RSV Vaccine Fact Sheet</title>
+      <link>https://www.princeedwardisland.ca/en/publication/2026-2027-rsv-vaccine-fact-sheet</link>
+      <guid isPermaLink="false">81310 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 18 Sep 2026 16:50:10 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026-2027 RSV Vaccine Fact Sheet &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-18T13:50:10-03:00" title="Friday, September 18, 2026 - 13:50"&gt;Fri, 09/18/2026 - 13:50&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/4972/2026-2027%20RSV%20Vaccine%20Fact%20Sheet.pdf"&gt;
+              &lt;span&gt;2026-2027 RSV Vaccine Fact Sheet.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>2026-2027 RSV Disease Fact Sheet</title>
+      <link>https://www.princeedwardisland.ca/en/publication/2026-2027-rsv-disease-fact-sheet</link>
+      <guid isPermaLink="false">81309 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 18 Sep 2026 16:46:59 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026-2027 RSV Disease Fact Sheet&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-18T13:46:59-03:00" title="Friday, September 18, 2026 - 13:46"&gt;Fri, 09/18/2026 - 13:46&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/db00/2026-2027%20RSV%20Disease%20Fact%20Sheet.pdf"&gt;
+              &lt;span&gt;2026-2027 RSV Disease Fact Sheet.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>2026-2027 Influenza LAIV Fact Sheet</title>
+      <link>https://www.princeedwardisland.ca/en/publication/2026-2027-influenza-laiv-fact-sheet-0</link>
+      <guid isPermaLink="false">81308 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 18 Sep 2026 16:45:26 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026-2027 Influenza LAIV Fact Sheet&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-18T13:45:26-03:00" title="Friday, September 18, 2026 - 13:45"&gt;Fri, 09/18/2026 - 13:45&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/6c91/2026-2027%20Influenza%20LAIV%20Fact%20Sheet%20_0.pdf"&gt;
+              &lt;span&gt;2026-2027 Influenza LAIV Fact Sheet .pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>FM-064-R-E, Municipal Tax Rate Certificate - RM of Eastern Kings</title>
+      <link>https://www.princeedwardisland.ca/en/form/fm-064-r-e-municipal-tax-rate-certificate-rm-of-eastern-kings</link>
+      <guid isPermaLink="false">81307 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 18 Sep 2026 16:43:36 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-064-R-E, Municipal Tax Rate Certificate - RM of Eastern Kings&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mlwilliams&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-18T13:43:36-03:00" title="Friday, September 18, 2026 - 13:43"&gt;Fri, 09/18/2026 - 13:43&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeformbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;2027 Municipal Tax Rate Certificate - for use by the Administrator of RM of Eastern Kings only.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/1430/FM-064-R-E%2C%20Municipal%20Tax%20Rate%20Certificate%20-%20RM%20of%20Eastern%20Kings.pdf"&gt;
+              &lt;span&gt;FM-064-R-E, Municipal Tax Rate Certificate - RM of Eastern Kings.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>2026-2027 Influenza Inactivated Fact Sheet</title>
+      <link>https://www.princeedwardisland.ca/en/publication/2026-2027-influenza-inactivated-fact-sheet-0</link>
+      <guid isPermaLink="false">81306 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 18 Sep 2026 16:43:25 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026-2027 Influenza Inactivated Fact Sheet&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-18T13:43:25-03:00" title="Friday, September 18, 2026 - 13:43"&gt;Fri, 09/18/2026 - 13:43&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/2b78/2026-2027%20Influenza%20Inactivated%20Fact%20Sheet_0.pdf"&gt;
+              &lt;span&gt;2026-2027 Influenza Inactivated Fact Sheet.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>2026-2027 COVID-19 Vaccine Sheet - mRNA</title>
+      <link>https://www.princeedwardisland.ca/en/publication/2026-2027-covid-19-vaccine-sheet-mrna</link>
+      <guid isPermaLink="false">81305 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 18 Sep 2026 16:39:30 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026-2027 COVID-19 Vaccine Sheet - mRNA &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-18T13:39:30-03:00" title="Friday, September 18, 2026 - 13:39"&gt;Fri, 09/18/2026 - 13:39&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/9d30/2026-2027%20COVID-19%20Vaccine%20Fact%20Sheet_mRNA.pdf"&gt;
+              &lt;span&gt;2026-2027 COVID-19 Vaccine Fact Sheet_mRNA.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>FM-142-R-E, Municipal Tax Rate Certificate w Non-Resident</title>
+      <link>https://www.princeedwardisland.ca/en/form/fm-142-r-e-municipal-tax-rate-certificate-w-non-resident</link>
       <guid isPermaLink="false">81303 at https://www.princeedwardisland.ca</guid>
       <pubDate>Fri, 18 Sep 2026 12:55:58 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-142-R-E, 2027 Municipal Tax Rate Certificate w Non-Resident&lt;/span&gt;
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-142-R-E, Municipal Tax Rate Certificate w Non-Resident&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mlwilliams&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-18T09:55:58-03:00" title="Friday, September 18, 2026 - 09:55"&gt;Fri, 09/18/2026 - 09:55&lt;/time&gt;
 &lt;/span&gt;
@@ -288,8 +899,8 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
 
           
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/127d/FM-142-R-E%2C%202027%20Municipal%20Tax%20Rate%20Certificate%20w%20Non-Resident%2008-2026.pdf"&gt;
-              &lt;span&gt;FM-142-R-E, 2027 Municipal Tax Rate Certificate w Non-Resident 08-2026.pdf&lt;/span&gt;
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/3181/FM-142-R-E%2C%20Municipal%20Tax%20Rate%20Certificate%20w%20Non-Resident.pdf"&gt;
+              &lt;span&gt;FM-142-R-E, Municipal Tax Rate Certificate w Non-Resident.pdf&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
@@ -339,11 +950,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>FM-063-R-E, 2027 Municipal Tax Rate Certificate</title>
-      <link>https://www.princeedwardisland.ca/en/form/fm-063-r-e-2027-municipal-tax-rate-certificate</link>
+      <title>FM-063-R-E, Municipal Tax Rate Certificate</title>
+      <link>https://www.princeedwardisland.ca/en/form/fm-063-r-e-municipal-tax-rate-certificate</link>
       <guid isPermaLink="false">81302 at https://www.princeedwardisland.ca</guid>
       <pubDate>Fri, 18 Sep 2026 12:53:33 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-063-R-E, 2027 Municipal Tax Rate Certificate &lt;/span&gt;
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-063-R-E, Municipal Tax Rate Certificate &lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mlwilliams&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-18T09:53:33-03:00" title="Friday, September 18, 2026 - 09:53"&gt;Fri, 09/18/2026 - 09:53&lt;/time&gt;
 &lt;/span&gt;
@@ -354,7 +965,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;2027 Municipal Tax Rate Certificate 08-2026 - without Non-Resident category - for use by Municipal Administrators only&lt;/p&gt;&lt;/div&gt;
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;2027 Municipal Tax Rate Certificate - without Non-Resident category - for use by Municipal Administrators only&lt;/p&gt;&lt;/div&gt;
       
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
@@ -374,8 +985,8 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
 
           
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/e81e/FM-063-R-E%2C%202027%20Municipal%20Tax%20Rate%20Certificate%2008-2026.pdf"&gt;
-              &lt;span&gt;FM-063-R-E, 2027 Municipal Tax Rate Certificate 08-2026.pdf&lt;/span&gt;
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/913a/FM-063-R-E%2C%20Municipal%20Tax%20Rate%20Certificate.pdf"&gt;
+              &lt;span&gt;FM-063-R-E, Municipal Tax Rate Certificate.pdf&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
@@ -425,11 +1036,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>FM-143-R-E, 2027 Fire District Tax Rate Certificate - Mill Rate</title>
-      <link>https://www.princeedwardisland.ca/en/form/fm-143-r-e-2027-fire-district-tax-rate-certificate-mill-rate</link>
+      <title>FM-143-R-E, Fire District Tax Rate Certificate - Mill Rate</title>
+      <link>https://www.princeedwardisland.ca/en/form/fm-143-r-e-fire-district-tax-rate-certificate-mill-rate</link>
       <guid isPermaLink="false">81301 at https://www.princeedwardisland.ca</guid>
       <pubDate>Fri, 18 Sep 2026 12:49:09 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-143-R-E, 2027 Fire District Tax Rate Certificate - Mill Rate&lt;/span&gt;
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-143-R-E, Fire District Tax Rate Certificate - Mill Rate&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mlwilliams&lt;/span&gt;&lt;/span&gt;
 &lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-18T09:49:09-03:00" title="Friday, September 18, 2026 - 09:49"&gt;Fri, 09/18/2026 - 09:49&lt;/time&gt;
 &lt;/span&gt;
@@ -460,8 +1071,8 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
 
           
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/b129/FM-143-R-E%2C%202027%20Fire%20District%20Tax%20Rate%20Certificate%20-%20Mill%20Rate%2008-2026.pdf"&gt;
-              &lt;span&gt;FM-143-R-E, 2027 Fire District Tax Rate Certificate - Mill Rate 08-2026.pdf&lt;/span&gt;
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/0c64/FM-143-R-E%2C%20Fire%20District%20Tax%20Rate%20Certificate%20-%20Mill%20Rate.pdf"&gt;
+              &lt;span&gt;FM-143-R-E, Fire District Tax Rate Certificate - Mill Rate.pdf&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
@@ -477,554 +1088,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>FM-062-R-E, 2027 Fire District Tax Rate Certificate - Flat Rate</title>
-      <link>https://www.princeedwardisland.ca/en/form/fm-062-r-e-2027-fire-district-tax-rate-certificate-flat-rate</link>
-      <guid isPermaLink="false">81300 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 18 Sep 2026 12:43:07 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-062-R-E, 2027 Fire District Tax Rate Certificate - Flat Rate&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mlwilliams&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-18T09:43:07-03:00" title="Friday, September 18, 2026 - 09:43"&gt;Fri, 09/18/2026 - 09:43&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeformbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;2027 Fire District Tax Rate Certificate - Flat Rate - For use by Fire District council members only&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/28d8/FM-062-R-E%2C%202027%20Fire%20District%20Tax%20Rate%20Certificate%20-%20Flat%20Rate%2008-2026.pdf"&gt;
-              &lt;span&gt;FM-062-R-E, 2027 Fire District Tax Rate Certificate - Flat Rate 08-2026.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>New youth cyberviolence prevention funding added to Anti-Racism Grants</title>
-      <link>https://www.princeedwardisland.ca/en/news/new-youth-cyberviolence-prevention-funding-added-to-anti-racism-grants</link>
-      <guid isPermaLink="false">81296 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 17 Sep 2026 17:15:56 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New youth cyberviolence prevention funding added to Anti-Racism Grants  &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T14:15:56-03:00" title="Thursday, September 17, 2026 - 14:15"&gt;Thu, 09/17/2026 - 14:15&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Young people, individuals and organizations can apply for new funding through the Anti-Racism Youth Cyberviolence Prevention Grants to support projects that prevent and address&amp;nbsp;cyberbullying and other forms of cyberviolence.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The grant will help advance&amp;nbsp;the&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/justice-and-public-safety/provincial-youth-cyberviolence-prevention-strategy"&gt;Provincial Youth Cyberviolence Prevention Strategy&lt;/a&gt; by funding community-based and youth-centered projects that create safer, more inclusive online spaces for young people in PEI. It will also help promote anti-racism, build digital skills, and reduce barriers.&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Government is pleased to support community-led initiatives that help prevent cyberviolence and promote anti-racism. We hope that this funding will assist young people to build the skills, knowledge, and connections they need to create safer and more inclusive online communities.”&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt;- Premier Rob Lantz&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Funding is available through three streams:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Youth and individual applicants can&amp;nbsp;apply for amounts up to $2,500&lt;/li&gt;&lt;li&gt;Communities, organizations, and charities can&amp;nbsp;apply for amounts up to $5,000&lt;/li&gt;&lt;li&gt;Larger community projects by organizations can apply for amounts&amp;nbsp;up to $25,000&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;“We live in a time of fast-moving technology, and it’s important to draw on community knowledge and expertise to better address cyberbullying and other forms of cyberviolence,” said Minister of Justice and Public Safety Bloyce Thompson&lt;em&gt;.&lt;/em&gt; “When we connect these projects with work underway across government, we are taking meaningful action to protect Island youth.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;Eligible projects must align with one or more of the following goals, among others:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Delivering workshops, presentations, and training on cyberviolence prevention, digital and media literacy, online safety and discriminatory online risks&lt;/li&gt;&lt;li&gt;Leading youth engagement initiatives, including youth leadership, peer education, mentorship, advocacy or projects that amplify youth voice and participation&lt;/li&gt;&lt;li&gt;Building community and organizational capacity to prevent and respond to cyberviolence through training and more&lt;/li&gt;&lt;li&gt;Developing culturally appropriate and privacy protective approaches to understand and measure marginalized youth’s online safety experiences&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Applications will be accepted until&amp;nbsp;&lt;strong&gt;11:59 p.m. on October 30, 2026&lt;/strong&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;For more information about the grant and to apply, visit&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/executive-council-office/anti-racism-youth-cyberviolence-prevention-grant"&gt;Anti-Racism Youth Cyberviolence Prevention Grant&lt;/a&gt;. &amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;br /&gt;Nicole Yeba&lt;br /&gt;Executive Council Office&lt;br /&gt;&lt;a href="mailto:ntyeba@gov.pe.ca"&gt;ntyeba@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>PF.Roseville PID1842.2026Aug</title>
-      <link>https://www.princeedwardisland.ca/en/publication/pfroseville-pid18422026aug</link>
-      <guid isPermaLink="false">81295 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 17 Sep 2026 16:28:50 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PF.Roseville PID1842.2026Aug&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T13:28:50-03:00" title="Thursday, September 17, 2026 - 13:28"&gt;Thu, 09/17/2026 - 13:28&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/aa71/PF.Roseville%20PID1842.2026Aug.pdf"&gt;
-              &lt;span&gt;PF.Roseville PID1842.2026Aug.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Summerside and Province provide update on Sunbank monitoring</title>
-      <link>https://www.princeedwardisland.ca/en/news/summerside-and-province-provide-update-on-sunbank-monitoring</link>
-      <guid isPermaLink="false">81294 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 17 Sep 2026 16:17:59 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Summerside and Province provide update on Sunbank monitoring&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T13:17:59-03:00" title="Thursday, September 17, 2026 - 13:17"&gt;Thu, 09/17/2026 - 13:17&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The City of Summerside and the Government of Prince Edward Island continue to work together to monitor conditions following the battery fire at the Sunbank site.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The situation remains stable. Air quality monitoring conducted in the community and reviewed by public health officials continues to indicate there is no evidence of a health risk to residents from the fire. Testing of Summerside's drinking water has also been completed and confirms the water is safe to drink.&lt;/p&gt;&lt;p&gt;The Chief Public Health Office has recommended that air quality monitoring continue at the site and, out of an abundance of caution, that additional air quality testing be conducted around the established monitoring perimeter.&lt;/p&gt;&lt;p&gt;The City of Summerside continues to lead response and environmental monitoring efforts, with support from the Chief Public Health Office, the Department of Land and Environment, emergency management partners and independent technical experts.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"I have reviewed the air quality monitoring results from last week and have continued to monitor the information as it becomes available. Based on the results to date, residents of Summerside should feel confident in the quality of both the air and drinking water and can continue their normal day-to-day activities. We will continue to support the City and environmental experts as longer-term monitoring plans for air, soil and water are developed and implemented."&lt;/p&gt;&lt;p&gt;- Chief Public Health Officer Dr. Heather Morrison&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;While conditions at the site have stabilized, the Summerside Fire Department continues to actively monitor the scene. Battery fires can take longer to fully extinguish than traditional structure fires. The Chief Public Health Office has recommended that air quality monitoring continue while the Summerside Fire Department considers the site to be an active fire scene, and out of an abundance of caution that more air quality tests be added to the perimeter around the area.&lt;/p&gt;&lt;p&gt;"The health and safety of our residents remains our top priority," said Cory Snow, Deputy Mayor City of Summerside. "The City will continue to work closely with provincial partners and technical experts as we assess results and plan for ongoing monitoring. We are committed to keeping residents informed and sharing information as it becomes available."&lt;/p&gt;&lt;p&gt;The City is developing a longer-term environmental monitoring plan for the area surrounding the Sunbank site. The plan will include ongoing air, water and soil sampling and will be reviewed with provincial environmental and public health officials to help identify and monitor any potential impacts over time.&lt;/p&gt;&lt;p&gt;If the fire restarts, people who are sensitive to smoke or who have respiratory conditions such as asthma or COPD may choose to limit outdoor activity if they experience irritation or symptoms. Anyone experiencing persistent breathing difficulties or other concerning symptoms should seek medical advice.&lt;/p&gt;&lt;p&gt;Testing of Summerside's drinking water has also been completed and confirms the water is safe to drink.&lt;/p&gt;&lt;p&gt;&amp;nbsp;For residents with home vegetable gardens, based on advice from national experts, a possible impact of smoke exposure from the fire is the deposition of particles on the surface of fruits and vegetables. Thorough washing of produce before consumption is recommended. For produce that cannot be easily washed, removing outer layers, such as the outer leaves of lettuce or cabbage, is also recommended. Properly washed garden produce is not expected to pose a risk to human health.&lt;/p&gt;&lt;p&gt;The City and Province thank residents for their patience, cooperation and understanding as response and monitoring efforts continue.&lt;/p&gt;&lt;p&gt;If the level of health risk changes, residents will be informed immediately. Based on all available information today, residents can continue their normal day-to-day activities while response and monitoring efforts continue.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media Contacts&lt;/strong&gt;&lt;br /&gt;Tanner Doiron&lt;br /&gt;City of Summerside&lt;br /&gt;&lt;a href="mailto:publicrelations@summerside.ca"&gt;publicrelations@summerside.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Autumn Tremere&lt;br /&gt;Department of Health and Wellness&lt;br /&gt;&lt;a href="mailto:agtremere@gov.pe.ca"&gt;agtremere@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Morgan Martin&lt;br /&gt;Department of Land and Environment&lt;br /&gt;&lt;a href="mailto:mxmartin@gov.pe.ca"&gt;mxmartin@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>PEI Agriculture Energy Systems Pilot Program - Research Guidelines</title>
-      <link>https://www.princeedwardisland.ca/en/publication/pei-agriculture-energy-systems-pilot-program-research-guidelines</link>
-      <guid isPermaLink="false">81293 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 17 Sep 2026 15:53:33 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;	PEI Agriculture Energy Systems Pilot Program - Research Guidelines&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T12:53:33-03:00" title="Thursday, September 17, 2026 - 12:53"&gt;Thu, 09/17/2026 - 12:53&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Guidelines for PEI Agriculture Energy Systems Pilot Program - Research&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/4f54/af_AESPP_AER_GUIDELINES.pdf"&gt;
-              &lt;span&gt;af_AESPP_AER_GUIDELINES.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>PEI Agriculture Energy Systems Pilot Program - Reseach  Application Form</title>
-      <link>https://www.princeedwardisland.ca/en/form/pei-agriculture-energy-systems-pilot-program-reseach-application-form</link>
-      <guid isPermaLink="false">81292 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 17 Sep 2026 15:52:06 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PEI Agriculture Energy Systems Pilot Program - Reseach  Application Form&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T12:52:06-03:00" title="Thursday, September 17, 2026 - 12:52"&gt;Thu, 09/17/2026 - 12:52&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeformbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Application form for PEI Agriculture Energy Systems Pilot Program - Research&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/fdbe/af_AESPP__AER_APPLICATION.pdf"&gt;
-              &lt;span&gt;af_AESPP__AER_APPLICATION.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Accessibility Supports &amp; Residential Services Reviews</title>
-      <link>https://www.princeedwardisland.ca/en/publication/accessibility-supports-residential-services-reviews</link>
-      <guid isPermaLink="false">81291 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 17 Sep 2026 14:39:12 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Accessibility Supports &amp;amp; Residential Services Reviews&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jamacleod&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-17T11:39:12-03:00" title="Thursday, September 17, 2026 - 11:39"&gt;Thu, 09/17/2026 - 11:39&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/8c21/Accessibility%20Supports%20and%20Residential%20Services%20Reviews%20Implementation%20Update%20-%20September%202026.pdf"&gt;
-              &lt;span&gt;Accessibility Supports and Residential Services Reviews Implementation Update - September 2026.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
   
     
       
