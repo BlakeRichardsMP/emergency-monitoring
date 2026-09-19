@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 19 Sep 2026 03:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:13:24 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -241,6 +241,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Frost (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1663318297.2026-1</guid>
+      <pubDate>2026-09-19T08:10:34-00:00</pubDate>
+      <description>Conditions are favourable for the development of frost tonight. Locations: northern Nova Scotia. Minimum temperatures: plus 5 to plus 2 (coolest in low-lying areas). Time span: early Sunday... | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
