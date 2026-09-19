@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 19 Sep 2026 21:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 23:04:52 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -263,8 +263,8 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     <item>
       <title>Frost (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1121802886.2026-1</guid>
-      <pubDate>2026-09-19T18:41:10-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2890615465.2026-1</guid>
+      <pubDate>2026-09-19T22:55:43-00:00</pubDate>
       <description>Conditions are favourable for the development of frost tonight. Locations: Most of mainland Nova Scotia. Minimum temperatures: plus 5 to plus 2 (coolest in low-lying areas). Time span: early Sunday... | Areas: Kings County, Annapolis County, Lunenburg County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
