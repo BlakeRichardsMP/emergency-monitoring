@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 19 Sep 2026 12:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:04:27 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,6 +217,23 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - YELLOW ADVISORY - FROST - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6aaea940b84e35b56bf754d3</guid>
+      <pubDate>2026-09-19T15:24:44.180Z</pubDate>
+      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Freezing temperatures with frost are expected tonight.
+
+Patchy frost is expected early Sunday morning as temperatures fall to near the freezing mark.
+
+
+
+Damage to plants, trees, and crops is possible.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
       <title>BE PREPARED - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a95d083c382d96f0a4ed419</guid>
@@ -244,11 +261,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Frost (Issued)</title>
+      <title>Frost (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1663318297.2026-1</guid>
-      <pubDate>2026-09-19T08:10:34-00:00</pubDate>
-      <description>Conditions are favourable for the development of frost tonight. Locations: northern Nova Scotia. Minimum temperatures: plus 5 to plus 2 (coolest in low-lying areas). Time span: early Sunday... | Areas: Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1982305709.2026-1</guid>
+      <pubDate>2026-09-19T13:51:07-00:00</pubDate>
+      <description>Conditions are favourable for the development of frost tonight. Locations: Most of mainland Nova Scotia. Minimum temperatures: plus 5 to plus 2 (coolest in low-lying areas). Time span: early Sunday... | Areas: Kings County, Annapolis County, Lunenburg County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
