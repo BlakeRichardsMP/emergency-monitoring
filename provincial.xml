@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 20 Sep 2026 06:16:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 11:42:12 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -220,10 +220,8 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW ADVISORY - FROST - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6aaea940b84e35b56bf754d3</guid>
-      <pubDate>2026-09-20T03:07:34.396Z</pubDate>
-      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Freezing temperatures with frost are expected tonight.
-
-Patchy frost is expected early Sunday morning as temperatures fall to near the freezing mark.
+      <pubDate>2026-09-20T08:35:12.547Z</pubDate>
+      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Patchy frost is expected early this morning as temperatures fall to near the freezing mark.
 
 
 
@@ -261,11 +259,11 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Frost (Updated)</title>
+      <title>Frost (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2890615465.2026-1</guid>
-      <pubDate>2026-09-19T22:55:43-00:00</pubDate>
-      <description>Conditions are favourable for the development of frost tonight. Locations: Most of mainland Nova Scotia. Minimum temperatures: plus 5 to plus 2 (coolest in low-lying areas). Time span: early Sunday... | Areas: Kings County, Annapolis County, Lunenburg County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0719108470.2026-1</guid>
+      <pubDate>2026-09-20T08:05:27-00:00</pubDate>
+      <description>Temperatures will rise shortly after sunrise. | Areas: Kings County, Annapolis County, Lunenburg County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
