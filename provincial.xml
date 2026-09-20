@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 20 Sep 2026 14:52:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:59:17 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -219,9 +219,13 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>BE ALERT - YELLOW ADVISORY - FROST - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6aaea940b84e35b56bf754d3</guid>
-      <pubDate>2026-09-20T08:35:12.547Z</pubDate>
-      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Patchy frost is expected early this morning as temperatures fall to near the freezing mark.
+      <guid isPermaLink="false">6aaff6783245064e1a43cee9</guid>
+      <pubDate>2026-09-20T16:51:11.204Z</pubDate>
+      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Freezing temperatures with frost are expected tonight.
+
+Patchy frost is expected early Monday morning as temperatures fall to near the freezing mark.
+
+The frost advisory season for this region will come to an end on Monday, but frost may be possible again late Monday night into Tuesday morning.
 
 
 
