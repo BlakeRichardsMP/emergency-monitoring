@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 22 Sep 2026 18:06:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:19:05 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -241,6 +241,96 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-07-22T09:14:19.811-05:00</pubDate>
       <description>Flood Advisory | MUNICIPALITY OF ROBLIN and RM OF RIDING MOUNTAIN WEST | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Dropmore, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Frost (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1356493495.2026-1</guid>
+      <pubDate>2026-09-22T18:39:44-00:00</pubDate>
+      <description>Conditions are favourable for the development of frost tonight. Minimum temperatures: plus 2. Time span: late tonight and early Wednesday morning, possibly forming again Thursday morning. Remarks:... | Areas: Kings County, Annapolis County, Lunenburg County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Cabinet visit highlights growth and partnership at Abegweit First Nation</title>
+      <link>https://www.princeedwardisland.ca/en/news/cabinet-visit-highlights-growth-and-partnership-at-abegweit-first-nation</link>
+      <guid isPermaLink="false">81329 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 22 Sep 2026 17:45:51 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cabinet visit highlights growth and partnership at Abegweit First Nation&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-22T14:45:51-03:00" title="Tuesday, September 22, 2026 - 14:45"&gt;Tue, 09/22/2026 - 14:45&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="Cabinet with Chief of Abegweit First Nation Junior Gould" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/d1e1/Cabinet%20visit%20highlights%20growth%20and%20partnership%20at%20Abegweit%20First%20Nation.jpg.webp?itok=yyhRK3ef" title="Cabinet visit highlights growth and partnership at Abegweit First Nation" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Provincial Cabinet met with Abegweit First Nation leadership in Scotchfort today to discuss shared priorities, community growth and opportunities to continue working together.&lt;/p&gt;&lt;p&gt;During the visit, Premier Rob Lantz announced $20,000 in provincial funding, through the Indigenous Relations Secretariat, to support Abegweit First Nation as it develops its next five-year strategic plan. The Abegweit-led plan will identify community priorities and help guide future development.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Abegweit’s previous 2020–2025 strategic plan identified social, economic and environmental priorities and helped guide growth and development in the community.&lt;/p&gt;&lt;p&gt;Cabinet members also toured recent and ongoing developments in Scotchfort and heard directly from Chief Junior Gould and community leadership about Abegweit’s priorities for the years ahead.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“There is a great deal of exciting work underway in Abegweit, and it was meaningful for Cabinet to witness that progress firsthand and hear directly from Chief Gould and community leaders about their goals for the future. We value the strong partnership we have built with Abegweit First Nation and are proud to support the community as it continues to grow and thrive. Together, we will keep building on this progress and advancing reconciliation,”&lt;br /&gt;&lt;br /&gt;- &amp;nbsp;Premier Rob Lantz&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Recent development in Abegweit has included new housing, active transportation infrastructure and community facilities, with further work planned in areas including recreation, health and economic development.&lt;/p&gt;&lt;p&gt;"The growth at Abegweit First Nation is more than building infrastructure, it’s about creating opportunities for our people and building a stronger future right here at home. Having government leaders seeing this progress firsthand, helps them to understand what it means our community, the people who call it home and the positive contribution Abegweit makes to the Province of Prince Edward Island,” said Chief of Abegweit First Nation Junior Gould.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quick facts:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://abegweit.ca/wp-content/uploads/2023/11/Abegweit-FN-Strategic-Plan-2020-2025-March-2020_Compressed-Version.pdf"&gt;Abegweit First Nation’s 2020–2025 strategic plan&lt;/a&gt; focused on social, economic and environmental priorities and sustainable community development.&lt;/li&gt;&lt;li&gt;In 2024, the Government of Prince Edward Island&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/news/a-new-recreation-centre-is-coming-to-abegweit-first-nation"&gt;committed $8 million toward the Abegweit Community Recreation Centre&lt;/a&gt;, alongside a $9 million investment from the Government of Canada. The new recreation centre is planned as a net-zero facility connected to Abegweit Connects, with space for recreation, Mawi’omi celebrations, regional events and Mi’kmaw culture and language. It will also serve as a warming and cooling centre for the region during extreme weather events.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Other community development underway or planned includes a new health centre and cultural and&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/news/abegweit-first-nation-to-benefit-from-active-transportation-and-social-infrastructure"&gt;active transportation along the Hillsborough River&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Find out more about&amp;nbsp;&lt;a href="https://abegweit.ca/"&gt;Abegweit First Nation&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Boilerplate:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Abegweit First Nation is a proud Mi’kmaq Band that traces its roots to Epekwitk (Prince Edward Island), dating back 10,000 years according to oral tradition and archaeological evidence. The official creation of the Abegweit First Nation occurred on March 7th, 1972. Originally, all Mi’kmaq on Epekwitk were a part of one band, the Lennox Island First Nation. The formation of a new Band was proposed as a means of better serving the needs of community members in Eastern PEI, a fair distance from the Lennox Island reserve in Western PEI. An overwhelming majority voted in favour of forming a new Band and Abegweit First Nation was formed. It is comprised of the Morell, Rocky Point, and Scotchfort reserves.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media Contacts:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nicole Yeba&lt;br /&gt;Executive Council Office&lt;br /&gt;&lt;a href="mailto:ntyeba@gov.pe.ca"&gt;ntyeba@gov.pe.ca&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Olive Crane&lt;br /&gt;Director of Intergovernmental Affairs and Strategic Planning&lt;br /&gt;Abegweit First Nation&lt;br /&gt;&lt;a href="mailto:omcrane@abegweit.ca"&gt;omcrane@abegweit.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -839,87 +929,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
       
             &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The provincial government is continuing to support local organizations that help address food insecurity across Prince Edward Island.&lt;/p&gt;&lt;p&gt;The&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/social-development-and-seniors/community-food-fund"&gt;Community Food Fund&lt;/a&gt; provides grants ranging from $1000 to $10,000 to eligible community-based organizations to help stabilize the food supply for vulnerable PEI residents.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Creating a stronger, healthier province starts with ensuring everyone has access to nutritious food. This fund supports the many dedicated community organizations leading this important work. We appreciate everything you do to help Islanders access the services they need to thrive and reach their full potential.”&lt;/p&gt;&lt;p&gt;&lt;br /&gt;- Minister of Social Development and Seniors Barb Ramsay&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The following are examples of services which are eligible for funding support:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Food banks&lt;/li&gt;&lt;li&gt;Community fridges&lt;/li&gt;&lt;li&gt;Food cupboards&lt;/li&gt;&lt;li&gt;Food pantries&lt;/li&gt;&lt;li&gt;Food hampers&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Applicants must submit a completed&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;application form, which includes organizational details, service delivery information, and a proposed spending plan. Only one application per organization will be accepted.&lt;/p&gt;&lt;p&gt;The deadline to apply is 4 p.m. on Monday, October 5, 2026.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contac&lt;/strong&gt;t:&lt;br /&gt;Hillary Proctor&amp;nbsp;&lt;br /&gt;Department of Social Development and Seniors&lt;br /&gt;&lt;a href="mailto:hpoctor@gov.pe.ca"&gt;hproctor@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Government to take immediate action to dismantle IRAC and build new regulatory bodies with more transparency, and more accountability for Islanders</title>
-      <link>https://www.princeedwardisland.ca/en/news/government-to-take-immediate-action-to-dismantle-irac-and-build-new-regulatory-bodies-with</link>
-      <guid isPermaLink="false">81315 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 21 Sep 2026 15:59:33 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Government to take immediate action to dismantle IRAC and build new regulatory bodies with more transparency, and more accountability for Islanders&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-21T12:59:33-03:00" title="Monday, September 21, 2026 - 12:59"&gt;Mon, 09/21/2026 - 12:59&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Minister of Justice and Public Safety Bloyce Thompson, Minister of Land and Environment Darlene Compton, Minister of Energy Jill Burridge, Premier Rob Lantz, Minister of Education and Early Years Robin Croucher, and Minister of Housing and Communities Kent Dollar" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/5b94/Government%20to%20take%20immediate%20action%20to%20dismantle%20IRAC.jpg.webp?itok=pGCmwZJD" title="Government to take immediate action to dismantle IRAC and build new regulatory bodies with more transparency, and more accountability for Islanders" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Following the release Friday of the Interim Report of the Independent Review of the Island Regulatory and Appeals Commission, Premier Rob Lantz announced today that government is moving immediately to begin dismantling IRAC’s single, 35-year-old structure and replacing it with two focused specialized bodies: the PEI Energy and Utilities Board and the PEI Land and Appeals Board, both will be supported by a shared administrative tribunal.&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"IRAC was created in 1991 to bring three separate bodies under one roof. Thirty-five years later, that same organization is being asked to set electricity rates, protect farmland, hear tenant disputes and decide planning appeals, all at once. That model is no longer working for Prince Edward Island and change is needed. The Commission, led by Rory Francis, has given Islanders a clear, evidence-based roadmap for what comes next. We are not going to wait for the final report on November 1st to start doing our part of the work."&lt;/p&gt;&lt;p&gt;-Premier Rob Lantz&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Work on all recommendations directed at the government will begin immediately while the report is being finalized, with immediate focus on:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bringing forward legislation that will be debated this Fall to dismantle IRAC and establish the PEI Energy and Utilities Board and the PEI Land and Appeals Board as independent, specialized decision-making bodies.&amp;nbsp; These bodies will be more transparent and make decisions faster.&lt;/li&gt;&lt;li&gt;Standing up a Transition Team, to plan the move to the new structure while ensuring no active appeal, application, license or rate proceeding is delayed, restarted, or disadvantaged.&lt;/li&gt;&lt;li&gt;Separating of the Residential Tenancy Office from IRAC, giving it its own office and budget.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Establish a modern, merit-based Commissioner appointment process that includes defined terms, an external and independent recruitment committee, and mandatory performance reviews of all commissioners.&lt;/li&gt;&lt;li&gt;Having IRAC move immediately on the Commission’s recommendation for an interim electricity-adequacy plan.&lt;/li&gt;&lt;li&gt;Establishing a Consumer Advocate/Intervenor to ensure that ratepayers and Islanders are sufficiently represented before the regulators.&lt;/li&gt;&lt;li&gt;Formalizing a communications protocol with IRAC that will transfer to the new regulatory bodies so that the legislative and systemic problems it identifies through its daily work reach government directly and transparently.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Reviewing outdated policies and practices that no longer serve their purpose and cutting unnecessary bureaucracy and ambiguity out of the regulatory process.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Government will be releasing progress reports on the recommendations of the Independent Review regularly and will be legislating a requirement for an independent external review of the new proposed entities every six years going forward.&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt;"This is an interim report, and we respect that the Review still has work to do before the final report is made available. But our government is not waiting on the final report to start the work that needs to be done. Where a recommendation is ours to act on, it doesn't need a final report to be published, and Islanders don't need to wait any longer for a regulatory and appeals system that is more transparent, more focused, and more accountable to the people they are intended to serve."&lt;/p&gt;&lt;p&gt;- Premier Rob Lantz&lt;/p&gt;&lt;p&gt;Islanders can provide feedback on the interim report until October 2. The commission will consider that input before submitting its final report on November 1.&lt;/p&gt;&lt;p&gt;To read the interim report, or provide feedback visit, &lt;a href="https://iracreview.ca/Reports/"&gt;here&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Nicole Yeba&lt;br /&gt;Executive Council Office&lt;br /&gt;&lt;a href="mailto:ntyeba@gov.pe.ca"&gt;ntyeba@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Background:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Independent Review was established in May 2026 under the Public Inquiries Act and operates at arm's length from both government and IRAC.&lt;/li&gt;&lt;li&gt;The Interim Report, released by Commissioner Francis on September 18, 2026, is the first independent, arm's-length examination of IRAC since it was created in 1991. It draws on public hearings in five communities, 20 public presentations, 63 written submissions, and more than 40 meetings with community groups, municipalities, industry and IRAC itself.&amp;nbsp;&lt;/li&gt;&lt;li&gt;The Interim Report contains approximately 65 recommendations: 35 directed to the provincial government, 17 to IRAC or its successor organizations, and 13 to other bodies, including the Residential Tenancy Office.&lt;/li&gt;&lt;li&gt;IRAC currently administers 29 provincial statutes.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
       
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
