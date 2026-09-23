@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 23 Sep 2026 07:23:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:54:42 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -226,6 +226,21 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - YELLOW ADVISORY - FROST - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6ab39c8afe619091e8baf628</guid>
+      <pubDate>2026-09-23T09:33:33.428Z</pubDate>
+      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Patchy frost is possible in some areas this morning.
+
+
+
+Damage to plants, trees, and crops is possible.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future | Stratton, Ontario</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
       <title>BE PREPARED - MOSSEY RIVER MUNICIPALITY, MUNICIPALITY OF STE. ROSE, RM OF DAUPHIN AND RM OF LAKESHORE</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6a95d083c382d96f0a4ed419</guid>
@@ -255,10 +270,63 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Frost (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1971570098.2026-1</guid>
-      <pubDate>2026-09-23T01:52:32-00:00</pubDate>
-      <description>Conditions are favourable for the development of frost tonight. Minimum temperatures: plus 2. Time span: late tonight and early Wednesday morning, possibly forming again Thursday morning. Remarks:... | Areas: Kings County, Annapolis County, Lunenburg County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3353638789.2026-1</guid>
+      <pubDate>2026-09-23T07:44:26-00:00</pubDate>
+      <description>Conditions are favourable for the development of frost tonight. Minimum temperatures: plus 3. Time span: late tonight and early Thursday morning. Remarks: Patchy frost is expected to continue... | Areas: Kings County, Annapolis County, Lunenburg County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>PEST ALERT: Spotted Lanternfly Detected in Ontario</title>
+      <link>https://www.princeedwardisland.ca/en/information/agriculture/pest-alert-spotted-lanternfly-detected-in-ontario</link>
+      <guid isPermaLink="false">81331 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 23 Sep 2026 12:39:57 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PEST ALERT: Spotted Lanternfly Detected in Ontario&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-23T09:39:57-03:00" title="Wednesday, September 23, 2026 - 09:39"&gt;Wed, 09/23/2026 - 09:39&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Canadian Food Inspection Agency (CFIA) has confirmed the &lt;strong&gt;first detection of spotted lanternfly (Lycorma delicatula) in Canada&lt;/strong&gt;, in Windsor, Ontario.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Spotted lanternfly (SLF) is an invasive insect&lt;/strong&gt; that feeds on more than 100 plant species, posing a serious threat to PEI’s wine, nursery, fruit and forest industries. Grapevines are particularly vulnerable to significant feeding injury, but SLF can also affect many types of trees and plants.&lt;/p&gt;&lt;h3&gt;What to look for&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Adults: approximately 2.5 cm long, with distinctive spotted wings&lt;/li&gt;&lt;li&gt;Nymphs: black with white spots when young, developing red coloration as they mature&lt;/li&gt;&lt;li&gt;Egg masses: grey/brown, mud-like masses found on trees, plants and many outdoor surfaces&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Help prevent the spread&lt;/h3&gt;&lt;p&gt;Spotted lanternfly can be moved accidentally on vehicles, outdoor equipment, trailers, firewood, pallets, plant material and other items. If travelling from an area where SLF has been detected, inspect vehicles, equipment and outdoor items before moving them.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;If you suspect spotted lanternfly:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;SPOT IT → SNAP IT → REPORT IT&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Take a clear photo and report the suspected pest to the CFIA as soon as possible. If safely possible, collect a specimen for identification. Do not move live specimens to another location.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Early detection and reporting are critical&lt;/strong&gt; to supporting surveillance and preventing the spread of this invasive pest.&lt;/p&gt;&lt;p&gt;Learn more and report a suspected sighting through the CFIA: &lt;a href="https://inspection.canada.ca/en/plant-health/invasive-pests-and-plants/insects/spotted-lanternfly"&gt;Spotted Laternfly&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;If you have any questions, please feel free to contact:&lt;/h3&gt;&lt;p&gt;PEI Department of Agriculture&lt;br /&gt;Phone: 902-368-4880&lt;br /&gt;Email: &lt;a href="mailto:sxliu@gov.pe.ca"&gt;sxliu@gov.pe.ca&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -860,87 +928,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Funding for Community food support continues</title>
-      <link>https://www.princeedwardisland.ca/en/news/funding-for-community-food-support-continues</link>
-      <guid isPermaLink="false">81316 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 21 Sep 2026 17:48:21 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Funding for Community food support continues&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-21T14:48:21-03:00" title="Monday, September 21, 2026 - 14:48"&gt;Mon, 09/21/2026 - 14:48&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Funding for Community food support continues " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/c62c/Copy%20of%20Image%20Guidelines%20for%20News%20Releases%20and%20Information%20Pages%20%284%29_1.jpg.webp?itok=krZVsbTY" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The provincial government is continuing to support local organizations that help address food insecurity across Prince Edward Island.&lt;/p&gt;&lt;p&gt;The&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/social-development-and-seniors/community-food-fund"&gt;Community Food Fund&lt;/a&gt; provides grants ranging from $1000 to $10,000 to eligible community-based organizations to help stabilize the food supply for vulnerable PEI residents.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Creating a stronger, healthier province starts with ensuring everyone has access to nutritious food. This fund supports the many dedicated community organizations leading this important work. We appreciate everything you do to help Islanders access the services they need to thrive and reach their full potential.”&lt;/p&gt;&lt;p&gt;&lt;br /&gt;- Minister of Social Development and Seniors Barb Ramsay&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The following are examples of services which are eligible for funding support:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Food banks&lt;/li&gt;&lt;li&gt;Community fridges&lt;/li&gt;&lt;li&gt;Food cupboards&lt;/li&gt;&lt;li&gt;Food pantries&lt;/li&gt;&lt;li&gt;Food hampers&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Applicants must submit a completed&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;application form, which includes organizational details, service delivery information, and a proposed spending plan. Only one application per organization will be accepted.&lt;/p&gt;&lt;p&gt;The deadline to apply is 4 p.m. on Monday, October 5, 2026.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contac&lt;/strong&gt;t:&lt;br /&gt;Hillary Proctor&amp;nbsp;&lt;br /&gt;Department of Social Development and Seniors&lt;br /&gt;&lt;a href="mailto:hpoctor@gov.pe.ca"&gt;hproctor@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
   
     
       
