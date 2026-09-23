@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:54:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:43:42 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -210,9 +210,9 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Telephone Service (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/43F713F6-1DF1-42D3-9DFB-F18050F27AD5</link>
-      <guid isPermaLink="false">43F713F6-1DF1-42D3-9DFB-F18050F27AD5-1</guid>
-      <pubDate>2026-09-22T18:35:07-06:00</pubDate>
-      <description>Cut Knife, Gallivan, Little Pine First Nation, Poundmaker Cree Nation, and Sweet Grass First Nation. SaskTel is currently experiencing a service outage impacting Wireless and Landline (SaskTel Home... | Areas: Cut Knife, Gallivan, Little Pine First Nation, Poundmaker Cree Nation, and Sweet Grass First Nation | Level: advisory</description>
+      <guid isPermaLink="false">183E3D36-54EA-4BB3-A620-A83185508D9C-1</guid>
+      <pubDate>2026-09-23T08:55:24-06:00</pubDate>
+      <description>Cut Knife, Gallivan, Little Pine First Nation, Poundmaker Cree Nation, and Sweet Grass First Nation. CANCELLED: As of 11:55 p.m. yesterday, SaskTel technicians had completed repairs to a damaged... | Areas: Cut Knife, Gallivan, Little Pine First Nation, Poundmaker Cree Nation, and Sweet Grass First Nation | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -223,21 +223,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW ADVISORY - FROST - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6ab39c8afe619091e8baf628</guid>
-      <pubDate>2026-09-23T09:33:33.428Z</pubDate>
-      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Patchy frost is possible in some areas this morning.
-
-
-
-Damage to plants, trees, and crops is possible.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future | Stratton, Ontario</description>
-      <source>Manitoba</source>
     </item>
 
     <item>
@@ -270,8 +255,8 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     <item>
       <title>Frost (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3353638789.2026-1</guid>
-      <pubDate>2026-09-23T07:44:26-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1050446010.2026-1</guid>
+      <pubDate>2026-09-23T13:51:47-00:00</pubDate>
       <description>Conditions are favourable for the development of frost tonight. Minimum temperatures: plus 3. Time span: late tonight and early Thursday morning. Remarks: Patchy frost is expected to continue... | Areas: Kings County, Annapolis County, Lunenburg County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
@@ -292,7 +277,35 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Canadian Food Inspection Agency (CFIA) has confirmed the &lt;strong&gt;first detection of spotted lanternfly (Lycorma delicatula) in Canada&lt;/strong&gt;, in Windsor, Ontario.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Spotted lanternfly (SLF) is an invasive insect&lt;/strong&gt; that feeds on more than 100 plant species, posing a serious threat to PEI’s wine, nursery, fruit and forest industries. Grapevines are particularly vulnerable to significant feeding injury, but SLF can also affect many types of trees and plants.&lt;/p&gt;&lt;h3&gt;What to look for&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Adults: approximately 2.5 cm long, with distinctive spotted wings&lt;/li&gt;&lt;li&gt;Nymphs: black with white spots when young, developing red coloration as they mature&lt;/li&gt;&lt;li&gt;Egg masses: grey/brown, mud-like masses found on trees, plants and many outdoor surfaces&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Help prevent the spread&lt;/h3&gt;&lt;p&gt;Spotted lanternfly can be moved accidentally on vehicles, outdoor equipment, trailers, firewood, pallets, plant material and other items. If travelling from an area where SLF has been detected, inspect vehicles, equipment and outdoor items before moving them.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;If you suspect spotted lanternfly:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;SPOT IT → SNAP IT → REPORT IT&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Take a clear photo and report the suspected pest to the CFIA as soon as possible. If safely possible, collect a specimen for identification. Do not move live specimens to another location.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Early detection and reporting are critical&lt;/strong&gt; to supporting surveillance and preventing the spread of this invasive pest.&lt;/p&gt;&lt;p&gt;Learn more and report a suspected sighting through the CFIA: &lt;a href="https://inspection.canada.ca/en/plant-health/invasive-pests-and-plants/insects/spotted-lanternfly"&gt;Spotted Laternfly&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;If you have any questions, please feel free to contact:&lt;/h3&gt;&lt;p&gt;PEI Department of Agriculture&lt;br /&gt;Phone: 902-368-4880&lt;br /&gt;Email: &lt;a href="mailto:sxliu@gov.pe.ca"&gt;sxliu@gov.pe.ca&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Canadian Food Inspection Agency (CFIA) has confirmed the &lt;strong&gt;first detection of spotted lanternfly (Lycorma delicatula) in Canada&lt;/strong&gt;, in Windsor, Ontario.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Spotted lanternfly (SLF) is an invasive insect&lt;/strong&gt; that feeds on more than 100 plant species, posing a serious threat to PEI’s wine, nursery, fruit and forest industries. Grapevines are particularly vulnerable to significant feeding injury, but SLF can also affect many types of trees and plants.&lt;/p&gt;&lt;h3&gt;What to look for&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Adults: approximately 2.5 cm long, with distinctive spotted wings&lt;/li&gt;&lt;li&gt;Nymphs: black with white spots when young, developing red coloration as they mature&lt;/li&gt;&lt;li&gt;Egg masses: grey/brown, mud-like masses found on trees, plants and many outdoor surfaces&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Help prevent the spread&lt;/h3&gt;&lt;p&gt;Spotted lanternfly can be moved accidentally on vehicles, outdoor equipment, trailers, firewood, pallets, plant material and other items. If travelling from an area where SLF has been detected, inspect vehicles, equipment and outdoor items before moving them.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;If you suspect spotted lanternfly:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;SPOT IT → SNAP IT → REPORT IT&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Take a clear photo and report the suspected pest to the CFIA as soon as possible. If safely possible, collect a specimen for identification. Do not move live specimens to another location.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Early detection and reporting are critical&lt;/strong&gt; to supporting surveillance and preventing the spread of this invasive pest.&lt;/p&gt;&lt;p&gt;Learn more and report a suspected sighting through the CFIA: &lt;a href="https://inspection.canada.ca/en/plant-health/invasive-pests-and-plants/insects/spotted-lanternfly"&gt;Spotted Laternfly&lt;/a&gt;&lt;/p&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;article class="media media--type-image media--view-mode-default"&gt;
+  
+        &lt;img alt="Adult Lanternfly" class="image-style-large" height="298" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/5585/SLFadult.jpg?itok=iDw6kDt5" width="480" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Adult spotted lanternfly.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Source: Lawrence Barringer, Pennsylvania Department of Agriculture, Bugwood.org&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;article class="media media--type-image media--view-mode-default"&gt;
+  
+        &lt;img alt="Early Lanternfly" class="image-style-large" height="309" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/3ef3/SLFearly.jpg?itok=o_rLzz9z" width="480" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Early-state nymph spotted lanternfly.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sourse: Ekkehard Wachmann, used with permission&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;article class="media media--type-image media--view-mode-default"&gt;
+  
+        &lt;img alt="Late Lanternfly" class="image-style-large" height="343" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/edf0/SLFlate.jpg?itok=XeEAodpo" width="480" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Late-state nymph spotted laternfly&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Source: itchydogimages, used with permission&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;article class="media media--type-image media--view-mode-default"&gt;
+  
+        &lt;img alt="Lanternfly Egg Mass" class="image-style-large" height="298" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/52e7/SLFeggmass.jpg?itok=gIuXg1yN" width="480" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Spotted lanternfly egg mass, old&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Source: Lawrence Barrenger, Pennsylvania Department of Agriculture, Bugwood.org&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;If you have any questions, please feel free to contact:&lt;/h3&gt;&lt;p&gt;PEI Department of Agriculture&lt;br /&gt;Phone: 902-368-4880&lt;br /&gt;Email: &lt;a href="mailto:sxliu@gov.pe.ca"&gt;sxliu@gov.pe.ca&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
       
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
