@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 22 Sep 2026 23:42:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 01:49:32 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -205,6 +205,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/17aug23a/"&gt;BC Emer
       <description>&lt;p&gt;On Saturday, June 29, 2023, at 2227, a BC Emergency Alert announcing an Evacuation Order was issued by the Town of Osoyoos and the Regional District of Okanagan-Similkameen due to wildfire. Impacted residents should evacuate the area immediately. An Evacuation Alert has also been issued for nearby areas (details below). BC Emergency Alert Message Evacuation [&amp;#8230;]&lt;/p&gt;
 The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emergency Alert: Evacuation Order for parts of Osoyoos and surrounding area due to wildfire. July 29, 2023.&lt;/a&gt; first appeared on &lt;a href="https://www.emergencyinfobc.gov.bc.ca"&gt;EmergencyInfoBC&lt;/a&gt;.</description>
       <source>British Columbia</source>
+    </item>
+
+    <item>
+      <title>Telephone Service (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/43F713F6-1DF1-42D3-9DFB-F18050F27AD5</link>
+      <guid isPermaLink="false">43F713F6-1DF1-42D3-9DFB-F18050F27AD5-1</guid>
+      <pubDate>2026-09-22T18:35:07-06:00</pubDate>
+      <description>Cut Knife, Gallivan, Little Pine First Nation, Poundmaker Cree Nation, and Sweet Grass First Nation. SaskTel is currently experiencing a service outage impacting Wireless and Landline (SaskTel Home... | Areas: Cut Knife, Gallivan, Little Pine First Nation, Poundmaker Cree Nation, and Sweet Grass First Nation | Level: advisory</description>
+      <source>Saskatchewan</source>
     </item>
 
     <item>
