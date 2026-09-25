@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:46:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:46:44 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,11 +208,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Rainfall (Issued)</title>
+      <title>Rainfall (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1934145878.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1934145878.2026-1</guid>
-      <pubDate>2026-09-25T10:30:55-00:00</pubDate>
-      <description>Uranium City - Camsell Portage. Heavy rain is expected. Heavy rain will begin this afternoon, with total rainfall amounts of 40 to 60 mm expected. Rain will taper off on Sunday morning. Don't drive... | Areas: Uranium City - Camsell Portage | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2924901911.2026-1</guid>
+      <pubDate>2026-09-25T16:31:39-00:00</pubDate>
+      <description>Uranium City - Camsell Portage. | Areas: Uranium City - Camsell Portage | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Rainfall (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1904179078.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1904179078.2026-1</guid>
+      <pubDate>2026-09-25T16:31:39-00:00</pubDate>
+      <description>Uranium City - Camsell Portage. Heavy rain is expected. Heavy rain will begin this afternoon, with total rainfall amounts between 75 and 100 mm expected. The rain will taper off on Sunday morning... | Areas: Uranium City - Camsell Portage | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -232,6 +241,353 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-08-10T12:38:41.637-05:00</pubDate>
       <description>Flood Advisory | MOSSEY RIVER MUNICIPALITY and RM OF DAUPHIN | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Fork River, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Civil Emergency (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">37A973E3-A022-4CFA-BE3B-F0BC5A8A7FEF-1</guid>
+      <pubDate>2026-09-25T13:26:39-03:00</pubDate>
+      <description>RCMP ALERT has ENDED for police operation in Belmont. Suspect Arrested More info: RCMPNS Facebook, X. Thank you for your support. | Areas: Belmont. | Level: critical</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Gasoline Tax Notice 323 - Petroleum Retailers Refund on Gasoline Tax on Inventory On-Hand</title>
+      <link>https://www.princeedwardisland.ca/en/publication/gasoline-tax-notice-323-petroleum-retailers-refund-on-gasoline-tax-on-inventory-on-hand</link>
+      <guid isPermaLink="false">81351 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 25 Sep 2026 16:36:06 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Gasoline Tax Notice 323 - Petroleum Retailers Refund on Gasoline Tax on Inventory On-Hand&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jennadeighan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-25T13:36:06-03:00" title="Friday, September 25, 2026 - 13:36"&gt;Fri, 09/25/2026 - 13:36&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/2db4/Gasoline%20Tax%20Notice%20323%20-%20Petroleum%20Retailers%20Refund%20on%20Gasoline%20Tax%20on%20Inventory%20On-Hand.pdf"&gt;
+              &lt;span&gt;Gasoline Tax Notice 323 - Petroleum Retailers Refund on Gasoline Tax on Inventory On-Hand.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Employer Advisor September 2026 Newsletter</title>
+      <link>https://www.princeedwardisland.ca/en/publication/employer-advisor-september-2026-newsletter</link>
+      <guid isPermaLink="false">81350 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 25 Sep 2026 16:05:30 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Employer Advisor September 2026 Newsletter&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;nataleesmith&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-25T13:05:30-03:00" title="Friday, September 25, 2026 - 13:05"&gt;Fri, 09/25/2026 - 13:05&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Newsletter&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/026f/Employer%20Advisor%20September%202026%20Newsletter.pdf"&gt;
+              &lt;span&gt;Employer Advisor September 2026 Newsletter.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Province suspends provincial fuel tax to ease cost of living</title>
+      <link>https://www.princeedwardisland.ca/en/news/province-suspends-provincial-fuel-tax-to-ease-cost-of-living</link>
+      <guid isPermaLink="false">81348 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 25 Sep 2026 15:29:40 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province suspends provincial fuel tax to ease cost of living&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-25T12:29:40-03:00" title="Friday, September 25, 2026 - 12:29"&gt;Fri, 09/25/2026 - 12:29&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="Image of Priemer Rob Lantz and Ministers" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/086f/Action%20for%20Affordability.jpg.webp?itok=JUOy8Vsp" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Islanders will pay less at the pump starting September 26, 2026, as the Government of PEI suspends the tax on gasoline and diesel.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Premier Rob Lantz announced today that the provincial fuel tax will be suspended until January 31, 2027, removing 8.47 cents per litre from the price of gasoline and 14.15 cents per litre from the price of diesel.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The tax will return at 50 per cent of its current rate from Feb. 1,2027 until March 31, 2027, and be fully restored on April 1, 2027. A driver with a mid-sized vehicle who fills up once a week will save about $115 over the six-month period.&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“We can’t control world oil prices, but we can control the tax Islanders pay on fuel, and today we’re taking action. Islanders and local businesses feel the cost of living every time they fill up. This is relief people will notice right away, at the pump, every week.&amp;nbsp; It’s action for Islanders, and action for the businesses that keep our economy moving.”&lt;/p&gt;&lt;p&gt;- Premier Rob Lantz&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The savings are largest on diesel, which powers the trucks, snow removal equipment, delivery vehicles and farm equipment that Island businesses rely on every day. For businesses that move goods, serve customers across the province or run diesel equipment, the suspension means real savings on one of their biggest operating costs.&lt;/p&gt;&lt;p&gt;“Fuel costs touch almost everything on our Island, from the commute to work to the price of goods delivered to store shelves,” said Jill Burridge, Minister of Finance and Affordability. “Global markets are driving prices up, and Islanders shouldn’t have to face that alone. Suspending this tax puts money back in pockets of drivers and provides meaningful relief at a time when they need it.”&lt;/p&gt;&lt;p&gt;Under the &lt;em&gt;Gasoline Tax Act&amp;nbsp;&lt;/em&gt;and Regulations, provincial fuel tax applies to purchases of gasoline and diesel oil; no tax is levied on home heating oil.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The fuel tax suspension is part of the government's broader action on affordability, building on the Island Essentials Benefit, the PEI Child Benefit, and income tax reductions for Islanders and businesses.&lt;/p&gt;&lt;p&gt;BACKGROUNDER:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The current provincial fuel tax rate is 8.47 cents per litre on gasoline and 14.15 cents per litre on diesel.&lt;/li&gt;&lt;li&gt;The provincial fuel tax rate on gasoline and diesel will be 0 cents per litre from Sept. 26, 2026, to Jan. 31, 2027.&lt;/li&gt;&lt;li&gt;From Feb. 1 to March 31, 2027, the provincial fuel tax rate will be 4.24 cents per litre on gasoline and 7.08 cents per litre on diesel.&lt;/li&gt;&lt;li&gt;&lt;p&gt;The provincial fuel tax rate has not changed since Jan. 1, 2020, when it was reduced from 9.68 to 8.47 cents per litre on gasoline, and from 15.83 to 14.15 cents per litre on diesel.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Media contac&lt;/strong&gt;t:&lt;br /&gt;Janice Fogarty&lt;br /&gt;Department of Finance and Affordability&lt;br /&gt;&lt;a href="mailto:jefogarty@gov.pe.ca"&gt;jefogarty@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Gastrointestinal Illness Prevention and Outbreak Management in Long-Term Care and Community Care Facilities</title>
+      <link>https://www.princeedwardisland.ca/en/publication/gastrointestinal-illness-prevention-and-outbreak-management-in-long-term-care-and</link>
+      <guid isPermaLink="false">81347 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 25 Sep 2026 14:40:36 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Gastrointestinal Illness Prevention and Outbreak Management in Long-Term Care and Community Care Facilities&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-25T11:40:36-03:00" title="Friday, September 25, 2026 - 11:40"&gt;Fri, 09/25/2026 - 11:40&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/1d66/Gastrointestinal%20Illness%20Prevention%20and%20Outbreak%20Management%20in%20Long-Term%20Care%20and%20Community%20Care%20Facilities.pdf"&gt;
+              &lt;span&gt;Gastrointestinal Illness Prevention and Outbreak Management in Long-Term Care and Community Care Facilities.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -673,303 +1029,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
           
     &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/8bd0/PEILC%20Annual%20Report%202025-26%20-%20Final.pdf"&gt;
               &lt;span&gt;PEILC Annual Report 2025-26 - Final.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>PEST ALERT: Spotted Lanternfly Detected in Ontario</title>
-      <link>https://www.princeedwardisland.ca/en/information/agriculture/pest-alert-spotted-lanternfly-detected-in-ontario</link>
-      <guid isPermaLink="false">81331 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 23 Sep 2026 12:39:57 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PEST ALERT: Spotted Lanternfly Detected in Ontario&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-23T09:39:57-03:00" title="Wednesday, September 23, 2026 - 09:39"&gt;Wed, 09/23/2026 - 09:39&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Canadian Food Inspection Agency (CFIA) has confirmed the &lt;strong&gt;first detection of spotted lanternfly (Lycorma delicatula) in Canada&lt;/strong&gt;, in Windsor, Ontario.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Spotted lanternfly (SLF) is an invasive insect&lt;/strong&gt; that feeds on more than 100 plant species, posing a serious threat to PEI’s wine, nursery, fruit and forest industries. Grapevines are particularly vulnerable to significant feeding injury, but SLF can also affect many types of trees and plants.&lt;/p&gt;&lt;h3&gt;What to look for&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Adults: approximately 2.5 cm long, with distinctive spotted wings&lt;/li&gt;&lt;li&gt;Nymphs: black with white spots when young, developing red coloration as they mature&lt;/li&gt;&lt;li&gt;Egg masses: grey/brown, mud-like masses found on trees, plants and many outdoor surfaces&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Help prevent the spread&lt;/h3&gt;&lt;p&gt;Spotted lanternfly can be moved accidentally on vehicles, outdoor equipment, trailers, firewood, pallets, plant material and other items. If travelling from an area where SLF has been detected, inspect vehicles, equipment and outdoor items before moving them.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;If you suspect spotted lanternfly:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;SPOT IT → SNAP IT → REPORT IT&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Take a clear photo and report the suspected pest to the CFIA as soon as possible. If safely possible, collect a specimen for identification. Do not move live specimens to another location.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Early detection and reporting are critical&lt;/strong&gt; to supporting surveillance and preventing the spread of this invasive pest.&lt;/p&gt;&lt;p&gt;Learn more and report a suspected sighting through the CFIA: &lt;a href="https://inspection.canada.ca/en/plant-health/invasive-pests-and-plants/insects/spotted-lanternfly"&gt;Spotted Laternfly&lt;/a&gt;&lt;/p&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;article class="media media--type-image media--view-mode-default"&gt;
-  
-        &lt;img alt="Adult Lanternfly" class="image-style-large" height="298" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/5585/SLFadult.jpg?itok=iDw6kDt5" width="480" /&gt;
-
-
-
-  &lt;/article&gt;
-&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Adult spotted lanternfly.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Source: Lawrence Barringer, Pennsylvania Department of Agriculture, Bugwood.org&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;article class="media media--type-image media--view-mode-default"&gt;
-  
-        &lt;img alt="Early Lanternfly" class="image-style-large" height="309" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/3ef3/SLFearly.jpg?itok=o_rLzz9z" width="480" /&gt;
-
-
-
-  &lt;/article&gt;
-&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Early-state nymph spotted lanternfly.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sourse: Ekkehard Wachmann, used with permission&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;article class="media media--type-image media--view-mode-default"&gt;
-  
-        &lt;img alt="Late Lanternfly" class="image-style-large" height="343" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/edf0/SLFlate.jpg?itok=XeEAodpo" width="480" /&gt;
-
-
-
-  &lt;/article&gt;
-&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Late-state nymph spotted laternfly&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Source: itchydogimages, used with permission&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;article class="media media--type-image media--view-mode-default"&gt;
-  
-        &lt;img alt="Lanternfly Egg Mass" class="image-style-large" height="298" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/52e7/SLFeggmass.jpg?itok=gIuXg1yN" width="480" /&gt;
-
-
-
-  &lt;/article&gt;
-&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;strong&gt;Spotted lanternfly egg mass, old&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Source: Lawrence Barrenger, Pennsylvania Department of Agriculture, Bugwood.org&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;If you have any questions, please feel free to contact:&lt;/h3&gt;&lt;p&gt;PEI Department of Agriculture&lt;br /&gt;Phone: 902-368-4880&lt;br /&gt;Email: &lt;a href="mailto:sxliu@gov.pe.ca"&gt;sxliu@gov.pe.ca&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Cabinet visit highlights growth and partnership at Abegweit First Nation</title>
-      <link>https://www.princeedwardisland.ca/en/news/cabinet-visit-highlights-growth-and-partnership-at-abegweit-first-nation</link>
-      <guid isPermaLink="false">81329 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 22 Sep 2026 17:45:51 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cabinet visit highlights growth and partnership at Abegweit First Nation&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-22T14:45:51-03:00" title="Tuesday, September 22, 2026 - 14:45"&gt;Tue, 09/22/2026 - 14:45&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Cabinet with Chief of Abegweit First Nation Junior Gould" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/d1e1/Cabinet%20visit%20highlights%20growth%20and%20partnership%20at%20Abegweit%20First%20Nation.jpg.webp?itok=yyhRK3ef" title="Cabinet visit highlights growth and partnership at Abegweit First Nation" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Provincial Cabinet met with Abegweit First Nation leadership in Scotchfort today to discuss shared priorities, community growth and opportunities to continue working together.&lt;/p&gt;&lt;p&gt;During the visit, Premier Rob Lantz announced $20,000 in provincial funding, through the Indigenous Relations Secretariat, to support Abegweit First Nation as it develops its next five-year strategic plan. The Abegweit-led plan will identify community priorities and help guide future development.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Abegweit’s previous 2020–2025 strategic plan identified social, economic and environmental priorities and helped guide growth and development in the community.&lt;/p&gt;&lt;p&gt;Cabinet members also toured recent and ongoing developments in Scotchfort and heard directly from Chief Junior Gould and community leadership about Abegweit’s priorities for the years ahead.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“There is a great deal of exciting work underway in Abegweit, and it was meaningful for Cabinet to witness that progress firsthand and hear directly from Chief Gould and community leaders about their goals for the future. We value the strong partnership we have built with Abegweit First Nation and are proud to support the community as it continues to grow and thrive. Together, we will keep building on this progress and advancing reconciliation,”&lt;br /&gt;&lt;br /&gt;- &amp;nbsp;Premier Rob Lantz&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Recent development in Abegweit has included new housing, active transportation infrastructure and community facilities, with further work planned in areas including recreation, health and economic development.&lt;/p&gt;&lt;p&gt;"The growth at Abegweit First Nation is more than building infrastructure, it’s about creating opportunities for our people and building a stronger future right here at home. Having government leaders seeing this progress firsthand, helps them to understand what it means our community, the people who call it home and the positive contribution Abegweit makes to the Province of Prince Edward Island,” said Chief of Abegweit First Nation Junior Gould.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quick facts:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://abegweit.ca/wp-content/uploads/2023/11/Abegweit-FN-Strategic-Plan-2020-2025-March-2020_Compressed-Version.pdf"&gt;Abegweit First Nation’s 2020–2025 strategic plan&lt;/a&gt; focused on social, economic and environmental priorities and sustainable community development.&lt;/li&gt;&lt;li&gt;In 2024, the Government of Prince Edward Island&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/news/a-new-recreation-centre-is-coming-to-abegweit-first-nation"&gt;committed $8 million toward the Abegweit Community Recreation Centre&lt;/a&gt;, alongside a $9 million investment from the Government of Canada. The new recreation centre is planned as a net-zero facility connected to Abegweit Connects, with space for recreation, Mawi’omi celebrations, regional events and Mi’kmaw culture and language. It will also serve as a warming and cooling centre for the region during extreme weather events.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Other community development underway or planned includes a new health centre and cultural and&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/news/abegweit-first-nation-to-benefit-from-active-transportation-and-social-infrastructure"&gt;active transportation along the Hillsborough River&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Find out more about&amp;nbsp;&lt;a href="https://abegweit.ca/"&gt;Abegweit First Nation&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Boilerplate:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Abegweit First Nation is a proud Mi’kmaq Band that traces its roots to Epekwitk (Prince Edward Island), dating back 10,000 years according to oral tradition and archaeological evidence. The official creation of the Abegweit First Nation occurred on March 7th, 1972. Originally, all Mi’kmaq on Epekwitk were a part of one band, the Lennox Island First Nation. The formation of a new Band was proposed as a means of better serving the needs of community members in Eastern PEI, a fair distance from the Lennox Island reserve in Western PEI. An overwhelming majority voted in favour of forming a new Band and Abegweit First Nation was formed. It is comprised of the Morell, Rocky Point, and Scotchfort reserves.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media Contacts:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nicole Yeba&lt;br /&gt;Executive Council Office&lt;br /&gt;&lt;a href="mailto:ntyeba@gov.pe.ca"&gt;ntyeba@gov.pe.ca&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Olive Crane&lt;br /&gt;Director of Intergovernmental Affairs and Strategic Planning&lt;br /&gt;Abegweit First Nation&lt;br /&gt;&lt;a href="mailto:omcrane@abegweit.ca"&gt;omcrane@abegweit.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Schofield</title>
-      <link>https://www.princeedwardisland.ca/en/employee/schofield-sara-0</link>
-      <guid isPermaLink="false">81327 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 22 Sep 2026 14:57:54 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Schofield&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;rpgallant&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-22T11:57:54-03:00" title="Tuesday, September 22, 2026 - 11:57"&gt;Tue, 09/22/2026 - 11:57&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Elementary ELA Curriculum Leader&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Education and Early Years&lt;/strong&gt;
-            &lt;div&gt;English Education, Programs and Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>PF.Alma PID1478714795.2026Sept</title>
-      <link>https://www.princeedwardisland.ca/en/publication/pfalma-pid14787147952026sept</link>
-      <guid isPermaLink="false">81325 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 22 Sep 2026 13:48:31 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PF.Alma PID1478714795.2026Sept&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-22T10:48:31-03:00" title="Tuesday, September 22, 2026 - 10:48"&gt;Tue, 09/22/2026 - 10:48&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/d256/PF.Alma%20PID1478714795.2026Sept.pdf"&gt;
-              &lt;span&gt;PF.Alma PID1478714795.2026Sept.pdf&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
