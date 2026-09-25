@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 25 Sep 2026 21:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 23:56:47 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,20 +208,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Rainfall (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1904179078.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2754047026.2026-1</guid>
+      <pubDate>2026-09-25T23:05:24-00:00</pubDate>
+      <description>Uranium City - Camsell Portage. Heavy rain is expected. Rain will continue to intensify this evening, with total rainfall amounts between 75 and 100 mm expected. The rain will taper off on Sunday... | Areas: Uranium City - Camsell Portage | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Rainfall (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1934145878.2026</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.2924901911.2026-1</guid>
       <pubDate>2026-09-25T16:31:39-00:00</pubDate>
       <description>Uranium City - Camsell Portage. | Areas: Uranium City - Camsell Portage | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Issued)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1904179078.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1904179078.2026-1</guid>
-      <pubDate>2026-09-25T16:31:39-00:00</pubDate>
-      <description>Uranium City - Camsell Portage. Heavy rain is expected. Heavy rain will begin this afternoon, with total rainfall amounts between 75 and 100 mm expected. The rain will taper off on Sunday morning... | Areas: Uranium City - Camsell Portage | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
