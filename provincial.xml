@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 26 Sep 2026 13:49:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:37:28 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -210,9 +210,9 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Rainfall (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1904179078.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1771433939.2026-1</guid>
-      <pubDate>2026-09-26T10:41:55-00:00</pubDate>
-      <description>Uranium City - Camsell Portage. Heavy rain is expected. Rain, heavy at times, will continue, with total rainfall amounts between 50 and 100 mm expected. The rain will taper off on Sunday morning... | Areas: Uranium City - Camsell Portage | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1487847201.2026-1</guid>
+      <pubDate>2026-09-26T16:53:21-00:00</pubDate>
+      <description>Uranium City - Camsell Portage. Heavy rain is expected. Significant rainfall continues, with total rainfall amounts between 40 and 60 mm expected. The rain will taper off by Sunday morning. Don't... | Areas: Uranium City - Camsell Portage | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -222,15 +222,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3684710747.2026-1</guid>
       <pubDate>2026-09-26T05:07:28-00:00</pubDate>
       <description>Northwestern Saskatchewan. La Loche, Clearwater River Park, Cluff Lake, Île à la Crosse, Buffalo Narrows and Beauval. | Areas: Buffalo Narrows and Peter Pond Lake, La Loche and Clearwater River Prov. Park, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1934145878.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2924901911.2026-1</guid>
-      <pubDate>2026-09-25T16:31:39-00:00</pubDate>
-      <description>Uranium City - Camsell Portage. | Areas: Uranium City - Camsell Portage | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -250,15 +241,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-08-10T12:38:41.637-05:00</pubDate>
       <description>Flood Advisory | MOSSEY RIVER MUNICIPALITY and RM OF DAUPHIN | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Fork River, Manitoba</description>
       <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>Civil Emergency (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">37A973E3-A022-4CFA-BE3B-F0BC5A8A7FEF-1</guid>
-      <pubDate>2026-09-25T13:26:39-03:00</pubDate>
-      <description>RCMP ALERT has ENDED for police operation in Belmont. Suspect Arrested More info: RCMPNS Facebook, X. Thank you for your support. | Areas: Belmont. | Level: critical</description>
-      <source>Nova Scotia</source>
     </item>
 
     <item>
