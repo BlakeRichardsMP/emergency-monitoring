@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 26 Sep 2026 20:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 22:50:23 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,11 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Rainfall (Updated)</title>
+      <title>Rainfall (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1904179078.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1487847201.2026-1</guid>
-      <pubDate>2026-09-26T16:53:21-00:00</pubDate>
-      <description>Uranium City - Camsell Portage. Heavy rain is expected. Significant rainfall continues, with total rainfall amounts between 40 and 60 mm expected. The rain will taper off by Sunday morning. Don't... | Areas: Uranium City - Camsell Portage | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3635747119.2026-1</guid>
+      <pubDate>2026-09-26T21:33:10-00:00</pubDate>
+      <description>Uranium City - Camsell Portage. Significant rainfall is no longer expected. | Areas: Uranium City - Camsell Portage | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
