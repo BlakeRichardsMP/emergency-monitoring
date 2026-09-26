@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 26 Sep 2026 04:15:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 09:28:06 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,11 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Thunderstorm (Updated)</title>
+      <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1317330717.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4087268975.2026-1</guid>
-      <pubDate>2026-09-26T04:05:58-00:00</pubDate>
-      <description>Northwestern Saskatchewan. Extra care and attention should be exercised in and around the following localities: La Loche, Clearwater River Park, Cluff Lake, Île à la Crosse, Buffalo Narrows and... | Areas: Buffalo Narrows and Peter Pond Lake, La Loche and Clearwater River Prov. Park, new active threat area, continued active threat area | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3684710747.2026-1</guid>
+      <pubDate>2026-09-26T05:07:28-00:00</pubDate>
+      <description>Northwestern Saskatchewan. La Loche, Clearwater River Park, Cluff Lake, Île à la Crosse, Buffalo Narrows and Beauval. | Areas: Buffalo Narrows and Peter Pond Lake, La Loche and Clearwater River Prov. Park, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
