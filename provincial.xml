@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 26 Sep 2026 09:28:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:49:22 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,20 +208,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Rainfall (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1904179078.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1771433939.2026-1</guid>
+      <pubDate>2026-09-26T10:41:55-00:00</pubDate>
+      <description>Uranium City - Camsell Portage. Heavy rain is expected. Rain, heavy at times, will continue, with total rainfall amounts between 50 and 100 mm expected. The rain will taper off on Sunday morning... | Areas: Uranium City - Camsell Portage | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1317330717.2026</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3684710747.2026-1</guid>
       <pubDate>2026-09-26T05:07:28-00:00</pubDate>
       <description>Northwestern Saskatchewan. La Loche, Clearwater River Park, Cluff Lake, Île à la Crosse, Buffalo Narrows and Beauval. | Areas: Buffalo Narrows and Peter Pond Lake, La Loche and Clearwater River Prov. Park, ended threat area | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1904179078.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0713719621.2026-1</guid>
-      <pubDate>2026-09-26T03:48:33-00:00</pubDate>
-      <description>Uranium City - Camsell Portage. Heavy rain is expected. Rain will continue to intensify this evening, with total rainfall amounts between 75 and 100 mm expected. The rain will taper off on Sunday... | Areas: Uranium City - Camsell Portage | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
