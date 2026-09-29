@@ -5,7 +5,16 @@
     <link>https://github.com/BlakeRichardsMP/emergency-monitoring</link>
     <description>Normalized Government of Canada emergency-related feeds</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 29 Sep 2026 20:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 23:51:08 +0000</lastBuildDate>
+
+    <item>
+      <title>Government of Canada appoints permanent Correctional Investigator</title>
+      <link>https://www.canada.ca/en/public-safety-canada/news/2026/09/government-of-canada-appoints-permanent-correctional-investigator.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/09/government-of-canada-appoints-permanent-correctional-investigator.html</guid>
+      <pubDate>2026-09-29T16:50:12-04:00</pubDate>
+      <description>David Paradiso is an accomplished executive leader with 35 years of experience in public sector oversight, legal analysis and independent investigations. He has advanced fairness, accountability and organizational performance across multiple Canadian jurisdictions and is well-positioned to lead the OCI on a permanent basis.</description>
+      <source>Public Safety Canada</source>
+    </item>
 
     <item>
       <title>Government of Canada advances cyber resilience through public-private partnerships</title>
@@ -85,15 +94,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/09/government-of-canada-invests-in-youth-crime-prevention-in-edmonton.html</guid>
       <pubDate>2026-09-09T13:55:52-04:00</pubDate>
       <description>Today, the Honourable Sean Fraser, Minister of Justice and Attorney General of Canada, announced $2.2 million in federal funding for REACH Edmonton Council for Safe Communities to support a youth crime prevention project through the Crime Prevention Action Fund (CPAF).</description>
-      <source>Public Safety Canada</source>
-    </item>
-
-    <item>
-      <title>The Government of Canada extends federal fuel excise tax relief on gasoline, diesel, and aviation fuels for Canadians</title>
-      <link>https://www.canada.ca/en/public-safety-canada/news/2026/09/the-government-of-canada-extends-federal-fuel-excise-tax-relief-on-gasoline-diesel-and-aviation-fuels-for-canadians0.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/09/the-government-of-canada-extends-federal-fuel-excise-tax-relief-on-gasoline-diesel-and-aviation-fuels-for-canadians0.html</guid>
-      <pubDate>2026-09-08T12:11:28-04:00</pubDate>
-      <description>Today, the Honourable Gary Anandasangaree, Minister of Public Safety marked the announcement that the government is extending the temporary suspension of the federal fuel excise tax until January 31, 2027, and applying 50% of the regular excise tax rate from February 1 through March 31, 2027. This will bring down everyday costs for Canadians, including truckers and businesses in the food, agriculture, housing, construction, and delivery sectors.</description>
       <source>Public Safety Canada</source>
     </item>
 
