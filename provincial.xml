@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 29 Sep 2026 14:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 19:33:50 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,11 +208,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Telephone Service (Issued)</title>
+      <title>Water Supply (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/8CE39C20-C02E-49CF-A2CE-E528DE3BA756</link>
+      <guid isPermaLink="false">8CE39C20-C02E-49CF-A2CE-E528DE3BA756-1</guid>
+      <pubDate>2026-09-29T11:19:11-06:00</pubDate>
+      <description>The Village of Medstead is experiencing a community-wide water outage. The cause of the disruption is currently unknown and is under investigation. Water service is unavailable throughout the... | Areas: The Village of Medstead | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Telephone Service (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/36FE3537-B2BE-4FAE-98B0-36C830A6EFDF</link>
-      <guid isPermaLink="false">36FE3537-B2BE-4FAE-98B0-36C830A6EFDF-1</guid>
-      <pubDate>2026-09-28T08:31:21-06:00</pubDate>
-      <description>Cut Knife, Gallivan, Little Pine First Nation, Poundmaker Cree Nation, and Sweet Grass First Nation. On September 29, from 12:00 a.m. (midnight) until approximately 6:00 a.m., SaskTel crews will... | Areas: Cut Knife, Gallivan, Little Pine First Nation, Poundmaker Cree Nation, and Sweet Grass First Nation | Level: advisory</description>
+      <guid isPermaLink="false">23F5CDE4-3C4D-435A-B9F7-F8864689AEF1-1</guid>
+      <pubDate>2026-09-29T08:57:13-06:00</pubDate>
+      <description>Cut Knife, Gallivan, Little Pine First Nation, Poundmaker Cree Nation, and Sweet Grass First Nation. As of 6:00 a.m. this morning, SaskTel crews have completed their work and restored all SaskTel... | Areas: Cut Knife, Gallivan, Little Pine First Nation, Poundmaker Cree Nation, and Sweet Grass First Nation | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -232,6 +241,314 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-08-10T12:38:41.637-05:00</pubDate>
       <description>Flood Advisory | MOSSEY RIVER MUNICIPALITY and RM OF DAUPHIN | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Fork River, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Public Service Commission Annual Report 2025-2026</title>
+      <link>https://www.princeedwardisland.ca/en/publication/public-service-commission-annual-report-2025-2026</link>
+      <guid isPermaLink="false">81391 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 29 Sep 2026 19:07:00 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Public Service Commission Annual Report 2025-2026&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ambambrick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-29T16:07:00-03:00" title="Tuesday, September 29, 2026 - 16:07"&gt;Tue, 09/29/2026 - 16:07&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Annual Report&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/012c/PSC%20Annual%20Report%202025-2026.pdf"&gt;
+              &lt;span&gt;PSC Annual Report 2025-2026.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Feedback wanted on changes to Consumer Reporting Act</title>
+      <link>https://www.princeedwardisland.ca/en/news/feedback-wanted-on-changes-to-consumer-reporting-act</link>
+      <guid isPermaLink="false">81390 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 29 Sep 2026 16:48:30 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Feedback wanted on changes to Consumer Reporting Act&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ddgillis&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-29T13:48:30-03:00" title="Tuesday, September 29, 2026 - 13:48"&gt;Tue, 09/29/2026 - 13:48&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The province is inviting residents and interested stakeholders to share their feedback on laws affecting consumer reporting agencies.&lt;/p&gt;&lt;p&gt;The proposed amendments would remove the requirement for a consumer reporting agency, such as a credit bureau, to maintain a fixed place of business in PEI and would make related changes to support regulatory oversight. The changes would also allow consumers to request and receive a consumer report by telephone, mail or electronically.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“While consumer reporting agencies have traditionally maintained offices in PEI, this is not always possible. We need a mechanism that better reflects how consumers access this service today and aligns with regulatory approaches in the other provinces. The proposed changes will ensure PEI residents can access their consumer report by telephone, mail or electronically, which will bring us in alignment with the rules in most other Canadian provinces.”&lt;/p&gt;&lt;p&gt;- Justice and Public Safety Minister Bloyce Thompson&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Consultation documents are available at&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/department-of-justice-and-public-safety-public-consultations"&gt;Department of Justice and Public Safety Public Consultations&lt;/a&gt; for people to review.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Comments in English or French for all documents can be submitted by email to&amp;nbsp;&lt;a href="mailto:justicepolicy@gov.pe.ca"&gt;justicepolicy@gov.pe.ca&lt;/a&gt; until October 15, 2026.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Katie Cudmore&lt;br /&gt;Department of Justice and Public Safety&lt;br /&gt;902-314-3996&lt;br /&gt;&lt;a href="mailto:katiecudmore@gov.pe.ca"&gt;katiecudmore@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>FM-066-T-E, Vendor Request to Update Permit Numbers</title>
+      <link>https://www.princeedwardisland.ca/en/form/fm-066-t-e-vendor-request-to-update-permit-numbers</link>
+      <guid isPermaLink="false">81388 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 29 Sep 2026 15:09:50 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-066-T-E, Vendor Request to Update Permit Numbers&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mlwilliams&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-29T12:09:50-03:00" title="Tuesday, September 29, 2026 - 12:09"&gt;Tue, 09/29/2026 - 12:09&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/e3e9/FM-066-T-E%2C%20Vendor%20Request%20to%20Update%20Permit%20Numbers%2008-2026.pdf"&gt;
+              &lt;span&gt;FM-066-T-E, Vendor Request to Update Permit Numbers&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>FM-110-T-E, Application for Refund of Issuance Fee</title>
+      <link>https://www.princeedwardisland.ca/en/form/fm-110-t-e-application-for-refund-of-issuance-fee</link>
+      <guid isPermaLink="false">81387 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 29 Sep 2026 15:08:09 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-110-T-E, Application for Refund of Issuance Fee&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mlwilliams&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-29T12:08:09-03:00" title="Tuesday, September 29, 2026 - 12:08"&gt;Tue, 09/29/2026 - 12:08&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/b122/FM-110-T-E%2C%20Application%20for%20Refund%20of%20Issuance%20Fee%2008-2026.pdf"&gt;
+              &lt;span&gt;FM-110-T-E, Application for Refund of Issuance Fee&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -637,319 +954,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
                       &lt;/div&gt;
       &lt;/div&gt;
 
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>FM-123-T-E, Generic Fuel Tax Return (Effective May 9, 2022)</title>
-      <link>https://www.princeedwardisland.ca/en/form/fm-123-t-e-generic-fuel-tax-return-effective-may-9-2022</link>
-      <guid isPermaLink="false">81379 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 29 Sep 2026 12:38:17 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-123-T-E, Generic Fuel Tax Return (Effective May 9, 2022)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mlwilliams&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-29T09:38:17-03:00" title="Tuesday, September 29, 2026 - 09:38"&gt;Tue, 09/29/2026 - 09:38&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-vnd-openxmlformats-officedocument-spreadsheetml-sheet file--x-office-spreadsheet"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/2f4e/FM-123-T-E%2C%20Generic%20Fuel%20Tax%20Return%20-%20Effective%2005-09-2022%2008-2026.xlsx"&gt;
-              &lt;span&gt;FM-123-T-E, Generic Fuel Tax Return - Effective 05-09-2022 08-2026.xlsx&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>FM-122-T-E, Generic Fuel Tax Return (Effective July 1, 2023)</title>
-      <link>https://www.princeedwardisland.ca/en/form/fm-122-t-e-generic-fuel-tax-return-effective-july-1-2023</link>
-      <guid isPermaLink="false">81378 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 29 Sep 2026 12:37:03 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-122-T-E, Generic Fuel Tax Return (Effective July 1, 2023)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mlwilliams&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-29T09:37:03-03:00" title="Tuesday, September 29, 2026 - 09:37"&gt;Tue, 09/29/2026 - 09:37&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-vnd-openxmlformats-officedocument-spreadsheetml-sheet file--x-office-spreadsheet"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/3f0d/FM-122-T-E%2C%20Generic%20Fuel%20Tax%20Return%20-%20Effective%2007-01-2023%2008-2026.xlsx"&gt;
-              &lt;span&gt;FM-122-T-E, Generic Fuel Tax Return - Effective 07-01-2023 08-2026.xlsx&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Build Communities Strong Fund – Community Stream (BCSF-CS) Communications Requirements</title>
-      <link>https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/build-communities-strong-fund-community-stream-bcsf</link>
-      <guid isPermaLink="false">81376 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 29 Sep 2026 12:19:50 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Build Communities Strong Fund – Community Stream (BCSF-CS) Communications Requirements&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jmrchaulk&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-29T09:19:50-03:00" title="Tuesday, September 29, 2026 - 09:19"&gt;Tue, 09/29/2026 - 09:19&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Municipalities receiving funding through the &lt;a href="https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/build-communities-strong-fund-bcsf-community-stream" title="Build Communities Strong Fund (BCSF) Community Stream"&gt;Build Communities Strong Fund - Community Stream (BCSF-CS)&lt;/a&gt; have signed an Approved Project Funding Agreement with the Province of Prince Edward Island. Schedule E of the agreement outlines communications requirements that municipalities must follow.&amp;nbsp;&lt;/p&gt;&lt;p&gt;To summarize, municipalities are required to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Share information about funded projects with the public&lt;/li&gt;&lt;li&gt;Post project signage where appropriate&lt;/li&gt;&lt;li&gt;Issue regular announcements and updates&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;These communications requirements also apply to all approved Municipal Strategic Component (MSC) projects within the BCSF-CS.&lt;/p&gt;&lt;h2&gt;Notification Requirements&lt;/h2&gt;&lt;p&gt;Two main scenarios exist where notification to Housing, Infrastructure and Communities Canada (HICC) must occur in advance of communications announcement activities:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Funding announcement for a new project&lt;/li&gt;&lt;li&gt;Milestone announcement for ongoing projects (e.g. groundbreaking, ribbon cuttings, grand openings)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Municipalities must provide, at a minimum, &lt;strong&gt;15 working days’ notice&lt;/strong&gt; to the Infrastructure Secretariat before a project announcement. HICC will coordinate with the province regarding the requested date and availability of the necessary participants.&lt;/p&gt;&lt;p&gt;Early notification of proposed announcements is critical to ensure successful execution, along with providing ample time to create new releases, representative quotes, and accompanying social media posts to be reviewed and approved by all parties. This notification can be facilitated through the Infrastructure Secretariat by emailing &lt;a href="mailto:CPEI-INFRASTRUCTURE@gov.pe.ca"&gt;CPEI-INFRASTRUCTURE@gov.pe.ca&lt;/a&gt;.&lt;/p&gt;&lt;h2&gt;Sharing Project Information&lt;/h2&gt;&lt;p&gt;Municipalities will also be required to submit a bi-annual communications report using the standardized format provided by the province. This report also serves as a formal mechanism for municipalities to provide detailed status updates on construction starts and completions, as well as any necessary adjustments to the project timeline.&lt;/p&gt;&lt;h2&gt;Public Signage Guidelines&lt;/h2&gt;&lt;p&gt;Where required, signage must be installed &lt;strong&gt;30 days before the start of the project&lt;/strong&gt; and remain in place for 30 days after completion.&lt;/p&gt;&lt;p&gt;Physical signage is not necessarily appropriate if your project is:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Located in a remote area that is not visible to the public&lt;/li&gt;&lt;li&gt;Short in duration (i.e., under seven days)&lt;/li&gt;&lt;li&gt;Small in scale (i.e., has a total project cost of less than $100,000)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Instead of installing a physical exterior sign, you may, where appropriate:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Install an interior sign (e.g., in the lobby of the building affected by your project)&lt;/li&gt;&lt;li&gt;Use digital signage (e.g., on a project web site or on a social media platform)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;You may also install a single sign for a cluster of similar projects (i.e., a group of projects within the same investment category that are near one another).&lt;/p&gt;&lt;p&gt;The cost of posting signs can be funded by the BCSF-CS. See Canada’s &lt;a href="https://housing-infrastructure.canada.ca/pub/signage-panneaux/intro-eng.html"&gt;project signage design template page&lt;/a&gt; for templates and more information.&lt;/p&gt;&lt;h2&gt;Completing Regular Announcements&lt;/h2&gt;&lt;p&gt;Communications activities are primarily a municipal responsibility under the BCSF-CS - but the Infrastructure Secretariat is here to help. Regular communications help keep the public informed about the benefits of, and investments made, through BCSF-CS in their communities. &amp;nbsp;&lt;/p&gt;&lt;p&gt;Municipalities are encouraged to profile one or more projects at least once per year through activities such as social media posts, news releases, milestone events, project spotlights, or articles on their municipal website.&lt;/p&gt;&lt;p&gt;Alternatively, municipalities may send project details and photos to the Secretariat for promotion through our website and social media channels.&lt;/p&gt;&lt;h3&gt;Social Media Guidance&lt;/h3&gt;&lt;p&gt;In many cases, a social media post will meet the requirement. Keep it simple and visual. Use plain language, avoid jargon, and include a picture or video to make your post more engaging.&lt;/p&gt;&lt;p&gt;Be sure to tag @hicc_ca or #BCSF_CS_PEI on X and Instagram.&lt;/p&gt;&lt;p&gt;Tag BCSF-CS in PEI on LinkedIn and Facebook.&lt;/p&gt;&lt;h3&gt;Photography Guidance&lt;/h3&gt;&lt;p&gt;Add an engaging, appropriately sized photo to help your post stand out. Where possible, show people enjoying the upgrades, such as children playing in a new park, a couple exploring a freshly restored trail, or families visiting businesses in a revitalized downtown area.&lt;/p&gt;&lt;p&gt;Try to avoid photos of infrastructure on its one, unless the image has artistic merit, such as &amp;nbsp; a stunning sunset over a newly repaved roadway.&lt;/p&gt;&lt;p&gt;Consider using scenic photos of your community if these options are not available.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationfield-resources"&gt;
-  
-    
-      
-        
-
-
-  &lt;div class="ew-card ew-card-quicklink-listing"&gt;
-                    
-                        &lt;h3 class="ew-card-quicklink-listing__title"&gt;
-            Resources
-          &lt;/h3&gt;
-              
-          &lt;div class="ew-card-quicklink-listing__content"&gt;
-                  &lt;ul class="tw-flex tw-flex-col tw-list-none tw-p-0"&gt;
-                          &lt;li&gt;
-                
-  	  
-
-
-
-          
-    &lt;a class="ew-button ew-button--tertiary" href="https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/build-communities-strong-fund-bcsf-community-stream"&gt;
-              &lt;span&gt;Build Communities Strong Fund (BCSF) Community Stream&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-arrow-right"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-              &lt;/li&gt;
-                      &lt;/ul&gt;
-              &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-&lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Pilot Shoreline Management Plans: Public Information Session- Montague</title>
-      <link>https://www.princeedwardisland.ca/en/event/pilot-shoreline-management-plans-public-information-session-montague</link>
-      <guid isPermaLink="false">81374 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 29 Sep 2026 11:39:08 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pilot Shoreline Management Plans: Public Information Session- Montague&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;catherinekennedy&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-29T08:39:08-03:00" title="Tuesday, September 29, 2026 - 08:39"&gt;Tue, 09/29/2026 - 08:39&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Draft Shoreline Management Plans for the Southeastern portion of PEI will be ready for review (see link - &lt;a href="https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Farcg.is%2F0Hyfrm0&amp;amp;data=05%7C02%7Ccatherinekennedy%40gov.pe.ca%7Cffd7930374f04b98023f08df189e6d18%7Cc86b09eb7ad74aa29d8298a45bd8ec19%7C0%7C0%7C639256740848154838%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=fUY%2BSEupHxmqfqSc68KStmmeHUMUkRF%2BViosXmvN5JU%3D&amp;amp;reserved=0"&gt;https://arcg.is/0Hyfrm0&lt;/a&gt;), and we invite you to participate in the following information session. Sessions will include a presentation and a chance to provide feedback on the draft plans and&amp;nbsp;on local community priorities. Note that engagement for other parts of the PEI will take place in the fall of 2027 when modelling is complete.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-10-20T21:00:00Z"&gt;October 20, 2026 6:00 pm&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-10-20T23:00:00Z"&gt;October 20, 2026 8:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
-  
-    
-      
-&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
-          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Cavendish Wellness&lt;/span&gt; &lt;span class="family-name"&gt;Centre&lt;/span&gt;&lt;br /&gt;
-&lt;span class="address-line1"&gt;21 Sullivan Lane&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Montague&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0A 1R0&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;/div&gt;
 
   &lt;/div&gt;
 
