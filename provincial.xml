@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 01 Oct 2026 11:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:22:17 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -226,29 +226,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW ADVISORY - FROST - IN EFFECT</title>
+      <title>BE ALERT - HIGH WIND WARNING ISSUED BY HYDROLOGIC FORECAST CENTRE</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6abd7c037340ccc12f472124</guid>
-      <pubDate>2026-09-30T21:15:45.316Z</pubDate>
-      <description>Generic Warning | Yellow Advisory - Frost - In Effect | &lt;p&gt;Freezing temperatures with frost are expected tonight.
-
-Areas of frost are expected.
-
-Locations: Portions of southern Saskatchewan and southwestern Manitoba.
-
-Minimum temperatures: -1 to +2 (coolest in low-lying areas).
-
-Time span: early Thursday morning.
-
-Remarks: Patchy frost is expected to form as clear skies and light winds coincide with cool temperatures, especially in low-lying areas.
-
-
-
-Damage to plants, trees, and crops is possible.
-
-Frost advisories are issued when widespread frost or freezing temperatures are expected during the growing season.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future | Kenton, Manitoba</description>
+      <guid isPermaLink="false">6abe8c9a6162e42833fba20f</guid>
+      <pubDate>2026-10-01T16:38:46.071Z</pubDate>
+      <description>Windstorm Warning | High Wind Warning Issued By Hydrologic Forecast Centre | &lt;p&gt;Manitoba Transportation and Infrastructure’s Hydrologic Forecast Centre advises high winds are expected in the afternoon of October 1. High winds may raise water levels on the lake between 0.9 - 1.5m. Significant wave action is expected. Winds effects pose a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Grand Marais, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
@@ -259,6 +241,265 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <pubDate>2026-08-10T12:38:41.637-05:00</pubDate>
       <description>Flood Advisory | MOSSEY RIVER MUNICIPALITY and RM OF DAUPHIN | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Fork River, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Treaty Day celebrates relationship with PEI Mi’kmaq</title>
+      <link>https://www.princeedwardisland.ca/en/news/treaty-day-celebrates-relationship-with-pei-mikmaq</link>
+      <guid isPermaLink="false">81398 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 01 Oct 2026 16:46:23 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Treaty Day celebrates relationship with PEI Mi’kmaq &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-01T13:46:23-03:00" title="Thursday, October 1, 2026 - 13:46"&gt;Thu, 10/01/2026 - 13:46&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="image of people standing in front of government building " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/acf4/Treaty%20Day%20Photo.jpg.webp?itok=05KFDPt4" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Today, Prince Edward Island recognizes Treaty Day to celebrate the relationship between the PEI Mi’kmaq and Islanders and reaffirm the province’s commitment to reconciliation.&lt;br /&gt;&lt;br /&gt;Treaty Day also marks the beginning of Mi’kmaw History Month, a time to learn more about Mi’kmaq culture, language and traditions. The leadership of Abegweit First Nation and Lennox Island First Nation joined Premier Rob Lantz today at the Provincial Administration Building to raise the Mi’kmaq Grand Council flag, which will fly throughout October.&lt;br /&gt;&lt;br /&gt;The province continues to work with Mi’kmaq partners to advance reconciliation and create opportunities for Indigenous Peoples and communities. Developing and maintaining strong, respectful partnerships with First Nation communities and Indigenous organizations is central to this work.&amp;nbsp;&lt;/p&gt;&lt;p&gt;This year, the provincial government renewed a four-year, $1.67 million agreement between SkillsPEI and the Mi’kmaq Confederacy of PEI to support Indigenous participants through employment programs, mentorship opportunities and essential workplace skills training. &amp;nbsp;&lt;/p&gt;&lt;p&gt;The province also continues to provide funding to help address systemic challenges through collaboration and partnership. This funding supports community-based programs and local initiatives that address MMIWG and gender-based violence, while promoting healing, cultural activities, and community connection.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Throughout Mi’kmaw History Month, Islanders are encouraged to participate in events and learn more. The &lt;a href="https://www.princeedwardisland.ca/en/information/executive-council-office/aboriginal-affairs-secretariat"&gt;Indigenous Relations Secretariat&lt;/a&gt; will offer a lunch and learn series to the public service to help educate employees about the history, culture, and language of Mi’kmaq people.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quotes:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“The Peace and Friendship Treaties are the bedrock of coexistence in Epekwitk. Coming together as one community to celebrate more than 300 years of shared history is so important. It reminds us that we have grown together and overcome countless challenges as neighbours. While the path that brought us here has not always been smooth, it is our duty, as Treaty People, to continue the journey. Treaty Day reminds us to strive to build a better future for those still to come.” &amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;em&gt;-Lennox Island First Nation&lt;/em&gt;&amp;nbsp;&lt;em&gt;Chief Tabatha Bernard&lt;/em&gt;&lt;/p&gt;&lt;p&gt;“Treaty Day commemorates the Peace and Friendship Treaties signed by our ancestors, but for me it is also a celebration of the future. Our ancestors signed the Treaties hoping for a better future built on understanding and acceptance. The Treaties are about two nations finding a way to work together for their mutual benefit. In that way, we are all Treaty People, and that gives me hope for our future.”  &amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;em&gt;- Abegweit First Nation Chief Junior Gould&amp;nbsp;&lt;/em&gt;&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Treaty Day is an opportunity to celebrate the relationship we share with the PEI Mi’kmaq and to reflect on our shared responsibility to continue the work of reconciliation. That work is built on respect, understanding and meaningful collaboration. As Mi’kmaw History Month begins, I encourage Islanders to learn more about Mi’kmaq history, culture and traditions, and to take part in opportunities throughout the month to listen, learn and come together.” &amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;em&gt;-Premier Rob Lantz&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;L’nuey is holding a Mawi’omi at the Eastlink Centre today (October 1) from 10:30 a.m. to 3 p.m. to commemorate the historic Peace and Friendship Treaties and the unique relationship between the Mi’kmaq and the Crown.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Visit &lt;a href="https://www.princeedwardisland.ca/understandingindigenousmatters"&gt;Understanding Indigenous Matters&lt;/a&gt; and &lt;a href="https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Flnuey.ca%2F&amp;amp;data=05%7C02%7CEmilyblue%40gov.pe.ca%7Ca44d188f54b942cc6d9108de011190b3%7Cc86b09eb7ad74aa29d8298a45bd8ec19%7C0%7C0%7C638949372157682513%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=mh%2B%2FXmaI4qbCG4JhPTg4tDOshKsd%2BD50mIEgtx%2F%2FF2M%3D&amp;amp;reserved=0"&gt;L’nuey&lt;/a&gt; to learn more about reconciliation.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nicole Yeba&lt;br /&gt;Executive Council Office&lt;br /&gt;&lt;a href="mailto:ntyeba@gov.pe.ca"&gt;ntyeba@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Sean Doke&amp;nbsp;&lt;br /&gt;L’nuey&amp;nbsp;&lt;br /&gt;902-330-4420&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:sdoke@lnuey.ca"&gt;sdoke@lnuey.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Statement by Minister Ramsay on National Seniors Day</title>
+      <link>https://www.princeedwardisland.ca/en/news/statement-by-minister-ramsay-on-national-seniors-day</link>
+      <guid isPermaLink="false">81397 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 01 Oct 2026 13:14:52 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Statement by Minister Ramsay on National Seniors Day&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-01T10:14:52-03:00" title="Thursday, October 1, 2026 - 10:14"&gt;Thu, 10/01/2026 - 10:14&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Minister of Social Development and Seniors Barb Ramsay issued the following statement:&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Today is National Seniors Day, a time to celebrate older adults and thank them for the countless contributions they make to our province.&lt;/p&gt;&lt;p&gt;Earlier this year, our department launched the&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/social-development-and-seniors/seniors-action-plan-2026-2031"&gt;Seniors Action Plan for 2026-2031.&lt;/a&gt; I encourage you to take the opportunity to review the plan and see how we are working with partners and communities to help seniors thrive. The plan builds on the significant progress that has already been made to support seniors, while introducing new strategies and actions that address the current and future needs and priorities of island seniors.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The priorities in the Seniors Action Plan are reflected in the programs that we continue to invest in across the province. Recently, we announced Seniors Community Meal Grants and Seniors’ Secretariat Grants, which help support community connections and enhance the quality of life for seniors. Tomorrow, we will be recognizing older adults with the 2026&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/pei-senior-islander-of-the-year-award-2026"&gt;Senior Islander of the Year Award&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Improving the aging experience is a top priority for our department, but we also know it is a shared responsibility. By supporting older adults, we strengthen the social and economic fabric of our province. Today, and throughout the year, I encourage Islanders to reach out and connect with a senior in their lives.”&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact&lt;/strong&gt;:&lt;br /&gt;Hillary Proctor&lt;br /&gt;Department of Social Development and Seniors&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:hproctor@gov.pe.ca"&gt;hproctor@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>MacArthur</title>
+      <link>https://www.princeedwardisland.ca/en/employee/macarthur-brian</link>
+      <guid isPermaLink="false">81396 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 01 Oct 2026 12:53:19 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MacArthur&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;KACURRIE&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-01T09:53:19-03:00" title="Thursday, October 1, 2026 - 09:53"&gt;Thu, 10/01/2026 - 09:53&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Ministerial Assistant&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Agriculture&lt;/strong&gt;
+            &lt;div&gt;Minister's Office&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Statement from Minister Jenn Redmond on Women’s History Month</title>
+      <link>https://www.princeedwardisland.ca/en/news/statement-from-minister-jenn-redmond-on-womens-history-month</link>
+      <guid isPermaLink="false">81395 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 01 Oct 2026 12:36:13 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Statement from Minister Jenn Redmond on Women’s History Month&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-01T09:36:13-03:00" title="Thursday, October 1, 2026 - 09:36"&gt;Thu, 10/01/2026 - 09:36&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Today, Minister Jenn Redmond, Minister responsible for the status of women issued the following statement recognizing October as Women’s History Month:&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“October is Women’s History Month in Canada, a time to reflect on the women and girls who have helped shape our communities, our province, and our country.&lt;/p&gt;&lt;p&gt;Every day, women make a difference. They lead businesses, care for families, strengthen workplaces, support their neighbours, and volunteer in their communities. Many of these contributions take place quietly, without recognition, but they matter deeply.&lt;/p&gt;&lt;p&gt;This month is an opportunity to celebrate the achievements of women from all walks of life. It is also a chance to encourage the next generation of women and girls to pursue their goals, share their talents, and follow their own path with confidence.&lt;/p&gt;&lt;p&gt;Across Prince Edward Island, we are fortunate to be surrounded by women who inspire us through their leadership, kindness, and commitment to making our communities better places to live.&lt;/p&gt;&lt;p&gt;During Women’s History Month, I encourage all Islanders to take a moment to recognize the women who have influenced their lives, whether they are family members, friends, colleagues, mentors, or community leaders.”&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;Media contac&lt;/strong&gt;t:&lt;br /&gt;April Gallant&lt;br /&gt;Department of Workforce and Advanced Learning&lt;br /&gt;&lt;a href="mailto:aldgallant@gov.pe.ca"&gt;aldgallant@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -634,278 +875,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
           
     &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/e3e9/FM-066-T-E%2C%20Vendor%20Request%20to%20Update%20Permit%20Numbers%2008-2026.pdf"&gt;
               &lt;span&gt;FM-066-T-E, Vendor Request to Update Permit Numbers&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>FM-110-T-E, Application for Refund of Issuance Fee</title>
-      <link>https://www.princeedwardisland.ca/en/form/fm-110-t-e-application-for-refund-of-issuance-fee</link>
-      <guid isPermaLink="false">81387 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 29 Sep 2026 15:08:09 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-110-T-E, Application for Refund of Issuance Fee&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mlwilliams&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-29T12:08:09-03:00" title="Tuesday, September 29, 2026 - 12:08"&gt;Tue, 09/29/2026 - 12:08&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/b122/FM-110-T-E%2C%20Application%20for%20Refund%20of%20Issuance%20Fee%2008-2026.pdf"&gt;
-              &lt;span&gt;FM-110-T-E, Application for Refund of Issuance Fee&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Preventive Literacy Intervention (PLI)</title>
-      <link>https://www.princeedwardisland.ca/en/information/education-and-early-years/preventive-literacy-intervention-pli</link>
-      <guid isPermaLink="false">81385 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 29 Sep 2026 13:56:05 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Preventive Literacy Intervention (PLI)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;wendygallant&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-29T10:56:05-03:00" title="Tuesday, September 29, 2026 - 10:56"&gt;Tue, 09/29/2026 - 10:56&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The &lt;em&gt;Preventive Literacy Intervention&lt;/em&gt; (PLI) is a targeted support service offered to elementary students within the &lt;em&gt;French Language School Board&lt;/em&gt; who experience challenges in reading and writing. The intervention is designed to strengthen students’ literacy skills through explicit, systematic, and targeted instruction. The PLI interventionist works in close collaboration with the classroom teacher to identify students’ needs, plan appropriate interventions, and monitor ongoing progress. Interventions focus on the development of phonological awareness, decoding, reading fluency, vocabulary, reading comprehension, and writing skills. Through a preventive, data-informed approach, PLI helps support student achievement and strengthens the foundational literacy skills necessary for long-term academic success.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Seniors’ Secretariat Grants support projects for seniors</title>
-      <link>https://www.princeedwardisland.ca/en/news/seniors-secretariat-grants-support-projects-for-seniors</link>
-      <guid isPermaLink="false">81384 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 29 Sep 2026 13:15:56 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Seniors’ Secretariat Grants support projects for seniors &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-29T10:15:56-03:00" title="Tuesday, September 29, 2026 - 10:15"&gt;Tue, 09/29/2026 - 10:15&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Community organizations across the province have received funding through the Seniors' Secretariat Grant program to deliver projects that support older adults.&lt;/p&gt;&lt;p&gt;The program is funded through the provincial government and provides grants to community-based organizations for projects that improve the lives of Island seniors. This year, over $140,000 was approved for 62 projects across the province.&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Thank you to all the organizations whose dedication and passion help make a difference in the lives of Island seniors. By supporting programs that bring people together, we are helping older adults stay connected and engaged as they age in their communities."&lt;/p&gt;&lt;p&gt;- Social Development and Seniors Minister Barb Ramsay&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Applications for the most recent round of funding opened in February and closed in March 2026.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Across PEI, organizations and communities play an essential role in helping older Islanders stay active, connected and engaged,” said chair of the PEI Seniors' Secretariat Peter Holman.&amp;nbsp;“The PEI Seniors’ Secretariat is proud to support projects that promote healthy aging, strengthen social connection, and enhance the quality of life for older adults.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;“At Parkview Senior Citizens Club of Summerside, we offer year-round programming for our more than 210 members,” said President of Parkview Seniors Citizens Club Jim Steele. “We appreciate funding from the Seniors Secretariat as it helps to offset a portion of the cost of our social events.”&lt;/p&gt;&lt;p&gt;The &lt;a href="https://www.princeedwardisland.ca/en/information/executive-council-office/seniors-secretariat"&gt;Seniors’ Secretariat&lt;/a&gt; provides policy and program advice to government and other organizations to improve the quality of life for seniors in Prince Edward Island.&amp;nbsp;&lt;/p&gt;&lt;p&gt;This grant program supports a key pillar of the &lt;a href="https://www.princeedwardisland.ca/en/information/social-development-and-seniors/seniors-action-plan-2026-2031"&gt;Seniors Action Plan 2026-2031&lt;/a&gt; by enhancing the well-being of older adults in PEI. &amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contac&lt;/strong&gt;t:&lt;br /&gt;Hillary Proctor&lt;br /&gt;Department of Social Development and Seniors&lt;br /&gt;&lt;a href="mailto:hproctor@gov.pe.ca"&gt;hproctor@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>FM-094-T-E, Marked Fuel Gasoline Tax and Carbon Levy Self-Declaration - Farm Trucks</title>
-      <link>https://www.princeedwardisland.ca/en/form/fm-094-t-e-marked-fuel-gasoline-tax-and-carbon-levy-self-declaration-farm-trucks</link>
-      <guid isPermaLink="false">81383 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 29 Sep 2026 13:06:24 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FM-094-T-E, Marked Fuel Gasoline Tax and Carbon Levy Self-Declaration - Farm Trucks&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mlwilliams&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-09-29T10:06:24-03:00" title="Tuesday, September 29, 2026 - 10:06"&gt;Tue, 09/29/2026 - 10:06&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeformfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/073f/FM-094~1.PDF"&gt;
-              &lt;span&gt;FM-094~1.PDF&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
