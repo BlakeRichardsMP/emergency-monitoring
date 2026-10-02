@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 02 Oct 2026 01:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:19:07 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -223,15 +223,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - HIGH WIND WARNING ISSUED BY HYDROLOGIC FORECAST CENTRE</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6abe8c9a6162e42833fba20f</guid>
-      <pubDate>2026-10-01T16:38:46.071Z</pubDate>
-      <description>Windstorm Warning | High Wind Warning Issued By Hydrologic Forecast Centre | &lt;p&gt;Manitoba Transportation and Infrastructure’s Hydrologic Forecast Centre advises high winds are expected in the afternoon of October 1. High winds may raise water levels on the lake between 0.9 - 1.5m. Significant wave action is expected. Winds effects pose a potential threat to lakeside infrastructure and property.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour | Grand Marais, Manitoba</description>
-      <source>Manitoba</source>
     </item>
 
     <item>
