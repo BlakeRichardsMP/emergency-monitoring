@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 03 Oct 2026 01:57:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 07:47:51 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -232,6 +232,62 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-08-10T12:38:41.637-05:00</pubDate>
       <description>Flood Advisory | MOSSEY RIVER MUNICIPALITY and RM OF DAUPHIN | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Fork River, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Anderson</title>
+      <link>https://www.princeedwardisland.ca/en/employee/anderson-nancy</link>
+      <guid isPermaLink="false">81414 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Sat, 03 Oct 2026 02:57:39 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Anderson&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-02T23:57:39-03:00" title="Friday, October 2, 2026 - 23:57"&gt;Fri, 10/02/2026 - 23:57&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Provincial Manager - AccessAbility Support&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Social Development and Seniors&lt;/strong&gt;
+            &lt;div&gt;Social Assistance/AccessAbility Supports Program&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -869,73 +925,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 &lt;span class="organization"&gt;Mill River Resort&lt;/span&gt;&lt;br /&gt;
 &lt;span class="address-line1"&gt;180 Mill River Resort Rd&lt;/span&gt;&lt;br /&gt;
 &lt;span class="locality"&gt;Bloomfield Station&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0B 1E0&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Innovation PEI + BioFoodTech Open House</title>
-      <link>https://www.princeedwardisland.ca/en/event/innovation-pei-biofoodtech-open-house</link>
-      <guid isPermaLink="false">81400 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 01 Oct 2026 18:02:06 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Innovation PEI + BioFoodTech Open House&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jklorch&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-01T15:02:06-03:00" title="Thursday, October 1, 2026 - 15:02"&gt;Thu, 10/01/2026 - 15:02&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Celebrate Small Business Week with Innovation PEI and BioFoodTech!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Join us as we kick off Small Business Week on &lt;strong&gt;October 19 from 11:30 a.m. to 1:30 p.m.&lt;/strong&gt; at &lt;strong&gt;BioFoodTech&lt;/strong&gt; for an Open House that brings together entrepreneurs, innovators, business leaders, and community partners from across Prince Edward Island.&lt;/p&gt;&lt;p&gt;Explore BioFoodTech's facilities, discover the supports available through Innovation PEI and BioFoodTech, and connect with others who are helping drive innovation and economic growth across the province. Enjoy light refreshments while building new connections and learning about opportunities to support your business journey.&lt;/p&gt;&lt;p&gt;We look forward to welcoming you for an afternoon of networking, collaboration, and innovation!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Registration is required. &lt;a href="https://locarius.io/events/4782/innovation-pei-biofoodtech-open-house"&gt;Click here to register!&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-10-19T14:30:00Z"&gt;October 19, 2026 11:30 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-10-19T16:30:00Z"&gt;October 19, 2026 1:30 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
-  
-    
-      
-&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
-          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;BioFoodTech&lt;/span&gt; &lt;span class="family-name"&gt;PEI&lt;/span&gt;&lt;br /&gt;
-&lt;span class="organization"&gt;BioFoodTech&lt;/span&gt;&lt;br /&gt;
-&lt;span class="address-line1"&gt;101 Belvedere Ave&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Charlottetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1A 6B3&lt;/span&gt;&lt;br /&gt;
 &lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
     &lt;/div&gt;
 
