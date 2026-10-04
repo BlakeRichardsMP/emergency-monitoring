@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 04 Oct 2026 14:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:22:27 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -235,12 +235,98 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Wind (Issued)</title>
+      <title>Wind (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2459503011.2026-1</guid>
-      <pubDate>2026-10-04T07:49:57-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3458751512.2026-1</guid>
+      <pubDate>2026-10-04T16:13:58-00:00</pubDate>
       <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: Monday afternoon. Maximum wind gusts: southeasterly up to 90 km/h. Locations: Margaree Harbour to... | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Health PEI Annual General Meeting - October 28, 2026 Agenda</title>
+      <link>https://www.princeedwardisland.ca/en/publication/health-pei-annual-general-meeting-october-28-2026-agenda</link>
+      <guid isPermaLink="false">81415 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Sun, 04 Oct 2026 15:51:50 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Health PEI Annual General Meeting - October 28, 2026 Agenda&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-04T12:51:50-03:00" title="Sunday, October 4, 2026 - 12:51"&gt;Sun, 10/04/2026 - 12:51&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Agenda for the Health PEI Annual General Meeting on October 28, 2026.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/da44/health_pei_annual_general_meeting_october_28_2026_agenda_eng.pdf.pdf"&gt;
+              &lt;span&gt;health_pei_annual_general_meeting_october_28_2026_agenda_eng.pdf.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -876,100 +962,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
   &lt;/div&gt;</description>
       <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Small Business Week Lunch &amp; Learn with Coltin Handrahan at Mill River Resort: Own Your Stack: AI-Built Software for Small Business</title>
-      <link>https://www.princeedwardisland.ca/en/event/small-business-week-lunch-learn-with-coltin-handrahan-at-mill-river-resort-own-your-stack-ai</link>
-      <guid isPermaLink="false">81401 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 01 Oct 2026 18:05:34 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Small Business Week Lunch &amp;amp; Learn with Coltin Handrahan at Mill River Resort: Own Your Stack: AI-Built Software for Small Business&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jklorch&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-01T15:05:34-03:00" title="Thursday, October 1, 2026 - 15:05"&gt;Thu, 10/01/2026 - 15:05&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;As part of Small Business Week, Innovation PEI is excited to host a Lunch and Learn presented by Coltin Handrahan - Own Your Stack: AI-Built Software for Small Business! Join us on &lt;strong&gt;Tuesday, October 20th, 12pm | Mill River Resort.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Free registration. Seating is limited. &lt;a href="https://locarius.io/events/4779/small-business-week-lunch-learn-with-coltin-handrahan-at-mill-river-resort-own-your-stack-ai-built-software-for-small-business"&gt;Click here to register!&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Event Description:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coltin Handrahan founded Stay Golden Custom in his senior year of high school and over the past 14 years has grown it into a custom apparel company with business clients from coast to coast and their production still taking place in rural Hunter River. For 14 years he ran the company as a non-technical founder, paying for off-the-shelf software that never quite fit how their business worked. Last December, that changed. Leveraging AI-powered tools, Coltin began building his own custom coded apps: quoting, production, and sales tools designed around exactly how his team works. The results reshaped his business, and the approach is within reach of any owner, no coding background required. This lunch and learn covers the real story: what he built, what it changed, and the specific tactics an Island business can use to leverage this technology and compete on the national stage. Practical, direct, and built for small business owners.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;About the presenter:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Coltin Handrahan is the founder of Stay Golden Custom, a custom apparel and branded merch company based in Hunter River, PEI, serving clients coast to coast. A non-technical founder of 14 years, he now “vibe coded” his company's own software and speaks about making that leap accessible to any business owner.&lt;/p&gt;&lt;p&gt;Please note: We are also offering this Lunch and Learn on &lt;a href="https://locarius.io/events/4975/small-business-week-lunch-learn-with-coltin-handrahan-at-rodd-brudenell-river-resort-own-your-stack-ai-built-software-for-small-business"&gt;&lt;strong&gt;Thursday, October 22nd, 12pm at Rodd Brudenell River Resort - Register here! &lt;/strong&gt;&lt;/a&gt;Both sessions feature the same presentation and content.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-10-20T15:00:00Z"&gt;October 20, 2026 12:00 pm&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-10-20T16:00:00Z"&gt;October 20, 2026 1:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
-  
-    
-      
-&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
-          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Mill River &lt;/span&gt; &lt;span class="family-name"&gt;Resort&lt;/span&gt;&lt;br /&gt;
-&lt;span class="organization"&gt;Mill River Resort&lt;/span&gt;&lt;br /&gt;
-&lt;span class="address-line1"&gt;180 Mill River Resort Rd&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Bloomfield Station&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0B 1E0&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Premier McLeod on the Enbridge Line 21 Pipeline</title>
-      <link>https://www.gov.nt.ca/en/newsroom/news/premier-mcleod-enbridge-line-21-pipeline</link>
-      <guid isPermaLink="false">9422 at https://www.gov.nt.ca</guid>
-      <pubDate>Wed, 26 Sep 2018 23:05:28 +0000</pubDate>
-      <description>&lt;div class="field field-name-body field-type-text-with-summary field-label-hidden"&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;p&gt;&lt;strong&gt;YELLOWKNIFE&lt;/strong&gt; - Premier Bob McLeod issued the following statement on the Enbridge Line 21 pipeline today:&lt;/p&gt;
-
-&lt;p&gt;“I was pleased to learn that operations have resumed for Enbridge’s Line 21 pipeline after almost 2 years of no activity.&lt;/p&gt;
-
-&lt;p&gt;"Resource development has, and will continue to be, the backbone of our economy and is central to ensuring a good source of middle class jobs and business opportunities. Our territory has mineral and petroleum resources and the development of those resources can have a transformative effect on our people and economy.&lt;/p&gt;
-
-&lt;p&gt;"Sustainable economic development is key to the future of Northerners. With a strong resource development base, we will be able to support diversification of our local economies into emerging and established sectors.&lt;/p&gt;
-
-&lt;p&gt;"On behalf of the Government of the Northwest Territories I’d like to offer my congratulations to Imperial Oil, Enbridge the town of Norman Wells and other partners for getting this pipeline back up and running. I know the efforts and economic impacts of the pipeline have already begun to take shape in the community and will be felt for years to come. ”&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Charlotte Digness&lt;/strong&gt;&lt;br /&gt;
-	Media and Communications Coordinator&lt;br /&gt;
-	Cabinet Communications and Protocol&lt;br /&gt;
-	Government of the Northwest Territories&lt;br /&gt;
-	Ph: 867-767-9140 ext. 11092&lt;br /&gt;
-	Email: &lt;a href="mailto:charlotte_digness@gov.nt.ca"&gt;charlotte_digness@gov.nt.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-type field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;News Type:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/news-type/media-statement"&gt;Media Statement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-department field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;Department:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/department/premier"&gt;Premier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class="links inline"&gt;&lt;li class="fr first last"&gt;&lt;a class="language-link" href="https://www.gov.nt.ca/fr/newsroom/le-premier-ministre-mcleod-se-r%C3%A9jouit-de-la-r%C3%A9ouverture-de-l%E2%80%99ol%C3%A9oduc-21-d%E2%80%99enbridge" xml:lang="fr"&gt;Français&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <source>Northwest Territories</source>
     </item>
 
   </channel>
