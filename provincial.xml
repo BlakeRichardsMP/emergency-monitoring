@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 04 Oct 2026 02:39:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:48:33 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -232,6 +232,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-08-10T12:38:41.637-05:00</pubDate>
       <description>Flood Advisory | MOSSEY RIVER MUNICIPALITY and RM OF DAUPHIN | &lt;p&gt;A Flood may impact your community.&lt;/p&gt; | Minor - minimal threat | Future - act in near future | Fork River, Manitoba</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Wind (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2459503011.2026-1</guid>
+      <pubDate>2026-10-04T07:49:57-00:00</pubDate>
+      <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: Monday afternoon. Maximum wind gusts: southeasterly up to 90 km/h. Locations: Margaree Harbour to... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
