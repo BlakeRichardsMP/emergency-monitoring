@@ -5,7 +5,17 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:38:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 21:38:54 +0000</lastBuildDate>
+
+    <item>
+      <title>This is an Alberta Emergency Alert. Valleyview RCMP have canceled the Amber Alert.</title>
+      <link>https://www.alberta.ca/data/aea/cap/2026/10/05/2026-10-05T11_45_24-06_00=AlbertaRCMP=A9B7EF30-8E02-498C-9081-9626D2A4ED82.xml</link>
+      <guid isPermaLink="false">https://www.alberta.ca/data/aea/rss/2026-10-05T11_45_24-06_00=AlbertaRCMP=A9B7EF30-8E02-498C-9081-9626D2A4ED82</guid>
+      <pubDate>2026-10-05T11:45:24-06:00</pubDate>
+      <description>Valleyview RCMP is updating the public that the Amber Alert issued for the 7 year old girl has been canceled. The child has been safely located by police. The suspect has been arrested and in police custody.
+Area: (This canceled alert is in effect for entire province of Alberta.)</description>
+      <source>Alberta</source>
+    </item>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,7 +218,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Drinking Water (Issued)</title>
+      <title>Drinking Water (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/47586281-BB8E-4566-8837-1CB2409496A2</link>
       <guid isPermaLink="false">47586281-BB8E-4566-8837-1CB2409496A2-1</guid>
       <pubDate>2026-10-01T14:55:09-06:00</pubDate>
@@ -237,10 +247,228 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Wind (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2260369913.2026-1</guid>
-      <pubDate>2026-10-05T13:49:54-00:00</pubDate>
-      <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: ending this evening. Maximum wind gusts: southeasterly up to 90 km/h. Locations: Margaree Harbour... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3369215332.2026-1</guid>
+      <pubDate>2026-10-05T18:50:48-00:00</pubDate>
+      <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: ending this evening. Maximum wind gusts: southeasterly up to 100 km/h. Locations: Margaree Harbour... | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Chainsaw Safety Course</title>
+      <link>https://www.princeedwardisland.ca/en/event/chainsaw-safety-course-0</link>
+      <guid isPermaLink="false">81421 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 05 Oct 2026 18:32:43 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Chainsaw Safety Course&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-05T15:32:43-03:00" title="Monday, October 5, 2026 - 15:32"&gt;Mon, 10/05/2026 - 15:32&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;article class="media media--type-image media--view-mode-full"&gt;
+  
+        &lt;img alt="Man operating a chainsaw" class="image-style-large" height="402" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/e2a6/Chainsaw%20Operator%202026.png?itok=NvbRLLRX" title="Chainsaw Operator" width="480" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Islanders interested in participating in a chainsaw safety course can contact Forest, Fish and Wildlife.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Free, one-day, informational&amp;nbsp;seminars will cover the safe operation of this equipment, personal protective equipment, chainsaw inspection and maintenance, and bucking and limbing.&amp;nbsp; &lt;strong&gt;Please note that this session is theory-based. There is no in-field training.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Course dates and locations will be scheduled based on demand.&lt;/p&gt;&lt;p&gt;Register your interest by emailing&lt;strong&gt; &lt;/strong&gt;&lt;a href="mailto:forests@gov.pe.ca"&gt;&lt;strong&gt;forests@gov.pe.ca&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; &lt;/strong&gt;or by calling &lt;strong&gt;902-368-6450&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-10-07T12:00:00Z"&gt;October 7, 2026 9:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-10-07T18:00:00Z"&gt;October 7, 2026 3:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Beach Grove &lt;/span&gt; &lt;span class="family-name"&gt;Forestry Office&lt;/span&gt;&lt;br /&gt;
+&lt;span class="organization"&gt;Forests, Fish and Wildlife&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;170 Beach Grove Road&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Charlottetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1E1J1&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Proctor</title>
+      <link>https://www.princeedwardisland.ca/en/employee/proctor-hillary</link>
+      <guid isPermaLink="false">81420 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 05 Oct 2026 16:55:18 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Proctor&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mutair&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-05T13:55:18-03:00" title="Monday, October 5, 2026 - 13:55"&gt;Mon, 10/05/2026 - 13:55&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Senior Communications Officer&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Transportation and Infrastructure&lt;/strong&gt;
+            &lt;div&gt;Minister's Office&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Statement by Premier Rob Lantz on Mi’kmaw History Month</title>
+      <link>https://www.princeedwardisland.ca/en/news/statement-by-premier-rob-lantz-on-mikmaw-history-month-0</link>
+      <guid isPermaLink="false">81419 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 05 Oct 2026 16:49:22 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Statement by Premier Rob Lantz on Mi’kmaw History Month&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-05T13:49:22-03:00" title="Monday, October 5, 2026 - 13:49"&gt;Mon, 10/05/2026 - 13:49&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="Image of hands " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/a1ea/Mi%26%23039%3Bkmaw%20History%20Month.jpg.webp?itok=uC741bq-" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Premier of Prince Edward Island, Rob Lantz issued the following statement:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“October marks Mi’kmaw History Month, a time to learn more about the history, culture, language and traditions of the Mi’kmaq people.&lt;/p&gt;&lt;p&gt;The Mi’kmaq people have been part of the history of Prince Edward Island for thousands of years, and their contributions continue to be an important part of the province today. Learning more about that history, including the experiences of Mi’kmaq people, is an important part of reconciliation.&lt;/p&gt;&lt;p&gt;Throughout October, the Indigenous Relations Secretariat will offer a series of lunch-and-learn sessions led by Mi’kmaq presenters for public service employees. KAIROS Blanket Exercises will also be offered by the Lennox Island Mi’kmaq Cultural Centre, giving employees additional opportunities to learn more about Mi’kmaq history, culture and perspectives.&lt;/p&gt;&lt;p&gt;I encourage all Islanders to take part in Mi’kmaw History Month, by exploring the stories, traditions and cultures of the Mi’kmaq people, and to carry those lessons forward throughout the year.”&amp;nbsp;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Learn more about&amp;nbsp;&lt;a href="https://mikmaqhistorymonth.ca/"&gt;Mi’kmaw History Month&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Emily Blue&lt;br /&gt;Executive Council Office&lt;br /&gt;&lt;a href="mailto:emblue@gov.pe.ca"&gt;emblue@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -267,7 +495,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Island residents are invited to submit nominations for the 2027 Heritage Awards.&lt;/p&gt;&lt;p&gt;Each year, the PEI Museum and Heritage Foundation presents Heritage Awards from a variety of categories to Island residents who work to protect, share, and promote our history. The awards recognize volunteers, community groups, and individuals who make an impact through meaningful activities, research, storytelling, and more.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;" The stories, traditions, and historic places that define Prince Edward Island are preserved through the dedication of people in communities across the province. The Heritage Awards are an opportunity to recognize and celebrate those who help keep our Island's history alive and ensure it can be shared with future generations."&lt;/p&gt;&lt;p&gt;- Minister of Fisheries, Rural Development and Tourism Ernie Hudson&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;“The Island’s story is preserved and shared by so many incredible people who spend their time and energy keeping our history alive. The annual Heritage Awards are our chance to celebrate these amazing individuals and groups. If you know someone in your community who is making a difference, we’d love to see their name put forward.”&lt;/p&gt;&lt;p&gt;- Executive Director of The PEI Museum and Heritage Foundation Matthew McRae&lt;/p&gt;&lt;p&gt;Nominations are open until November 27, 2026. &amp;nbsp;Nominations can be submitted through the &lt;a href="https://www.peimuseum.ca/about-us/pei-museum-heritage-awards"&gt;PEI Museum Heritage website&lt;/a&gt;&amp;nbsp;or by calling 902-368-6600.&lt;/p&gt;&lt;p&gt;For more information visit: &lt;a href="https://www.peimuseum.ca/about-us/pei-museum-heritage-awards"&gt;PEI Museum Heritage Awards&lt;/a&gt;&amp;nbsp;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Mitchell Crouse&amp;nbsp;&lt;br /&gt;PEI Museum and Heritage Foundation&lt;br /&gt;902-368-5537&lt;br /&gt;&lt;a href="mailto:mcrouse@gov.pe.ca"&gt;mcrouse@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Island residents are invited to submit nominations for the 2027 Heritage Awards.&lt;/p&gt;&lt;p&gt;Each year, the PEI Museum and Heritage Foundation presents Heritage Awards from a variety of categories to Island residents who work to protect, share, and promote our history. The awards recognize volunteers, community groups, and individuals who make an impact through meaningful activities, research, storytelling, and more.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;" The stories, traditions, and historic places that define Prince Edward Island are preserved through the dedication of people in communities across the province. The Heritage Awards are an opportunity to recognize and celebrate those who help keep our Island's history alive and ensure it can be shared with future generations."&lt;/p&gt;&lt;p&gt;- Minister of Fisheries, Rural Development and Tourism Ernie Hudson&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;“The Island’s story is preserved and shared by so many incredible people who spend their time and energy keeping our history alive. The annual Heritage Awards are our chance to celebrate these amazing individuals and groups. If you know someone in your community who is making a difference, we’d love to see their name put forward.”&lt;/p&gt;&lt;p&gt;- PEI Museum and Heritage Foundation executive director Matthew McRae&lt;/p&gt;&lt;p&gt;Nominations are open until November 27, 2026. &amp;nbsp;Nominations can be submitted through the &lt;a href="https://www.peimuseum.ca/about-us/pei-museum-heritage-awards"&gt;PEI Museum Heritage website&lt;/a&gt;&amp;nbsp;or by calling 902-368-6600.&lt;/p&gt;&lt;p&gt;For more information visit: &lt;a href="https://www.peimuseum.ca/about-us/pei-museum-heritage-awards"&gt;PEI Museum Heritage Awards&lt;/a&gt;&amp;nbsp;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Mitchell Crouse&amp;nbsp;&lt;br /&gt;PEI Museum and Heritage Foundation&lt;br /&gt;902-368-5537&lt;br /&gt;&lt;a href="mailto:mcrouse@gov.pe.ca"&gt;mcrouse@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
       
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
@@ -751,256 +979,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
   &lt;/div&gt;</description>
       <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>New accessible taxi ready to serve</title>
-      <link>https://www.princeedwardisland.ca/en/news/new-accessible-taxi-ready-to-serve</link>
-      <guid isPermaLink="false">81410 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 02 Oct 2026 17:24:29 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New accessible taxi ready to serve &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-02T14:24:29-03:00" title="Friday, October 2, 2026 - 14:24"&gt;Fri, 10/02/2026 - 14:24&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Image of people in front of car" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/08c1/Accessible%20Taxi%20Final%20.jpg.webp?itok=9vjssKiZ" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;A new accessible transportation service, Cudmore’s Accessible Cab, is now available for residents and visitors with disabilities across Charlottetown, Stratford, and Cornwall.&lt;/p&gt;&lt;p&gt;Cudmore’s Accessible Cab is a two-year pilot project operated by Pat &amp;amp; the Elephant. The cab is an on-demand, first-come, first-serve taxi service that provides spontaneous and safe transportation throughout the capital region. The cab is named after Paul Cudmore, a long-time advocate for Islanders with disabilities.&lt;/p&gt;&lt;p&gt;The &lt;a href="https://www.princeedwardisland.ca/en/news/new-accessible-taxi-pilot-project-coming-to-capital-region"&gt;pilot project&lt;/a&gt; is funded through a partnership between the Government of Prince Edward Island, the City of Charlottetown, the Town of Stratford, and the Town of Cornwall.&lt;/p&gt;&lt;p&gt;Service is available daily from 7 a.m. to 1 a.m., Sunday through Thursday. On Fridays and Saturdays, hours are extended from 7 a.m. to 3 a.m. Fares start at $8.50 plus $1.60 per kilometer. There are no additional charges for extra passengers or waiting time. The service can accommodate up to two wheelchairs at a time.&amp;nbsp;&lt;/p&gt;&lt;p&gt;No advance booking is required. To book a ride, call (782) 377-8416. The service accepts cash or debit. Credit cards are not accepted at this time.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Cudmore’s Accessible Cab is supported by a committee that includes representatives from Pat &amp;amp; The Elephant, the Department of Social Development and Seniors, the City of Charlottetown, the Towns of Stratford and Cornwall, ResourceAbilities and the PEI Spinal Cord Injury Association.&lt;/p&gt;&lt;p&gt;To learn more visit &lt;a href="https://www.cudmorescab.ca/"&gt;Cudmore’s Cab — Accessible On-Demand Taxi, PEI Capital Region&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quotes:&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Making this service a reality has been a true team effort and I’m proud of what we have accomplished together. Cudmore’s Accessible Cab will make a meaningful difference in people’s daily lives. This is an important step toward creating more inclusive communities and shows what can be achieved when governments and community partners work together to improve accessibility for Islanders.”&lt;/p&gt;&lt;p&gt;- Minister of Social Development and Seniors Barb Ramsay&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;“Accessible transportation is about independence, inclusion and being able to fully participate in community life. This new service will give people with disabilities more flexibility to get to work, attend appointments and activities, visit family and friends, or simply get where they need to go without having to plan every trip in advance. We are very excited to see this project come to fruition and to partner on an initiative that helps make Charlottetown and the capital region more accessible for everyone.”&lt;/p&gt;&lt;p&gt;- Mayor of Charlottetown Philip Brown&lt;/p&gt;&lt;p&gt;“The Town of Cornwall is proud to have been a part of the collaborative efforts that have brought this project into the reality of Cudmore’s Accessible Cab. This initiative will make it easier for Islanders to get around by removing travel barriers, making the Island more inclusive.”&lt;/p&gt;&lt;p&gt;- Mayor of Cornwall Minerva McCourt&lt;/p&gt;&lt;p&gt;“The Town of Stratford is a proud partner in this project. We know we have residents that will directly benefit from this much-needed service, allowing them to participate and attend events and activities that fall outside of the existing hours of service provided. We are pleased to be working alongside all partners to recognize and support this needed service that is now available.”&lt;/p&gt;&lt;p&gt;- Mayor of Stratford Steve Ogden&lt;/p&gt;&lt;p&gt;“At Pat &amp;amp; The Elephant, we believe transportation should never be a barrier to participating in community life. Cudmore’s Accessible Cab is an important step toward providing residents and visitors with disabilities the freedom to travel safely, spontaneously, and with dignity throughout the capital region. We are proud to partner with government, municipalities, and community organizations to deliver a service that helps make our communities more accessible and inclusive for everyone.”&lt;/p&gt;&lt;p&gt;- President of Pat &amp;amp; the Elephant Steve Brosseau&lt;/p&gt;&lt;p&gt;“We’re excited to have worked alongside a committee that has remained so passionate about bringing Cudmore’s Accessible Cab to life. Accessible transportation gives people with disabilities more freedom and flexibility to make plans, be spontaneous and participate fully in their communities.”&lt;/p&gt;&lt;p&gt;- Executive Director of ResourceAbilities Devon Broome&lt;/p&gt;&lt;p&gt;“Spinal Cord injury PEI is excited about the accessible cab and the work that has gone into making it a reality. We have been working at this for some time now amongst our own organization and in this collaborative effort.”&lt;/p&gt;&lt;p&gt;- Executive Director of Spinal Cord Injury PEI Glen Flood&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Stacey Miller&lt;br /&gt;Department of Social Development and Seniors&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:samiller@gov.pe.ca"&gt;samiller@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Helping Islanders save millions on prescription drugs</title>
-      <link>https://www.princeedwardisland.ca/en/news/helping-islanders-save-millions-on-prescription-drugs</link>
-      <guid isPermaLink="false">81409 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 02 Oct 2026 14:28:41 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Helping Islanders save millions on prescription drugs&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-02T11:28:41-03:00" title="Friday, October 2, 2026 - 11:28"&gt;Fri, 10/02/2026 - 11:28&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Federal and Provincial members " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/a592/FedProvAnnouncement%20%28003%29.jpg.webp?itok=pxmtbhJV" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;As populations and the cost of drugs continue to grow, the Government of Canada and Prince Edward Island (PEI) are working together to make it easier for Islanders to access the prescription medications they need, while helping to reduce the cost of living.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Today, the Honourable Heath MacDonald, Minister of Agriculture and Agri-Food, on behalf of the Honourable Marjorie Michel, Canada’s Minister of Health, the Honourable Premier of PEI, Rob Lantz, and the Honourable Cory Deagle, Minister of Health and Wellness for PEI,&amp;nbsp;announced the government intention to invest over&amp;nbsp;$32 million over three years&amp;nbsp;to support the&amp;nbsp;&lt;a href="https://prescriptioncare.princeedwardisland.ca/"&gt;&lt;em&gt;Improving Affordable Access to Prescription Drugs&amp;nbsp;&lt;/em&gt;Program&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/a&gt;(IAAPD) in PEI.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The IAAPD program, launched in 2021, has funded targeted reforms to PEI’s public drug programs. PEI received $35 million (2021-22 to 2025-26) to expand its public formulary (list of publicly covered drugs) to broaden treatment options for Islanders and better align with public drug plans in other provinces and territories, lower out-of-pocket costs for residents, and gather insights and lessons learned. As of March 2025, the IAAPD has saved Islanders $13.8&amp;nbsp;million.&lt;/p&gt;&lt;p&gt;Extending the IAAPD will &amp;nbsp;allow PEI to maintain the improvements it has made to its public drug coverage system and help reduce the cost of living for its residents.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quotes&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;"We are working with PEI to make prescription drugs more affordable for Islanders. This renewed federal funding will help PEI maintain improvements to its public drug coverage and continue delivering savings for Islanders.”&lt;/p&gt;&lt;p&gt;The Honourable Marjorie Michel&lt;br /&gt;Minister of Health&lt;/p&gt;&lt;p&gt;“Whether it is making prescription drugs more affordable, supporting finding a home, or helping local businesses grow, our government is focused on making investments that deliver for Islanders and strengthen communities across Prince Edward Island. I’m proud to see Islanders benefit from programs like this, which are putting money back in people’s pockets and helping make life more affordable for families across our province.”&lt;/p&gt;&lt;p&gt;The Honourable Heath MacDonald&lt;br /&gt;Minister of Agriculture and Agri-Food, Member of Parliament for Malpeque&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"The renewal of this agreement reflects our commitment to making prescription medications more affordable and accessible for Islanders. By continuing this partnership, we are helping Islanders access the medications they need, strengthening our health-care system, and putting more money back into the pockets of Islanders."&amp;nbsp;&lt;/p&gt;&lt;p&gt;-The Honourable Rob Lantz&lt;br /&gt;Premier of Prince Edward Island&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;“This program has made a real difference for Islanders, helping people access the medications they need to manage their health and well-being. For Islanders, this renewal means lower drug costs, access to more medications and fewer barriers to getting the treatment they need.”&lt;/p&gt;&lt;p&gt;The Honourable Cory Deagle&lt;br /&gt;Minister of Health and Wellness, Government of Prince Edward Island&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quick Facts&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Since its launch in 2021, the IAAPD has helped the province expand its formulary (list of covered drugs) to broaden treatment options for Islanders to a level of coverage more comparable with other provinces and territories and improve the affordability of its drug plans (e.g., by lowering out-of-pocket payments for residents).&lt;/li&gt;&lt;li&gt;Through IAAPD, PEI has made coverage improvements for Islanders, including:&amp;nbsp;&lt;/li&gt;&lt;li&gt;Expanded access to more than 100 medications, such as treatments for cancer and heart disease.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Reduction of copays for commonly used cardiovascular, diabetes and mental health drugs, saving residents more than $9 million, with approximately 70% of these savings benefitting seniors.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Delivery of no-cost treatment for alcohol and opioid use disorders to more than 1,200 Islanders through the Substance Use and Harm Reduction program.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Expansion of the province's Community Mental Health Program to provide no-cost coverage of newer second-generation antipsychotic medications to long-term psychiatric patients.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Associated Links&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.canada.ca/en/health-canada/news/2023/08/improving-affordability-and-accessibility-of-medications-in-prince-edward-island.html"&gt;Improving affordability and accessibility of medications in Prince Edward Island&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Media Contacts:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Alexandre Bergeron&lt;br /&gt;Press Secretary&lt;br /&gt;Office of the Minister of Health&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:alexandre.bergeron@hc-sc.gc.ca"&gt;alexandre.bergeron@hc-sc.gc.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Media Relations&lt;br /&gt;Health Canada&lt;br /&gt;613-957-2983&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:media@hc-sc.gc.ca"&gt;media@hc-sc.gc.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Maureen Coulter&lt;br /&gt;Media Contact&lt;br /&gt;Health and Wellness&lt;br /&gt;&lt;a href="mailto:maureencoulter@gov.pe.ca"&gt;maureencoulter@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Haunting season at PEI heritage sites</title>
-      <link>https://www.princeedwardisland.ca/en/news/haunting-season-at-pei-heritage-sites-0</link>
-      <guid isPermaLink="false">81406 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 02 Oct 2026 13:34:52 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Haunting season at PEI heritage sites&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-02T10:34:52-03:00" title="Friday, October 2, 2026 - 10:34"&gt;Fri, 10/02/2026 - 10:34&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The PEI Museum and Heritage Foundation invites Island residents and visitors to take part in seasonal events at Beaconsfield Historic House and Orwell Corner Historic Village.&lt;/p&gt;&lt;p&gt;The two sites will host the following events throughout October:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Beaconsfield by Candlelight –&amp;nbsp;&lt;/strong&gt;Beaconsfield Historic House&lt;/p&gt;&lt;p&gt;Experience Beaconsfield Historic House as the sun goes down and the shadows grow long. Hear local tales of 19th century true crime, meet the PEI Museum and Heritage Foundation's most haunted artifact, Wheelie, and peer into Beaconsfield Historic House's darkest corners.&lt;/p&gt;&lt;p&gt;Buy tickets online at &lt;a href="https://locarius.io/events/4754/beaconsfield-by-candlelight-2026"&gt;Beaconsfield by Candlelight&lt;/a&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Showtime is&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;5:30 p.m. - 6:30 p.m. (doors open at 5 p.m.)&lt;/p&gt;&lt;p&gt;Available dates:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;October 16, 17, 20, 23, 24, 27 and 30&lt;/li&gt;&lt;li&gt;November 3, 6, 7, 10, and 13 (Friday the 13th!)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Kids’ Halloween Hauntacular&amp;nbsp;&lt;/strong&gt;–&amp;nbsp;Orwell Corner Historic Village&lt;/p&gt;&lt;p&gt;A family-friendly afternoon of Halloween fun, featuring trick-or-treating amongst the historic buildings, hands-on magic potion classes, wagon rides, blacksmithing demonstrations, family-friendly games, a village-wide scavenger hunt, and more!&lt;/p&gt;&lt;p&gt;Sunday, October 25 from 1pm to 3pm&amp;nbsp;&lt;/p&gt;&lt;p&gt;Buy tickets online at &lt;a href="https://locarius.io/events/4753/kids-halloween-hauntacular-2026"&gt;Kids’ Halloween Hauntacular&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;“These events bring together elements of history, theatre, and Halloween magic,” said Matthew McRae, executive director, PEI Museum and Heritage Foundation. “From haunted evenings with a true crime twist at Beaconsfield, to family fun at Orwell Corner, we’re glad to offer something for everyone to enjoy this season.”&lt;/p&gt;&lt;p&gt;For more information about events, tickets, and programs call 902-368-6600 or visit&amp;nbsp;&lt;a href="https://www.peimuseum.ca/"&gt;https://www.peimuseum.ca/&lt;/a&gt;. Follow the Foundation on social media at&amp;nbsp;@heritagepei.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;Mitchell Crouse&amp;nbsp;&lt;br /&gt;PEI Museum and Heritage Foundation&lt;br /&gt;(902) 368-5537&lt;br /&gt;&lt;a href="mailto:mcrouse@gov.pe.ca"&gt;mcrouse@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Premier McLeod on the Enbridge Line 21 Pipeline</title>
-      <link>https://www.gov.nt.ca/en/newsroom/news/premier-mcleod-enbridge-line-21-pipeline</link>
-      <guid isPermaLink="false">9422 at https://www.gov.nt.ca</guid>
-      <pubDate>Wed, 26 Sep 2018 23:05:28 +0000</pubDate>
-      <description>&lt;div class="field field-name-body field-type-text-with-summary field-label-hidden"&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;p&gt;&lt;strong&gt;YELLOWKNIFE&lt;/strong&gt; - Premier Bob McLeod issued the following statement on the Enbridge Line 21 pipeline today:&lt;/p&gt;
-
-&lt;p&gt;“I was pleased to learn that operations have resumed for Enbridge’s Line 21 pipeline after almost 2 years of no activity.&lt;/p&gt;
-
-&lt;p&gt;"Resource development has, and will continue to be, the backbone of our economy and is central to ensuring a good source of middle class jobs and business opportunities. Our territory has mineral and petroleum resources and the development of those resources can have a transformative effect on our people and economy.&lt;/p&gt;
-
-&lt;p&gt;"Sustainable economic development is key to the future of Northerners. With a strong resource development base, we will be able to support diversification of our local economies into emerging and established sectors.&lt;/p&gt;
-
-&lt;p&gt;"On behalf of the Government of the Northwest Territories I’d like to offer my congratulations to Imperial Oil, Enbridge the town of Norman Wells and other partners for getting this pipeline back up and running. I know the efforts and economic impacts of the pipeline have already begun to take shape in the community and will be felt for years to come. ”&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Charlotte Digness&lt;/strong&gt;&lt;br /&gt;
-	Media and Communications Coordinator&lt;br /&gt;
-	Cabinet Communications and Protocol&lt;br /&gt;
-	Government of the Northwest Territories&lt;br /&gt;
-	Ph: 867-767-9140 ext. 11092&lt;br /&gt;
-	Email: &lt;a href="mailto:charlotte_digness@gov.nt.ca"&gt;charlotte_digness@gov.nt.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-type field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;News Type:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/news-type/media-statement"&gt;Media Statement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-department field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;Department:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/department/premier"&gt;Premier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class="links inline"&gt;&lt;li class="fr first last"&gt;&lt;a class="language-link" href="https://www.gov.nt.ca/fr/newsroom/le-premier-ministre-mcleod-se-r%C3%A9jouit-de-la-r%C3%A9ouverture-de-l%E2%80%99ol%C3%A9oduc-21-d%E2%80%99enbridge" xml:lang="fr"&gt;Français&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <source>Northwest Territories</source>
     </item>
 
   </channel>
