@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 06 Oct 2026 01:54:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:36:27 +0000</lastBuildDate>
 
     <item>
       <title>This is an Alberta Emergency Alert. Valleyview RCMP have canceled the Amber Alert.</title>
@@ -245,12 +245,133 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Wind (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2706658787.2026-1</guid>
+      <pubDate>2026-10-06T07:47:36-00:00</pubDate>
+      <description>Damaging winds are expected. Maximum wind gusts: westerly 90 km/h over exposed areas. Time span: this afternoon until near midnight tonight. Secure loose objects. | Areas: Inverness County - Mabou and north, Victoria County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Wind (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3709120098.2026-1</guid>
       <pubDate>2026-10-06T00:04:33-00:00</pubDate>
       <description>Inverness County - Mabou and north. Damaging winds are no longer expected. | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Casey</title>
+      <link>https://www.princeedwardisland.ca/en/employee/casey-lynn</link>
+      <guid isPermaLink="false">81423 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 06 Oct 2026 03:30:09 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Casey&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T00:30:09-03:00" title="Tuesday, October 6, 2026 - 00:30"&gt;Tue, 10/06/2026 - 00:30&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Manager - Inclusive Education&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Education and Early Years&lt;/strong&gt;
+            &lt;div&gt;English Education, Programs and Services&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Driscoll</title>
+      <link>https://www.princeedwardisland.ca/en/employee/driscoll-randy</link>
+      <guid isPermaLink="false">81422 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 06 Oct 2026 03:25:54 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Driscoll&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T00:25:54-03:00" title="Tuesday, October 6, 2026 - 00:25"&gt;Tue, 10/06/2026 - 00:25&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Risk Management Officer&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Finance and Affordability&lt;/strong&gt;
+            &lt;div&gt;Risk Management and Insurance&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -781,173 +902,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Older adults recognized with Senior Islander of the Year Award</title>
-      <link>https://www.princeedwardisland.ca/en/news/older-adults-recognized-with-senior-islander-of-the-year-award</link>
-      <guid isPermaLink="false">81412 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 02 Oct 2026 18:01:18 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Older adults recognized with Senior Islander of the Year Award&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-02T15:01:18-03:00" title="Friday, October 2, 2026 - 15:01"&gt;Fri, 10/02/2026 - 15:01&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="People receiving an award" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/7fc4/Senior%20Island%20Award.jpg.webp?itok=tmmGrung" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Nine Islanders were honoured today with the 2026 Senior Islander of the Year Award for their lasting impact on communities across Prince Edward Island.&lt;/p&gt;&lt;p&gt;The award promotes positive images of aging and celebrates the many contributions of PEI residents who are 65 years and older. This year’s and past recipients have been recognized for a variety of efforts, including community activities and engagement, volunteering, fundraising, education, research, fitness and recreation.&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Congratulations to all the winners of the&amp;nbsp;2026 Senior Islander of the Year award. Receiving this award is a significant honour. Your dedication, compassion, and community spirit have touched the lives of many Islanders. We are grateful for your contributions and proud to celebrate your accomplishments.”&lt;/p&gt;&lt;p&gt;- Minister of Social Development and Seniors Barb Ramsay&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The winners of the 2026 award are:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Carol White (Murray Harbour)&amp;nbsp;&lt;/li&gt;&lt;li&gt;Hu Meihua&amp;nbsp;(Stratford)&amp;nbsp;&lt;/li&gt;&lt;li&gt;Kaye Morrison (Charlottetown)&lt;/li&gt;&lt;li&gt;Miriam Lank (Meadowbank)&amp;nbsp;&lt;/li&gt;&lt;li&gt;Georgie Smith (Kinkora)&lt;/li&gt;&lt;li&gt;Carol MacLean (Summerside)&lt;/li&gt;&lt;li&gt;Doug Bryson (Union Corner)&amp;nbsp;&lt;/li&gt;&lt;li&gt;Claude Blaquière (Mont-Carmel)&lt;/li&gt;&lt;li&gt;Beverley Ann Boulter (O’Leary)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;“The older adults we are recognizing today have demonstrated an exceptional commitment to their communities,” said chair of the PEI Seniors’ Secretariat Peter Holman. “Through their leadership, generosity, and dedication, they have created lasting positive change and strengthened the communities they serve. It is a privilege to celebrate and recognize their achievements, and to thank them for making our province a better place.”&lt;/p&gt;&lt;p&gt;To learn more, visit&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/pei-senior-islander-of-the-year-award-2026"&gt;Senior Islander of the Year Award&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contac&lt;/strong&gt;t:&lt;br /&gt;Hillary Proctor&lt;br /&gt;Department of Social Development and Seniors&lt;br /&gt;&lt;a href="mailto:hproctor@gov.pe.ca"&gt;hproctor@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>f. French Immersion Language Arts Grade 5</title>
-      <link>https://www.princeedwardisland.ca/en/publication/f-french-immersion-language-arts-grade-5</link>
-      <guid isPermaLink="false">81411 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 02 Oct 2026 17:28:32 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;f. French Immersion Language Arts Grade 5&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;LHrobinson&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-02T14:28:32-03:00" title="Friday, October 2, 2026 - 14:28"&gt;Fri, 10/02/2026 - 14:28&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;strong&gt;The attached PDF is only available in French.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/92db/eelc_frenchimmersion_5.pdf"&gt;
-              &lt;span&gt;Programme d'études - 5e année &lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
   
     
       
