@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 06 Oct 2026 20:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:03:04 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,11 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Drinking Water (Cancelled)</title>
+      <title>Drinking Water (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/47586281-BB8E-4566-8837-1CB2409496A2</link>
-      <guid isPermaLink="false">47586281-BB8E-4566-8837-1CB2409496A2-1</guid>
-      <pubDate>2026-10-01T14:55:09-06:00</pubDate>
-      <description>A Precautionary Drinking Water Advisory has been issued for the Village of Medstead. This advisory is for the entire community and for any individuals who may access water from the Village of... | Areas: Village of Medstead | Level: advisory</description>
+      <guid isPermaLink="false">42DE2D1C-FEEE-4CFC-8746-D3639FA6F10A-1</guid>
+      <pubDate>2026-10-06T15:52:59-06:00</pubDate>
+      <description>Update: A Precautionary Drinking Water Advisory has been issued for the Village of Medstead. This advisory is for the entire community and for any individuals who may access water from the Village... | Areas: Village of Medstead | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -235,11 +235,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Wind (Updated)</title>
+      <title>Wind (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1646626184.2026-1</guid>
-      <pubDate>2026-10-06T18:22:36-00:00</pubDate>
-      <description>Damaging winds are occurring. Maximum wind gusts: westerly 90 km/h over exposed areas. Time span: continuing until near midnight tonight. Secure loose objects. Prepare for possible disruptions to... | Areas: Inverness County - Mabou and north, Victoria County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3556966073.2026-1</guid>
+      <pubDate>2026-10-06T23:27:40-00:00</pubDate>
+      <description>Damaging winds are no longer expected. | Areas: Inverness County - Mabou and north, Victoria County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
@@ -250,6 +250,688 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-10-06T00:04:33-00:00</pubDate>
       <description>Inverness County - Mabou and north. Damaging winds are no longer expected. | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Province adds 82 new long-term care beds at Whisperwood</title>
+      <link>https://www.princeedwardisland.ca/en/news/province-adds-82-new-long-term-care-beds-at-whisperwood</link>
+      <guid isPermaLink="false">81435 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 06 Oct 2026 18:31:23 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province adds 82 new long-term care beds at Whisperwood&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T15:31:23-03:00" title="Tuesday, October 6, 2026 - 15:31"&gt;Tue, 10/06/2026 - 15:31&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="several people standing in from of a sign" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/9573/Long%20term%20care%20beds.jpg.webp?itok=Wu9S8Ayi" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Government of Prince Edward Island announced today that 82 new long-term care beds will be added at Whisperwood nursing home in Charlottetown, helping more Island seniors access quality care close to home.&lt;/p&gt;&lt;p&gt;Enhanced Living has been awarded the contract to expand its Whisperwood facility and operate the new beds. The project will increase long-term care capacity in Queens County and help meet growing demand as Prince Edward Island’s population continues to grow and age.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The province will provide $3.5 million annually over a 30-year agreement to support construction costs. Once the new beds are operational, the province will provide an estimated $10.1 million annually to help offset accommodation costs for the residents.&lt;/p&gt;&lt;p&gt;Today’s announcement marks a significant step in the province’s efforts to strengthen long-term care and improve healthcare capacity across Prince Edward Island.&amp;nbsp;&lt;/p&gt;&lt;p&gt;With the addition of the Whisperwood expansion, 222 new long-term care beds are now under development in Charlottetown, Cornwall and Summerside. The province has also issued a Request for Proposals through the Provincial Long-Term Care Program for up to 48 new long-term care beds in Kings County.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Increasing long-term care capacity is a key part of the province’s plan to improve care for seniors, support Islanders to remain safely in their homes longer, and ensure hospital beds are available for patients who need acute care services.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Long-term care services in Prince Edward Island are delivered through nine public and 11 private long-term care homes, as well as 36 community care facilities. With the projects currently underway, the total number of long-term care beds in the province is expected to increase to 1,595 by 2029.&lt;/p&gt;&lt;p&gt;For more information, visit &lt;a href="https://www.princeedwardisland.ca/en/information/health-pei/long-term-care"&gt;Long-term Care | Government of Prince Edward Island&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quotes:&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Island seniors deserve access to quality care when they need it, and families deserve the peace of mind that comes with knowing their loved ones are well supported. This expansion at Whisperwood will create 82 new long-term care spaces, strengthen healthcare capacity, and help ensure more Islanders can access the care they need close to home. It's another example of the investments we're making to build a stronger healthcare system for Islanders today and for the future.”&lt;/p&gt;&lt;p&gt;- Premier Rob Lantz&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;“As seniors’ needs change, the right level of care should be there for them. These 82 new beds will help more Islanders access long-term care while staying close to family and the places they know best. We’re proud to partner with Enhanced Living on this project and build on the excellent care already being provided at Whisperwood.”&lt;/p&gt;&lt;p&gt;- Minister of Health and Wellness Cory Deagle&lt;/p&gt;&lt;p&gt;“Whisperwood has been part of our community for many years, and many Charlottetown families know it well. This expansion means more seniors will be able to stay close to their loved ones while getting the high-quality care and support they need.”&lt;/p&gt;&lt;p&gt;- Charlottetown-Belvedere MLA Susie Dillon&lt;/p&gt;&lt;p&gt;“This expansion at Whisperwood is an important investment for our community and the people who call Charlottetown home. As Charlottetown continues to grow, so does the need for health care services that support residents at every stage of life. The addition of 82 long-term care beds will help meet the changing needs of our community and provide more options for seniors and their families.”&lt;/p&gt;&lt;p&gt;- City of Charlottetown Mayor Philip Brown&amp;nbsp;&lt;/p&gt;&lt;p&gt;"We're delighted to partner with the province on this expansion of Whisperwood, a home our community knows and trusts. This expansion will allow us to welcome additional residents and provide them with the very best care, while helping to free up critical hospital beds for Islanders who need acute care.”&lt;/p&gt;&lt;p&gt;- Enhanced Living Chief Financial Officer Joshua Simon&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Marla Morrison&lt;br /&gt;Department of Health and Wellness&lt;br /&gt;&lt;a href="mailto:marlamorrison@gov.pe.ca"&gt;marlamorrison@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Pasture Walk</title>
+      <link>https://www.princeedwardisland.ca/en/event/pasture-walk</link>
+      <guid isPermaLink="false">81434 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 06 Oct 2026 17:40:41 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pasture Walk&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T14:40:41-03:00" title="Tuesday, October 6, 2026 - 14:40"&gt;Tue, 10/06/2026 - 14:40&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Grazing corn stalks to extend the grazing season with Nick Green&lt;/p&gt;&lt;p&gt;&lt;strong&gt;RSVP for the BBQ lunch to:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Darryl Stoltz&lt;br /&gt;902-916-0791&lt;br /&gt;&lt;a href="mailto:dstoltz@gov.pe.ca"&gt;dstoltz@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-10-31T13:00:00Z"&gt;October 31, 2026 10:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-10-31T15:00:00Z"&gt;October 31, 2026 12:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Pasture&lt;/span&gt; &lt;span class="family-name"&gt;Field&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;1455 Colville Road&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Kingston&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0A 1H3&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>PCAP 2022 Results</title>
+      <link>https://www.princeedwardisland.ca/en/publication/pcap-2022-results</link>
+      <guid isPermaLink="false">81432 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 06 Oct 2026 16:22:02 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PCAP 2022 Results&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;rpgallant&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T13:22:02-03:00" title="Tuesday, October 6, 2026 - 13:22"&gt;Tue, 10/06/2026 - 13:22&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/735d/PISA-2022_Canadian_Report_EN.pdf"&gt;
+              &lt;span&gt;PISA-2022_Canadian_Report_EN.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>DEEY PCAP 2025 Results</title>
+      <link>https://www.princeedwardisland.ca/en/publication/deey-pcap-2025-results</link>
+      <guid isPermaLink="false">81431 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 06 Oct 2026 16:20:50 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;DEEY PCAP 2025 Results&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;rpgallant&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T13:20:50-03:00" title="Tuesday, October 6, 2026 - 13:20"&gt;Tue, 10/06/2026 - 13:20&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/80b6/PISA_2025_Public_Report_EN%20Sept.pdf"&gt;
+              &lt;span&gt;PISA_2025_Public_Report_EN Sept.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Canadian Western Agribition</title>
+      <link>https://www.princeedwardisland.ca/en/event/canadian-western-agribition</link>
+      <guid isPermaLink="false">81430 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 06 Oct 2026 15:49:17 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Canadian Western Agribition&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T12:49:17-03:00" title="Tuesday, October 6, 2026 - 12:49"&gt;Tue, 10/06/2026 - 12:49&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;a href="https://agribition.com/"&gt;Canadian Western Agribition&lt;/a&gt; (CWA), located in Regina, Saskatchewan, Canada, is a premier event renowned for being the best beef show on the continent and the largest livestock show in Canada.&lt;/p&gt;&lt;p&gt;The show is anchored by beef cattle and features a diverse array of livestock and an extensive agribusiness trade show. CWA takes place over six days and is a unique blend of agriculture, Indigenous culture, education, shopping, and live entertainment, making it a truly immersive experience and a world-class event. It is also home to the esteemed Maple Leaf Circuit Finals Pro Rodeo, hosting four nights of action-packed entertainment!&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-23T12:00:00Z"&gt;November 23, 2026 8:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-28T21:00:00Z"&gt;November 28, 2026 5:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;REAL&lt;/span&gt; &lt;span class="family-name"&gt;District&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;1700 Elphinstone Street&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Regina&lt;/span&gt; &lt;span class="administrative-area"&gt;SK&lt;/span&gt; &lt;span class="postal-code"&gt;S4T 1K1&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>The Royal Winter Fair</title>
+      <link>https://www.princeedwardisland.ca/en/event/the-royal-winter-fair</link>
+      <guid isPermaLink="false">81429 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 06 Oct 2026 15:41:59 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;The Royal Winter Fair&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T12:41:59-03:00" title="Tuesday, October 6, 2026 - 12:41"&gt;Tue, 10/06/2026 - 12:41&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Today &lt;a href="https://www.royalfair.org/"&gt;The Royal&lt;/a&gt; has grown to be the largest indoor agricultural and equestrian event in the world. The Royal Horse Show is one of the world’s finest equestrian spectacles and attracts athletes from across the planet. A win at The Royal means something, regardless of whether you’re pickling, jamming, raising beef or driving six-horse hitches.&amp;nbsp;Every year, 300,000 people come to The Fair to celebrate the very best food, livestock and horsemanship this country has to offer.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.royalfair.org/schedules/"&gt;Schedule of Events&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.royalfair.org/agriculture-competition-schedules/"&gt;Agriculture Competitions&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-06T12:00:00Z"&gt;November 6, 2026 8:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-15T20:00:00Z"&gt;November 15, 2026 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Exhibition &lt;/span&gt; &lt;span class="family-name"&gt;Place&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;100 Princes' Boulevard&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Toronto&lt;/span&gt; &lt;span class="administrative-area"&gt;ON&lt;/span&gt; &lt;span class="postal-code"&gt;M6K 3C3&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Atlantic Farm Mech Show</title>
+      <link>https://www.princeedwardisland.ca/en/event/atlantic-farm-mech-show</link>
+      <guid isPermaLink="false">81428 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 06 Oct 2026 15:36:47 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Atlantic Farm Mech Show&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T12:36:47-03:00" title="Tuesday, October 6, 2026 - 12:36"&gt;Tue, 10/06/2026 - 12:36&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;For more information, visit the Atlantic Farm Mech &lt;a href="https://www.farmmechshow.com/"&gt;website&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-19T13:00:00Z"&gt;November 19, 2026 9:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-21T20:00:00Z"&gt;November 21, 2026 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Moncton&lt;/span&gt; &lt;span class="family-name"&gt;Colisium&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;377 Killam Drive&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Moncton&lt;/span&gt; &lt;span class="administrative-area"&gt;NB&lt;/span&gt; &lt;span class="postal-code"&gt;E1C 3T1&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>PEI Potato Board Annual Banquet</title>
+      <link>https://www.princeedwardisland.ca/en/event/pei-potato-board-annual-banquet</link>
+      <guid isPermaLink="false">81427 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 06 Oct 2026 15:32:26 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PEI Potato Board Annual Banquet&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T12:32:26-03:00" title="Tuesday, October 6, 2026 - 12:32"&gt;Tue, 10/06/2026 - 12:32&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-20T22:00:00Z"&gt;November 20, 2026 6:00 pm&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-21T03:00:00Z"&gt;November 20, 2026 11:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Delta Prince&lt;/span&gt; &lt;span class="family-name"&gt;Edward Hotel&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;18 Queen Street&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Charlottetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1A 4A1&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>PEI Potato Board AGM</title>
+      <link>https://www.princeedwardisland.ca/en/event/pei-potato-board-agm</link>
+      <guid isPermaLink="false">81426 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 06 Oct 2026 15:04:45 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PEI Potato Board AGM&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T12:04:45-03:00" title="Tuesday, October 6, 2026 - 12:04"&gt;Tue, 10/06/2026 - 12:04&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-18T13:00:00Z"&gt;November 18, 2026 9:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-18T20:00:00Z"&gt;November 18, 2026 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;PEI Potato&lt;/span&gt; &lt;span class="family-name"&gt;Board&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;90 Hillstrom Avenue&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Charlottetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1E 2C6&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Free workshops help older Islanders connect with financial benefits and support</title>
+      <link>https://www.princeedwardisland.ca/en/news/free-workshops-help-older-islanders-connect-with-financial-benefits-and-support</link>
+      <guid isPermaLink="false">81424 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 06 Oct 2026 12:49:34 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Free workshops help older Islanders connect with financial benefits and support&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T09:49:34-03:00" title="Tuesday, October 6, 2026 - 09:49"&gt;Tue, 10/06/2026 - 09:49&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;PEI residents aged 55 and older are invited to attend a series of free workshops to learn about financial programs, benefits, and services that can help make everyday life a little bit easier.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Whether planning for the future, looking for information for a loved one, or simply wondering what support may be available, these workshops provide practical information about programs and an opportunity to ask questions in a welcoming setting.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“These workshops are a chance to connect with knowledgeable staff, get answers to questions, and learn about supports that can make a real difference in everyday life. We want Islanders to feel informed, supported, and confident they’re accessing the programs and services that can help them live well and remain independent.”&lt;/p&gt;&lt;p&gt;- Minister of Social Development and Seniors Barb Ramsay&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;br /&gt;Four Seniors’ Financial Workshops will be held in communities across PEI throughout October and November. Representatives from the Department of Social Development and Seniors, Service Canada, and the Provincial Credit Union will share information on federal programs such as Old Age Security and the Canadian Dental Care Plan, as well as provincial supports including the Seniors Independence Initiative.&lt;/p&gt;&lt;p&gt;“These workshops are a wonderful opportunity for seniors to come together, learn something new, and find out what supports may be available to them,” said President of the PEI Senior Citizens’ Federation Barbara Wright MacKenzie. “We encourage seniors from across the Island to attend, ask questions, and take advantage of the resources that can help them enjoy a fuller, more independent life.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Workshop schedule:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Friday, October 9, 2026, from 10:00am to 3:00pm in St. Peter’s Bay (St. Peter’s Circle Club, 1917 Cardigan Road).&amp;nbsp;&lt;/li&gt;&lt;li&gt;Friday, October 30, 2026, from 10:00am to 3:00pm in Summerside (St. Eleanors Lions Club, 121 East Drive).&amp;nbsp;&lt;/li&gt;&lt;li&gt;Monday, November 9, 2026, from 10:00am to 3:00pm in O’Leary (O’Leary Community Complex, 18 Community Street).&amp;nbsp;&lt;/li&gt;&lt;li&gt;Saturday, November 14, 2026, from 10:00am to 3:00pm in Charlottetown (Hillsborough Community Centre, 199 Patterson Drive).&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Register by calling 902-218-4961 or by emailing &lt;a href="mailto:seniors@gov.pe.ca"&gt;seniors@gov.pe.ca&lt;/a&gt;.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Visit &amp;nbsp;&lt;a href="http://www.princeedwardisland.ca/seniorsworkshops"&gt;www.princeedwardisland.ca/seniorsworkshops&lt;/a&gt; to learn more.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Stacey Miller&lt;br /&gt;Department of Social Development and Seniors&lt;br /&gt;&lt;a href="mailto:samiller@gov.pe.ca"&gt;samiller@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
   </channel>
