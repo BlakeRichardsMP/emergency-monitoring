@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 08 Oct 2026 02:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:16:50 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -223,6 +223,62 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Trail</title>
+      <link>https://www.princeedwardisland.ca/en/employee/trail-chris</link>
+      <guid isPermaLink="false">81437 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 08 Oct 2026 08:05:45 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Trail&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;patrickmackay&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-08T05:05:45-03:00" title="Thursday, October 8, 2026 - 05:05"&gt;Thu, 10/08/2026 - 05:05&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Maintenance Lead Supervisor&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Tourism PEI&lt;/strong&gt;
+            &lt;div&gt;Corporate Services&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -837,67 +893,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 &lt;span class="locality"&gt;Charlottetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1E 2C6&lt;/span&gt;&lt;br /&gt;
 &lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
     &lt;/div&gt;
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Free workshops help older Islanders connect with financial benefits and support</title>
-      <link>https://www.princeedwardisland.ca/en/news/free-workshops-help-older-islanders-connect-with-financial-benefits-and-support</link>
-      <guid isPermaLink="false">81424 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 06 Oct 2026 12:49:34 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Free workshops help older Islanders connect with financial benefits and support&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T09:49:34-03:00" title="Tuesday, October 6, 2026 - 09:49"&gt;Tue, 10/06/2026 - 09:49&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;PEI residents aged 55 and older are invited to attend a series of free workshops to learn about financial programs, benefits, and services that can help make everyday life a little bit easier.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Whether planning for the future, looking for information for a loved one, or simply wondering what support may be available, these workshops provide practical information about programs and an opportunity to ask questions in a welcoming setting.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“These workshops are a chance to connect with knowledgeable staff, get answers to questions, and learn about supports that can make a real difference in everyday life. We want Islanders to feel informed, supported, and confident they’re accessing the programs and services that can help them live well and remain independent.”&lt;/p&gt;&lt;p&gt;- Minister of Social Development and Seniors Barb Ramsay&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;br /&gt;Four Seniors’ Financial Workshops will be held in communities across PEI throughout October and November. Representatives from the Department of Social Development and Seniors, Service Canada, and the Provincial Credit Union will share information on federal programs such as Old Age Security and the Canadian Dental Care Plan, as well as provincial supports including the Seniors Independence Initiative.&lt;/p&gt;&lt;p&gt;“These workshops are a wonderful opportunity for seniors to come together, learn something new, and find out what supports may be available to them,” said President of the PEI Senior Citizens’ Federation Barbara Wright MacKenzie. “We encourage seniors from across the Island to attend, ask questions, and take advantage of the resources that can help them enjoy a fuller, more independent life.”&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Workshop schedule:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Friday, October 9, 2026, from 10:00am to 3:00pm in St. Peter’s Bay (St. Peter’s Circle Club, 1917 Cardigan Road).&amp;nbsp;&lt;/li&gt;&lt;li&gt;Friday, October 30, 2026, from 10:00am to 3:00pm in Summerside (St. Eleanors Lions Club, 121 East Drive).&amp;nbsp;&lt;/li&gt;&lt;li&gt;Monday, November 9, 2026, from 10:00am to 3:00pm in O’Leary (O’Leary Community Complex, 18 Community Street).&amp;nbsp;&lt;/li&gt;&lt;li&gt;Saturday, November 14, 2026, from 10:00am to 3:00pm in Charlottetown (Hillsborough Community Centre, 199 Patterson Drive).&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Register by calling 902-218-4961 or by emailing &lt;a href="mailto:seniors@gov.pe.ca"&gt;seniors@gov.pe.ca&lt;/a&gt;.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Visit &amp;nbsp;&lt;a href="http://www.princeedwardisland.ca/seniorsworkshops"&gt;www.princeedwardisland.ca/seniorsworkshops&lt;/a&gt; to learn more.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Stacey Miller&lt;br /&gt;Department of Social Development and Seniors&lt;br /&gt;&lt;a href="mailto:samiller@gov.pe.ca"&gt;samiller@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
 
   &lt;/div&gt;
 
