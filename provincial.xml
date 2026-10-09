@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 09 Oct 2026 09:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:35:53 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,11 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Rainfall (Issued)</title>
+      <title>Rainfall (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2024445596.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2024445596.2026-1</guid>
-      <pubDate>2026-10-08T21:39:02-00:00</pubDate>
-      <description>Heavy rain is expected over Central Saskatchewan, with total rainfall amounts of 40 to 60 mm. Rain will begin overnight in west central Saskatchewan and spread eastward through the day on Friday... | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, Hwy 165 between hwys 2 and 914 including Pinehouse Lake, Lac la Ronge Prov. Park including La Ronge, Candle Lake Prov. Park and Narrow Hills Prov. Park, Montreal Lake and Molanosa, Prince Albert Nat. Park, Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2586702483.2026-1</guid>
+      <pubDate>2026-10-09T11:21:09-00:00</pubDate>
+      <description>Heavy rain is expected, with total rainfall amounts of 40 to 60 mm. Rain will spread eastward through Saskatchewan today. Rain will continue through Saturday. Rain will be mixed with wet snow at... | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, Hwy 165 between hwys 2 and 914 including Pinehouse Lake, Lac la Ronge Prov. Park including La Ronge, Candle Lake Prov. Park and Narrow Hills Prov. Park, Montreal Lake and Molanosa, Prince Albert Nat. Park, Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -238,12 +238,10 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW WARNING - RAINFALL - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6ac80dec6241b3395dee0833</guid>
-      <pubDate>2026-10-08T21:40:55.642Z</pubDate>
-      <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Heavy rain is expected over Central Saskatchewan, with total rainfall amounts of 40 to 60 mm.
+      <pubDate>2026-10-09T11:22:48.375Z</pubDate>
+      <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Heavy rain is expected, with total rainfall amounts of 40 to 60 mm.
 
-Rain will begin overnight in west central Saskatchewan and spread eastward through the day on Friday. Rain will continue through Sunday morning. In some locations, rain will be mixed with wet snow at times beginning early Saturday morning. 
-
-Rain will change over to light snow late Saturday night, and then snow will gradually end Sunday morning.
+Rain will spread eastward through Saskatchewan today. Rain will continue through Saturday. Rain will be mixed with wet snow at times Saturday before changing over to snow Saturday night. Snow will end before Sunday.
 
 
 
@@ -251,6 +249,269 @@ Water will likely pool on roads and in low-lying areas. Local utility outages ar
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>MacLeod</title>
+      <link>https://www.princeedwardisland.ca/en/employee/macleod-carleigh</link>
+      <guid isPermaLink="false">81450 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 09 Oct 2026 13:19:46 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MacLeod&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-09T10:19:46-03:00" title="Friday, October 9, 2026 - 10:19"&gt;Fri, 10/09/2026 - 10:19&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Public Engagement Officer&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-subtitle"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base tw-mb-3"&gt;
+      &lt;span class="field__item text-base"&gt;Finance and Affordability, Workforce and Advanced Learning &lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Executive Council Office&lt;/strong&gt;
+            &lt;div&gt;Communications and Public Engagement&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Irrigation Management Seminar - Emerald</title>
+      <link>https://www.princeedwardisland.ca/en/event/irrigation-management-seminar-emerald</link>
+      <guid isPermaLink="false">81449 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 09 Oct 2026 11:54:10 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Irrigation Management Seminar - Emerald&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-09T08:54:10-03:00" title="Friday, October 9, 2026 - 08:54"&gt;Fri, 10/09/2026 - 08:54&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The agenda will vary at each of these sessions, offering a broad range of topics that are suited to irrigators from different commodities and experience levels.&amp;nbsp;&lt;/p&gt;&lt;p&gt;As speakers are confirmed, the agendas will become available.&amp;nbsp;&lt;/p&gt;&lt;p&gt;For more information, please contact:&lt;/p&gt;&lt;p&gt;Scott Anderson at &lt;a href="mailto:atlanticwaterpei@gmail.com"&gt;atlanticwaterpei@gmail.com&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-12-01T13:00:00Z"&gt;December 1, 2026 9:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-12-01T16:00:00Z"&gt;December 1, 2026 12:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Emerald Communty&lt;/span&gt; &lt;span class="family-name"&gt;Center&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;1910 Nodd Road&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Emerald Junction&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0B 1M0&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Irrigation Management Seminar - Mill River</title>
+      <link>https://www.princeedwardisland.ca/en/event/irrigation-management-seminar-mill-river</link>
+      <guid isPermaLink="false">81448 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 09 Oct 2026 11:51:31 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Irrigation Management Seminar - Mill River&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-09T08:51:31-03:00" title="Friday, October 9, 2026 - 08:51"&gt;Fri, 10/09/2026 - 08:51&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The agenda will vary at each of these sessions, offering a broad range of topics that are suited to irrigators from different commodities and experience levels.&amp;nbsp;&lt;/p&gt;&lt;p&gt;As speakers are confirmed, the agendas will become available.&amp;nbsp;&lt;/p&gt;&lt;p&gt;For more information, please contact:&lt;/p&gt;&lt;p&gt;Scott Anderson at &lt;a href="mailto:atlanticwaterpei@gmail.com"&gt;atlanticwaterpei@gmail.com&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-26T13:00:00Z"&gt;November 26, 2026 9:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-26T16:00:00Z"&gt;November 26, 2026 12:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;MIll River&lt;/span&gt; &lt;span class="family-name"&gt;Resort&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;180 Mill River Resort Road&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Woodstock&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0B 1V0&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Irrigation Management Seminars - Montague</title>
+      <link>https://www.princeedwardisland.ca/en/event/irrigation-management-seminars-montague</link>
+      <guid isPermaLink="false">81447 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 09 Oct 2026 11:47:43 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Irrigation Management Seminars - Montague&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-09T08:47:43-03:00" title="Friday, October 9, 2026 - 08:47"&gt;Fri, 10/09/2026 - 08:47&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The agenda will vary at each of these sessions, offering a broad range of topics that are suited to irrigators from different commodities and experience levels.&amp;nbsp;&lt;/p&gt;&lt;p&gt;As speakers are confirmed, the agendas will become available.&amp;nbsp;&lt;/p&gt;&lt;p&gt;For more information, please contact:&lt;/p&gt;&lt;p&gt;Scott Anderson at &lt;a href="mailto:atlanticwaterpei@gmail.com"&gt;atlanticwaterpei@gmail.com&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2006-11-24T13:00:00Z"&gt;November 24, 2006 9:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-24T16:00:00Z"&gt;November 24, 2026 12:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Lanes Riverhouse&lt;/span&gt; &lt;span class="family-name"&gt;Inn&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;33 Brook Street&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Montague&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0A 1R0&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -611,289 +872,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     
   &lt;/div&gt;</description>
       <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Credential Recognition in PEI</title>
-      <link>https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/credential-recognition-in-pei</link>
-      <guid isPermaLink="false">81441 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 08 Oct 2026 11:50:07 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Credential Recognition in PEI&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jessicahughes&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-08T08:50:07-03:00" title="Thursday, October 8, 2026 - 08:50"&gt;Thu, 10/08/2026 - 08:50&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;This page provides information about regulated and non-regulated occupations, credential recognition, licensing requirements, and labour mobility options to help you work in your profession in PEI.&lt;/p&gt;&lt;h3&gt;What is my occupation called in PEI?&lt;/h3&gt;&lt;p&gt;Job titles and duties can vary between provinces and countries. Your occupation may have a different name in PEI, or the role may involve different responsibilities than you are accustomed to.&lt;/p&gt;&lt;p&gt;The Government of Canada's&amp;nbsp;&lt;a href="https://www.jobbank.gc.ca/widget/"&gt;&lt;strong&gt;Job Bank&lt;/strong&gt;&lt;/a&gt; can help you identify the PEI equivalent of your occupation and learn about:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Job duties and responsibilities&lt;/li&gt;&lt;li&gt;Employment demand in PEI&lt;/li&gt;&lt;li&gt;Current job opportunities&lt;/li&gt;&lt;li&gt;Employer locations across the provinces&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Is my Occupation Regulated in PEI?&lt;/h2&gt;&lt;p&gt;A &lt;strong&gt;regulated occupation&lt;/strong&gt; is governed by provincial legislation and overseen by a &lt;strong&gt;regulatory body&lt;/strong&gt; (also called a regulator or regulatory authority).&lt;/p&gt;&lt;p&gt;Regulatory bodies are responsible for:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Setting practice requirements&amp;nbsp;&lt;/li&gt;&lt;li&gt;Establishing professional standards&lt;/li&gt;&lt;li&gt;Assessing an applicant's qualifications and credentials&lt;/li&gt;&lt;li&gt;Issuing licenses, certifications, and registrations&lt;/li&gt;&lt;li&gt;Regulating professional conduct and discipline&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;These requirements help protect public health, safety, and consumer interests by ensuring professionals meet established standards.&lt;/p&gt;&lt;p&gt;If your occupation is regulated in PEI, you may need to obtain a license before you can legally work. Contact the appropriate &lt;a href="https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/regulated-occupations" title="Regulated Occupations"&gt;&lt;strong&gt;regulatory body&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;to determine the requirements for your profession. Regulators assess qualifications and credentials and may charge fees as part of the process.&lt;/p&gt;&lt;h3&gt;How do I get Licensed in PEI?&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Step 1: Find out if your occupation is regulated&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Determine whether your profession or trade requires licensing or registration in PEI by consulting the regulated occupations directory.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Step 2: Contact the regulatory body&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Visit the regulator's website and contact them directly.&lt;/p&gt;&lt;p&gt;Your regulatory body is the best source of information about:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Licensing or certification requirements&lt;/li&gt;&lt;li&gt;Application procedures&lt;/li&gt;&lt;li&gt;Required documentation&lt;/li&gt;&lt;li&gt;Processing timelines&lt;/li&gt;&lt;li&gt;Fees&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Step 3: Gather required documents&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Requirements vary by occupation, but regulators commonly request:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Proof of identity&lt;/li&gt;&lt;li&gt;Educational credentials and certifications&lt;/li&gt;&lt;li&gt;Criminal record checks&lt;/li&gt;&lt;li&gt;Professional references&lt;/li&gt;&lt;li&gt;Proof of insurance or malpractice coverage&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Step 4: Learn about application fees&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Licensing and credential assessment fees vary by profession. Check the regulator's website or contact them directly to learn about costs associated with the licensure process.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Step 5: Complete an application form and submit required documents to your regulatory body&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Complete the application form and submit all required documents and fees.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Regulators generally will not begin assessing an application until all required documents and fees have been received.&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;Looking for information specific to your situation?&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/working-in-pei-with-international-credentials" title="Working in PEI with International Credentials"&gt;&lt;strong&gt;Internationally trained workers&lt;/strong&gt;&lt;/a&gt; – Learn about credential recognition if you completed your education or training outside of Canada.&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/labour-mobility-for-licensed-workers" title="Labour Mobility for Licensed Workers"&gt;&lt;strong&gt;Licensed in another Canadian province or territory&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;– Learn how labour mobility provisions may apply if you already hold a license elsewhere in Canada.&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;What if my Occupation is not Regulated?&lt;/h2&gt;&lt;p&gt;Most occupations in PEI are &lt;strong&gt;non-regulated&lt;/strong&gt;, meaning a license or certification is not required to work. While credential assessments are generally not required for non-regulated occupations, they can help employers understand how international education and training compare to Canadian standards.&lt;/p&gt;&lt;p&gt;Employers typically want to know that candidates have the education, skills, and work experience needed to perform the job. If you completed your education or training outside Canada, you may wish to ask prospective employers whether they would like to see a credential assessment or evaluation of your work experience.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Need Help?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;If you have questions about credential recognition, licensing requirements, or the registration process, we are here to help.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Labour Mobility and Foreign Credential Recognition Coordinator&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="mailto:briannaesquires@gov.pe.ca"&gt;briannaesquires@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;We can help you understand your options, connect with the appropriate regulator, and provide information on the credential recognition process.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Trail</title>
-      <link>https://www.princeedwardisland.ca/en/employee/trail-chris</link>
-      <guid isPermaLink="false">81437 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 08 Oct 2026 08:05:45 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Trail&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;patrickmackay&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-08T05:05:45-03:00" title="Thursday, October 8, 2026 - 05:05"&gt;Thu, 10/08/2026 - 05:05&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Maintenance Lead Supervisor&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Tourism PEI&lt;/strong&gt;
-            &lt;div&gt;Corporate Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Province adds 82 new long-term care beds at Whisperwood</title>
-      <link>https://www.princeedwardisland.ca/en/news/province-adds-82-new-long-term-care-beds-at-whisperwood</link>
-      <guid isPermaLink="false">81435 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 06 Oct 2026 18:31:23 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province adds 82 new long-term care beds at Whisperwood&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T15:31:23-03:00" title="Tuesday, October 6, 2026 - 15:31"&gt;Tue, 10/06/2026 - 15:31&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="several people standing in from of a sign" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/9573/Long%20term%20care%20beds.jpg.webp?itok=Wu9S8Ayi" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Government of Prince Edward Island announced today that 82 new long-term care beds will be added at Whisperwood nursing home in Charlottetown, helping more Island seniors access quality care close to home.&lt;/p&gt;&lt;p&gt;Enhanced Living has been awarded the contract to expand its Whisperwood facility and operate the new beds. The project will increase long-term care capacity in Queens County and help meet growing demand as Prince Edward Island’s population continues to grow and age.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The province will provide $3.5 million annually over a 30-year agreement to support construction costs. Once the new beds are operational, the province will provide an estimated $10.1 million annually to help offset accommodation costs for the residents.&lt;/p&gt;&lt;p&gt;Today’s announcement marks a significant step in the province’s efforts to strengthen long-term care and improve healthcare capacity across Prince Edward Island.&amp;nbsp;&lt;/p&gt;&lt;p&gt;With the addition of the Whisperwood expansion, 222 new long-term care beds are now under development in Charlottetown, Cornwall and Summerside. The province has also issued a Request for Proposals through the Provincial Long-Term Care Program for up to 48 new long-term care beds in Kings County.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Increasing long-term care capacity is a key part of the province’s plan to improve care for seniors, support Islanders to remain safely in their homes longer, and ensure hospital beds are available for patients who need acute care services.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Long-term care services in Prince Edward Island are delivered through nine public and 11 private long-term care homes, as well as 36 community care facilities. With the projects currently underway, the total number of long-term care beds in the province is expected to increase to 1,595 by 2029.&lt;/p&gt;&lt;p&gt;For more information, visit &lt;a href="https://www.princeedwardisland.ca/en/information/health-pei/long-term-care"&gt;Long-term Care | Government of Prince Edward Island&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quotes:&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Island seniors deserve access to quality care when they need it, and families deserve the peace of mind that comes with knowing their loved ones are well supported. This expansion at Whisperwood will create 82 new long-term care spaces, strengthen healthcare capacity, and help ensure more Islanders can access the care they need close to home. It's another example of the investments we're making to build a stronger healthcare system for Islanders today and for the future.”&lt;/p&gt;&lt;p&gt;- Premier Rob Lantz&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;“As seniors’ needs change, the right level of care should be there for them. These 82 new beds will help more Islanders access long-term care while staying close to family and the places they know best. We’re proud to partner with Enhanced Living on this project and build on the excellent care already being provided at Whisperwood.”&lt;/p&gt;&lt;p&gt;- Minister of Health and Wellness Cory Deagle&lt;/p&gt;&lt;p&gt;“Whisperwood has been part of our community for many years, and many Charlottetown families know it well. This expansion means more seniors will be able to stay close to their loved ones while getting the high-quality care and support they need.”&lt;/p&gt;&lt;p&gt;- Charlottetown-Belvedere MLA Susie Dillon&lt;/p&gt;&lt;p&gt;“This expansion at Whisperwood is an important investment for our community and the people who call Charlottetown home. As Charlottetown continues to grow, so does the need for health care services that support residents at every stage of life. The addition of 82 long-term care beds will help meet the changing needs of our community and provide more options for seniors and their families.”&lt;/p&gt;&lt;p&gt;- City of Charlottetown Mayor Philip Brown&amp;nbsp;&lt;/p&gt;&lt;p&gt;"We're delighted to partner with the province on this expansion of Whisperwood, a home our community knows and trusts. This expansion will allow us to welcome additional residents and provide them with the very best care, while helping to free up critical hospital beds for Islanders who need acute care.”&lt;/p&gt;&lt;p&gt;- Enhanced Living Chief Financial Officer Joshua Simon&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Marla Morrison&lt;br /&gt;Department of Health and Wellness&lt;br /&gt;&lt;a href="mailto:marlamorrison@gov.pe.ca"&gt;marlamorrison@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Pasture Walk</title>
-      <link>https://www.princeedwardisland.ca/en/event/pasture-walk</link>
-      <guid isPermaLink="false">81434 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 06 Oct 2026 17:40:41 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pasture Walk&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-06T14:40:41-03:00" title="Tuesday, October 6, 2026 - 14:40"&gt;Tue, 10/06/2026 - 14:40&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Grazing corn stalks to extend the grazing season with Nick Green&lt;/p&gt;&lt;p&gt;&lt;strong&gt;RSVP for the BBQ lunch to:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Darryl Stoltz&lt;br /&gt;902-916-0791&lt;br /&gt;&lt;a href="mailto:dstoltz@gov.pe.ca"&gt;dstoltz@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-10-31T13:00:00Z"&gt;October 31, 2026 10:00 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-10-31T15:00:00Z"&gt;October 31, 2026 12:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
-  
-    
-      
-&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
-          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Pasture&lt;/span&gt; &lt;span class="family-name"&gt;Field&lt;/span&gt;&lt;br /&gt;
-&lt;span class="address-line1"&gt;1455 Colville Road&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Kingston&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0A 1H3&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Premier McLeod on the Enbridge Line 21 Pipeline</title>
-      <link>https://www.gov.nt.ca/en/newsroom/news/premier-mcleod-enbridge-line-21-pipeline</link>
-      <guid isPermaLink="false">9422 at https://www.gov.nt.ca</guid>
-      <pubDate>Wed, 26 Sep 2018 23:05:28 +0000</pubDate>
-      <description>&lt;div class="field field-name-body field-type-text-with-summary field-label-hidden"&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;p&gt;&lt;strong&gt;YELLOWKNIFE&lt;/strong&gt; - Premier Bob McLeod issued the following statement on the Enbridge Line 21 pipeline today:&lt;/p&gt;
-
-&lt;p&gt;“I was pleased to learn that operations have resumed for Enbridge’s Line 21 pipeline after almost 2 years of no activity.&lt;/p&gt;
-
-&lt;p&gt;"Resource development has, and will continue to be, the backbone of our economy and is central to ensuring a good source of middle class jobs and business opportunities. Our territory has mineral and petroleum resources and the development of those resources can have a transformative effect on our people and economy.&lt;/p&gt;
-
-&lt;p&gt;"Sustainable economic development is key to the future of Northerners. With a strong resource development base, we will be able to support diversification of our local economies into emerging and established sectors.&lt;/p&gt;
-
-&lt;p&gt;"On behalf of the Government of the Northwest Territories I’d like to offer my congratulations to Imperial Oil, Enbridge the town of Norman Wells and other partners for getting this pipeline back up and running. I know the efforts and economic impacts of the pipeline have already begun to take shape in the community and will be felt for years to come. ”&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Charlotte Digness&lt;/strong&gt;&lt;br /&gt;
-	Media and Communications Coordinator&lt;br /&gt;
-	Cabinet Communications and Protocol&lt;br /&gt;
-	Government of the Northwest Territories&lt;br /&gt;
-	Ph: 867-767-9140 ext. 11092&lt;br /&gt;
-	Email: &lt;a href="mailto:charlotte_digness@gov.nt.ca"&gt;charlotte_digness@gov.nt.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-type field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;News Type:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/news-type/media-statement"&gt;Media Statement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-department field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;Department:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/department/premier"&gt;Premier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class="links inline"&gt;&lt;li class="fr first last"&gt;&lt;a class="language-link" href="https://www.gov.nt.ca/fr/newsroom/le-premier-ministre-mcleod-se-r%C3%A9jouit-de-la-r%C3%A9ouverture-de-l%E2%80%99ol%C3%A9oduc-21-d%E2%80%99enbridge" xml:lang="fr"&gt;Français&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <source>Northwest Territories</source>
     </item>
 
   </channel>
