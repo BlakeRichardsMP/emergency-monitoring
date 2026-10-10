@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 10 Oct 2026 07:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 13:41:13 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -210,9 +210,9 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Rainfall (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2024445596.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2435731113.2026-1</guid>
-      <pubDate>2026-10-10T04:08:02-00:00</pubDate>
-      <description>Heavy rain is expected, with total rainfall amounts of 40 to 60 mm. Rain will continue through Saturday. Rain will be mixed with wet snow at times Saturday before changing over to snow Saturday... | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, Hwy 165 between hwys 2 and 914 including Pinehouse Lake, Lac la Ronge Prov. Park including La Ronge, Candle Lake Prov. Park and Narrow Hills Prov. Park, Montreal Lake and Molanosa, Prince Albert Nat. Park, Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2321778865.2026-1</guid>
+      <pubDate>2026-10-10T10:33:04-00:00</pubDate>
+      <description>Heavy rain is expected, with total rainfall amounts of 40 to 60 mm. Rain will continue through the day today, and will at times be mixed with wet snow. Rain will change over to snow tonight and end... | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, Hwy 165 between hwys 2 and 914 including Pinehouse Lake, Lac la Ronge Prov. Park including La Ronge, Candle Lake Prov. Park and Narrow Hills Prov. Park, Montreal Lake and Molanosa, Prince Albert Nat. Park, Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -238,19 +238,26 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - YELLOW WARNING - RAINFALL - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6ac80dec6241b3395dee0833</guid>
-      <pubDate>2026-10-10T04:09:34.610Z</pubDate>
+      <pubDate>2026-10-10T10:34:10.209Z</pubDate>
       <description>Generic Warning | Yellow Warning - Rainfall - In Effect | &lt;p&gt;Heavy rain is expected, with total rainfall amounts of 40 to 60 mm.
 
-Rain will continue through Saturday. Rain will be mixed with wet snow at times Saturday before changing over to snow Saturday night. 
-
-Snow will then end before Sunday.
+Rain will continue through the day today, and will at times be mixed with wet snow. Rain will change over to snow tonight and end before Sunday morning.
 
 
 
 Water will likely pool on roads and in low-lying areas. Local utility outages are possible.
 
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Immediate - act now</description>
       <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Frost (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2410160728.2026-1</guid>
+      <pubDate>2026-10-10T07:34:06-00:00</pubDate>
+      <description>Conditions are favourable for the development of frost tonight. Locations: central and western Nova Scotia. Minimum temperatures: zero to plus 5 (coolest in low-lying areas). Time span: early... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
