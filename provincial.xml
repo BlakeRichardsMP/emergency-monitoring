@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:48:29 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,15 +208,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Snowfall (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0840535223.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2694576247.2026-1</guid>
-      <pubDate>2026-10-12T17:04:38-00:00</pubDate>
-      <description>Significant snowfall is no longer expected. | Areas: R.M. of Piapot including Piapot, R.M. of Carmichael including Carmichael, R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, R.M. of Wood River including Lafleche Woodrow and Melaval, R.M. of Stonehenge including Limerick and Congress, R.M. of Waverley including Glentworth and Fir Mountain, R.M. of Old Post including Wood Mountain and Killdeer, R.M. of Lake Johnson including Mossbank and Ardill, R.M. of Terrell including Spring Valley and Cardross, R.M. of Lake of The Rivers including Assiniboia, R.M. of Excel including Viceroy Ormiston and Verwood, R.M. of Willow Bunch including Willow Bunch and St Victor, R.M. of Poplar Valley including Rockglen and Fife Lake, R.M. of Hart Butte including Coronach, R.M. of Elmsthorpe including Avonlea and Truax, R.M. of Key West including Ogema and Kayville, R.M. of Bengough including Bengough, R.M. of The Gap including Ceylon and Hardy, R.M. of Happy Valley including Big Beaver, R.M. of Surprise Valley including Minton and Regway | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">113E7C44-0E05-4C6C-B62B-C988952ACA8C-1</guid>
@@ -226,12 +217,168 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Wind (Issued)</title>
+      <title>Wind (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1552195502.2026-1</guid>
-      <pubDate>2026-10-13T07:54:58-00:00</pubDate>
-      <description>Inverness County - Mabou and north. Damaging winds are expected. A period of strong southeasterly winds is expected. Time span: Wednesday afternoon until Wednesday evening. Maximum wind gusts:... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0606594724.2026-1</guid>
+      <pubDate>2026-10-13T18:12:37-00:00</pubDate>
+      <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: Wednesday afternoon until Wednesday evening. Maximum wind gusts: southeasterly up to 110 km/h... | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Connecting students to agriculture, one class at a time</title>
+      <link>https://www.princeedwardisland.ca/en/news/connecting-students-to-agriculture-one-class-at-a-time</link>
+      <guid isPermaLink="false">81460 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 13 Oct 2026 17:22:29 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Connecting students to agriculture, one class at a time&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-13T14:22:29-03:00" title="Tuesday, October 13, 2026 - 14:22"&gt;Tue, 10/13/2026 - 14:22&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="group of children" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/4dff/OpenFarmDay3.jpg.webp?itok=jvGv2BJ3" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;When Abe Buttimer of Abelaine Farms Inc. in New Glasgow was growing up, nearly everyone he knew had a connection to a farm.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Today, that connection isn't as common. Many children have never set foot on a farm or had the chance to see firsthand where their food comes from.&amp;nbsp;&lt;/p&gt;&lt;p&gt;That reality sparked Buttimer's goal of giving every Grade 3 class in PEI the opportunity to experience agriculture firsthand.&lt;/p&gt;&lt;p&gt;As the chair of the PEI Dairy Youth Trust, a local group that supports agricultural education for young people, Buttimer set his plan in motion with help from &lt;a href="https://www.aitc-pei.ca/"&gt;Agriculture in the Classroom PEI&lt;/a&gt; (AITC).&lt;/p&gt;&lt;p&gt;AITC is a non-profit organization that provides curriculum-linked agriculture and food education to students across the province. It started the &lt;a href="https://www.aitc-pei.ca/grade-3-open-farm-day-tour.php"&gt;Grade 3 Open Farm Day Tour&lt;/a&gt; in 2015, bringing hundreds of students to Island farms every September.&lt;/p&gt;&lt;p&gt;The first tours in 2015 gave 164 kids the chance to visit four Island farms. Now, in September 2026, more than 1,400 students, representing almost every Grade 3 class in PEI, have visited 34 farms across the Island.&lt;/p&gt;&lt;article class="align-left media media--type-image media--view-mode-default"&gt;
+  
+        &lt;img alt="kids holding a cat" class="image-style-large" height="320" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/f815/OpenFarmDay1.jpg?itok=1u30avKI" width="480" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;p&gt;"That was my goal from the start,” said Buttimer “It was a lofty goal in 2015, but it's very possible now.”&lt;/p&gt;&lt;p&gt;The tours give young students a hands-on opportunity to learn about local agriculture, which compliments what they are already learning in subjects like science and social studies.&lt;/p&gt;&lt;p&gt;And for students, the lessons can be as simple as learning where the food on their breakfast table comes from.&lt;/p&gt;&lt;p&gt;When they visit farms like Buttimer's in New Glasgow, students can touch a newborn calf, see where milk comes from, and discover how grains grown in a field can end up in their cereal bowl.&lt;/p&gt;&lt;p&gt;With fewer families having a direct connection to farming than in generations past, helping young people make those connections is important, says Laurie Loane, executive director of Agriculture in the Classroom PEI.&amp;nbsp;&lt;/p&gt;&lt;p&gt;"I think it's important that our students know where our food is produced, our farmers that are producing it, and that Canada has some of the healthiest, most safety regulated food in the world."&lt;/p&gt;&lt;article class="align-left media media--type-image media--view-mode-default"&gt;
+  
+        &lt;img alt="kids in a barn " class="image-style-large" height="320" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/1ce7/OpenFarmDay2.jpg?itok=vV8n-Mv9" width="480" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;p&gt;With only one school unable to participate this year, Loane said the reach of this year's tours marks an important milestone for the program.&lt;/p&gt;&lt;p&gt;"Our students absolutely love having the chance to come out and see live animals, see where their milk comes from, be able to go dig potatoes or go see a beef farm... it's just an amazing opportunity for them. And I think the teachers get as much out of the day as the students do."&lt;/p&gt;&lt;p&gt;The farmers opening their doors to students across PEI get something out of the experience, too. For Buttimer, the Grade 3 farm tour day is his favourite day of the year.&lt;/p&gt;&lt;p&gt;"My biggest wish is that they come and experience an actual farm, they see that we're looking after the animals really well, they see that it's not something that you do behind closed doors, it's right here, and it's accessible."&lt;/p&gt;&lt;p&gt;After more than a decade of welcoming students to his farm, Buttimer still loves their enthusiasm.&lt;/p&gt;&lt;p&gt;"They get excited about the littlest things," Buttimer said. "And that excitement drives me."&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.aitc-pei.ca/"&gt;Agriculture in the Classroom&lt;/a&gt; (AITC) works with the Department of Education and Early Years to make sure its programs and resources are curriculum-linked.&amp;nbsp;&lt;/p&gt;&lt;p&gt;AITC is funded in part by the provincial government through the Department of Agriculture.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Municipal nomination deadline fast approaching</title>
+      <link>https://www.princeedwardisland.ca/en/news/municipal-nomination-deadline-fast-approaching</link>
+      <guid isPermaLink="false">81459 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 13 Oct 2026 13:43:21 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Municipal nomination deadline fast approaching&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-13T10:43:21-03:00" title="Tuesday, October 13, 2026 - 10:43"&gt;Tue, 10/13/2026 - 10:43&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Canadian citizens interested in running in the November 2 municipal elections still have time to submit their nomination.&lt;/p&gt;&lt;p&gt;To be eligible, a candidate must:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Be a Canadian citizen;&lt;/li&gt;&lt;li&gt;Be at least 18 years old on election day; and&lt;/li&gt;&lt;li&gt;Have lived in the municipality for at least six months before the election.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nomination forms must be submitted by the candidate to the municipal election officer or returning officer by 2:00 p.m. on October 16, 2026.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“The decisions made at the municipal level have a direct impact on people’s everyday lives. I encourage anyone who is interested in making an impact in their community to get involved and take part.”&lt;/p&gt;&lt;p&gt;- Minister of Housing and Communities Kent Dollar&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Learn more about the &lt;a href="https://peimunicipalelections.ca/Candidates"&gt;municipal elections&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Brooke Miller&lt;br /&gt;Department of Housing and Communities&lt;br /&gt;&lt;a href="mailto:bmmiller@gov.pe.ca"&gt;bmmiller@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -425,7 +572,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
       
 &lt;div class="tw-text-dark tw-text-base tw-mb-3"&gt;
-      &lt;span class="field__item text-base"&gt;Finance and Affordability, Workforce and Advanced Learning &lt;/span&gt;
+      &lt;span class="field__item text-base"&gt;Finance and Affordability; Workforce and Advanced Learning &lt;/span&gt;
   &lt;/div&gt;
 
   &lt;/div&gt;
@@ -768,112 +915,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
           &lt;div class="layout__region layout__region--second"&gt;
         
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Labour Mobility for Licensed Workers</title>
-      <link>https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/labour-mobility-for-licensed-workers</link>
-      <guid isPermaLink="false">81444 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 08 Oct 2026 12:51:06 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Labour Mobility for Licensed Workers&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jessicahughes&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-08T09:51:06-03:00" title="Thursday, October 8, 2026 - 09:51"&gt;Thu, 10/08/2026 - 09:51&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;PEI supports the movement of qualified workers across Canada through &lt;strong&gt;labour mobility&lt;/strong&gt; provisions.&lt;/p&gt;&lt;p&gt;If you are certified in a regulated occupation in another Canadian province or territory, you may be eligible to have your credentials recognized in PEI without additional training, examinations, or work experience requirements.&lt;/p&gt;&lt;p&gt;The&amp;nbsp;&lt;a href="https://www.cfta-alec.ca/"&gt;&lt;strong&gt;Canadian Free Trade Agreement (CFTA)&lt;/strong&gt;&lt;/a&gt; supports labour mobility across Canada. Under&amp;nbsp;&lt;a href="https://www.cfta-alec.ca/cfta-agreement/chapter-seven-labour-mobility"&gt;&lt;strong&gt;Chapter 7 of the CFTA&lt;/strong&gt;&lt;/a&gt;, workers certified by a regulator in one Canadian jurisdiction should generally be recognized by regulators in other jurisdictions.&lt;/p&gt;&lt;h3&gt;&lt;strong&gt;Exceptions in PEI&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;PEI currently has approved exceptions for the following occupations:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lawyer&lt;/li&gt;&lt;li&gt;Social Worker&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Individuals in these occupations may need to demonstrate that they meet PEI-specific requirements before receiving certification.&lt;/p&gt;&lt;p&gt;For more information about labour mobility in Canada, please visit&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;a href="http://www.workersmobility.ca/"&gt;&lt;strong&gt;workersmobility.ca&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&lt;h3&gt;How do I Apply under Labour Mobility?&lt;/h3&gt;&lt;p&gt;If you are certified in another Canadian province or territory:&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Step 1&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Find the &lt;a href="https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/regulated-occupations" title="Regulated Occupations"&gt;&lt;strong&gt;regulatory body&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;responsible for your profession in PEI.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Step 2&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Submit a labour mobility application following the regulator's requirements. As part of the application process, regulators may request supporting information or documentation, including, but not limited to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Proof of certification or licensure&lt;/li&gt;&lt;li&gt;Information on practice limitations, restrictions or conditions&lt;/li&gt;&lt;li&gt;Evidence of good character and professional standing&lt;/li&gt;&lt;li&gt;Demonstration of jurisdiction specific knowledge required for practice in PEI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Step 3&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Once the regulator receives a complete application, a certification decision must be made within &lt;strong&gt;30 calendar days&lt;/strong&gt;.&lt;/p&gt;&lt;h3&gt;Interprovincial Trade and Mobility Act (ITMA)&lt;/h3&gt;&lt;p&gt;The Interprovincial Trade and Mobility Act and its regulations support faster labour mobility decisions for eligible professionals from reciprocal Canadian jurisdictions.&lt;/p&gt;&lt;p&gt;For eligible applications, regulatory bodies must make a decision within &lt;strong&gt;10 days&lt;/strong&gt; of receiving a complete application.&lt;/p&gt;&lt;p&gt;This streamlined process helps qualified professionals enter the PEI workforce more quickly.&lt;/p&gt;&lt;p&gt;Learn more:&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/interprovincial-trade-and-mobility-act"&gt;&lt;strong&gt;Interprovincial Trade and Mobility Act | Government of Prince Edward Island&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Working in PEI with International Credentials</title>
-      <link>https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/working-in-pei-with-international-credentials</link>
-      <guid isPermaLink="false">81443 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 08 Oct 2026 12:36:46 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Working in PEI with International Credentials&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jessicahughes&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-08T09:36:46-03:00" title="Thursday, October 8, 2026 - 09:36"&gt;Thu, 10/08/2026 - 09:36&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;If you completed your education or training outside Canada and want to work in a regulated occupation in Prince Edward Island, you will likely need to have your qualifications assessed before you can become licensed.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Foreign Credential Recognition (FCR)&lt;/strong&gt; is the process used to determine whether education, skills, and work experience obtained outside Canada meet Canadian licensing requirements.&lt;/p&gt;&lt;p&gt;The credential recognition process varies depending on the occupation and the regulatory body responsible for licensing. The process may:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Require an assessment of your education, training, and work experience.&lt;/li&gt;&lt;li&gt;Include examinations, language proficiency testing, or additional training.&lt;/li&gt;&lt;li&gt;Involve application, assessment, and licensing fees.&lt;/li&gt;&lt;li&gt;Take several months or longer to complete, depending on the profession and individual circumstances.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Before you apply&lt;/h3&gt;&lt;p&gt;Before applying for a license, you should:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Identify whether your occupation is &lt;a href="https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/regulated-occupations" title="Regulated Occupations"&gt;&lt;strong&gt;regulated&lt;/strong&gt; &lt;/a&gt;in PEI.&lt;/li&gt;&lt;li&gt;Contact the appropriate regulatory body to understand its licensing requirements.&lt;/li&gt;&lt;li&gt;Gather any required documents, such as transcripts, proof of identity, employment records, or professional certifications.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;We encourage you to begin the credential recognition process before arriving in PEI whenever possible.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.cicic.ca/858/work.canada"&gt;&lt;strong&gt;The Canadian Information Centre for International Credentials (CICIC)&amp;nbsp;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Learn more about the steps you may need to take to work in Canada.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
