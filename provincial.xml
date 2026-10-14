@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 14 Oct 2026 02:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:37:53 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -228,9 +228,9 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Wind (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0606594724.2026-1</guid>
-      <pubDate>2026-10-13T18:12:37-00:00</pubDate>
-      <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: Wednesday afternoon until Wednesday evening. Maximum wind gusts: southeasterly up to 110 km/h... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4237797037.2026-1</guid>
+      <pubDate>2026-10-14T07:34:00-00:00</pubDate>
+      <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: this afternoon until this evening. Maximum wind gusts: southeasterly up to 110 km/h. Locations:... | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
