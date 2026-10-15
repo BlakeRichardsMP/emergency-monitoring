@@ -5,7 +5,16 @@
     <link>https://github.com/BlakeRichardsMP/emergency-monitoring</link>
     <description>Normalized Government of Canada emergency-related feeds</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 15 Oct 2026 09:36:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 14:24:25 +0000</lastBuildDate>
+
+    <item>
+      <title>Government of Canada announces funding to enhance online safety for Indigenous youth</title>
+      <link>https://www.canada.ca/en/public-safety-canada/news/2026/10/government-of-canada-announces-funding-to-enhance-online-safety-for-indigenous-youth.html</link>
+      <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/10/government-of-canada-announces-funding-to-enhance-online-safety-for-indigenous-youth.html</guid>
+      <pubDate>2026-10-15T10:01:38-04:00</pubDate>
+      <description>Protecting children and youth from online exploitation requires prevention, education and strong community partnerships.</description>
+      <source>Public Safety Canada</source>
+    </item>
 
     <item>
       <title>Federal government invests in Canadian Red Cross to support Canadians during emergencies</title>
@@ -85,15 +94,6 @@
       <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/09/government-of-canada-invests-in-gun-violence-prevention-in-halifax-nova-scotia.html</guid>
       <pubDate>2026-09-29T07:40:53-04:00</pubDate>
       <description>The Government of Canada is taking action to protect Canadians from gun and gang violence. A key part of that action is providing direct support to communities throughout the country.</description>
-      <source>Public Safety Canada</source>
-    </item>
-
-    <item>
-      <title>Minister Anandasangaree to announce funding to support efforts in preventing gun and gang violence in Halifax</title>
-      <link>https://www.canada.ca/en/public-safety-canada/news/2026/09/minister-anandasangaree-to-announce-funding-to-support-efforts-in-preventing-gun-and-gang-violence-in-halifax.html</link>
-      <guid isPermaLink="false">https://www.canada.ca/en/public-safety-canada/news/2026/09/minister-anandasangaree-to-announce-funding-to-support-efforts-in-preventing-gun-and-gang-violence-in-halifax.html</guid>
-      <pubDate>2026-09-28T09:01:32-04:00</pubDate>
-      <description>Members of the media are invited to join the Honourable Gary Anandasangaree, Minister of Public Safety, for an announcement about the Government of Canada’s efforts to keep Canadian communities safe.</description>
       <source>Public Safety Canada</source>
     </item>
 
