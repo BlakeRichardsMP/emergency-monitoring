@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 15 Oct 2026 14:18:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:29:51 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -232,6 +232,67 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-10-15T01:42:12-00:00</pubDate>
       <description>Inverness County - Mabou and north. Damaging winds are no longer expected. | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Health PEI activates masking protective measures starting October 16</title>
+      <link>https://www.princeedwardisland.ca/en/news/health-pei-activates-masking-protective-measures-starting-october-16</link>
+      <guid isPermaLink="false">81474 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 15 Oct 2026 14:18:03 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Health PEI activates masking protective measures starting October 16&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-15T11:18:03-03:00" title="Thursday, October 15, 2026 - 11:18"&gt;Thu, 10/15/2026 - 11:18&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Health PEI is implementing a masking policy in all its facilities beginning Friday, October 16. The move is a response to increased respiratory illness activity across PEI, and for continued patient safety.&lt;/p&gt;&lt;p&gt;Members of the public will be asked to wear a mask when within two meters of a patient. Masking will also be encouraged in hallways of acute care settings.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“This is an important decision that receives careful consideration. Masking during respiratory illness season protects everyone, including patients, staff, and the public. Masking is just one proactive step we can take to help keep the system stable.”&lt;/p&gt;&lt;p&gt;- Director of Occupational Health, Safety &amp;amp; Wellness at Health PEI Jillian Nixon&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Health PEI staff have guidelines for when they may remove their masks. Staff will also adhere to current infection control procedures, including proper hand hygiene, staying home when ill, and reporting any respiratory illness to their manager or supervisor. All Health PEI staff are strongly encouraged to get their up-to-date COVID and Influenza immunizations.&lt;/p&gt;&lt;p&gt;Masks will be available onsite at entrances to Health PEI facilities. Health PEI will update the masking policy as soon as it is safe to do so.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Dave Atkinson&amp;nbsp;&lt;br /&gt;Senior Communications Officer, Health PEI&amp;nbsp; &amp;nbsp;&lt;br /&gt;&lt;a href="mailto:datkinson@ihis.org"&gt;datkinson@ihis.org&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -953,71 +1014,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>MacLeod</title>
-      <link>https://www.princeedwardisland.ca/en/employee/macleod-carleigh</link>
-      <guid isPermaLink="false">81450 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 09 Oct 2026 13:19:46 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MacLeod&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-09T10:19:46-03:00" title="Friday, October 9, 2026 - 10:19"&gt;Fri, 10/09/2026 - 10:19&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Public Engagement Officer&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-subtitle"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base tw-mb-3"&gt;
-      &lt;span class="field__item text-base"&gt;Finance and Affordability; Workforce and Advanced Learning &lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Executive Council Office&lt;/strong&gt;
-            &lt;div&gt;Communications and Public Engagement&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
