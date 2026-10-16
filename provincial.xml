@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 15 Oct 2026 23:53:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:20:23 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,20 +208,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Dangerous Person (Issued)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/EE2E59C4-A81E-4BF6-9787-775AF40906BD</link>
-      <guid isPermaLink="false">EE2E59C4-A81E-4BF6-9787-775AF40906BD-1</guid>
-      <pubDate>2026-10-15T15:37:25-06:00</pubDate>
-      <description>RCMP: DANGEROUS PERSON with GUN in RED EARTH CREE NATION area. SUSPECT is wearing a Canada Goose vest and sweatpants. Find SAFE LOCATION NOW. LOCK DOORS. DO NOT APPROACH SUSPECT. STAY AWAY from RED... | Areas: RED EARTH CREE NATION | Level: critical</description>
+      <title>Telephone Service (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/5AFE8DEB-4ACA-4DEB-A15A-E04E90FAF921</link>
+      <guid isPermaLink="false">69502B87-8F94-479B-ACD8-862570D17C61-1</guid>
+      <pubDate>2026-10-15T20:56:20-06:00</pubDate>
+      <description>Saskatoon (eastern), Allan, Clavet, Colonsay, Drake, Lanigan, Young, Aberdeen and Moon Lake. UPDATE: SaskTel crews continue to work to restore Wireless, Internet and Landline (SaskTel Home and... | Areas: Saskatoon (eastern), Allan, Clavet, Colonsay, Drake, Lanigan, Young, Aberdeen and Moon Lake. | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
-      <title>Telephone Service (Issued)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/5AFE8DEB-4ACA-4DEB-A15A-E04E90FAF921</link>
-      <guid isPermaLink="false">5AFE8DEB-4ACA-4DEB-A15A-E04E90FAF921-1</guid>
-      <pubDate>2026-10-15T12:55:03-06:00</pubDate>
-      <description>Saskatoon (eastern), Allan, Clavet, Colonsay, Drake, Lanigan, Young, Aberdeen and Moon Lake. SaskTel is currently experiencing a service outage affecting Wireless, Internet and Landline (SaskTel... | Areas: Saskatoon (eastern), Allan, Clavet, Colonsay, Drake, Lanigan, Young, Aberdeen and Moon Lake. | Level: advisory</description>
+      <title>Dangerous Person (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/EE2E59C4-A81E-4BF6-9787-775AF40906BD</link>
+      <guid isPermaLink="false">AF2CC8B4-F161-47A9-AA64-0684CEB163F0-1</guid>
+      <pubDate>2026-10-15T20:10:12-06:00</pubDate>
+      <description>ENDED: DANGEROUS PERSON with GUN on RED EARTH CREE NATION. Sask RCMP no longer believe there is an imminent risk to public safety. No arrests have been made and Sask RCMP are actively... | Areas: RED EARTH CREE NATION | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -241,24 +241,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>TAKE ACTION - RCMP ALERT: DANGEROUS PERSON WITH GUN IN RED EARTH CREE NATION</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6ad147a8c89469b6bb2fc884</guid>
-      <pubDate>2026-10-15T21:37:39.596Z</pubDate>
-      <description>Generic Warning | Rcmp Alert: Dangerous Person With Gun In Red Earth Cree Nation | &lt;p&gt;DANGEROUS PERSON with GUN in RED EARTH CREE NATION. SUSPECT is wearing a Canada Goose vest and sweatpants.&lt;/p&gt; | Extreme - extraordinary threat | Immediate - act now | Arborfield, Saskatchewan</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>Wind (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4225417523.2026-1</guid>
-      <pubDate>2026-10-15T01:42:12-00:00</pubDate>
-      <description>Inverness County - Mabou and north. Damaging winds are no longer expected. | Areas: Inverness County - Mabou and north | Level: advisory</description>
-      <source>Nova Scotia</source>
     </item>
 
     <item>
