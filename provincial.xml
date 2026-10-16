@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 16 Oct 2026 17:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:05:18 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -237,10 +237,205 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Wind (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2550232166.2026-1</guid>
-      <pubDate>2026-10-16T13:43:35-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1441515469.2026-1</guid>
+      <pubDate>2026-10-16T18:39:51-00:00</pubDate>
       <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: overnight tonight. Maximum wind gusts: southerly to southeasterly up to 90 km/h. Locations:... | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Deadline extended for Municipal Election Nominations</title>
+      <link>https://www.princeedwardisland.ca/en/news/deadline-extended-for-municipal-election-nominations</link>
+      <guid isPermaLink="false">81482 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 16 Oct 2026 19:53:17 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Deadline extended for Municipal Election Nominations&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-16T16:53:17-03:00" title="Friday, October 16, 2026 - 16:53"&gt;Fri, 10/16/2026 - 16:53&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The nomination period has been extended for mayoral and councillor candidates in the following municipalities:&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Both Mayor and Councillor&lt;/strong&gt;&lt;br /&gt;Clyde River&lt;br /&gt;Crapaud&lt;br /&gt;Souris West&lt;br /&gt;York&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Mayor&lt;/strong&gt;&lt;br /&gt;Brackley&lt;br /&gt;Eastern Kings&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Councillor&lt;/strong&gt;&lt;br /&gt;Abram-Village&lt;br /&gt;Annandale-Little Pond-Howe Bay&lt;br /&gt;Bedeque and Area&lt;br /&gt;Breadalbane&lt;br /&gt;Hunter River&lt;br /&gt;Linkletter&lt;br /&gt;Miminegash&lt;br /&gt;Miscouche&lt;br /&gt;Murray River&lt;br /&gt;O'Leary&lt;br /&gt;Union Road&lt;br /&gt;Warren Grove&lt;/p&gt;&lt;p&gt;Canadian citizens who live in these municipalities can submit a nomination form to their municipal election officer and the municipality by 2:00 p.m. on October 23, 2026.&lt;/p&gt;&lt;p&gt;Check with your local municipality for more details.&lt;/p&gt;&lt;p&gt;Learn more about the &lt;a href="https://peimunicipalelections.ca/"&gt;municipal elections&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Brooke Miller&lt;br /&gt;Department of Housing and Communities&lt;br /&gt;&lt;a href="mailto:bmmiller@gov.pe.ca"&gt;bmmiller@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Atlantic Fisheries Fund renewal brings $31.6 million investment in PEI over five years</title>
+      <link>https://www.princeedwardisland.ca/en/news/atlantic-fisheries-fund-renewal-brings-316-million-investment-in-pei-over-five-years</link>
+      <guid isPermaLink="false">81480 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 16 Oct 2026 18:24:17 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Atlantic Fisheries Fund renewal brings $31.6 million investment in PEI over five years &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-16T15:24:17-03:00" title="Friday, October 16, 2026 - 15:24"&gt;Fri, 10/16/2026 - 15:24&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="several people standing in front of flags" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/9ce1/Atlantic%20Fisheries%20Fund%203.jpg.webp?itok=sxcJi6cs" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Atlantic provinces and the Government of Canada are renewing the Atlantic Fisheries Fund, investing&amp;nbsp;an extra $31.6 million in Prince Edward Island's fisheries and aquaculture sector.&lt;/p&gt;&lt;p&gt;The investment includes $18.96 million in federal funding and $12.6 million in provincial funding. The Fund renewal reflects the ongoing partnership between Atlantic provinces and the federal government to make strategic investments that support industry priorities and create opportunities across the region and internationally.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Prince Edward Island’s fisheries and aquaculture sector is a cornerstone of our economy and a vital source of jobs and opportunities across the province. This renewed agreement, which follows sustained advocacy by Atlantic Premiers with the Prime Minister, will help Island harvesters, processors, growers, and exporters invest in innovation, strengthen infrastructure and expand into new markets. As global demand continues to evolve, this investment will help ensure our seafood sector remains resilient, competitive, and positioned for long-term growth."&lt;/p&gt;&lt;p&gt;- Premier Rob Lantz&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The original fund, signed in 2017, was designed to help the Atlantic region better meet growing market demand for sustainably sourced, high-quality fish and seafood. Over seven years, the fund supported 153 PEI-based projects and seven pan-Atlantic initiatives.&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;The new Fund is based on the same three pillars including innovation, infrastructure, and science partnerships, with the addition of market diversification. Applicants can learn more and apply for support under any of the pillars by visiting the program&amp;nbsp;&lt;a href="https://www.dfo-mpo.gc.ca/fisheries-peches/initiatives/fish-fund-atlantic-fonds-peche/index-eng.html"&gt;webpage.&lt;/a&gt;&lt;/p&gt;&lt;p&gt;"Maintaining vibrant and prosperous fishing, aquaculture, and seafood industries is incredibly important for the communities that rely on them as well as the wider economy," said Minister of Fisheries, Rural Development and Tourism Ernie Hudson. "A renewed Atlantic Fisheries Fund will support industry as it advances sustainable practices and ensures PEI's seafood sector remains strong and competitive for future generations. I'm particularly pleased with the new focus on market development and diversification as we work to expand opportunities for Island seafood in new and emerging markets."&lt;/p&gt;&lt;p&gt;Fisheries and aquaculture in Prince Edward Island have contributed approximately $400 million to the provincial economy and is three per cent of our provincial GDP. The industry is the economic driver in many rural communities, employing more than 5,000 people in peak season.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Janice Fogarty&lt;br /&gt;Department of Fisheries, Rural Development and Tourism&lt;br /&gt;&lt;a href="mailto:jefogarty@gov.pe.ca"&gt;jefogarty@gov.pe.ca&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>September 2026 Engage PEI Appointments</title>
+      <link>https://www.princeedwardisland.ca/en/information/september-2026-engage-pei-appointments</link>
+      <guid isPermaLink="false">81478 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 16 Oct 2026 18:01:21 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;September 2026 Engage PEI Appointments&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-16T15:01:21-03:00" title="Friday, October 16, 2026 - 15:01"&gt;Fri, 10/16/2026 - 15:01&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;h3&gt;Board of Governors of Holland College&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Jessie Inman – Charlottetown&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Board of Governors of the University of Prince Edward Island&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Sheryl MacAulay – Georgetown&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Employment Standards Board&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Gary Ramsay – Cornwall&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Environmental Advisory Council&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Rebecca Ramos Armstrong – Charlottetown&lt;/li&gt;&lt;li&gt;Carolyn Peach Brown – Charlottetown&lt;/li&gt;&lt;li&gt;Les Burridge – Stratford&lt;/li&gt;&lt;li&gt;Matthew Jelley – Granville&lt;/li&gt;&lt;li&gt;Debbie Johnston – Three Rivers&lt;/li&gt;&lt;li&gt;Heather Laiskonis – Charlottetown&lt;/li&gt;&lt;li&gt;John MacQuarrie – Charlottetown&lt;/li&gt;&lt;li&gt;Krista Shaw – Stanhope&lt;/li&gt;&lt;li&gt;Peter Warris – Charlottetown&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Funeral Services Professions Board&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Kirk Neville – Kelvin Grove&lt;/li&gt;&lt;li&gt;Paul Cutcliffe – Charlottetown (reappointment)&lt;/li&gt;&lt;li&gt;Tim Beaton-McAleer – Grahams Road&lt;/li&gt;&lt;li&gt;Chris Gallant – New Glasgow (reappointment)&lt;/li&gt;&lt;li&gt;Marilyn Barrett – Cardigan (reappointment)&lt;/li&gt;&lt;li&gt;Jasmine Deagle – Charlottetown&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Provincial Apprenticeship Board&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Chris Maye – Suffolk (reappointment)&lt;/li&gt;&lt;li&gt;Liam Corcoran – Charlottetown&lt;/li&gt;&lt;li&gt;Jack MacPhail – Warren Grove&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Rural Communities Council&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Pamela Schurman-Montgomery – Stanley Bridge (reappointment)&lt;/li&gt;&lt;li&gt;Michael Gallant – Hunter River (reappointment)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -299,87 +494,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Statement by Minister Croucher on Canadian Library Workers Day</title>
-      <link>https://www.princeedwardisland.ca/en/news/statement-by-minister-croucher-on-canadian-library-workers-day</link>
-      <guid isPermaLink="false">81476 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 16 Oct 2026 14:04:59 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Statement by Minister Croucher on Canadian Library Workers Day &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-16T11:04:59-03:00" title="Friday, October 16, 2026 - 11:04"&gt;Fri, 10/16/2026 - 11:04&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="man at the library" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/1e3b/Library%20Image.jpeg.webp?itok=iUNCa5-H" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Minister of Education and Early Years Robin Croucher issued the following statement on Canadian Library Workers Day:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“October is Canadian Library Month and today, on Canadian Library Workers Day, we recognize the incredible staff working in libraries across our province.&lt;/p&gt;&lt;p&gt;From quiet reading corners to research and exploration, libraries and the people who work in them play an important role in supporting lifelong learning and community wellbeing.&lt;/p&gt;&lt;p&gt;Behind every great library are the people who work hard to make it a welcoming place to learn, ask questions, explore new interests, or simply hang out and read for a while.&lt;/p&gt;&lt;p&gt;Every day, library staff help create environments where people of all ages feel welcome, supported, and encouraged to discover new things.&lt;/p&gt;&lt;p&gt;More than 75 library staff work across 25 libraries in Prince Edward Island, including librarians, library technicians, casual library staff, and many others who help make these spaces valuable resources for their communities.&lt;/p&gt;&lt;p&gt;Today, and throughout Canadian Library Month, I encourage Island students, families, and communities to celebrate the dedicated staff who make our libraries places of learning, creativity and connection.”&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Andrew Sprague&lt;br /&gt;Department of Education and Early Years&lt;br /&gt;&lt;a href="mailto:asgsprague@gov.pe.ca"&gt;asgsprague@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
   
     
       
@@ -845,162 +959,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Connecting students to agriculture, one class at a time</title>
-      <link>https://www.princeedwardisland.ca/en/news/connecting-students-to-agriculture-one-class-at-a-time</link>
-      <guid isPermaLink="false">81460 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 13 Oct 2026 17:22:29 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Connecting students to agriculture, one class at a time&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-13T14:22:29-03:00" title="Tuesday, October 13, 2026 - 14:22"&gt;Tue, 10/13/2026 - 14:22&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="group of children" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/4dff/OpenFarmDay3.jpg.webp?itok=jvGv2BJ3" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;When Abe Buttimer of Abelaine Farms Inc. in New Glasgow was growing up, nearly everyone he knew had a connection to a farm.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Today, that connection isn't as common. Many children have never set foot on a farm or had the chance to see firsthand where their food comes from.&amp;nbsp;&lt;/p&gt;&lt;p&gt;That reality sparked Buttimer's goal of giving every Grade 3 class in PEI the opportunity to experience agriculture firsthand.&lt;/p&gt;&lt;p&gt;As the chair of the PEI Dairy Youth Trust, a local group that supports agricultural education for young people, Buttimer set his plan in motion with help from &lt;a href="https://www.aitc-pei.ca/"&gt;Agriculture in the Classroom PEI&lt;/a&gt; (AITC).&lt;/p&gt;&lt;p&gt;AITC is a non-profit organization that provides curriculum-linked agriculture and food education to students across the province. It started the &lt;a href="https://www.aitc-pei.ca/grade-3-open-farm-day-tour.php"&gt;Grade 3 Open Farm Day Tour&lt;/a&gt; in 2015, bringing hundreds of students to Island farms every September.&lt;/p&gt;&lt;p&gt;The first tours in 2015 gave 164 kids the chance to visit four Island farms. Now, in September 2026, more than 1,400 students, representing almost every Grade 3 class in PEI, have visited 34 farms across the Island.&lt;/p&gt;&lt;article class="align-left media media--type-image media--view-mode-default"&gt;
-  
-        &lt;img alt="kids holding a cat" class="image-style-large" height="320" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/f815/OpenFarmDay1.jpg?itok=1u30avKI" width="480" /&gt;
-
-
-
-  &lt;/article&gt;
-&lt;p&gt;"That was my goal from the start,” said Buttimer “It was a lofty goal in 2015, but it's very possible now.”&lt;/p&gt;&lt;p&gt;The tours give young students a hands-on opportunity to learn about local agriculture, which compliments what they are already learning in subjects like science and social studies.&lt;/p&gt;&lt;p&gt;And for students, the lessons can be as simple as learning where the food on their breakfast table comes from.&lt;/p&gt;&lt;p&gt;When they visit farms like Buttimer's in New Glasgow, students can touch a newborn calf, see where milk comes from, and discover how grains grown in a field can end up in their cereal bowl.&lt;/p&gt;&lt;p&gt;With fewer families having a direct connection to farming than in generations past, helping young people make those connections is important, says Laurie Loane, executive director of Agriculture in the Classroom PEI.&amp;nbsp;&lt;/p&gt;&lt;p&gt;"I think it's important that our students know where our food is produced, our farmers that are producing it, and that Canada has some of the healthiest, most safety regulated food in the world."&lt;/p&gt;&lt;article class="align-left media media--type-image media--view-mode-default"&gt;
-  
-        &lt;img alt="kids in a barn " class="image-style-large" height="320" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/1ce7/OpenFarmDay2.jpg?itok=vV8n-Mv9" width="480" /&gt;
-
-
-
-  &lt;/article&gt;
-&lt;p&gt;With only one school unable to participate this year, Loane said the reach of this year's tours marks an important milestone for the program.&lt;/p&gt;&lt;p&gt;"Our students absolutely love having the chance to come out and see live animals, see where their milk comes from, be able to go dig potatoes or go see a beef farm... it's just an amazing opportunity for them. And I think the teachers get as much out of the day as the students do."&lt;/p&gt;&lt;p&gt;The farmers opening their doors to students across PEI get something out of the experience, too. For Buttimer, the Grade 3 farm tour day is his favourite day of the year.&lt;/p&gt;&lt;p&gt;"My biggest wish is that they come and experience an actual farm, they see that we're looking after the animals really well, they see that it's not something that you do behind closed doors, it's right here, and it's accessible."&lt;/p&gt;&lt;p&gt;After more than a decade of welcoming students to his farm, Buttimer still loves their enthusiasm.&lt;/p&gt;&lt;p&gt;"They get excited about the littlest things," Buttimer said. "And that excitement drives me."&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.aitc-pei.ca/"&gt;Agriculture in the Classroom&lt;/a&gt; (AITC) works with the Department of Education and Early Years to make sure its programs and resources are curriculum-linked.&amp;nbsp;&lt;/p&gt;&lt;p&gt;AITC is funded in part by the provincial government through the Department of Agriculture.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Municipal nomination deadline fast approaching</title>
-      <link>https://www.princeedwardisland.ca/en/news/municipal-nomination-deadline-fast-approaching</link>
-      <guid isPermaLink="false">81459 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 13 Oct 2026 13:43:21 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Municipal nomination deadline fast approaching&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-13T10:43:21-03:00" title="Tuesday, October 13, 2026 - 10:43"&gt;Tue, 10/13/2026 - 10:43&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Canadian citizens interested in running in the November 2 municipal elections still have time to submit their nomination.&lt;/p&gt;&lt;p&gt;To be eligible, a candidate must:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Be a Canadian citizen;&lt;/li&gt;&lt;li&gt;Be at least 18 years old on election day; and&lt;/li&gt;&lt;li&gt;Have lived in the municipality for at least six months before the election.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nomination forms must be submitted by the candidate to the municipal election officer or returning officer by 2:00 p.m. on October 16, 2026.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“The decisions made at the municipal level have a direct impact on people’s everyday lives. I encourage anyone who is interested in making an impact in their community to get involved and take part.”&lt;/p&gt;&lt;p&gt;- Minister of Housing and Communities Kent Dollar&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Learn more about the &lt;a href="https://peimunicipalelections.ca/Candidates"&gt;municipal elections&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Brooke Miller&lt;br /&gt;Department of Housing and Communities&lt;br /&gt;&lt;a href="mailto:bmmiller@gov.pe.ca"&gt;bmmiller@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
   
     
       
