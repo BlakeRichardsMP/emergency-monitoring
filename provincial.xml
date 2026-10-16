@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 16 Oct 2026 03:20:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:24:49 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -226,21 +226,21 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Wind (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2597277119.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0353875303.2026-1</guid>
-      <pubDate>2026-10-15T04:26:10-00:00</pubDate>
-      <description>Damaging winds are no longer expected. | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter, Thorhild Co. near Thorhild Opal and Radway, Sturgeon Co. near Bon Accord Gibbons and Namao, Sturgeon Co. near Redwater, Lamont Co. near Bruderheim Lamont and Peno Creek, Lamont Co. near Andrew and Wostok, Lamont Co. near Mundare Chipman and Ukrainian Village, Smoky Lake Co. near Smoky Lake and Waskatenau, Co. of Two Hills near Willingdon and Hairy Hill, Fort Saskatchewan and Nrn Strathcona Co., Elk Island Nat. Park, Co. of Minburn near Vegreville Inland and Warwick, Leduc Co. near Leduc Beaumont and Kavanagh, Leduc Co. near New Sarepta and Rolly View, Co. of Wetaskiwin near Wetaskiwin Millet and Hwy 2, Strathcona Co. near Ardrossan and Cooking Lake, Beaver Co. near Tofield, Beaver Co. near Holden and Ryley, Camrose Co. near Hay Lakes and Miquelon Lake Prov. Park, Camrose Co. near Camrose and Bittern Lake, Camrose Co. near New Norway Edberg and Ferintosh, Camrose Co. near Bawlf and Rosalind, Flagstaff Co. near Daysland Heisler and Strome | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">113E7C44-0E05-4C6C-B62B-C988952ACA8C-1</guid>
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Wind (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4129667095.2026-1</guid>
+      <pubDate>2026-10-16T07:51:39-00:00</pubDate>
+      <description>Inverness County - Mabou and north. A period of strong southeasterly winds is expected. Time span: overnight tonight. Maximum wind gusts: southerly to southeasterly up to 90 km/h. Locations:... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
