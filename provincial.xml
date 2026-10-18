@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 18 Oct 2026 17:23:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:32:06 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -237,6 +237,27 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6ad4af266c81d4541f5b7202</guid>
+      <pubDate>2026-10-18T18:08:05.577Z</pubDate>
+      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Damaging winds are occurring.
+
+Gusts in excess of 90 km/h are possible this afternoon.
+
+Winds will diminish later this afternoon and through the evening.
+
+
+
+Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.
+
+Wind warnings are issued when there is a significant risk of damaging winds.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6ad4b2476c81d4541f5b7690</guid>
       <pubDate>2026-10-18T16:24:51.948Z</pubDate>
       <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Gusty westerly winds expected.
@@ -255,27 +276,6 @@ Winds will diminish from west to east through tonight.
 Local utility outages are possible. Disruptions to services and travel are possible.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6ad4af266c81d4541f5b7202</guid>
-      <pubDate>2026-10-18T16:23:28.279Z</pubDate>
-      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Damaging winds are occurring.
-
-Strong westerly winds gusting to 100 km/h occurred in west-central Manitoba early Sunday morning. 
-
-Gusts in excess of 90 km/h are possible through the morning before diminishing later this morning.
-
-
-
-Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.
-
-Wind warnings are issued when there is a significant risk of damaging winds.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
       <source>Manitoba</source>
     </item>
 
@@ -992,6 +992,33 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     
   &lt;/div&gt;</description>
       <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Premier McLeod on the Enbridge Line 21 Pipeline</title>
+      <link>https://www.gov.nt.ca/en/newsroom/news/premier-mcleod-enbridge-line-21-pipeline</link>
+      <guid isPermaLink="false">9422 at https://www.gov.nt.ca</guid>
+      <pubDate>Wed, 26 Sep 2018 23:05:28 +0000</pubDate>
+      <description>&lt;div class="field field-name-body field-type-text-with-summary field-label-hidden"&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;p&gt;&lt;strong&gt;YELLOWKNIFE&lt;/strong&gt; - Premier Bob McLeod issued the following statement on the Enbridge Line 21 pipeline today:&lt;/p&gt;
+
+&lt;p&gt;“I was pleased to learn that operations have resumed for Enbridge’s Line 21 pipeline after almost 2 years of no activity.&lt;/p&gt;
+
+&lt;p&gt;"Resource development has, and will continue to be, the backbone of our economy and is central to ensuring a good source of middle class jobs and business opportunities. Our territory has mineral and petroleum resources and the development of those resources can have a transformative effect on our people and economy.&lt;/p&gt;
+
+&lt;p&gt;"Sustainable economic development is key to the future of Northerners. With a strong resource development base, we will be able to support diversification of our local economies into emerging and established sectors.&lt;/p&gt;
+
+&lt;p&gt;"On behalf of the Government of the Northwest Territories I’d like to offer my congratulations to Imperial Oil, Enbridge the town of Norman Wells and other partners for getting this pipeline back up and running. I know the efforts and economic impacts of the pipeline have already begun to take shape in the community and will be felt for years to come. ”&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Charlotte Digness&lt;/strong&gt;&lt;br /&gt;
+	Media and Communications Coordinator&lt;br /&gt;
+	Cabinet Communications and Protocol&lt;br /&gt;
+	Government of the Northwest Territories&lt;br /&gt;
+	Ph: 867-767-9140 ext. 11092&lt;br /&gt;
+	Email: &lt;a href="mailto:charlotte_digness@gov.nt.ca"&gt;charlotte_digness@gov.nt.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-type field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;News Type:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/news-type/media-statement"&gt;Media Statement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-department field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;Department:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/department/premier"&gt;Premier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class="links inline"&gt;&lt;li class="fr first last"&gt;&lt;a class="language-link" href="https://www.gov.nt.ca/fr/newsroom/le-premier-ministre-mcleod-se-r%C3%A9jouit-de-la-r%C3%A9ouverture-de-l%E2%80%99ol%C3%A9oduc-21-d%E2%80%99enbridge" xml:lang="fr"&gt;Français&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <source>Northwest Territories</source>
     </item>
 
   </channel>
