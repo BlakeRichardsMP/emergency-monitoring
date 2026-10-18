@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 17 Oct 2026 23:11:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 01:03:52 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,20 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Wind (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1469425618.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2272473746.2026-1</guid>
-      <pubDate>2026-10-17T21:05:03-00:00</pubDate>
-      <description>Wind gusts to 90 km/h are expected this evening. Winds will diminish tonight. Secure loose objects. Be prepared to adapt your driving for changing conditions. | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Wind (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1469425618.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2272473746.2026-2</guid>
-      <pubDate>2026-10-17T21:05:03-00:00</pubDate>
-      <description>Wind | Areas: Yellowhead Co. near MacKay Wildwood and Evansburg, Lac Ste. Anne Co. near Mayerthorpe and Sangudo, Lac Ste. Anne Co. near Cherhill and Glenevis, Lac Ste. Anne Co. near Onoway and Lac Ste. Anne, Parkland Co. near Entwistle Fallis and Tomahawk, Parkland Co. near Wabamun Carvel and Keephills, Parkland Co. near Spruce Grove and Stony Plain, Sturgeon Co. near Rivière Qui Barre and Villeneuve, Sturgeon Co. near Legal and Mearns, Sturgeon Co. near Morinville Volmer and Big Lake, Thorhild Co. near Thorhild Opal and Radway, Sturgeon Co. near Bon Accord Gibbons and Namao, Sturgeon Co. near Redwater, Lamont Co. near Bruderheim Lamont and Peno Creek, Lamont Co. near Andrew and Wostok, Lamont Co. near Mundare Chipman and Ukrainian Village, Smoky Lake Co. near Smoky Lake and Waskatenau, Co. of Two Hills near Willingdon and Hairy Hill, Fort Saskatchewan and Nrn Strathcona Co., Elk Island Nat. Park, Co. of Minburn near Vegreville Inland and Warwick, City of Edmonton - St. Albert - Sherwood Park, Leduc Co. near Warburg Thorsby and Pigeon Lake, Leduc Co. near Calmar and Devon, Brazeau Co. near Drayton Valley and Breton, Co. of Wetaskiwin near Pigeon Lake, Co. of Wetaskiwin near Alder Flats and Winfield, Ponoka Co. near Rimbey Bluffton and Hoadley, Ponoka Co. near Crestomere, Leduc Co. near Leduc Beaumont and Kavanagh, Leduc Co. near New Sarepta and Rolly View, Co. of Wetaskiwin near Wetaskiwin Millet and Hwy 2, Strathcona Co. near Ardrossan and Cooking Lake, Beaver Co. near Tofield, Beaver Co. near Holden and Ryley, Camrose Co. near Hay Lakes and Miquelon Lake Prov. Park, Camrose Co. near Camrose and Bittern Lake, Camrose Co. near New Norway Edberg and Ferintosh, Camrose Co. near Bawlf and Rosalind, Flagstaff Co. near Daysland Heisler and Strome | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0951666624.2026-1</guid>
+      <pubDate>2026-10-18T00:18:38-00:00</pubDate>
+      <description>Damaging winds are no longer expected. | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
