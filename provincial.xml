@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:08:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:23:11 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -237,34 +237,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6ad4af266c81d4541f5b7202</guid>
-      <pubDate>2026-10-18T12:21:13.282Z</pubDate>
-      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Damaging winds are occurring.
-
-Strong westerly winds gusting up to 100 km/h are occurring in west-central Manitoba early this morning. The winds are expected to diminish later this morning from west to east.
-
-
-
-Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.
-
-Wind warnings are issued when there is a significant risk of damaging winds.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6ad4b2476c81d4541f5b7690</guid>
-      <pubDate>2026-10-18T11:49:24.142Z</pubDate>
+      <pubDate>2026-10-18T16:24:51.948Z</pubDate>
       <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Gusty westerly winds expected.
 
 What:
 Westerly winds gusting 90 to 100 km/h.
 
 When:
-Late this morning through early this evening.
+This afternoon through early this evening.
 
 Additional information:
 Winds will diminish from west to east through tonight.
@@ -274,6 +255,27 @@ Winds will diminish from west to east through tonight.
 Local utility outages are possible. Disruptions to services and travel are possible.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6ad4af266c81d4541f5b7202</guid>
+      <pubDate>2026-10-18T16:23:28.279Z</pubDate>
+      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Damaging winds are occurring.
+
+Strong westerly winds gusting to 100 km/h occurred in west-central Manitoba early Sunday morning. 
+
+Gusts in excess of 90 km/h are possible through the morning before diminishing later this morning.
+
+
+
+Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.
+
+Wind warnings are issued when there is a significant risk of damaging winds.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
       <source>Manitoba</source>
     </item>
 
