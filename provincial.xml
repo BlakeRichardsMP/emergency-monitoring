@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 18 Oct 2026 23:56:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 03:44:07 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,21 +217,36 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Wind (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1469425618.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0951666624.2026-1</guid>
-      <pubDate>2026-10-18T00:18:38-00:00</pubDate>
-      <description>Damaging winds are no longer expected. | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">113E7C44-0E05-4C6C-B62B-C988952ACA8C-1</guid>
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6ad4b2476c81d4541f5b7690</guid>
+      <pubDate>2026-10-19T03:40:29.655Z</pubDate>
+      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Gusty westerly winds continue.
+
+What:
+Westerly winds gusting to 90 to 100 km/h.
+
+When:
+Tonight.
+
+Additional information:
+Winds will diminish from west to east overnight.
+
+
+
+Local utility outages are possible. Disruptions to services and travel are possible.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
+      <source>Manitoba</source>
     </item>
 
     <item>
@@ -252,30 +267,6 @@ Local utility outages are possible. Damage to roofs, fences, branches or soft sh
 Wind warnings are issued when there is a significant risk of damaging winds.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6ad4b2476c81d4541f5b7690</guid>
-      <pubDate>2026-10-18T20:19:13.925Z</pubDate>
-      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Gusty westerly winds continue.
-
-What:
-Westerly winds gusting 90 to 100 km/h.
-
-When:
-Continuing through this evening.
-
-Additional information:
-Winds will diminish from west to east through tonight.
-
-
-
-Local utility outages are possible. Disruptions to services and travel are possible.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
       <source>Manitoba</source>
     </item>
 
