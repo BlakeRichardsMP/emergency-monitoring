@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 20 Oct 2026 19:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:30:08 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -214,6 +214,67 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Independent review of the Byron Carr murder investigation</title>
+      <link>https://www.princeedwardisland.ca/en/news/independent-review-of-the-byron-carr-murder-investigation</link>
+      <guid isPermaLink="false">81503 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 20 Oct 2026 19:31:16 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Independent review of the Byron Carr murder investigation&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-20T16:31:16-03:00" title="Tuesday, October 20, 2026 - 16:31"&gt;Tue, 10/20/2026 - 16:31&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The minister of Justice and Public Safety has ordered a review of the Byron Carr murder investigation.&lt;/p&gt;&lt;p&gt;The minister has directed, pursuant to the &lt;em&gt;Police Act,&lt;/em&gt; that an independent review of the Byron Carr murder investigation be undertaken and that the Office of the Police Commissioner appoint a third party for this purpose.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“This is a troubling situation for all those involved, particularly the friends and family of the late Mr. Carr. The community deserves answers, and we need to ensure public confidence in our justice system. The resulting report and recommendations from this independent third-party review will be made public.”&lt;/p&gt;&lt;p&gt;- Minister of Justice and Public Safety Bloyce Thompson&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Katie Cudmore&amp;nbsp;&lt;br /&gt;Department of Justice and Public Safety&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:Katiecudmore@gov.pe.ca"&gt;Katiecudmore@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -842,67 +903,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
           &lt;div class="layout__region layout__region--second"&gt;
         
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Deadline extended for Municipal Election Nominations</title>
-      <link>https://www.princeedwardisland.ca/en/news/deadline-extended-for-municipal-election-nominations</link>
-      <guid isPermaLink="false">81482 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 16 Oct 2026 19:53:17 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Deadline extended for Municipal Election Nominations&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-16T16:53:17-03:00" title="Friday, October 16, 2026 - 16:53"&gt;Fri, 10/16/2026 - 16:53&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The nomination period has been extended for mayoral and councillor candidates in the following municipalities:&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Both Mayor and Councillor&lt;/strong&gt;&lt;br /&gt;Clyde River&lt;br /&gt;Crapaud&lt;br /&gt;Souris West&lt;br /&gt;York&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Mayor&lt;/strong&gt;&lt;br /&gt;Brackley&lt;br /&gt;Eastern Kings&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Councillor&lt;/strong&gt;&lt;br /&gt;Abram-Village&lt;br /&gt;Annandale-Little Pond-Howe Bay&lt;br /&gt;Bedeque and Area&lt;br /&gt;Breadalbane&lt;br /&gt;Hunter River&lt;br /&gt;Linkletter&lt;br /&gt;Miminegash&lt;br /&gt;Miscouche&lt;br /&gt;Murray River&lt;br /&gt;O'Leary&lt;br /&gt;Union Road&lt;br /&gt;Warren Grove&lt;/p&gt;&lt;p&gt;Canadian citizens who live in these municipalities can submit a nomination form to their municipal election officer and the municipality by 2:00 p.m. on October 23, 2026.&lt;/p&gt;&lt;p&gt;Check with your local municipality for more details.&lt;/p&gt;&lt;p&gt;Learn more about the &lt;a href="https://peimunicipalelections.ca/"&gt;municipal elections&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Brooke Miller&lt;br /&gt;Department of Housing and Communities&lt;br /&gt;&lt;a href="mailto:bmmiller@gov.pe.ca"&gt;bmmiller@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
