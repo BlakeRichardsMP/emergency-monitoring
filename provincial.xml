@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 22 Oct 2026 11:52:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:42:28 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -232,20 +232,20 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
     </item>
 
     <item>
+      <title>Rainfall (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2715329532.2026-1</guid>
+      <pubDate>2026-10-22T13:43:20-00:00</pubDate>
+      <description>Very heavy rain is expected. Locations: Guysborough County, Richmond County, Sydney Metro and Cape Breton County. Total rainfall: 50 to 70 mm. Time span: today until Friday evening. Remarks: Gusty... | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Weather (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.0854771802.2026-1</guid>
       <pubDate>2026-10-22T07:27:13-00:00</pubDate>
       <description>Weather | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Issued)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3759567841.2026-1</guid>
-      <pubDate>2026-10-22T07:21:13-00:00</pubDate>
-      <description>Heavy rain is expected. Locations: Guysborough County, Richmond County, Sydney Metro and Cape Breton County. Total rainfall: 50 to 70 mm. Time span: This morning until Friday evening. Remarks:... | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
@@ -256,6 +256,217 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
       <pubDate>2026-10-22T06:52:24-00:00</pubDate>
       <description>Weather | Areas: Queens County, Shelburne County, Yarmouth County | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>PF.Conway PID28787.2026Oct</title>
+      <link>https://www.princeedwardisland.ca/en/publication/pfconway-pid287872026oct</link>
+      <guid isPermaLink="false">81526 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 22 Oct 2026 14:02:35 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PF.Conway PID28787.2026Oct&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T11:02:35-03:00" title="Thursday, October 22, 2026 - 11:02"&gt;Thu, 10/22/2026 - 11:02&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/2248/PF.Conway%20PID28787.2026Oct.pdf"&gt;
+              &lt;span&gt;PF.Conway PID28787.2026Oct.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Corn, Soybean &amp; Oilseed Performance Workshop - Winsloe</title>
+      <link>https://www.princeedwardisland.ca/en/event/corn-soybean-oilseed-performance-workshop-winsloe</link>
+      <guid isPermaLink="false">81520 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 22 Oct 2026 11:53:58 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Corn, Soybean &amp;amp; Oilseed Performance Workshop - Winsloe&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T08:53:58-03:00" title="Thursday, October 22, 2026 - 08:53"&gt;Thu, 10/22/2026 - 08:53&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The &lt;strong&gt;2027 PEI Field Crop Performance Series&lt;/strong&gt; will bring together trends from ACE Network field data, firsthand experiences from producers and agronomists, and insight from crop specialists. Presentations and discussions will explore what is working in the field today, as well as emerging trends and practices that could help Atlantic Canadian producers advance crop yield and quality in the future.&lt;/p&gt;&lt;p&gt;Come compare experiences, ask questions and take home practical ideas to consider for your farm.&lt;/p&gt;&lt;p&gt;Join us for the 2027 PEI Field Crop Performance Series, featuring practical ideas, farmer experiences and conversations about what is working in the field.&lt;/p&gt;&lt;h4&gt;For more information, please contact:&lt;/h4&gt;&lt;p&gt;Patti Ann Baird Gill&lt;br /&gt;Cereal and Oilseed Development Officer&lt;br /&gt;Telephone: 902-314-0233&lt;br /&gt;Email: &lt;a href="mailto:pabairdgill@gov.pe.ca"&gt;pabairdgill@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Presented by the PEI Department of Agriculture and the Atlantic Grains Council&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-02-09T13:30:00Z"&gt;February 9, 2027 9:30 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2027-02-09T20:00:00Z"&gt;February 9, 2027 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Winsloe Lions&lt;/span&gt; &lt;span class="family-name"&gt;Club&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt; 14 Campbell Road&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Winsloe&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1E 1Z2&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Cereal Performance Workshop - Emerald</title>
+      <link>https://www.princeedwardisland.ca/en/event/cereal-performance-workshop-emerald</link>
+      <guid isPermaLink="false">81519 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 22 Oct 2026 11:50:53 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cereal Performance Workshop - Emerald&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T08:50:53-03:00" title="Thursday, October 22, 2026 - 08:50"&gt;Thu, 10/22/2026 - 08:50&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The &lt;strong&gt;2027 PEI Field Crop Performance Series&lt;/strong&gt; will bring together trends from ACE Network field data, firsthand experiences from producers and agronomists, and insight from crop specialists. Presentations and discussions will explore what is working in the field today, as well as emerging trends and practices that could help Atlantic Canadian producers advance crop yield and quality in the future.&lt;/p&gt;&lt;p&gt;Come compare experiences, ask questions and take home practical ideas to consider for your farm.&lt;/p&gt;&lt;p&gt;Join us for the 2027 PEI Field Crop Performance Series, featuring practical ideas, farmer experiences and conversations about what is working in the field.&lt;/p&gt;&lt;h4&gt;For more information, please contact:&lt;/h4&gt;&lt;p&gt;Patti Ann Baird Gill&lt;br /&gt;Cereal and Oilseed Development Officer&lt;br /&gt;Telephone: 902-314-0233&lt;br /&gt;Email: &lt;a href="mailto:pabairdgill@gov.pe.ca"&gt;pabairdgill@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Presented by the PEI Department of Agriculture and the Atlantic Grains Council&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-02-04T13:30:00Z"&gt;February 4, 2027 9:30 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2027-02-04T20:00:00Z"&gt;February 4, 2027 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Emerald Communty&lt;/span&gt; &lt;span class="family-name"&gt;Center&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;1910 Nodd Road&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Emerald Junction&lt;/span&gt; &lt;span class="administrative-area"&gt;ON&lt;/span&gt; &lt;span class="postal-code"&gt;C0B 1M0&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -819,240 +1030,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
 
   &lt;/div&gt;
 
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Fiche d’information : Vaccin contre la COVID-19 - Vaccins à ARNm</title>
-      <link>https://www.princeedwardisland.ca/en/publication/fiche-dinformation-vaccin-contre-la-covid-19-vaccins-a-arnm</link>
-      <guid isPermaLink="false">81507 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 21 Oct 2026 14:10:35 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fiche d’information : Vaccin contre la COVID-19 - Vaccins à ARNm&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-21T11:10:35-03:00" title="Wednesday, October 21, 2026 - 11:10"&gt;Wed, 10/21/2026 - 11:10&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/66ce/2026-2027%20COVID-19%20Vaccine%20Fact%20Sheet_mRNA_FRfinal.pdf"&gt;
-              &lt;span&gt;2026-2027 COVID-19 Vaccine Fact Sheet_mRNA_FRfinal.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Fiche d’information : Vaccin contre la COVID-19 - Vaccin NuvaxovidMD</title>
-      <link>https://www.princeedwardisland.ca/en/publication/fiche-dinformation-vaccin-contre-la-covid-19-vaccin-nuvaxovidmd</link>
-      <guid isPermaLink="false">81506 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 21 Oct 2026 14:06:27 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fiche d’information : Vaccin contre la COVID-19 - Vaccin NuvaxovidMD&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-21T11:06:27-03:00" title="Wednesday, October 21, 2026 - 11:06"&gt;Wed, 10/21/2026 - 11:06&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/e936/2026-2027%20COVID-19%20Vaccine%20Fact%20Sheet%20Nuvaxovid_FRfinal.pdf"&gt;
-              &lt;span&gt;2026-2027 COVID-19 Vaccine Fact Sheet Nuvaxovid_FRfinal.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Peardon</title>
-      <link>https://www.princeedwardisland.ca/en/employee/peardon-nick</link>
-      <guid isPermaLink="false">81505 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 20 Oct 2026 23:35:19 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Peardon&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-20T20:35:19-03:00" title="Tuesday, October 20, 2026 - 20:35"&gt;Tue, 10/20/2026 - 20:35&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Finance &amp;amp; Admin Clerk&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Workforce and Advanced Learning&lt;/strong&gt;
-            &lt;div&gt;Workforce Development&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
