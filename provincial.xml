@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 21 Oct 2026 22:46:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:15:08 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -245,6 +245,62 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
       <pubDate>2026-10-21T18:43:10-00:00</pubDate>
       <description>Significant rainfall is expected. Locations: Guysborough County, Richmond County, Sydney Metro and Cape Breton County. Potential rainfall: 50 mm or more. Time span: Thursday morning until Friday... | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>McIver</title>
+      <link>https://www.princeedwardisland.ca/en/employee/mciver-luke</link>
+      <guid isPermaLink="false">81517 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 21 Oct 2026 23:20:47 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;McIver&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-21T20:20:47-03:00" title="Wednesday, October 21, 2026 - 20:20"&gt;Wed, 10/21/2026 - 20:20&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Social Supports Coordinator&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Social Development and Seniors&lt;/strong&gt;
+            &lt;div&gt;Social Programs&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -981,71 +1037,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
 
   &lt;/div&gt;
 
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Hodgson</title>
-      <link>https://www.princeedwardisland.ca/en/employee/hodgson-dan</link>
-      <guid isPermaLink="false">81497 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 20 Oct 2026 14:32:23 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Hodgson&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-20T11:32:23-03:00" title="Tuesday, October 20, 2026 - 11:32"&gt;Tue, 10/20/2026 - 11:32&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Public Engagement Officer&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-subtitle"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base tw-mb-3"&gt;
-      &lt;span class="field__item text-base"&gt;Transportation and Infrastructure&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Executive Council Office&lt;/strong&gt;
-            &lt;div&gt;Communications and Public Engagement&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
