@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 22 Oct 2026 20:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:30:07 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,12 +208,65 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Wind (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0573957762.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0573957762.2026-1</guid>
+      <pubDate>2026-10-22T22:13:52-00:00</pubDate>
+      <description>Damaging winds are expected. Strong northwesterly winds gusting up to 90 km/h will develop Friday morning and diminish Friday afternoon. Secure loose objects. | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Wind (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0966763604.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0966763604.2026-1</guid>
+      <pubDate>2026-10-22T22:13:06-00:00</pubDate>
+      <description>Strong northerly winds of 60 km/h gusting up to 100 km/h over the cypress hills are expected Friday afternoon. Winds will ease Friday night. Strong winds will continue to push east throughout... | Areas: R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Reno including Consul Robsart and Willow Creek, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag, R.M. of Frontier including Frontier and Claydon, R.M. of Bone Creek including Simmie and Scotsguard, R.M. of Grassy Creek including Shaunavon, R.M. of Wise Creek including Cadillac and Admiral, R.M. of Lone Tree including Climax and Bracken, R.M. of Val Marie including Val Marie Orkney and Monchy, R.M. of Auvergne including Ponteix and Aneroid, R.M. of Pinto Creek including Kincaid and Hazenmore, R.M. of Glen McPherson west of Mankota, R.M. of Mankota including Mankota and Ferland | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Snowfall (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3882013809.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3882013809.2026-1</guid>
+      <pubDate>2026-10-22T22:12:36-00:00</pubDate>
+      <description>Snowfall, with total amounts of 20 to 40 cm is expected. Snow will develop near Lake Athabasca Friday, and rain will change over to snow at Cluff Lake Mine area by Friday night. The snow will be... | Areas: Uranium City - Camsell Portage, Fond-du-Lac, Stony Rapids and Black Lake, Cluff Lake Mine | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Drinking Water (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">113E7C44-0E05-4C6C-B62B-C988952ACA8C-1</guid>
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WATCH - WINTER STORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6ada73da209bc11f14a3b7a1</guid>
+      <pubDate>2026-10-22T20:36:40.345Z</pubDate>
+      <description>Severe Winter Weather Warning | Yellow Watch - Winter Storm - In Effect | &lt;p&gt;A significant fall storm will impact northern Manitoba beginning Friday evening and will persist through the weekend.
+
+Where: Areas of northern Manitoba including, Pukatawagan, Lynn Lake, Brochet, Tadoule Lake, and Churchill
+
+What: Hazardous winter conditions including:
+Heavy snow with total amounts of 20 to 40 cm.
+Severe wind gusts possibly exceeding 90 km/h.
+Significantly reduced visibilities in blowing snow
+Freezing rain
+Heavy rain with total amounts of 20 to 40 mm. 
+
+When: Precipitation and strong northerly winds will move into northern Manitoba overnight Friday into Saturday morning and begin mostly as rain or freezing rain. This will transition to snow throughout the day on Saturday before tapering off Sunday afternoon. Winds will strengthen throughout the day on Saturday with gusts up to 90 km/h in areas closer to the Nunavut border and will taper off Sunday morning.
+
+
+
+Roads and walkways may be difficult to navigate. Visibility may be suddenly reduced to near-zero at times. Road closures are possible. Local utility outages are possible.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
+      <source>Manitoba</source>
     </item>
 
     <item>
