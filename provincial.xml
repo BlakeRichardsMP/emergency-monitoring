@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 22 Oct 2026 06:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:52:11 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -220,8 +220,10 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <title>BE ALERT - SPECIAL MARINE WATCH IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6ad929a425df6c75e2f440ad</guid>
-      <pubDate>2026-10-21T21:07:45.591Z</pubDate>
-      <description>Generic Warning | Special Marine Watch In Effect | &lt;p&gt;Conditions are favourable for the development of wind gusts between 45 to 55 knots in marine regions in southwestern Hudson Bay early in the morning of Sunday October 25th. Potential for significant wave heights accompanies these winds, so mariners are advised to exercise caution, especially smaller vessels. The winds are expected to lessen in severity again over the course of the afternoon. This watch may be expanded eastward as the event draws nearer.
+      <pubDate>2026-10-22T07:55:56.764Z</pubDate>
+      <description>Generic Warning | Special Marine Watch In Effect | &lt;p&gt;Conditions are favourable for the development of wind gusts between 45 to 55 knots in marine regions in southwestern Hudson Bay early in the morning of Sunday October 25th. 
+
+Potential for significant wave heights accompanies these winds, so mariners are advised to exercise caution, especially smaller vessels. The winds are expected to lessen in severity over the course of Sunday afternoon. This watch may be expanded eastward as the event draws near.
 
 
 
@@ -230,21 +232,96 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
     </item>
 
     <item>
-      <title>Weather (Updated)</title>
+      <title>Weather (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0434872525.2026-1</guid>
-      <pubDate>2026-10-22T02:12:39-00:00</pubDate>
-      <description>Potential for significant rainfall. Locations: Yarmouth, Shelburne and Queens Counties Potential rainfall: 30 to 50 mm. Time span: Thursday morning and afternoon. Remarks: An approaching low... | Areas: Queens County, Shelburne County, Yarmouth County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0854771802.2026-1</guid>
+      <pubDate>2026-10-22T07:27:13-00:00</pubDate>
+      <description>Weather | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Weather (Updated)</title>
+      <title>Rainfall (Issued)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2986899471.2026-1</guid>
-      <pubDate>2026-10-22T02:01:09-00:00</pubDate>
-      <description>Significant rainfall is expected. Locations: Guysborough County, Richmond County, Sydney Metro and Cape Breton County. Potential rainfall: 50 mm or more. Time span: Thursday morning until Friday... | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3759567841.2026-1</guid>
+      <pubDate>2026-10-22T07:21:13-00:00</pubDate>
+      <description>Heavy rain is expected. Locations: Guysborough County, Richmond County, Sydney Metro and Cape Breton County. Total rainfall: 50 to 70 mm. Time span: This morning until Friday evening. Remarks:... | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Weather (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1850239727.2026-1</guid>
+      <pubDate>2026-10-22T06:52:24-00:00</pubDate>
+      <description>Weather | Areas: Queens County, Shelburne County, Yarmouth County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Cereal Performance Workshop - Montague</title>
+      <link>https://www.princeedwardisland.ca/en/event/cereal-performance-workshop-montague</link>
+      <guid isPermaLink="false">81518 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 22 Oct 2026 11:06:50 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cereal Performance Workshop - Montague&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T08:06:50-03:00" title="Thursday, October 22, 2026 - 08:06"&gt;Thu, 10/22/2026 - 08:06&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The&lt;strong&gt; 2027 PEI Field Crop Performance Series&lt;/strong&gt; will bring together trends from ACE Network field data, firsthand experiences from producers and agronomists, and insight from crop specialists. Presentations and discussions will explore what is working in the field today, as well as emerging trends and practices that could help Atlantic Canadian producers advance crop yield and quality in the future.&lt;/p&gt;&lt;p&gt;Come compare experiences, ask questions and take home practical ideas to consider for your farm.&lt;/p&gt;&lt;p&gt;Join us for the 2027 PEI Field Crop Performance Series, featuring practical ideas, farmer experiences and conversations about what is working in the field.&lt;/p&gt;&lt;h4&gt;For more information, please contact:&lt;/h4&gt;&lt;p&gt;Patti Ann Baird Gill&lt;br /&gt;Cereal and Oilseed Development Officer&lt;br /&gt;Telephone: 902-314-0233&lt;br /&gt;Email: &lt;a href="mailto:pabairdgill@gov.pe.ca"&gt;pabairdgill@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Presented by the PEI Department of Agriculture and the Atlantic Grains Council&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-02-02T13:30:00Z"&gt;February 2, 2027 9:30 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2027-02-02T20:00:00Z"&gt;February 2, 2027 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Lane Riverhouse&lt;/span&gt; &lt;span class="family-name"&gt;Inn&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;33 Brook Street&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Montague&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0A 1R0&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -976,67 +1053,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. Fo
     
           &lt;div class="layout__region layout__region--second"&gt;
         
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Independent review of the Byron Carr murder investigation</title>
-      <link>https://www.princeedwardisland.ca/en/news/independent-review-of-the-byron-carr-murder-investigation</link>
-      <guid isPermaLink="false">81503 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 20 Oct 2026 19:31:16 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Independent review of the Byron Carr murder investigation&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-20T16:31:16-03:00" title="Tuesday, October 20, 2026 - 16:31"&gt;Tue, 10/20/2026 - 16:31&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The minister of Justice and Public Safety has ordered a review of the Byron Carr murder investigation.&lt;/p&gt;&lt;p&gt;The minister has directed, pursuant to the &lt;em&gt;Police Act,&lt;/em&gt; that an independent review of the Byron Carr murder investigation be undertaken and that the Office of the Police Commissioner appoint a third party for this purpose.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“This is a troubling situation for all those involved, particularly the friends and family of the late Mr. Carr. The community deserves answers, and we need to ensure public confidence in our justice system. The resulting report and recommendations from this independent third-party review will be made public.”&lt;/p&gt;&lt;p&gt;- Minister of Justice and Public Safety Bloyce Thompson&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Katie Cudmore&amp;nbsp;&lt;br /&gt;Department of Justice and Public Safety&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:Katiecudmore@gov.pe.ca"&gt;Katiecudmore@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
