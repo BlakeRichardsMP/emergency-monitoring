@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 23 Oct 2026 20:36:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 23:31:34 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,38 +208,47 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Snowfall (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3882013809.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2695084697.2026-1</guid>
-      <pubDate>2026-10-23T15:43:38-00:00</pubDate>
-      <description>Snowfall, with total amounts of 20 to 40 cm, is expected. Heavy snow will develop over northwestern Saskatchewan near noon and push eastwards into the Key Lake and Stony Rapids regions by this... | Areas: Uranium City - Camsell Portage, Fond-du-Lac, Stony Rapids and Black Lake, Cluff Lake Mine, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Winter Storm (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1029902772.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2180022637.2026-1</guid>
-      <pubDate>2026-10-23T15:41:04-00:00</pubDate>
-      <description>Hazardous winter conditions are expected due to: - Snow - Blowing snow - Wind A significant, long duration snowfall event is expected to bring total snowfall accumulations of 30 to 50 cm by Sunday... | Areas: Wollaston Lake - Collins Bay, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
+      <title>Thunderstorm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4270718687.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3928336430.2026-1</guid>
+      <pubDate>2026-10-23T22:07:34-00:00</pubDate>
+      <description>East Central Saskatchewan. Melfort, St. Brieux, Middle Lake, Yellow Creek, Kinistino, Gronlid, Nipawin, Choiceland, Carrot River and Tobin Lake. | Areas: R.M. of Torch River including Choiceland and White Fox, R.M. of Nipawin including Nipawin Aylsham and Pontrilas, R.M. of Willow Creek including Gronlid and Fairy Glen, ended threat area | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
       <title>Wind (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0966763604.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1985596892.2026-1</guid>
-      <pubDate>2026-10-23T13:12:51-00:00</pubDate>
-      <description>Strong northerly winds will first develop near the border with Alberta in the afternoon and then expand eastwards Friday evening. Winds will generally be gusting up to 90 km/h at times, but the... | Areas: R.M. of Deer Forks including Burstall and Estuary, R.M. of Happyland including Leader Prelate and Mendham, R.M. of Enterprise including Richmound, R.M. of Fox Valley including Fox Valley, R.M. of Big Stick including Golden Prairie, R.M. of Clinworth including Sceptre Lemsford and Portreeve, R.M. of Miry Creek including Abbey Lancer and Shackleton, R.M. of Pittville including Hazlet, R.M. of Piapot including Piapot, R.M. of Gull Lake including Gull Lake and Tompkins, R.M. of Carmichael including Carmichael, R.M. of Lacadena including Kyle Tyner and Sanctuary, R.M. of Victory including Beechy, R.M. of Canaan including Lucky Lake, R.M. of Riverside including Cabri Pennant and Success, R.M. of Saskatchewan Landing including Stewart Valley, R.M. of Webb including Webb and Antelope lake, R.M. of Swift Current including Swift Current and Wymark, R.M. of Lac Pelletier including Blumenhof, R.M. of Excelsior including Waldeck Rush Lake and Main Centre, R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of Coulee including Neidpath and McMahon, R.M. of Lawtonia including Hodgeville, R.M. of Glen Bain including Glen Bain, R.M. of Whiska Creek including Vanguard Neville and Pambrun, R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Reno including Consul Robsart and Willow Creek, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag, R.M. of Frontier including Frontier and Claydon, R.M. of Bone Creek including Simmie and Scotsguard, R.M. of Grassy Creek including Shaunavon, R.M. of Wise Creek including Cadillac and Admiral, R.M. of Lone Tree including Climax and Bracken, R.M. of Val Marie including Val Marie Orkney and Monchy, R.M. of Auvergne including Ponteix and Aneroid, R.M. of Pinto Creek including Kincaid and Hazenmore, R.M. of Glen McPherson west of Mankota, R.M. of Mankota including Mankota and Ferland, R.M. of Maple Bush including Riverhurst and Douglas Prov. Park, R.M. of Huron including Tugaske, R.M. of Enfield including Central Butte, R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Craik including Craik and Aylesbury, R.M. of Sarnia including Holdfast Chamberlain and Dilke, R.M. of Marquis including Tuxford Keeler and Buffalo Pound, R.M. of Dufferin including Bethune and Findlater, R.M. of Chaplin including Chaplin, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Caron including Caronport and Caron, R.M. of Pense including Pense Belle Plaine and Stony Beach, City of Moose Jaw, R.M. of Hillsborough including Crestwynd and Old Wives lake, R.M. of Redburn including Rouleau and Hearne, R.M. of Baildon including Briercrest, R.M. of Moose Jaw east of Highway 2 including Pasqua, R.M. of Moose Jaw west of Highway 2 including Bushell Park, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, R.M. of Wood River including Lafleche Woodrow and Melaval, R.M. of Stonehenge including Limerick and Congress, R.M. of Waverley including Glentworth and Fir Mountain, R.M. of Old Post including Wood Mountain and Killdeer, R.M. of Lake Johnson including Mossbank and Ardill, R.M. of Terrell including Spring Valley and Cardross, R.M. of Lake of The Rivers including Assiniboia, R.M. of Excel including Viceroy Ormiston and Verwood, R.M. of Willow Bunch including Willow Bunch and St Victor, R.M. of Poplar Valley including Rockglen and Fife Lake, R.M. of Hart Butte including Coronach, R.M. of Elmsthorpe including Avonlea and Truax, R.M. of Key West including Ogema and Kayville, R.M. of Bengough including Bengough, R.M. of The Gap including Ceylon and Hardy, R.M. of Happy Valley including Big Beaver, R.M. of Surprise Valley including Minton and Regway, City of Saskatoon, R.M. of Redberry including Hafford and Krydor, R.M. of Blaine Lake including Blaine Lake, R.M. of Great Bend including Radisson and Borden, R.M. of Laird including Waldheim Hepburn and Laird, R.M. of Rosthern including Rosthern Hague and Carlton, R.M. of Eagle Creek including Arelee and Sonningdale, R.M. of Perdue including Perdue and Kinley, R.M. of Vanscoy including Delisle Asquith and Vanscoy, R.M. of Corman Park northeast of the Yellowhead Highway incl. Martensville Warman and Langham, R.M. of Corman Park southwest of the Yellowhead Highway, R.M. of Aberdeen including Aberdeen, R.M. of Fish Creek including Alvena, R.M. of Hoodoo including Wakaw and Cudworth, R.M. of Grant including Vonda Prud'homme and Smuts, R.M. of Bayne including Bruno Peterson and Dana, R.M. of Colonsay including Colonsay and Meacham, R.M. of Viscount including Viscount and Plunkett, R.M. of Blucher including Allan Clavet Bradwell and Elstow, R.M. of Harris including Harris and Tessier, R.M. of Montrose including Donovan and Swanson, R.M. of Milden including Dinsmore Milden and Wiseton, R.M. of Fertile Valley including Conquest Macrorie and Bounty, R.M. of King George northwest of Lucky Lake, R.M. of Coteau including Birsay and Danielson Prov. Park, R.M. of Dundurn including Dundurn and Blackstrap Prov. Park, R.M. of Rudy including Outlook and Glenside, R.M. of Rosedale including Hanley, R.M. of Loreburn including Elbow Loreburn and Hawarden, R.M. of Lost River including South Allan and the Allan Hills, R.M. of Morris including Watrous Young and Zelma, R.M. of McCraney including Kenaston and Bladworth, R.M. of Wood Creek including Simpson, R.M. of Arm River including Davidson and Girvin, R.M. of Willner west of Davidson, R.M. of Big Arm including Imperial and Liberty, R.M. of Frenchman Butte including St. Walburg, R.M. of Mervin including Turtleford Mervin and Spruce Lake, R.M. of Turtle River including Edam and Vawn, R.M. of Britannia including Hillmond, R.M. of Wilton including Lashburn Marshall and Lone Rock, R.M. of Eldon including Maidstone and Waseca, R.M. of Paynton including Paynton, R.M. of Manitou Lake including Marsden, R.M. of Hillsdale including Neilburg and Baldwinton, R.M. of Senlac including Senlac, R.M. of Round Valley including Unity, R.M. of Cut Knife including Cut Knife, R.M. of Battle River including Sweet Grass Res. and Delmas, R.M. of Buffalo including Phippen, R.M. of Parkdale including Glaslyn and Fairholme, R.M. of Medstead including Medstead Belbutte and Birch Lake, R.M. of Meota including Meota and The Battlefords Prov. Park, R.M. of Round Hill including Rabbit Lake and Whitkow, The Battlefords, R.M. of North Battleford northwest of The Battlefords, R.M. of Douglas including Speers Richard and Alticane, R.M. of Mayfield including Maymont Denholm and Fielding, R.M. of Glenside north of Biggar, R.M. of Eye Hill including Macklin Denzil and Evesham, R.M. of Grass Lake including Salvador and Reward, R.M. of Heart's Hill including Cactus Lake, R.M. of Progress including Kerrobert and Luseland, R.M. of Tramping Lake including Scott and Revenue, R.M. of Reford including Wilkie Landis and Leipzig, R.M. of Mariposa including Tramping Lake and Broadacres, R.M. of Grandview including Handel and Kelfield, R.M. of Rosemount including Cando and Traynor, R.M. of Biggar including Biggar and Springwater, R.M. of Antelope Park including Loverna and Hoosier, R.M. of Prairiedale including Major and Smiley, R.M. of Milton including Alsask and Marengo, R.M. of Oakdale including Coleville, R.M. of Winslow including Dodsland and Plenty, R.M. of Kindersley including Kindersley Brock and Flaxcombe, R.M. of Mountain View including Herschel and Stranraer, R.M. of Marriott south of Biggar, R.M. of Pleasant Valley including McGee and Fiske, R.M. of St Andrews including Rosetown and Zealandia, R.M. of Chesterfield including Eatonia and Mantario, R.M. of Newcombe including Glidden and Madison, R.M. of Monet including Elrose Wartime and Forgan, R.M. of Snipe Lake including Eston and Plato | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3124278266.2026-1</guid>
+      <pubDate>2026-10-23T21:14:10-00:00</pubDate>
+      <description>Strong northerly winds have developed near the border with Alberta this afternoon and will continue to push east through the night. Where: Much of southern Saskatchewan. What: Strong northerly... | Areas: R.M. of Deer Forks including Burstall and Estuary, R.M. of Happyland including Leader Prelate and Mendham, R.M. of Enterprise including Richmound, R.M. of Fox Valley including Fox Valley, R.M. of Big Stick including Golden Prairie, R.M. of Clinworth including Sceptre Lemsford and Portreeve, R.M. of Miry Creek including Abbey Lancer and Shackleton, R.M. of Pittville including Hazlet, R.M. of Piapot including Piapot, R.M. of Gull Lake including Gull Lake and Tompkins, R.M. of Carmichael including Carmichael, R.M. of Lacadena including Kyle Tyner and Sanctuary, R.M. of Victory including Beechy, R.M. of Canaan including Lucky Lake, R.M. of Riverside including Cabri Pennant and Success, R.M. of Saskatchewan Landing including Stewart Valley, R.M. of Webb including Webb and Antelope lake, R.M. of Swift Current including Swift Current and Wymark, R.M. of Lac Pelletier including Blumenhof, R.M. of Excelsior including Waldeck Rush Lake and Main Centre, R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of Coulee including Neidpath and McMahon, R.M. of Lawtonia including Hodgeville, R.M. of Glen Bain including Glen Bain, R.M. of Whiska Creek including Vanguard Neville and Pambrun, R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Reno including Consul Robsart and Willow Creek, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag, R.M. of Frontier including Frontier and Claydon, R.M. of Bone Creek including Simmie and Scotsguard, R.M. of Grassy Creek including Shaunavon, R.M. of Wise Creek including Cadillac and Admiral, R.M. of Lone Tree including Climax and Bracken, R.M. of Val Marie including Val Marie Orkney and Monchy, R.M. of Auvergne including Ponteix and Aneroid, R.M. of Pinto Creek including Kincaid and Hazenmore, R.M. of Glen McPherson west of Mankota, R.M. of Mankota including Mankota and Ferland, City of Regina, R.M. of Maple Bush including Riverhurst and Douglas Prov. Park, R.M. of Huron including Tugaske, R.M. of Enfield including Central Butte, R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Craik including Craik and Aylesbury, R.M. of Sarnia including Holdfast Chamberlain and Dilke, R.M. of Marquis including Tuxford Keeler and Buffalo Pound, R.M. of Dufferin including Bethune and Findlater, R.M. of Chaplin including Chaplin, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Shamrock including Shamrock and Kelstern, R.M. of Rodgers including Coderre and Courval, R.M. of Caron including Caronport and Caron, R.M. of Pense including Pense Belle Plaine and Stony Beach, City of Moose Jaw, R.M. of Hillsborough including Crestwynd and Old Wives lake, R.M. of Redburn including Rouleau and Hearne, R.M. of Baildon including Briercrest, R.M. of Moose Jaw east of Highway 2 including Pasqua, R.M. of Moose Jaw west of Highway 2 including Bushell Park, R.M. of McKillop including Strasbourg and Rowans Ravine Prov. Park, R.M. of Longlaketon including Earl Grey and Silton, R.M. of Lumsden including Lumsden Regina Beach and Craven, R.M. of Cupar including Southey Cupar and Markinch, R.M. of Lipton including Lipton and Dysart, R.M. of Tullymet including Peepeekisis Res., R.M. of Bratt's Lake including Wilcox Corinne and Estlin, R.M. of Sherwood east of Highway 6, R.M. of Sherwood west of Highway 6 including Grand Coulee, R.M. of Lajord including Lajord Kronau and Riceton, R.M. of Francis including Vibank Sedley and Odessa, R.M. of Montmartre including Assiniboine Res., R.M. of Edenwold including Balgonie and Piapot Res., R.M. of North Qu'Appelle including Fort Qu'Appelle, R.M. of South Qu'Appelle including Qu'Appelle and Edgeley, R.M. of Abernethy including Balcarres and Abernethy, R.M. of Indian Head including Indian Head and Sintaluta, R.M. of Gravelbourg including Gravelbourg and Bateman, R.M. of Sutton including Mazenod Palmer and Vantage, R.M. of Wood River including Lafleche Woodrow and Melaval, R.M. of Stonehenge including Limerick and Congress, R.M. of Waverley including Glentworth and Fir Mountain, R.M. of Old Post including Wood Mountain and Killdeer, R.M. of Lake Johnson including Mossbank and Ardill, R.M. of Terrell including Spring Valley and Cardross, R.M. of Lake of The Rivers including Assiniboia, R.M. of Excel including Viceroy Ormiston and Verwood, R.M. of Willow Bunch including Willow Bunch and St Victor, R.M. of Poplar Valley including Rockglen and Fife Lake, R.M. of Hart Butte including Coronach, R.M. of Elmsthorpe including Avonlea and Truax, R.M. of Key West including Ogema and Kayville, R.M. of Bengough including Bengough, R.M. of The Gap including Ceylon and Hardy, R.M. of Happy Valley including Big Beaver, R.M. of Surprise Valley including Minton and Regway, R.M. of Garry including Jedburgh, R.M. of Orkney including Yorkton Springside and Ebenezer, R.M. of Stanley including Goodeve Fenwood and Duff, R.M. of Cana including Melville, R.M. of McLeod including Lemberg and Neudorf, R.M. of Grayson including Grayson Dubuc and Killaly, R.M. of Wallace including Rhein Stornoway Tonkin and Rokeby, R.M. of Calder including Calder and Wroxton, R.M. of Saltcoats including Saltcoats and Bredenbury, R.M. of Churchbridge including Churchbridge and MacNutt, R.M. of Fertile Belt including Esterhazy Stockholm and Bangor, R.M. of Langenburg including Langenburg Yarbo and Marchwell, R.M. of Spy Hill including Spy Hill Gerald and Tantallon, R.M. of Wolseley including Wolseley and Summerberry, R.M. of Elcapo including Broadview and Cowessess Res., R.M. of Chester including Windthorst Glenavon and Peebles, R.M. of Hazelwood south of Kipling, R.M. of Golden West including Ocean Man Res. and Handsworth, R.M. of Kingsley including Kipling, R.M. of Silverwood south of Whitewood, R.M. of Wawken including Wawota Kennedy and Kenosee Lake, R.M. of Martin including Wapella and Red Jacket, R.M. of Moosomin including Moosomin Welwyn and Fleming, R.M. of Walpole including Kelso, R.M. of Maryfield including Maryfield and Fairlight, R.M. of Willowdale including Whitewood and Ochapowace Res., R.M. of Rocanville including Rocanville, R.M. of Hazel Dell including Lintlaw and Hazel Dell, R.M. of Preeceville including Preeceville and Sturgis, R.M. of Invermay including Invermay and Rama, R.M. of Buchanan including Buchanan Amsterdam and Tadmore, R.M. of Insinger including Theodore and Sheho, R.M. of Good Lake including Canora and Good Spirit Lake Prov. Park, R.M. of Keys including The Key Res., R.M. of St Philips including Pelly and St Philips, R.M. of Sliding Hills including Veregin Mikado and Hamton, R.M. of Cote including Kamsack Togo and Duck Mountain Prov. Park, R.M. of Clayton including Norquay Stenen and Swan Plain, R.M. of Livingston including Arran, City of Saskatoon, R.M. of Redberry including Hafford and Krydor, R.M. of Blaine Lake including Blaine Lake, R.M. of Great Bend including Radisson and Borden, R.M. of Laird including Waldheim Hepburn and Laird, R.M. of Rosthern including Rosthern Hague and Carlton, R.M. of Eagle Creek including Arelee and Sonningdale, R.M. of Perdue including Perdue and Kinley, R.M. of Vanscoy including Delisle Asquith and Vanscoy, R.M. of Corman Park northeast of the Yellowhead Highway incl. Martensville Warman and Langham, R.M. of Corman Park southwest of the Yellowhead Highway, R.M. of Aberdeen including Aberdeen, R.M. of Fish Creek including Alvena, R.M. of Hoodoo including Wakaw and Cudworth, R.M. of Grant including Vonda Prud'homme and Smuts, R.M. of Bayne including Bruno Peterson and Dana, R.M. of Colonsay including Colonsay and Meacham, R.M. of Viscount including Viscount and Plunkett, R.M. of Blucher including Allan Clavet Bradwell and Elstow, R.M. of Harris including Harris and Tessier, R.M. of Montrose including Donovan and Swanson, R.M. of Milden including Dinsmore Milden and Wiseton, R.M. of Fertile Valley including Conquest Macrorie and Bounty, R.M. of King George northwest of Lucky Lake, R.M. of Coteau including Birsay and Danielson Prov. Park, R.M. of Dundurn including Dundurn and Blackstrap Prov. Park, R.M. of Rudy including Outlook and Glenside, R.M. of Rosedale including Hanley, R.M. of Loreburn including Elbow Loreburn and Hawarden, R.M. of Lost River including South Allan and the Allan Hills, R.M. of Morris including Watrous Young and Zelma, R.M. of McCraney including Kenaston and Bladworth, R.M. of Wood Creek including Simpson, R.M. of Arm River including Davidson and Girvin, R.M. of Willner west of Davidson, R.M. of Big Arm including Imperial and Liberty, R.M. of Humboldt including Humboldt Carmel and Fulda, R.M. of St Peter including Muenster and Lake Lenore, R.M. of Wolverine including Burr, R.M. of Leroy including Leroy, R.M. of Spalding including Spalding, R.M. of Ponass Lake including Rose Valley Fosston and Nora, R.M. of Lakeside including Watson and Quill Lake, R.M. of Lakeview including Wadena and Clair, R.M. of Usborne including Lanigan Drake and Guernsey, R.M. of Prairie Rose including Jansen and Esk, R.M. of Wreford including Nokomis and Venn, R.M. of Mount Hope including Semans, R.M. of Last Mountain Valley including Govan and Duval, R.M. of Big Quill including Wynyard Dafoe and Kandahar, R.M. of Elfros including Elfros Leslie and Mozart, R.M. of Kutawa including Raymore Punnichy and Poorman Res., R.M. of Emerald including Wishart and Bankend, R.M. of Touchwood including Serath and Touchwood Hills Prov. Park, R.M. of Kellross including Kelliher and Lestock, R.M. of Kelvington including Yellowquill Res., R.M. of Sasman including Margo Kylemore and Nut Mountain, R.M. of Foam Lake including Foam Lake and Fishing Lake Res., R.M. of Ituna Bon Accord including Ituna and Hubbard, R.M. of Frenchman Butte including St. Walburg, R.M. of Mervin including Turtleford Mervin and Spruce Lake, R.M. of Turtle River including Edam and Vawn, R.M. of Britannia including Hillmond, R.M. of Wilton including Lashburn Marshall and Lone Rock, R.M. of Eldon including Maidstone and Waseca, R.M. of Paynton including Paynton, R.M. of Manitou Lake including Marsden, R.M. of Hillsdale including Neilburg and Baldwinton, R.M. of Senlac including Senlac, R.M. of Round Valley including Unity, R.M. of Cut Knife including Cut Knife, R.M. of Battle River including Sweet Grass Res. and Delmas, R.M. of Buffalo including Phippen, R.M. of Parkdale including Glaslyn and Fairholme, R.M. of Medstead including Medstead Belbutte and Birch Lake, R.M. of Meota including Meota and The Battlefords Prov. Park, R.M. of Round Hill including Rabbit Lake and Whitkow, The Battlefords, R.M. of North Battleford northwest of The Battlefords, R.M. of Douglas including Speers Richard and Alticane, R.M. of Mayfield including Maymont Denholm and Fielding, R.M. of Glenside north of Biggar, R.M. of Eye Hill including Macklin Denzil and Evesham, R.M. of Grass Lake including Salvador and Reward, R.M. of Heart's Hill including Cactus Lake, R.M. of Progress including Kerrobert and Luseland, R.M. of Tramping Lake including Scott and Revenue, R.M. of Reford including Wilkie Landis and Leipzig, R.M. of Mariposa including Tramping Lake and Broadacres, R.M. of Grandview including Handel and Kelfield, R.M. of Rosemount including Cando and Traynor, R.M. of Biggar including Biggar and Springwater, R.M. of Antelope Park including Loverna and Hoosier, R.M. of Prairiedale including Major and Smiley, R.M. of Milton including Alsask and Marengo, R.M. of Oakdale including Coleville, R.M. of Winslow including Dodsland and Plenty, R.M. of Kindersley including Kindersley Brock and Flaxcombe, R.M. of Mountain View including Herschel and Stranraer, R.M. of Marriott south of Biggar, R.M. of Pleasant Valley including McGee and Fiske, R.M. of St Andrews including Rosetown and Zealandia, R.M. of Chesterfield including Eatonia and Mantario, R.M. of Newcombe including Glidden and Madison, R.M. of Monet including Elrose Wartime and Forgan, R.M. of Snipe Lake including Eston and Plato | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
     <item>
-      <title>Wind (Updated)</title>
+      <title>Snowfall (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3882013809.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2033173445.2026-1</guid>
+      <pubDate>2026-10-23T21:05:50-00:00</pubDate>
+      <description>Snowfall, with total amounts of 20 to 40 cm, is expected. Heavy snow will develop over most of northern Saskatchewan this evening. Heavy snow will persist tonight and Saturday before tapering off... | Areas: Uranium City - Camsell Portage, Fond-du-Lac, Stony Rapids and Black Lake, Cluff Lake Mine, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Wind (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0573957762.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3063590294.2026-1</guid>
-      <pubDate>2026-10-23T11:05:38-00:00</pubDate>
-      <description>Damaging winds are expected. Strong northwesterly winds gusting up to 90 km/h will develop this morning and diminish this evening. Secure loose objects. | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2028161432.2026-1</guid>
+      <pubDate>2026-10-23T21:05:18-00:00</pubDate>
+      <description>Wind | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Winter Storm (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1029902772.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3404952409.2026-1</guid>
+      <pubDate>2026-10-23T21:05:10-00:00</pubDate>
+      <description>Hazardous winter conditions are expected due to: - Snow - Blowing snow - Wind A significant, long duration snowfall event is expected to bring total snowfall accumulations of 30 to 50 cm by Sunday... | Areas: Wollaston Lake - Collins Bay, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -250,6 +259,31 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6adb3c23175aa8c02686d602</guid>
+      <pubDate>2026-10-23T21:05:55.856Z</pubDate>
+      <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;Hazardous winter conditions are expected due to:
+- Snow
+- Blowing snow
+- Wind
+
+
+A significant, long duration snowfall event is expected to bring total snowfall accumulations of 30 to 50 cm by Sunday morning.
+
+Precipitation will begin as rain this before transitioning to heavy snow later this evening. Heavy snow will continue through tonight and Saturday before gradually tapering off on Sunday.
+
+In addition to the snowfall, strong northerly winds with gusts up to 70 km/h will develop tonight and persist until Sunday. These winds, combined with falling snow, will result in significantly reduced visibility at times in snow and blowing snow. Winds will gradually ease through the day Sunday.
+
+
+
+Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Local utility outages are likely. Property or tree damage is possible.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
     </item>
 
     <item>
@@ -334,31 +368,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6adb3c23175aa8c02686d602</guid>
-      <pubDate>2026-10-23T15:41:48.366Z</pubDate>
-      <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;Hazardous winter conditions are expected due to:
-- Snow
-- Blowing snow
-- Wind
-
-
-A significant, long duration snowfall event is expected to bring total snowfall accumulations of 30 to 50 cm by Sunday morning.
-
-Precipitation will begin as rain late this afternoon before transitioning to heavy snow this evening. Heavy snow will continue through tonight and Saturday before gradually tapering off on Sunday.
-
-In addition to the snowfall, strong northerly winds with gusts up to 70 km/h will develop tonight and persist through until Sunday. These winds, combined with falling snow, will result in significantly reduced visibility at times in snow and blowing snow. Winds will gradually ease through the day Sunday.
-
-
-
-Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Local utility outages are likely. Property or tree damage is possible.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - YELLOW WATCH - WINTER STORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6ada73da209bc11f14a3b7a1</guid>
@@ -401,6 +410,230 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <pubDate>2026-10-23T18:58:17-00:00</pubDate>
       <description>Very heavy rain is expected. Locations: Richmond County, Sydney Metro and Cape Breton County. Additional rainfall: up to 10 mm possibly mixing in with wet snow at times. Time span: ending this... | Areas: Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Lomax</title>
+      <link>https://www.princeedwardisland.ca/en/employee/lomax-jennifer</link>
+      <guid isPermaLink="false">81557 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 23:16:39 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Lomax&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T20:16:39-03:00" title="Friday, October 23, 2026 - 20:16"&gt;Fri, 10/23/2026 - 20:16&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Medical Secretary&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Primary Care, Chronic Disease and Renew&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>MacAulay</title>
+      <link>https://www.princeedwardisland.ca/en/employee/macaulay-ella</link>
+      <guid isPermaLink="false">81556 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 23:07:09 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MacAulay&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T20:07:09-03:00" title="Friday, October 23, 2026 - 20:07"&gt;Fri, 10/23/2026 - 20:07&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Clerk&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Operations&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Robertson</title>
+      <link>https://www.princeedwardisland.ca/en/employee/robertson-rachel</link>
+      <guid isPermaLink="false">81555 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 23:01:25 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Robertson&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T20:01:25-03:00" title="Friday, October 23, 2026 - 20:01"&gt;Fri, 10/23/2026 - 20:01&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Social Worker&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Community Specialty Services&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Lee</title>
+      <link>https://www.princeedwardisland.ca/en/employee/lee-spencer-0</link>
+      <guid isPermaLink="false">81553 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 21:43:50 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Lee&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T18:43:50-03:00" title="Friday, October 23, 2026 - 18:43"&gt;Fri, 10/23/2026 - 18:43&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Executive Director, Strategic Communications and Stakeholder Relations&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Communications&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -746,322 +979,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
  to &lt;time class="datetime" datetime="2027-01-26T20:00:00Z"&gt;January 26, 2027 4:00 pm&lt;/time&gt;
 &lt;/div&gt;
       
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Statement from Minister Zack Bell on Acadian and francophone community tour</title>
-      <link>https://www.princeedwardisland.ca/en/news/statement-from-minister-zack-bell-on-acadian-and-francophone-community-tour</link>
-      <guid isPermaLink="false">81546 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 17:41:44 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Statement from Minister Zack Bell on Acadian and francophone community tour&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T14:41:44-03:00" title="Friday, October 23, 2026 - 14:41"&gt;Fri, 10/23/2026 - 14:41&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="people around a table " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/7289/Minister%20Zack%20Bell%20community%20tour.jpg.webp?itok=gxQnQjKF" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Minister responsible for Acadian and Francophone Affairs Zack Bell, issued the following statement at the conclusion of his community tour with Acadians, Francophones, and Francophiles:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“One of the most important first things for me to do in my role as the Minister responsible for Acadian and Francophone Affairs was to get out to the Island’s six Acadian and francophone regions and to hear directly from the people who choose to live in French, and that’s precisely what I did the last few months.&lt;/p&gt;&lt;p&gt;It was a great opportunity to immerse myself in the community, to meet with Acadians, Francophones and Francophiles, and to hear directly from them about what matters most to them and what is needed to ensure that the Acadian and francophone community, as well as the French language can continue to thrive across PEI.&lt;/p&gt;&lt;p&gt;The top concerns raised by participants focused on access to French-language healthcare and government services; the importance of early childhood and K-12 education to support the vitality of the community; the key role community organizations, in particular school-community centres, play in the Acadian and Francophone community; the importance of&amp;nbsp; Francophone immigration and a sustainable bilingual workforce to support the community’s development; and the importance of the French language and the community’s visibility in Island life.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Of the numerous conversations I’ve had over the past few months, community members have consistently raised priorities that would be familiar to many Islanders: access to healthcare, education, and a sustainable workforce.&amp;nbsp;&lt;/p&gt;&lt;p&gt;What made the conversations particularly distinct was the clear message of how important it is to be able to access these services in French while living in a language minority situation. They stressed how valuable it is for their day-to-day and overall vitality of the community to be able to live, work, and participate fully and meaningfully in the language of their choice, no matter where they live on the Island. These conversations were also incredibly informative as they reinforced the priorities that have been consistently identified by the &lt;a href="https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/about-the-acadian-and-francophone-community-advisory"&gt;Acadian and Francophone Community Advisory Committee&lt;/a&gt;, including their most recent &lt;a href="https://www.princeedwardisland.ca/en/information/economic-development-trade-and-artificial-intelligence/report-of-the-acadian-and"&gt;report&lt;/a&gt; on the priorities of the community.&lt;/p&gt;&lt;p&gt;I want to thank everyone who came out and took time to share their vision of a vibrant, dynamic Acadian and Francophone community in PEI. The level of engagement, vision, and commitment to a future where anyone who wants to live in French can do so on the Island was evident.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The work ahead for government is to continue our support for the Acadian and Francophone community, and to help my colleagues ensure that the priority needs of the community are taken into consideration in their work.&lt;/p&gt;&lt;p&gt;Thanks to this tour, I am now better equipped to help my government support the Acadian and Francophone community and to help my colleagues ensure that the needs and priorities of the community are taken into consideration in their work to make sure every Islander can thrive on PEI.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Media contacts:&lt;br /&gt;Vicki Tse&lt;br /&gt;Bilingual Senior Communications Officer&lt;br /&gt;&lt;a href="mailto:vickitse@gov.pe.ca"&gt;vickitse@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Patient Experience and Patient Relations Brochure</title>
-      <link>https://www.princeedwardisland.ca/en/publication/patient-experience-and-patient-relations-brochure</link>
-      <guid isPermaLink="false">81544 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 15:00:22 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Patient Experience and Patient Relations Brochure&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tylermahar&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T12:00:22-03:00" title="Friday, October 23, 2026 - 12:00"&gt;Fri, 10/23/2026 - 12:00&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Brochure&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Patient Experience and Patient Relations Brochure&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/94b6/Patient_Experience_and_Patient_Relations_Brochure.pdf"&gt;
-              &lt;span&gt;Patient_Experience_and_Patient_Relations_Brochure.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Coming into Care Policy</title>
-      <link>https://www.princeedwardisland.ca/en/publication/coming-into-care-policy</link>
-      <guid isPermaLink="false">81541 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 14:48:05 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Coming into Care Policy&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jamacleod&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T11:48:05-03:00" title="Friday, October 23, 2026 - 11:48"&gt;Fri, 10/23/2026 - 11:48&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;2.05 Coming into Care Policy&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/b536/2.05%20COMING%20INTO%20CARE%2020261021.pdf"&gt;
-              &lt;span&gt;2.05 COMING INTO CARE 20261021.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>2026 Municipal General Unofficial Election Results</title>
-      <link>https://www.princeedwardisland.ca/en/information/housing-and-communities/2026-municipal-general-unofficial-election-results</link>
-      <guid isPermaLink="false">81540 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 14:26:29 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026 Municipal General Unofficial Election Results&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ndoyle&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T11:26:29-03:00" title="Friday, October 23, 2026 - 11:26"&gt;Fri, 10/23/2026 - 11:26&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;h2&gt;Municipalities Holding a Vote on November 2&lt;/h2&gt;&lt;p&gt;The following municipalities will be holding elections for Mayor and/or Councillor positions. Residents are encouraged to contact their municipality (visit the &lt;a href="https://www.princeedwardisland.ca/en/feature/municipal-directory" title="Municipal Directory"&gt;municipal directory&lt;/a&gt; for municipal contact information) for the most up-to-date information on candidates, voting locations, advance voting opportunities, and election day details. Be sure to check with your municipality before voting to confirm where and when you can cast your ballot.&lt;/p&gt;&lt;p&gt;For election information in Charlottetown, Summerside, Cornwall, Stratford, and Three Rivers, please visit the &lt;a href="https://www.electionspei.ca"&gt;Elections PEI website&lt;/a&gt; for candidate information, voting locations, and election updates.&lt;/p&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Municipality&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Positions&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Alberton&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Crapaud&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Eastern Kings&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor &amp;amp; Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kensington&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kingston&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Lot 11 and Area&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Malpeque Bay&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Miltonvale Park&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Miminegash&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Miscouche&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Morell&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor &amp;amp; Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Murray Harbour&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;North Rustico&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;North Shore&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Northport&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;O'Leary&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor &amp;amp; Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Sherbrooke&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tignish&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Victoria&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor &amp;amp; Councillors&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;All Municipal Election Statuses&lt;/h3&gt;&lt;p&gt;The following table highlights each municipality's current status for mayor and councillor positions. Some council positions were acclaimed following the close of nomination, meaning there were just enough candidates for positions.&amp;nbsp;&lt;/p&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Municipality&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Mayor&amp;nbsp;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Councillor(s)&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Abram-Village&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;4 Acclaimed (2 Vacant)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Alberton&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Alexandra&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Annadale-Little Pond-Howe Bay&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Bedeque and Area&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Belfast&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Borden-Carleton&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Brackley&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Breadalbane&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Central Kings&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Central Prince&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Clyde River&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vacant&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Crapaud&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Eastern Kings&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Greenmount-Montrose&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Hampshire&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Hazelbrook&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Hunter River&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kensington&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kingston&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kinkora&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Linkletter&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Lot 11 and area&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Malpeque Bay&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Miltonvale Park&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Miminegash&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Miscouche&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Morell&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Mount Stewart&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Murray Harbour&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Murray River&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;North Rustico&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;North Shore&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;North Wiltshire&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Northport&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;O'Leary&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Sherbrooke&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Souris&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Souris West&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;4 Acclaimed (2 Vacancies)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;St. Felix&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;St. Nicholas&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;St. Peter's Bay&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tignish&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tignish Shore&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tyne Valley&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Union Road&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;5 Acclaimed (1 Vacancy)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Victoria&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Warren Grove&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Wellington&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;West River&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;York&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h2&gt;Unofficial Election Results&lt;/h2&gt;&lt;p&gt;The election results posted on this webpage are unofficial and are provided for informational purposes only. The information displayed is based on results submitted by municipalities. While every effort is made to post information accurately and in a timely manner, Municipal Affairs can only publish the information received from municipalities and cannot verify its accuracy or completeness.&lt;/p&gt;&lt;p&gt;For official election results or to confirm any information posted on this website, please contact the municipality directly. Official election results are determined and certified by the municipality.&lt;/p&gt;&lt;h3&gt;Municipalities with a Ward System&lt;/h3&gt;&lt;p&gt;Voting for Mayor: All electors can vote for one candidate for the position of Mayor.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Voting for Councillor: Electors vote for candidates that are&amp;nbsp;nominated in the ward the elector lives in. &amp;nbsp;Councillors are elected for each ward to&amp;nbsp;the maximum number of positions established for the ward in the bylaw.&lt;/p&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Municipality&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Candidate Name&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Position&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Ward&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bedeque and Area&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;North Shore&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;West River&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;Municipalities with a At Large System&lt;/h3&gt;&lt;p&gt;Voting for Mayor: All electors can vote for one candidate for the position of Mayor.&amp;nbsp;&lt;br /&gt;Voting for Councillors: Electors vote for the candidates of their choice up to the maximum number of positions (but can only vote once for each candidate).&amp;nbsp;&lt;/p&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Municipality&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Candidate Name&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Position&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Abram-Village&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Alberton&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Alexandra&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Annandale-Little Pond-Howe Bay&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Belfast&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Borden-Carleton&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Brackley&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Breadalbane&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Central Kings&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Central Prince&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clyde River&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Crapaud&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Eastern Kings&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Greenmount-Montrose&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hampshire&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hazelbrooke&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hunter River&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Kensington&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Kingston&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Kinkora&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Linkletter&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lot 11 and Area&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Malpeque Bay&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Miltonvale Park&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Miminegash&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Miscouche&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Morell&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mount Stewart&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Murray Harbour&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Murray River&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;North Rustico&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;North Wiltshire&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Northport&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;O'Leary&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sherbrooke&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Souris&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Souris West&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;St. Felix&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;St. Nicholas&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;St. Peter's Bay&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Stratford&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tignish&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tignish Shore&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tyne Valley&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Union Road&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Victoria&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Warren Grove&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wellington&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;York&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
   &lt;/div&gt;
 
       &lt;/div&gt;
