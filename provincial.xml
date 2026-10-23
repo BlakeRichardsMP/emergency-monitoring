@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 23 Oct 2026 17:27:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:36:09 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -255,6 +255,87 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6adb2de066356bfb8e0f2aea</guid>
+      <pubDate>2026-10-23T20:24:07.855Z</pubDate>
+      <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;Hazardous winter conditions are expected due to:
+- Snow
+- Freezing rain
+- Wind
+- Rain
+
+
+A significant fall storm will impact northern Manitoba beginning later this evening and will persist through the weekend.
+
+Where: Areas of northern Manitoba, including, Pukatawagan, Lynn Lake, Brochet, and Tadoule Lake.
+
+What: Hazardous winter conditions including:
+Heavy snow with total amounts of 20 to 40 cm.
+Severe wind gusts exceeding 90 km/h.
+Significantly reduced visibilities in blowing snow.
+Freezing rain with total amounts of 5 to 10 mm.
+Heavy rain with total amounts of 20 to 30 mm. 
+
+When: Precipitation and strong northerly winds will move into northern Manitoba overnight Friday into Saturday morning and begin mostly as rain or freezing rain. This will transition to snow throughout the day on Saturday before tapering off Sunday afternoon. Winds will strengthen throughout the day on Saturday with gusts up to 90 km/h in areas closer to the Nunavut border and will taper off Sunday afternoon and evening. Visibilities will be drastically reduced in blowing snow Saturday afternoon and evening when falling snow and strong winds combine.
+
+
+
+Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Property damage is possible. Property or tree damage is possible.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6adbbffd5adc27bb86702c33</guid>
+      <pubDate>2026-10-23T20:13:47.967Z</pubDate>
+      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Strong damaging winds are expected Saturday through Sunday. 
+
+Where: Churchill and Arviat
+
+What: Strong northeasterly winds on Saturday gusting 100 km/h and strong northwesterly winds on Sunday with gusts possibly exceeding 110 km/h. Reduced visibilities in blowing snow. 
+
+Remarks: A powerful storm system will move slowly through northern Manitoba and southern Hudson Bay this weekend bringing rain, snow, freezing rain, strong winds and blowing snow. Conditions will slowly improve on Sunday afternoon.
+
+
+
+Local utility outages are possible. Disruptions to services and travel are possible. Some property damage is possible.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6adbbd8b5adc27bb8670278d</guid>
+      <pubDate>2026-10-23T20:03:22.842Z</pubDate>
+      <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;A significant fall storm will impact northeastern Manitoba and the southern Kivalliq beginning Saturday and will persist through the weekend.
+
+Where: Churchill and Arviat
+
+What: Hazardous winter conditions including:
+Snow with total amounts of 10 to 25 cm.
+Severe wind gusts possibly exceeding 110 km/h.
+Significantly reduced visibilities in blowing snow. 
+Rain with total amounts of 20 to 30 mm. 
+
+When: Beginning Saturday morning and tapering off Sunday afternoon. 
+
+Remarks: Precipitation will move into this area on Saturday as rain or wet snow as wind off the bay will keep temperatures at or above zero. At this time wind speeds will increase with gusts up to 100 km/h. Conditions will transition to snow and blowing snow in the evening  and overnight with wind gusts possibly exceeding 110 km/h and drastically reduced visibilities. Snow and winds will gradually taper off Sunday afternoon.
+
+
+
+Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Local utility outages are likely. Property damage is possible. High-sided vehicles will be pushed around by the wind.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6adb3c23175aa8c02686d602</guid>
       <pubDate>2026-10-23T15:41:48.366Z</pubDate>
       <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;Hazardous winter conditions are expected due to:
@@ -305,45 +386,453 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6adb2de066356bfb8e0f2aea</guid>
-      <pubDate>2026-10-23T09:50:22.060Z</pubDate>
-      <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;Hazardous winter conditions are expected due to:
-- Snow
-- Freezing rain
-- Wind
-- Rain
-
-
-A significant fall storm will impact northern Manitoba beginning Friday evening and will persist through the weekend.
-
-Where: Areas of northern Manitoba, including, Pukatawagan, Lynn Lake, Brochet, and Tadoule Lake.
-
-What: Hazardous winter conditions including:
-Heavy snow with total amounts of 20 to 40 cm.
-Severe wind gusts possibly exceeding 90 km/h.
-Significantly reduced visibilities in blowing snow
-Freezing rain
-Heavy rain with total amounts of 20 to 40 mm. 
-
-When: Precipitation and strong northerly winds will move into northern Manitoba overnight Friday into Saturday morning and begin mostly as rain or freezing rain. This will transition to snow throughout the day on Saturday before tapering off Sunday afternoon. Winds will strengthen throughout the day on Saturday with gusts up to 90 km/h in areas closer to the Nunavut border and will taper off Sunday afternoon and evening.
-
-
-
-Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Property damage is possible. Property or tree damage is possible.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
+      <title>Rainfall (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3460228719.2026-1</guid>
+      <pubDate>2026-10-23T18:58:17-00:00</pubDate>
+      <description>Guysborough County. | Areas: Guysborough County | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Rainfall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2507728730.2026-1</guid>
-      <pubDate>2026-10-23T07:31:02-00:00</pubDate>
-      <description>Very heavy rain is expected. Locations: Guysborough County, Richmond County, Sydney Metro and Cape Breton County. Additional rainfall: up to 30 mm. Time span: continuing through this evening... | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3460228719.2026-2</guid>
+      <pubDate>2026-10-23T18:58:17-00:00</pubDate>
+      <description>Very heavy rain is expected. Locations: Richmond County, Sydney Metro and Cape Breton County. Additional rainfall: up to 10 mm possibly mixing in with wet snow at times. Time span: ending this... | Areas: Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>ACORN Annual Conference &amp; Trade Show</title>
+      <link>https://www.princeedwardisland.ca/en/event/acorn-annual-conference-trade-show</link>
+      <guid isPermaLink="false">81552 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 18:16:47 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;ACORN Annual Conference &amp;amp; Trade Show&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T15:16:47-03:00" title="Friday, October 23, 2026 - 15:16"&gt;Fri, 10/23/2026 - 15:16&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;a href="https://acornorganic.org/conference/"&gt;&lt;strong&gt;Groundwork: From Soil to Sustenance&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;From building healthy soils and managing pests and disease to exploring new crops, production methods, and ways to make a farm more resilient, Groundwork brings together the knowledge and lived experience that help farms thrive.&lt;/p&gt;&lt;p&gt;Join ACORN for two days of practical learning, conversation, and connection with fellow farmers and growers from across Atlantic Canada.&lt;/p&gt;&lt;p&gt;Whether you’re a seasoned farmer, just getting started, exploring more ecological ways to grow, or simply curious about where our food comes from, you're welcome at the table.&lt;/p&gt;&lt;p&gt;Mark your calendars for &lt;strong&gt;February 15-16, 2027&lt;/strong&gt;, and prepare to gather in &lt;strong&gt;Moncton, New Brunswick&lt;/strong&gt;, for another high-impact two-day event!&lt;/p&gt;&lt;p&gt;Ticket Sales, along with venue details, will go live soon - stay tuned.&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-02-15T13:00:00Z"&gt;February 15, 2027 9:00 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2027-02-16T20:00:00Z"&gt;February 16, 2027 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Province celebrates and invests in community organizations</title>
+      <link>https://www.princeedwardisland.ca/en/news/province-celebrates-and-invests-in-community-organizations</link>
+      <guid isPermaLink="false">81551 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 17:59:55 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province celebrates and invests in community organizations&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T14:59:55-03:00" title="Friday, October 23, 2026 - 14:59"&gt;Fri, 10/23/2026 - 14:59&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="people standing in front of a fire truck" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/5da6/Announcement%20Photo.jpg.webp?itok=sGA5wa1C" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Today, Minister for Fisheries, Rural Development and Tourism Ernie Hudson wrapped up a week of community celebrations in which he recognized community organizations, commended volunteers, and highlighted investments made through the Rural Growth Initiative (RGI).&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Strong communities are built by people who step up, volunteer, and work together to make life better for their neighbours. Through the Rural Growth Initiative, we are helping local organizations strengthen the places where Islanders gather, learn, stay active, and support one another. These investments are making a real difference in communities across Prince Edward Island, helping them remain vibrant, resilient, and strong for generations to come."&amp;nbsp;&lt;/p&gt;&lt;p&gt;- Premier Rob Lantz.&amp;nbsp;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;This fiscal year, $6.8 million has been invested in 85 projects around the province, including BGC Montague, supporting the creation of a youth centre that will provide youth programming, leadership development, recreation, and food security supports; the facility upgrades to the West Prince Curling Club, enabling them to host national and regional championships which attract visitors and generate economic activity; and the New Glasgow Rural Community Fire Company Purchasing new bunker gear and portable radios to improve firefighter safety and emergency response capacity.&lt;/p&gt;&lt;p&gt;"The strength of rural Prince Edward Island has always come from the people. Through the Rural Growth Initiative, we are supporting local organizations that provide gathering spaces, recreational opportunities, tourism experiences, emergency services, and community programs that improve the quality of life for those rural Islanders," said Minister of Fisheries, Rural Development and Tourism Ernie Hudson. "These projects reflect the dedication of volunteers and community leaders who continue to invest their time and energy into creating vibrant, inclusive and resilient communities."&lt;/p&gt;&lt;p&gt;RGI supports municipalities and non-profit organizations in delivering community infrastructure and capacity-building projects, including upgrades to community spaces, fire halls, and initiatives that strengthen local services and amenities across rural Prince Edward Island.&amp;nbsp;Since 2019, the Government of Prince Edward Island has invested more than $45.6 million on 878 projects across the three counties through RGI.&lt;/p&gt;&lt;p&gt;More information about the Rural Growth Initiative can be found on the&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/fisheries-rural-development-and-tourism/rural-growth-initiative"&gt;provincial website&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Backgrounder&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Partial list of RGI funded projects for fiscal year 2026-2027&lt;/strong&gt;:&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;New Glasgow Rural Community Fire Company:&amp;nbsp;&lt;/strong&gt;New bunker gear and portable radios to strengthen firefighter safety and emergency response capacity.&lt;br /&gt;Rural Growth Initiative (RGI): $75,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;North Rustico Lions Club:&amp;nbsp;&lt;/strong&gt;Building expansion and facility improvements to increase capacity for community programming and emergency reception services.&lt;br /&gt;RGI: $225,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rustico Bay Seniors Club:&amp;nbsp;&lt;/strong&gt;Accessible kitchen and outdoor space improvements to enhance programming and social opportunities for seniors and residents.&lt;br /&gt;RGI: $67,743&lt;/p&gt;&lt;p&gt;&lt;strong&gt;New London Community Complex:&lt;/strong&gt; Facility improvements including heat pumps, flooring, kitchen equipment, signage, security systems, and exterior drainage upgrades.&lt;br /&gt;RGI: $79,940&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hunter River Lions Club:&amp;nbsp;&lt;/strong&gt;Facility expansion with a larger commercial kitchen, accessible washroom, and barrier-free entrance.&lt;br /&gt;RGI: $225,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;East Prince Quad Trax ATV Club Inc.:&lt;/strong&gt; Trail, bridge, drainage, and signage improvements to enhance safety and recreational access across the trail network.&lt;br /&gt;RGI: $71,883&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stanley Bridge Memorial Society Inc.:&lt;/strong&gt; Restoration of a deteriorating heritage building window to preserve a valued community and cultural asset.&lt;br /&gt;RGI: $863&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Kensington Area Snowmobile Association:&lt;/strong&gt; Trail maintenance and signage upgrades to improve safety and the snowmobiling experience.&lt;br /&gt;RGI: $36,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;International Children's Memorial Place:&lt;/strong&gt; New steps, decks, ramps, and commemorative signage to improve accessibility and support community healing, education, and remembrance programs.&lt;br /&gt;RGI: $12,450&lt;/p&gt;&lt;p&gt;&lt;strong&gt;PEI Firefighters Association:&amp;nbsp;&lt;/strong&gt;Fire simulator replacement&amp;nbsp;&lt;/p&gt;&lt;p&gt;RGI: $1.3 million over 2 years&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;West Prince Curling Club:&amp;nbsp;&lt;/strong&gt;Upgrading spectator and gathering areas to improve safety and prepare the facility to host national&amp;nbsp;and regional curling championships.&lt;/p&gt;&lt;p&gt;RGI funding: $28,013&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tignish ATV Sportsmen Riders Inc:&amp;nbsp;&lt;/strong&gt;Enhancing and expanding year-round ATV trail infrastructure to strengthen connections within PEI's province-wide trail network&lt;/p&gt;&lt;p&gt;RGI funding: $75,000 &amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tyne Valley Rural Fire Company:&amp;nbsp;&lt;/strong&gt;Purchasing a new Hurst Jaws of Life rescue system to improve emergency response and vehicle extrication capabilities.&lt;/p&gt;&lt;p&gt;RGI funding: $30,606&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Royal Canadian Legion Branch # 6 – Tignish:&amp;nbsp;&lt;/strong&gt;Renovating and expanding kitchen facilities and upgrading the exterior to increase capacity for community events and programming.&amp;nbsp;&lt;/p&gt;&lt;p&gt;RGI funding: $187,500&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;PEI Shellfish Association:&amp;nbsp;&lt;/strong&gt;Upgrading the Shellfish Museum with new equipment and amenities to enhance the visitor experience.&lt;/p&gt;&lt;p&gt;RGI funding: $2,625&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;West Country Historical Society – Bideford Parsonage Museum:&amp;nbsp;&lt;/strong&gt;Completing restoration work to preserve the historic museum building and protect it from further deterioration&lt;/p&gt;&lt;p&gt;RGI funding: $29,563&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Elmsdale Community Centre Inc:&amp;nbsp;&lt;/strong&gt;Replacing windows and adding storage and equipment upgrades to improve functionality and support increased community use&lt;/p&gt;&lt;p&gt;RGI funding: $16,935&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rural Municipality of Miminegash – Fire Department:&amp;nbsp;&lt;/strong&gt;Acquiring a new rescue tool and replacing aging firefighter protective equipment to strengthen emergency response capacity.&lt;/p&gt;&lt;p&gt;RGI funding: $23,837&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;O’Leary Community Sports Centre:&amp;nbsp;&lt;/strong&gt;Upgrading dressing room shower facilities and arena maintenance equipment to improve operations and user experience.&lt;/p&gt;&lt;p&gt;RGI funding: $28,050&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The West Point Development Corporation:&amp;nbsp;&lt;/strong&gt;Enhancing tourism infrastructure and visitor experiences through facility upgrades, interactive exhibits, and digital improvements at the Lighthouse Inn, Museum, and Harbourside Centre&lt;/p&gt;&lt;p&gt;RGI funding: $91,500&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Souris Show Hall Foundation Ltd.:&amp;nbsp;&lt;/strong&gt;Upgrading the Souris Show Hall with a new roof, seating, signage, murals, exterior improvements and sound booth upgrades to support year-round cultural programming.&lt;/p&gt;&lt;p&gt;RGI: $90,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Central Kings Rural Fire Company:&amp;nbsp;&lt;/strong&gt;Replacing firefighter protective equipment and renovating the community hall that serves as an event space and reception centre.&lt;/p&gt;&lt;p&gt;RGI: $75,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;St. Teresa and Area Development Corporation:&amp;nbsp;&lt;/strong&gt;Expanding and modernizing the community centre through accessibility, energy-efficiency, and facility upgrades.&lt;/p&gt;&lt;p&gt;RGI: $249,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;St. Peter’s and Area Development Corporation:&amp;nbsp;&lt;/strong&gt;Improving the energy efficiency and sustainability of St. Peters Landing through heat pumps, windows, doors and electrical upgrades.&lt;/p&gt;&lt;p&gt;RGI: $83,095&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rural Municipality of St. Peter’s:&amp;nbsp;&lt;/strong&gt;Upgrading the Dr. Roddie Community Centre and enhancing fire department communications and equipment.&lt;/p&gt;&lt;p&gt;RGI: $51,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;BGC Montague:&amp;nbsp;&lt;/strong&gt;Establishing a youth centre in Montague that provides safe after-school programming, leadership development, recreation and food supports.&lt;/p&gt;&lt;p&gt;RGI: $158,962&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Eastern Kings ATV Club:&amp;nbsp;&lt;/strong&gt;Enhancing and expanding trail infrastructure between Murray River and Montague to improve connectivity, safety and tourism opportunities.&lt;/p&gt;&lt;p&gt;RGI: $31,000&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Janice Fogarty&lt;br /&gt;Department of Fisheries, Rural Development and Tourism&lt;br /&gt;&lt;a href="mailto:jefogarty@gov.pe.ca"&gt;jefogarty@gov.pe.ca&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Pesticide Applicator Continuing Education Course - DAY B - Summerside</title>
+      <link>https://www.princeedwardisland.ca/en/event/pesticide-applicator-continuing-education-course-day-b-summerside</link>
+      <guid isPermaLink="false">81550 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 17:53:53 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pesticide Applicator Continuing Education Course - DAY B - Summerside&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T14:53:53-03:00" title="Friday, October 23, 2026 - 14:53"&gt;Fri, 10/23/2026 - 14:53&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/agriculture/pesticide-applicator-continuing-education-course-cec" title="Pesticide Applicator Continuing Education Course  (CEC)"&gt;&lt;strong&gt;Pesticide Applicator Continuing Education Courses&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Continuing Education Courses will enable a holder of a Pesticide Class A Applicator Certificate to &lt;strong&gt;renew&lt;/strong&gt; their certification without writing the Class A exam.&lt;/li&gt;&lt;li&gt;Certification is required every 5 years.&lt;/li&gt;&lt;li&gt;These courses are for RENEWING the Class A Certificate only.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;DAY&amp;nbsp;B - Topics:&lt;br /&gt;Emergency Response, Pesticide Monitoring and Enforcement, Professionalism and Traceability, First Aid, Calibration and Calculations, Pesticide Label Training, Pesticide Safety, and Integrated Pest Management..&lt;/p&gt;&lt;p&gt;More Details to come&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-01-16T12:45:00Z"&gt;January 16, 2027 8:45 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2027-01-16T20:00:00Z"&gt;January 16, 2027 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Pesticide Applicator Continuing Education Course - DAY B - Montague</title>
+      <link>https://www.princeedwardisland.ca/en/event/pesticide-applicator-continuing-education-course-day-b-montague</link>
+      <guid isPermaLink="false">81549 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 17:51:44 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pesticide Applicator Continuing Education Course - DAY B - Montague&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T14:51:44-03:00" title="Friday, October 23, 2026 - 14:51"&gt;Fri, 10/23/2026 - 14:51&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/agriculture/pesticide-applicator-continuing-education-course-cec" title="Pesticide Applicator Continuing Education Course  (CEC)"&gt;&lt;strong&gt;Pesticide Applicator Continuing Education Courses&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Continuing Education Courses will enable a holder of a Pesticide Class A Applicator Certificate to &lt;strong&gt;renew&lt;/strong&gt; their certification without writing the Class A exam.&lt;/li&gt;&lt;li&gt;Certification is required every 5 years.&lt;/li&gt;&lt;li&gt;These courses are for RENEWING the Class A Certificate only.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;DAY&amp;nbsp;B - Topics:&lt;br /&gt;Emergency Response, Pesticide Monitoring and Enforcement, Professionalism and Traceability, First Aid, Calibration and Calculations, Pesticide Label Training, Pesticide Safety, and Integrated Pest Management..&lt;/p&gt;&lt;p&gt;More Details to come&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-01-28T12:45:00Z"&gt;January 28, 2027 8:45 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2027-01-28T20:00:00Z"&gt;January 28, 2027 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Pesticide Applicator Continuing Education Course - DAY A - Summerside</title>
+      <link>https://www.princeedwardisland.ca/en/event/pesticide-applicator-continuing-education-course-day-a-summerside</link>
+      <guid isPermaLink="false">81548 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 17:49:15 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pesticide Applicator Continuing Education Course - DAY A - Summerside&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T14:49:15-03:00" title="Friday, October 23, 2026 - 14:49"&gt;Fri, 10/23/2026 - 14:49&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/agriculture/pesticide-applicator-continuing-education-course-cec" title="Pesticide Applicator Continuing Education Course  (CEC)"&gt;&lt;strong&gt;Pesticide Applicator Continuing Education Courses&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Continuing Education Courses will enable a holder of a Pesticide Class A Applicator Certificate to &lt;strong&gt;renew&lt;/strong&gt; their certification without writing the Class A exam.&lt;/li&gt;&lt;li&gt;Certification is required every 5 years.&lt;/li&gt;&lt;li&gt;These courses are for RENEWING the Class A Certificate only.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;DAY A -&amp;nbsp;Topics:&lt;br /&gt;Environmental Fate of Pesticides, Aquatic Impact of Pesticides, General Information, Application Equipment Selection, Pest Identification, Human Health and Safety, and Climate Change.&lt;/p&gt;&lt;p&gt;More Details to come&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-01-12T12:45:00Z"&gt;January 12, 2027 8:45 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2027-01-12T20:00:00Z"&gt;January 12, 2027 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Pesticide Applicator Continuing Education Course - DAY A - Montague</title>
+      <link>https://www.princeedwardisland.ca/en/event/pesticide-applicator-continuing-education-course-day-a-montague</link>
+      <guid isPermaLink="false">81547 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 17:46:18 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pesticide Applicator Continuing Education Course - DAY A - Montague&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T14:46:18-03:00" title="Friday, October 23, 2026 - 14:46"&gt;Fri, 10/23/2026 - 14:46&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/agriculture/pesticide-applicator-continuing-education-course-cec" title="Pesticide Applicator Continuing Education Course  (CEC)"&gt;&lt;strong&gt;Pesticide Applicator Continuing Education Courses&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Continuing Education Courses will enable a holder of a Pesticide Class A Applicator Certificate to &lt;strong&gt;renew&lt;/strong&gt; their certification without writing the Class A exam.&lt;/li&gt;&lt;li&gt;Certification is required every 5 years.&lt;/li&gt;&lt;li&gt;These courses are for RENEWING the Class A Certificate only.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;DAY A -&amp;nbsp;Topics:&lt;br /&gt;Environmental Fate of Pesticides, Aquatic Impact of Pesticides, General Information, Application Equipment Selection, Pest Identification, Human Health and Safety, and Climate Change.&lt;/p&gt;&lt;p&gt;More Details to come&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-01-26T12:45:00Z"&gt;January 26, 2027 8:45 am&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2027-01-26T20:00:00Z"&gt;January 26, 2027 4:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Statement from Minister Zack Bell on Acadian and francophone community tour</title>
+      <link>https://www.princeedwardisland.ca/en/news/statement-from-minister-zack-bell-on-acadian-and-francophone-community-tour</link>
+      <guid isPermaLink="false">81546 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 17:41:44 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Statement from Minister Zack Bell on Acadian and francophone community tour&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T14:41:44-03:00" title="Friday, October 23, 2026 - 14:41"&gt;Fri, 10/23/2026 - 14:41&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="people around a table " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/7289/Minister%20Zack%20Bell%20community%20tour.jpg.webp?itok=gxQnQjKF" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Minister responsible for Acadian and Francophone Affairs Zack Bell, issued the following statement at the conclusion of his community tour with Acadians, Francophones, and Francophiles:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“One of the most important first things for me to do in my role as the Minister responsible for Acadian and Francophone Affairs was to get out to the Island’s six Acadian and francophone regions and to hear directly from the people who choose to live in French, and that’s precisely what I did the last few months.&lt;/p&gt;&lt;p&gt;It was a great opportunity to immerse myself in the community, to meet with Acadians, Francophones and Francophiles, and to hear directly from them about what matters most to them and what is needed to ensure that the Acadian and francophone community, as well as the French language can continue to thrive across PEI.&lt;/p&gt;&lt;p&gt;The top concerns raised by participants focused on access to French-language healthcare and government services; the importance of early childhood and K-12 education to support the vitality of the community; the key role community organizations, in particular school-community centres, play in the Acadian and Francophone community; the importance of&amp;nbsp; Francophone immigration and a sustainable bilingual workforce to support the community’s development; and the importance of the French language and the community’s visibility in Island life.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Of the numerous conversations I’ve had over the past few months, community members have consistently raised priorities that would be familiar to many Islanders: access to healthcare, education, and a sustainable workforce.&amp;nbsp;&lt;/p&gt;&lt;p&gt;What made the conversations particularly distinct was the clear message of how important it is to be able to access these services in French while living in a language minority situation. They stressed how valuable it is for their day-to-day and overall vitality of the community to be able to live, work, and participate fully and meaningfully in the language of their choice, no matter where they live on the Island. These conversations were also incredibly informative as they reinforced the priorities that have been consistently identified by the &lt;a href="https://www.princeedwardisland.ca/en/information/workforce-and-advanced-learning/about-the-acadian-and-francophone-community-advisory"&gt;Acadian and Francophone Community Advisory Committee&lt;/a&gt;, including their most recent &lt;a href="https://www.princeedwardisland.ca/en/information/economic-development-trade-and-artificial-intelligence/report-of-the-acadian-and"&gt;report&lt;/a&gt; on the priorities of the community.&lt;/p&gt;&lt;p&gt;I want to thank everyone who came out and took time to share their vision of a vibrant, dynamic Acadian and Francophone community in PEI. The level of engagement, vision, and commitment to a future where anyone who wants to live in French can do so on the Island was evident.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The work ahead for government is to continue our support for the Acadian and Francophone community, and to help my colleagues ensure that the priority needs of the community are taken into consideration in their work.&lt;/p&gt;&lt;p&gt;Thanks to this tour, I am now better equipped to help my government support the Acadian and Francophone community and to help my colleagues ensure that the needs and priorities of the community are taken into consideration in their work to make sure every Islander can thrive on PEI.”&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Media contacts:&lt;br /&gt;Vicki Tse&lt;br /&gt;Bilingual Senior Communications Officer&lt;br /&gt;&lt;a href="mailto:vickitse@gov.pe.ca"&gt;vickitse@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -529,422 +1018,13 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Orders in Council October 20, 2026 (1040-1050)</title>
-      <link>https://www.princeedwardisland.ca/en/publication/orders-in-council-october-20-2026-1040-1050</link>
-      <guid isPermaLink="false">81539 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 12:47:05 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orders in Council October 20, 2026 (1040-1050)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tamperry&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T09:47:05-03:00" title="Friday, October 23, 2026 - 09:47"&gt;Fri, 10/23/2026 - 09:47&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Orders in Council&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/9b96/20261020truwww.pdf"&gt;
-              &lt;span&gt;20261020truwww.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Student Enrolment, K-12, 2026-2027</title>
-      <link>https://www.princeedwardisland.ca/en/publication/student-enrolment-k-12-2026-2027-0</link>
-      <guid isPermaLink="false">81538 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 11:01:57 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Student Enrolment, K-12, 2026-2027 &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;LHrobinson&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T08:01:57-03:00" title="Friday, October 23, 2026 - 08:01"&gt;Fri, 10/23/2026 - 08:01&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Statistical Report&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;This document shows Prince Edward Island public and private school enrolment numbers, by school and grade, for the 2026-2027 school year.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/47f1/Enrolments%20Sept%202026_0.pdf"&gt;
-              &lt;span&gt;Enrolment K-12 Sept 2026&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Ramsay</title>
-      <link>https://www.princeedwardisland.ca/en/employee/ramsay-michael</link>
-      <guid isPermaLink="false">81536 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 02:50:54 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ramsay&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T23:50:54-03:00" title="Thursday, October 22, 2026 - 23:50"&gt;Thu, 10/22/2026 - 23:50&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Property Specialist&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Transportation and Infrastructure&lt;/strong&gt;
-            &lt;div&gt;Properties&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Rakhesh</title>
-      <link>https://www.princeedwardisland.ca/en/employee/rakhesh-shaleena-1</link>
-      <guid isPermaLink="false">81535 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 02:37:09 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Rakhesh&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T23:37:09-03:00" title="Thursday, October 22, 2026 - 23:37"&gt;Thu, 10/22/2026 - 23:37&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Administrative Assistant&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health and Wellness&lt;/strong&gt;
-            &lt;div&gt;Communicable Disease Program&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Peter</title>
-      <link>https://www.princeedwardisland.ca/en/employee/peter-lini</link>
-      <guid isPermaLink="false">81534 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 02:29:04 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Peter&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T23:29:04-03:00" title="Thursday, October 22, 2026 - 23:29"&gt;Thu, 10/22/2026 - 23:29&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;RN&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Long-Term Care&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Chiasson</title>
-      <link>https://www.princeedwardisland.ca/en/employee/chiasson-vanessa-0</link>
-      <guid isPermaLink="false">81533 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 02:22:35 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Chiasson&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T23:22:35-03:00" title="Thursday, October 22, 2026 - 23:22"&gt;Thu, 10/22/2026 - 23:22&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Child in Care Social Worker&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Social Development and Seniors&lt;/strong&gt;
-            &lt;div&gt;Child and Family Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Report of the Acadian and Francophone Community Advisory Committee (AFCAC): Results of 2025-2026 Public Consultations</title>
-      <link>https://www.princeedwardisland.ca/en/information/economic-development-trade-and-artificial-intelligence/report-of-the-acadian-and</link>
-      <guid isPermaLink="false">81532 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 22 Oct 2026 19:47:27 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Report of the Acadian and Francophone Community Advisory Committee (AFCAC): Results of 2025-2026 Public Consultations&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mggardiner&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T16:47:27-03:00" title="Thursday, October 22, 2026 - 16:47"&gt;Thu, 10/22/2026 - 16:47&lt;/time&gt;
+      <title>2026 Municipal General Unofficial Election Results</title>
+      <link>https://www.princeedwardisland.ca/en/information/housing-and-communities/2026-municipal-general-unofficial-election-results</link>
+      <guid isPermaLink="false">81540 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 14:26:29 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;2026 Municipal General Unofficial Election Results&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;ndoyle&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T11:26:29-03:00" title="Friday, October 23, 2026 - 11:26"&gt;Fri, 10/23/2026 - 11:26&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
@@ -953,99 +1033,10 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;This report presents the results of public consultations conducted by the Acadian and Francophone Community Advisory Committee (AFCAC) in 2025 and 2026. Its purpose is to reflect the voice of the Acadian and Francophone community and to guide the improvement of French-language services delivered by the provincial government during the 2027-2030 period.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/5dd6/AFCAC%20Report%20on%20Public%20Consultations%202026.pdf" title="AFCAC Report on Public Consultations 2026.pdf"&gt;Report of the Acadian and Francophone Community Advisory Committee (AFCAC): Results of 2025-2026 Public Consultations&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;h2&gt;Municipalities Holding a Vote on November 2&lt;/h2&gt;&lt;p&gt;The following municipalities will be holding elections for Mayor and/or Councillor positions. Residents are encouraged to contact their municipality (visit the &lt;a href="https://www.princeedwardisland.ca/en/feature/municipal-directory" title="Municipal Directory"&gt;municipal directory&lt;/a&gt; for municipal contact information) for the most up-to-date information on candidates, voting locations, advance voting opportunities, and election day details. Be sure to check with your municipality before voting to confirm where and when you can cast your ballot.&lt;/p&gt;&lt;p&gt;For election information in Charlottetown, Summerside, Cornwall, Stratford, and Three Rivers, please visit the &lt;a href="https://www.electionspei.ca"&gt;Elections PEI website&lt;/a&gt; for candidate information, voting locations, and election updates.&lt;/p&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Municipality&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Positions&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Alberton&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Crapaud&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Eastern Kings&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor &amp;amp; Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kensington&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kingston&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Lot 11 and Area&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Malpeque Bay&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Miltonvale Park&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Miminegash&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Miscouche&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Morell&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor &amp;amp; Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Murray Harbour&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;North Rustico&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;North Shore&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Northport&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;O'Leary&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor &amp;amp; Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Sherbrooke&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Councillors&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tignish&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Victoria&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Mayor &amp;amp; Councillors&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;All Municipal Election Statuses&lt;/h3&gt;&lt;p&gt;The following table highlights each municipality's current status for mayor and councillor positions. Some council positions were acclaimed following the close of nomination, meaning there were just enough candidates for positions.&amp;nbsp;&lt;/p&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Municipality&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Mayor&amp;nbsp;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Councillor(s)&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Abram-Village&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;4 Acclaimed (2 Vacant)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Alberton&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Alexandra&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Annadale-Little Pond-Howe Bay&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Bedeque and Area&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Belfast&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Borden-Carleton&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Brackley&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Breadalbane&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Central Kings&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Central Prince&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Clyde River&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Vacant&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Crapaud&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Eastern Kings&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Greenmount-Montrose&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Hampshire&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Hazelbrook&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Hunter River&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kensington&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kingston&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Kinkora&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Linkletter&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Lot 11 and area&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Malpeque Bay&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Miltonvale Park&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Miminegash&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Miscouche&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Morell&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Mount Stewart&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Murray Harbour&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Murray River&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;North Rustico&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;North Shore&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;North Wiltshire&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Northport&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;O'Leary&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Sherbrooke&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Souris&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Souris West&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;4 Acclaimed (2 Vacancies)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;St. Felix&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;St. Nicholas&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;St. Peter's Bay&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tignish&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tignish Shore&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tyne Valley&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Union Road&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;5 Acclaimed (1 Vacancy)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Victoria&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;td&gt;Election&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Warren Grove&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Wellington&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;West River&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;York&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;td&gt;Acclaimed&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h2&gt;Unofficial Election Results&lt;/h2&gt;&lt;p&gt;The election results posted on this webpage are unofficial and are provided for informational purposes only. The information displayed is based on results submitted by municipalities. While every effort is made to post information accurately and in a timely manner, Municipal Affairs can only publish the information received from municipalities and cannot verify its accuracy or completeness.&lt;/p&gt;&lt;p&gt;For official election results or to confirm any information posted on this website, please contact the municipality directly. Official election results are determined and certified by the municipality.&lt;/p&gt;&lt;h3&gt;Municipalities with a Ward System&lt;/h3&gt;&lt;p&gt;Voting for Mayor: All electors can vote for one candidate for the position of Mayor.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Voting for Councillor: Electors vote for candidates that are&amp;nbsp;nominated in the ward the elector lives in. &amp;nbsp;Councillors are elected for each ward to&amp;nbsp;the maximum number of positions established for the ward in the bylaw.&lt;/p&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Municipality&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Candidate Name&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Position&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Ward&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Bedeque and Area&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;North Shore&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;West River&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;h3&gt;Municipalities with a At Large System&lt;/h3&gt;&lt;p&gt;Voting for Mayor: All electors can vote for one candidate for the position of Mayor.&amp;nbsp;&lt;br /&gt;Voting for Councillors: Electors vote for the candidates of their choice up to the maximum number of positions (but can only vote once for each candidate).&amp;nbsp;&lt;/p&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Municipality&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Candidate Name&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Position&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Status&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Abram-Village&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Alberton&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Alexandra&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Annandale-Little Pond-Howe Bay&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Belfast&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Borden-Carleton&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Brackley&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Breadalbane&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Central Kings&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Central Prince&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Clyde River&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Crapaud&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Eastern Kings&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Greenmount-Montrose&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hampshire&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hazelbrooke&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Hunter River&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Kensington&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Kingston&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Kinkora&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Linkletter&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Lot 11 and Area&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Malpeque Bay&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Miltonvale Park&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Miminegash&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Miscouche&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Morell&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Mount Stewart&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Murray Harbour&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Murray River&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;North Rustico&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;North Wiltshire&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Northport&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;O'Leary&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Sherbrooke&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Souris&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Souris West&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;St. Felix&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;St. Nicholas&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;St. Peter's Bay&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Stratford&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tignish&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tignish Shore&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Tyne Valley&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Union Road&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Victoria&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Warren Grove&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Wellington&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;York&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
       
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Report of the Acadian and Francophone Community Advisory Committee (AFCAC): Results of 2025-2026 Public Consultations</title>
-      <link>https://www.princeedwardisland.ca/en/publication/report-of-the-acadian-and-francophone-community-advisory-committee-afcac-results-of</link>
-      <guid isPermaLink="false">81531 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 22 Oct 2026 19:14:20 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Report of the Acadian and Francophone Community Advisory Committee (AFCAC): Results of 2025-2026 Public Consultations&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mggardiner&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T16:14:20-03:00" title="Thursday, October 22, 2026 - 16:14"&gt;Thu, 10/22/2026 - 16:14&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Report&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/5dd6/AFCAC%20Report%20on%20Public%20Consultations%202026.pdf"&gt;
-              &lt;span&gt;AFCAC Report on Public Consultations 2026.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
   
     
       
