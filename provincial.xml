@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 22 Oct 2026 23:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:50:34 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -272,8 +272,8 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     <item>
       <title>Rainfall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3239506765.2026-1</guid>
-      <pubDate>2026-10-22T18:46:26-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3854417969.2026-1</guid>
+      <pubDate>2026-10-23T01:40:28-00:00</pubDate>
       <description>Very heavy rain is expected. Locations: Guysborough County, Richmond County, Sydney Metro and Cape Breton County. Total rainfall: 50 to 70 mm. Time span: continuing tonight and Friday. Remarks:... | Areas: Guysborough County, Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
