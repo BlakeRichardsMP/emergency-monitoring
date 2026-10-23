@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:01:03 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,10 +208,10 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Wind (Issued)</title>
+      <title>Wind (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0573957762.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0573957762.2026-1</guid>
-      <pubDate>2026-10-22T22:13:52-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3677704565.2026-1</guid>
+      <pubDate>2026-10-23T05:06:07-00:00</pubDate>
       <description>Damaging winds are expected. Strong northwesterly winds gusting up to 90 km/h will develop Friday morning and diminish Friday afternoon. Secure loose objects. | Areas: City of Lloydminster, Co. of Two Hills near Two Hills and Brosseau, Co. of Two Hills near Myrnam and Derwent, Co. of Minburn near Innisfree Lavoy and Ranfurly, Co. of Minburn near Minburn and Mannville, Beaver Co. near Viking and Kinsella, Flagstaff Co. near Killam and Sedgewick, Flagstaff Co. near Lougheed and Hardisty, Flagstaff Co. near Alliance and Bellshill Lake, Co. of Vermilion River near Vermilion, Co. of Vermilion River near Islay and McNabb Sanctuary, Co. of Vermilion River near Dewberry and Clandonald, Co. of Vermilion River near Tulliby Lake, Co. of Vermilion River near Kitscoty and Marwayne, Co. of Vermilion River near Paradise Valley, M.D. of Wainwright near Irma, M.D. of Wainwright near Wainwright, M.D. of Wainwright near Edgerton and Koroluk Landslide, M.D. of Wainwright near Chauvin Dillberry Lake and Roros, M.D. of Provost near Hughenden Amisk and Kessler, M.D. of Provost near Czar Metiskow and Cadogan, M.D. of Provost near Provost and Hayter | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
@@ -294,6 +294,230 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
       <pubDate>2026-10-22T06:52:24-00:00</pubDate>
       <description>Weather | Areas: Queens County, Shelburne County, Yarmouth County | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Ramsay</title>
+      <link>https://www.princeedwardisland.ca/en/employee/ramsay-michael</link>
+      <guid isPermaLink="false">81536 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 02:50:54 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ramsay&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T23:50:54-03:00" title="Thursday, October 22, 2026 - 23:50"&gt;Thu, 10/22/2026 - 23:50&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Property Specialist&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Transportation and Infrastructure&lt;/strong&gt;
+            &lt;div&gt;Properties&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Rakhesh</title>
+      <link>https://www.princeedwardisland.ca/en/employee/rakhesh-shaleena-1</link>
+      <guid isPermaLink="false">81535 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 02:37:09 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Rakhesh&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T23:37:09-03:00" title="Thursday, October 22, 2026 - 23:37"&gt;Thu, 10/22/2026 - 23:37&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Administrative Assistant&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health and Wellness&lt;/strong&gt;
+            &lt;div&gt;Communicable Disease Program&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Peter</title>
+      <link>https://www.princeedwardisland.ca/en/employee/peter-lini</link>
+      <guid isPermaLink="false">81534 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 02:29:04 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Peter&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T23:29:04-03:00" title="Thursday, October 22, 2026 - 23:29"&gt;Thu, 10/22/2026 - 23:29&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;RN&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Long-Term Care&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Chiasson</title>
+      <link>https://www.princeedwardisland.ca/en/employee/chiasson-vanessa-0</link>
+      <guid isPermaLink="false">81533 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 23 Oct 2026 02:22:35 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Chiasson&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-22T23:22:35-03:00" title="Thursday, October 22, 2026 - 23:22"&gt;Thu, 10/22/2026 - 23:22&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Child in Care Social Worker&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Social Development and Seniors&lt;/strong&gt;
+            &lt;div&gt;Child and Family Services&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -719,362 +943,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     
           &lt;div class="layout__region layout__region--second"&gt;
         
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Vaccin AbrysvoMD contre le virus respiratoire syncytial (VRS) : Adultes</title>
-      <link>https://www.princeedwardisland.ca/en/publication/vaccin-abrysvomd-contre-le-virus-respiratoire-syncytial-vrs-adultes</link>
-      <guid isPermaLink="false">81512 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 21 Oct 2026 14:24:41 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Vaccin AbrysvoMD contre le virus respiratoire syncytial (VRS) : Adultes&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-21T11:24:41-03:00" title="Wednesday, October 21, 2026 - 11:24"&gt;Wed, 10/21/2026 - 11:24&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/c3df/2026-2027%20RSV%20Vaccine%20Fact%20Sheet_FRfinal.pdf"&gt;
-              &lt;span&gt;2026-2027 RSV Vaccine Fact Sheet_FRfinal.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Nirsévimab (BeyfortusMC) : Anticorps monoclonal humain contre le virus respiratoire syncytial (VRS)</title>
-      <link>https://www.princeedwardisland.ca/en/publication/nirsevimab-beyfortusmc-anticorps-monoclonal-humain-contre-le-virus-respiratoire</link>
-      <guid isPermaLink="false">81511 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 21 Oct 2026 14:22:12 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Nirsévimab (BeyfortusMC) : Anticorps monoclonal humain contre le virus respiratoire syncytial (VRS) &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-21T11:22:12-03:00" title="Wednesday, October 21, 2026 - 11:22"&gt;Wed, 10/21/2026 - 11:22&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/b5e2/2026-2027%20RSV%20Monoclonal%20Antibody%20Fact%20Sheet_FRfinal.pdf"&gt;
-              &lt;span&gt;2026-2027 RSV Monoclonal Antibody Fact Sheet_FRfinal.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Fiche d’information : Virus respiratoire syncytial (VRS)</title>
-      <link>https://www.princeedwardisland.ca/en/publication/fiche-dinformation-virus-respiratoire-syncytial-vrs</link>
-      <guid isPermaLink="false">81510 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 21 Oct 2026 14:18:00 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fiche d’information : Virus respiratoire syncytial (VRS)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-21T11:18:00-03:00" title="Wednesday, October 21, 2026 - 11:18"&gt;Wed, 10/21/2026 - 11:18&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/d769/2026-2027%20RSV%20Disease%20Fact%20Sheet_FRfinal.pdf"&gt;
-              &lt;span&gt;2026-2027 RSV Disease Fact Sheet_FRfinal.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Vaccin antigrippal vivant atténué (vaccin intranasal trivalent)</title>
-      <link>https://www.princeedwardisland.ca/en/publication/vaccin-antigrippal-vivant-attenue-vaccin-intranasal-trivalent</link>
-      <guid isPermaLink="false">81509 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 21 Oct 2026 14:14:54 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Vaccin antigrippal vivant atténué (vaccin intranasal trivalent)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-21T11:14:54-03:00" title="Wednesday, October 21, 2026 - 11:14"&gt;Wed, 10/21/2026 - 11:14&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/4f12/2026-2027%20Influenza%20LAIV%20Fact%20Sheet_FRfinal.pdf"&gt;
-              &lt;span&gt;2026-2027 Influenza LAIV Fact Sheet_FRfinal.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
