@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 24 Oct 2026 01:59:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:10:31 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -391,33 +391,6 @@ Remarks: Precipitation will move into this area on Saturday as rain or wet snow 
 Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Local utility outages are likely. Property damage is possible. High-sided vehicles will be pushed around by the wind.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WATCH - WINTER STORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6ada73da209bc11f14a3b7a1</guid>
-      <pubDate>2026-10-23T14:47:26.140Z</pubDate>
-      <description>Severe Winter Weather Warning | Yellow Watch - Winter Storm - In Effect | &lt;p&gt;A significant fall storm will impact northeastern Manitoba and the southern Kivalliq beginning Saturday and will persist through the weekend.
-
-Where: Churchill and Arviat
-
-What: Hazardous winter conditions including:
-Snow with total amounts of 10 to 25 cm.
-Severe wind gusts possibly exceeding 110 km/h.
-Significantly reduced visibilities in blowing snow. 
-Rain with total amounts of 20 to 30 mm. 
-
-When: Beginning Saturday and tapering off Sunday afternoon. 
-
-Remarks: Precipitation will move into this area on Saturday as rain or wet snow as wind off the bay will keep temperatures at or above zero. At this time wind speeds will increase with gusts up to 90 km/h. Conditions will transition to snow and blowing snow overnight with wind gusts possibly exceeding 110 km/h with drastically reduced visibilities. Snow and winds will gradually taper off Sunday afternoon.
-
-
-
-Roads and walkways may be difficult to navigate. Visibility may be suddenly reduced to near-zero at times. Road closures are possible. Local utility outages are possible.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
       <source>Manitoba</source>
     </item>
 
