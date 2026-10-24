@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 24 Oct 2026 15:49:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:35:56 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,6 +208,33 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Winter Storm (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2287299496.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2287299496.2026-1</guid>
+      <pubDate>2026-10-24T16:45:04-00:00</pubDate>
+      <description>Wollaston Lake - Collins Bay. Hazardous winter conditions are expected due to: - Snow - Blowing snow - Wind A significant, long duration snowfall event continues with total snowfall accumulations... | Areas: Wollaston Lake - Collins Bay | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Winter Storm (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1029902772.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3294271624.2026-1</guid>
+      <pubDate>2026-10-24T16:45:04-00:00</pubDate>
+      <description>Wollaston Lake - Collins Bay. | Areas: Wollaston Lake - Collins Bay | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Winter Storm (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1029902772.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3294271624.2026-2</guid>
+      <pubDate>2026-10-24T16:45:04-00:00</pubDate>
+      <description>Southend - Brabant Lake - Kinoosao. Hazardous winter conditions are expected due to: - Snow - Blowing snow - Wind A significant, long duration snowfall event continues with total snowfall... | Areas: Southend - Brabant Lake - Kinoosao | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Wind (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0966763604.2026</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.2825271149.2026-1</guid>
@@ -222,15 +249,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.4030143772.2026-1</guid>
       <pubDate>2026-10-24T10:03:54-00:00</pubDate>
       <description>Snowfall, with total amounts of 20 to 40 cm continues. Heavy snow will continue today before gradually tapering off overnight. | Areas: Uranium City - Camsell Portage, Fond-du-Lac, Stony Rapids and Black Lake, Cluff Lake Mine, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Winter Storm (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1029902772.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3848324350.2026-1</guid>
-      <pubDate>2026-10-24T10:03:04-00:00</pubDate>
-      <description>Hazardous winter conditions are expected due to: - Snow - Blowing snow - Wind A significant, long duration snowfall event continues with total snowfall accumulations of 30 to 50 cm expected by... | Areas: Wollaston Lake - Collins Bay, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -259,6 +277,31 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - ORANGE WARNING - WINTER STORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6adce0d89986e3039215058f</guid>
+      <pubDate>2026-10-24T16:46:14.787Z</pubDate>
+      <description>Severe Winter Weather Warning | Orange Warning - Winter Storm - In Effect | &lt;p&gt;Hazardous winter conditions are expected due to:
+- Snow
+- Blowing snow
+- Wind
+
+
+A significant, long duration snowfall event continues with total snowfall accumulations of 40 to 60 cm expected by Sunday morning.
+
+Heavy snow will continue through the day and into tonight before gradually tapering off on Sunday.
+
+In addition to the snowfall, strong northerly winds with gusts up to 70 km/h will continue until Sunday. These winds, combined with falling snow, will result in significantly reduced visibility at times in snow and blowing snow. Winds will gradually ease through the day Sunday.
+
+
+
+Travel will likely be very hazardous. Road closures are possible. Roofs are at an increased risk of collapse under the weight of snow.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Extreme - extraordinary threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
     </item>
 
     <item>
@@ -324,31 +367,6 @@ Remarks: Precipitation will begin in this area today as rain or freezing rain be
 Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Local utility outages are likely. High-sided vehicles will be pushed around by the wind.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6adb3c23175aa8c02686d602</guid>
-      <pubDate>2026-10-24T10:04:50.257Z</pubDate>
-      <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;Hazardous winter conditions are expected due to:
-- Snow
-- Blowing snow
-- Wind
-
-
-A significant, long duration snowfall event continues with total snowfall accumulations of 30 to 50 cm expected by Sunday morning.
-
-Heavy snow will continue through the day and into tonight before gradually tapering off on Sunday.
-
-In addition to the snowfall, strong northerly winds with gusts up to 70 km/h will continue until Sunday. These winds, combined with falling snow, will result in significantly reduced visibility at times in snow and blowing snow. Winds will gradually ease through the day Sunday.
-
-
-
-Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Local utility outages are likely. Property or tree damage is possible.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
       <source>Manitoba</source>
     </item>
 
@@ -969,6 +987,33 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     
   &lt;/div&gt;</description>
       <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Premier McLeod on the Enbridge Line 21 Pipeline</title>
+      <link>https://www.gov.nt.ca/en/newsroom/news/premier-mcleod-enbridge-line-21-pipeline</link>
+      <guid isPermaLink="false">9422 at https://www.gov.nt.ca</guid>
+      <pubDate>Wed, 26 Sep 2018 23:05:28 +0000</pubDate>
+      <description>&lt;div class="field field-name-body field-type-text-with-summary field-label-hidden"&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;p&gt;&lt;strong&gt;YELLOWKNIFE&lt;/strong&gt; - Premier Bob McLeod issued the following statement on the Enbridge Line 21 pipeline today:&lt;/p&gt;
+
+&lt;p&gt;“I was pleased to learn that operations have resumed for Enbridge’s Line 21 pipeline after almost 2 years of no activity.&lt;/p&gt;
+
+&lt;p&gt;"Resource development has, and will continue to be, the backbone of our economy and is central to ensuring a good source of middle class jobs and business opportunities. Our territory has mineral and petroleum resources and the development of those resources can have a transformative effect on our people and economy.&lt;/p&gt;
+
+&lt;p&gt;"Sustainable economic development is key to the future of Northerners. With a strong resource development base, we will be able to support diversification of our local economies into emerging and established sectors.&lt;/p&gt;
+
+&lt;p&gt;"On behalf of the Government of the Northwest Territories I’d like to offer my congratulations to Imperial Oil, Enbridge the town of Norman Wells and other partners for getting this pipeline back up and running. I know the efforts and economic impacts of the pipeline have already begun to take shape in the community and will be felt for years to come. ”&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Charlotte Digness&lt;/strong&gt;&lt;br /&gt;
+	Media and Communications Coordinator&lt;br /&gt;
+	Cabinet Communications and Protocol&lt;br /&gt;
+	Government of the Northwest Territories&lt;br /&gt;
+	Ph: 867-767-9140 ext. 11092&lt;br /&gt;
+	Email: &lt;a href="mailto:charlotte_digness@gov.nt.ca"&gt;charlotte_digness@gov.nt.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-type field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;News Type:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/news-type/media-statement"&gt;Media Statement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-department field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;Department:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/department/premier"&gt;Premier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class="links inline"&gt;&lt;li class="fr first last"&gt;&lt;a class="language-link" href="https://www.gov.nt.ca/fr/newsroom/le-premier-ministre-mcleod-se-r%C3%A9jouit-de-la-r%C3%A9ouverture-de-l%E2%80%99ol%C3%A9oduc-21-d%E2%80%99enbridge" xml:lang="fr"&gt;Français&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <source>Northwest Territories</source>
     </item>
 
   </channel>
