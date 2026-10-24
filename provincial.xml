@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 23 Oct 2026 23:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 01:59:53 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,6 +208,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Winter Storm (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1029902772.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3353050998.2026-1</guid>
+      <pubDate>2026-10-24T01:12:13-00:00</pubDate>
+      <description>Hazardous winter conditions are expected due to: - Snow - Blowing snow - Wind A significant, long duration snowfall event is expected to bring total snowfall accumulations of 30 to 50 cm by Sunday... | Areas: Wollaston Lake - Collins Bay, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Thunderstorm (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.4270718687.2026</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3928336430.2026-1</guid>
@@ -244,15 +253,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Winter Storm (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1029902772.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3404952409.2026-1</guid>
-      <pubDate>2026-10-23T21:05:10-00:00</pubDate>
-      <description>Hazardous winter conditions are expected due to: - Snow - Blowing snow - Wind A significant, long duration snowfall event is expected to bring total snowfall accumulations of 30 to 50 cm by Sunday... | Areas: Wollaston Lake - Collins Bay, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">113E7C44-0E05-4C6C-B62B-C988952ACA8C-1</guid>
@@ -264,8 +264,35 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6adc0c10da2185455a9112a0</guid>
+      <pubDate>2026-10-24T01:41:41.708Z</pubDate>
+      <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;A significant fall storm will impact northeastern Manitoba and the southern Kivalliq beginning saturday and will persist through the weekend.
+
+Where: Churchill and Arviat
+
+What: Hazardous winter conditions including: 
+Snow with total amounts of 10 to 25 cm
+Severe wind gusts possibly exceeding 110 km/h.
+Significantly reduced visibilities in blowing snow.
+Rain with total amounts of 20 to 30 mm.
+
+When: Beginning Saturday morning and tapering off Sunday afternoon.
+
+Remarks: Precipitation will move into this area on Saturday as rain or wet snow as wind off the bay will keep temperatures at or above zero. At this time, wind speeds will increase will gusts up to 100 km/h. Conditions will transition to snow and blowing snow in the evening and overnight with wind gusts possibly exceeding 110 km/h and drastically reduced visibilities. Snow and winds will gradually taper off Sunday afternoon.
+
+
+
+Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Local utility outages are likely. High-sided vehicles will be pushed around by the wind.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6adb3c23175aa8c02686d602</guid>
-      <pubDate>2026-10-23T21:05:55.856Z</pubDate>
+      <pubDate>2026-10-24T01:13:45.607Z</pubDate>
       <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;Hazardous winter conditions are expected due to:
 - Snow
 - Blowing snow
@@ -274,7 +301,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
 A significant, long duration snowfall event is expected to bring total snowfall accumulations of 30 to 50 cm by Sunday morning.
 
-Precipitation will begin as rain this before transitioning to heavy snow later this evening. Heavy snow will continue through tonight and Saturday before gradually tapering off on Sunday.
+Precipitation will begin as rain this evening before transitioning to heavy snow later this evening. Heavy snow will continue through tonight and Saturday before gradually tapering off on Sunday.
 
 In addition to the snowfall, strong northerly winds with gusts up to 70 km/h will develop tonight and persist until Sunday. These winds, combined with falling snow, will result in significantly reduced visibility at times in snow and blowing snow. Winds will gradually ease through the day Sunday.
 
@@ -404,7 +431,7 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
     </item>
 
     <item>
-      <title>Rainfall (Updated)</title>
+      <title>Rainfall (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3460228719.2026-2</guid>
       <pubDate>2026-10-23T18:58:17-00:00</pubDate>
