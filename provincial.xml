@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 24 Oct 2026 18:35:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:12:01 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -280,6 +280,21 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6adca12dd4fa71343000a2a6</guid>
+      <pubDate>2026-10-24T20:52:22.906Z</pubDate>
+      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Strong west winds coming down Riding Mountain may have severe wind gusts up to 100 km/h at times on Saturday morning. Winds will ease in the afternoon.
+
+
+
+High-sided vehicles will be pushed around by the wind. Parks and forests will likely sustain some damage.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future | Valley River, Manitoba</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
       <title>BE ALERT - ORANGE WARNING - WINTER STORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6adce0d89986e3039215058f</guid>
@@ -325,21 +340,6 @@ A low pressure system tracking across Hudson Bay will bring strong wind gusts to
 Local utility outages are possible. Some property damage is possible.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6adca12dd4fa71343000a2a6</guid>
-      <pubDate>2026-10-24T13:43:16.043Z</pubDate>
-      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Strong west winds coming down Riding Mountain may have severe wind gusts up to 100 km/h at times on Saturday morning. Winds will ease in the afternoon.
-
-
-
-High-sided vehicles will be pushed around by the wind. Parks and forests will likely sustain some damage.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future | Valley River, Manitoba</description>
       <source>Manitoba</source>
     </item>
 
