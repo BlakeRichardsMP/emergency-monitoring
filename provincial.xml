@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 25 Oct 2026 16:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:10:27 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -244,102 +244,28 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6adb2de066356bfb8e0f2aea</guid>
-      <pubDate>2026-10-25T10:33:43.992Z</pubDate>
-      <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;A significant fall storm continues to impact northern Manitoba early Sunday morning.
-
-Where: Tadoule Lake
-
-What: Hazardous winter conditions including:
-Heavy snow with total amounts of 20 to 40 cm
-Severe wind gusts up to 90 km/h
-Significantly reduced visibilities in blowing snow
-Freezing rain with total amounts of 5 to 10 mm
-Heavy rain with total amounts of 20 to 30 mm
-
-When: Snow and local blowing snow continue early this morning over northern Manitoba. Visibilities will improve throughout the morning as winds diminish and snowfall tapers off.
-
-
-
-Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Property damage is possible. Property or tree damage is possible.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6add76ae020aee5561dd37e2</guid>
-      <pubDate>2026-10-25T09:34:20.341Z</pubDate>
-      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Damaging winds are expected.
-
-A low pressure system moving through northern Manitoba will bring strong westerly wind gusts up to 100 km/h to communities in northeastern Manitoba beginning Saturday evening.
-
-The wind gusts will weaken from west to east, with winds diminishing in western regions late Saturday evening and diminishing over eastern areas early Sunday morning.
-
-
-
-Local utility outages are possible. Damage to roofs, fences, branches or soft shelters is possible.
-
-Wind warnings are issued when there is a significant risk of damaging winds.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
       <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6adc7bc66e469abe90d56adf</guid>
-      <pubDate>2026-10-25T09:22:19.833Z</pubDate>
-      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Strong wind gusts expected.
+      <pubDate>2026-10-25T17:54:48.310Z</pubDate>
+      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Strong wind gusts continue.
 
 What:
-Strong westerly to northwesterly winds gusting up to 100 km/h.
+Strong westerly to northwesterly winds gusting up to 90 km/h.
 
 When:
-Continuing today and diminishing this afternoon.
+Diminishing later this afternoon.
 
 Additional information:
-A low pressure system tracking across Hudson Bay will bring strong wind gusts to the region. Southwesterly winds will shift to westerly and then to northwesterly. Peak winds are expected this morning near the Manitoba border and later this morning and early afternoon for areas farther east.
- 
-Winds will diminish as the afternoon progresses.
+A low pressure system tracking across Hudson Bay continues to produce strong gusts over the region. 
+
+Winds will diminish from west to east as the afternoon progresses.
 
 
 
 Local utility outages are possible. Some property damage is possible.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6adc0c10da2185455a9112a0</guid>
-      <pubDate>2026-10-25T08:52:31.808Z</pubDate>
-      <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;A significant fall storm continues to impact northern Manitoba and the Kivalliq on Sunday.
-
-Where: Churchill and Arviat
-
-What: Hazardous winter conditions including: 
-Snow with total amounts of 10 to 25 cm
-Severe wind gusts possibly up to 100 km/h
-Significantly reduced visibilities in blowing snow
-Rain with total amounts of 20 to 30 mm
-
-When: Beginning Saturday morning and tapering off Sunday afternoon
-
-Remarks: Snow and blowing snow continue Sunday morning. Very strong winds will occur also, with gusts up to 100 km/h possible, with drastically reduced visibilities in blowing snow. Snow and winds will gradually taper off Sunday afternoon.
-
-
-
-Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Local utility outages are likely. High-sided vehicles will be pushed around by the wind.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
       <source>Manitoba</source>
     </item>
 
