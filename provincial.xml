@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 24 Oct 2026 23:17:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:25:08 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -253,6 +253,59 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6adc0c10da2185455a9112a0</guid>
+      <pubDate>2026-10-24T23:27:55.091Z</pubDate>
+      <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;A significant fall storm will continue to impact northern Manitoba and the Kivalliq through the weekend.
+
+Where: Churchill and Arviat
+
+What: Hazardous winter conditions including: 
+Snow with total amounts of 10 to 25 cm
+Severe wind gusts possibly exceeding 110 km/h.
+Significantly reduced visibilities in blowing snow.
+Rain with total amounts of 20 to 30 mm.
+
+When: Beginning Saturday morning and tapering off Sunday afternoon.
+
+Remarks: Precipitation will begin in this area today as rain or freezing rain before transitioning to snow and blowing snow this evening and overnight. Very strong winds will occur also, with gusts up to a possibly 100 to 110 km/h, with drastically reduced visibilities in blowing snow. Snow and winds will gradually taper off Sunday afternoon.
+
+
+
+Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Local utility outages are likely. High-sided vehicles will be pushed around by the wind.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6adb2de066356bfb8e0f2aea</guid>
+      <pubDate>2026-10-24T23:25:40.900Z</pubDate>
+      <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;A significant fall storm will continue to impact northern Manitoba through the weekend.
+
+Where: Areas of northern Manitoba, including, Pukatawagan, Lynn Lake, Brochet, and Tadoule Lake.
+
+What: Hazardous winter conditions including:
+Heavy snow with total amounts of 20 to 40 cm.
+Severe wind gusts exceeding 90 km/h.
+Significantly reduced visibilities in blowing snow.
+Freezing rain with total amounts of 5 to 10 mm.
+Heavy rain with total amounts of 20 to 30 mm. 
+
+When: Rain and freezing rain developed overnight over northern Manitoba. This will transition to snow throughout the day before tapering off Sunday afternoon. Winds will strengthen throughout the day with gusts up to 90 km/h in areas closer to the Nunavut border and will taper off Sunday afternoon and evening. Visibilities will be drastically reduced in blowing snow this afternoon and evening when falling snow and strong winds combine.
+
+
+
+Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Property damage is possible. Property or tree damage is possible.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
       <title>BE ALERT - ORANGE WARNING - WINTER STORM - IN EFFECT</title>
       <link>https://mbready.manitoba.ca/</link>
       <guid isPermaLink="false">6adce0d89986e3039215058f</guid>
@@ -322,92 +375,6 @@ Local utility outages are possible. Some property damage is possible.
 
 Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to ONstorm@ec.gc.ca or post reports on social media using ONStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
       <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - WIND - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6adca12dd4fa71343000a2a6</guid>
-      <pubDate>2026-10-24T20:52:22.906Z</pubDate>
-      <description>Windstorm Warning | Yellow Warning - Wind - In Effect | &lt;p&gt;Strong west winds coming down Riding Mountain may have severe wind gusts up to 100 km/h at times on Saturday morning. Winds will ease in the afternoon.
-
-
-
-High-sided vehicles will be pushed around by the wind. Parks and forests will likely sustain some damage.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future | Valley River, Manitoba</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6adc0c10da2185455a9112a0</guid>
-      <pubDate>2026-10-24T10:27:14.527Z</pubDate>
-      <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;A significant fall storm will continue to impact northern Manitoba and the Kivalliq today and will persist through the weekend.
-
-Where: Churchill and Arviat
-
-What: Hazardous winter conditions including: 
-Snow with total amounts of 10 to 25 cm
-Severe wind gusts possibly exceeding 110 km/h.
-Significantly reduced visibilities in blowing snow.
-Rain with total amounts of 20 to 30 mm.
-
-When: Beginning Saturday morning and tapering off Sunday afternoon.
-
-Remarks: Precipitation will begin in this area today as rain or freezing rain before transitioning to snow and blowing snow this evening and overnight. Very strong winds will occur also, with gusts up to a possibly 100 to 110 km/h, with drastically reduced visibilities in blowing snow. Snow and winds will gradually taper off Sunday afternoon.
-
-
-
-Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Local utility outages are likely. High-sided vehicles will be pushed around by the wind.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>BE ALERT - YELLOW WARNING - WINTER STORM - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6adb2de066356bfb8e0f2aea</guid>
-      <pubDate>2026-10-24T09:44:01.897Z</pubDate>
-      <description>Severe Winter Weather Warning | Yellow Warning - Winter Storm - In Effect | &lt;p&gt;A significant fall storm will continue to impact northern Manitoba today and will persist through the weekend.
-
-Where: Areas of northern Manitoba, including, Pukatawagan, Lynn Lake, Brochet, and Tadoule Lake.
-
-What: Hazardous winter conditions including:
-Heavy snow with total amounts of 20 to 40 cm.
-Severe wind gusts exceeding 90 km/h.
-Significantly reduced visibilities in blowing snow.
-Freezing rain with total amounts of 5 to 10 mm.
-Heavy rain with total amounts of 20 to 30 mm. 
-
-When: Rain and freezing rain developed overnight over northern Manitoba. This will transition to snow throughout the day before tapering off Sunday afternoon. Winds will strengthen throughout the day with gusts up to 90 km/h in areas closer to the Nunavut border and will taper off Sunday afternoon and evening. Visibilities will be drastically reduced in blowing snow this afternoon and evening when falling snow and strong winds combine.
-
-
-
-Travel will likely be hazardous. Visibility will likely be suddenly reduced to near-zero at times. Property damage is possible. Property or tree damage is possible.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Expected - act within an hour</description>
-      <source>Manitoba</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3460228719.2026-1</guid>
-      <pubDate>2026-10-23T18:58:17-00:00</pubDate>
-      <description>Guysborough County. | Areas: Guysborough County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3460228719.2026-2</guid>
-      <pubDate>2026-10-23T18:58:17-00:00</pubDate>
-      <description>Very heavy rain is expected. Locations: Richmond County, Sydney Metro and Cape Breton County. Additional rainfall: up to 10 mm possibly mixing in with wet snow at times. Time span: ending this... | Areas: Richmond County, Sydney Metro and Cape Breton County | Level: advisory</description>
-      <source>Nova Scotia</source>
     </item>
 
     <item>
