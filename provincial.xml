@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 26 Oct 2026 03:26:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:16:16 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -222,15 +222,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3984911801.2026-1</guid>
       <pubDate>2026-10-25T10:21:56-00:00</pubDate>
       <description>Wollaston Lake - Collins Bay. Winter storm conditions are no longer expected. | Areas: Wollaston Lake - Collins Bay | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Snowfall (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3882013809.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3181689567.2026-1</guid>
-      <pubDate>2026-10-25T06:03:57-00:00</pubDate>
-      <description>Cree Lake - Key Lake. Significant snowfall is no longer expected. | Areas: Cree Lake - Key Lake | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
