@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:14:54 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,30 +208,391 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Winter Storm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1029902772.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1004244926.2026-1</guid>
-      <pubDate>2026-10-25T10:22:04-00:00</pubDate>
-      <description>Southend - Brabant Lake - Kinoosao. Winter storm conditions are no longer expected. | Areas: Southend - Brabant Lake - Kinoosao | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Winter Storm (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2287299496.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3984911801.2026-1</guid>
-      <pubDate>2026-10-25T10:21:56-00:00</pubDate>
-      <description>Wollaston Lake - Collins Bay. Winter storm conditions are no longer expected. | Areas: Wollaston Lake - Collins Bay | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
       <title>Drinking Water (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">113E7C44-0E05-4C6C-B62B-C988952ACA8C-1</guid>
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Province proclaims Media Literacy Week</title>
+      <link>https://www.princeedwardisland.ca/en/news/province-proclaims-media-literacy-week</link>
+      <guid isPermaLink="false">81563 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 26 Oct 2026 15:17:31 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province proclaims Media Literacy Week&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-26T12:17:31-03:00" title="Monday, October 26, 2026 - 12:17"&gt;Mon, 10/26/2026 - 12:17&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="children at a computer" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/6d12/Media%20Literacy%20Week%202026.jpg.webp?itok=yUVOurVL" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;During Media Literacy Week, Island students, parents, and educators are encouraged to take part in activities and practices that strengthen digital skills and promote safe, responsible online behaviour.&lt;/p&gt;&lt;p&gt;Taking place October 26-30, &lt;a href="https://mediasmarts.ca/media-literacy-week"&gt;Media Literacy Week&lt;/a&gt;, is a bilingual national initiative that has raised awareness about the importance of digital media literacy in classrooms, libraries, and communities across Canada for the past 21 years.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"As the digital world continues to evolve, it's becoming increasingly important for children and youth to learn how to navigate AI and their online world in a safe and responsible way. Teaching media literacy can be as simple as encouraging healthy screen habits and helping students think critically about what they see and experience online."&lt;/p&gt;&lt;p&gt;- Minister of Education and Early Years Robin Croucher&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The province has taken steps to help young people develop smart screen use behaviours. In fall 2025, &lt;a href="https://www.princeedwardisland.ca/sites/default/files/94e1/2025.29.25%20FINAL%20Screentime%20Guidelines.pdf"&gt;Healthy Screen Time Guidelines&lt;/a&gt; were introduced in Island schools to help staff make informed decisions about when and how to use technology to support student learning. The guidelines promote student health and well-being through a balanced approach that includes physical activity, social interaction, and hands-on learning.&lt;/p&gt;&lt;p&gt;In June 2026, the province released the &lt;a href="https://www.princeedwardisland.ca/en/information/justice-and-public-safety/provincial-youth-cyberviolence-prevention-strategy"&gt;Provincial Youth Cyberviolence Prevention Strategy&lt;/a&gt;, a cross-government plan to help prevent and protect young people from cyberbullying and other online harm. The provincial government helps put the strategy into action through curriculum, classroom resources, professional learning, and school-based programs.&lt;/p&gt;&lt;p&gt;To learn more or find Media Literacy Week activities and resources, visit &lt;a href="https://mediasmarts.ca/media-literacy-week"&gt;MediaSmarts&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Andrew Sprague&lt;br /&gt;Department of Education and Early Years&lt;br /&gt;&lt;a href="mailto:asgsprague@gov.pe.ca"&gt;asgsprague@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Department of Land and Environment Public Consultations</title>
+      <link>https://www.princeedwardisland.ca/en/information/land-and-environment/department-of-land-and-environment-public-consultations</link>
+      <guid isPermaLink="false">81562 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 26 Oct 2026 14:58:11 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Department of Land and Environment Public Consultations&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-26T11:58:11-03:00" title="Monday, October 26, 2026 - 11:58"&gt;Mon, 10/26/2026 - 11:58&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;article class="align-right media media--type-image media--view-mode-default"&gt;
+  
+        &lt;img alt="Engage PEI logo" class="image-style-large" height="151" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/86c7/EngagePEI_EN.jpg?itok=hWzhYzYA" width="480" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;p&gt;Public engagement gives Islanders an opportunity to contribute to decisions that affect Prince Edward Island. By sharing your perspectives, ideas, and experiences, you help government better understand community needs and improve the way policies, programs, and services are developed and delivered.&lt;/p&gt;&lt;p&gt;The PEI Department of Land and Environment is inviting residents to share their opinion on changes to provincial laws in PEI. Current consultations are posted below.&amp;nbsp;&lt;/p&gt;&lt;h2&gt;Consultation Report&lt;/h2&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;h2&gt;Draft Legislation&lt;/h2&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Registration Change for Diagnostic Imaging Patients at QEH</title>
+      <link>https://www.princeedwardisland.ca/en/news/registration-change-for-diagnostic-imaging-patients-at-qeh</link>
+      <guid isPermaLink="false">81560 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 26 Oct 2026 12:53:09 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Registration Change for Diagnostic Imaging Patients at QEH&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-26T09:53:09-03:00" title="Monday, October 26, 2026 - 09:53"&gt;Mon, 10/26/2026 - 09:53&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Patients attending Diagnostic Imaging appointments at Queen Elizabeth Hospital (QEH) are advised of a change to the registration process.&lt;/p&gt;&lt;p&gt;Patients will need to register at Central Admitting, located near the hospital’s main entrance, before proceeding to Diagnostic Imaging. Please arrive approximately 30 minutes before your scheduled appointment to allow time for parking and registration.&lt;/p&gt;&lt;p&gt;Hospital staff and volunteers are available to help direct patients who are unsure where to go.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media Contact:&lt;/strong&gt;&amp;nbsp;&lt;br /&gt;Dave Atkinson&amp;nbsp;&lt;br /&gt;Senior Communications Officer, Health PEI&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:datkinson@ihis.org"&gt;datkinson@ihis.org&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Employer Advisor October 2026 Newsletter</title>
+      <link>https://www.princeedwardisland.ca/en/publication/employer-advisor-october-2026-newsletter</link>
+      <guid isPermaLink="false">81559 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 26 Oct 2026 12:24:27 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Employer Advisor October 2026 Newsletter&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;nataleesmith&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-26T09:24:27-03:00" title="Monday, October 26, 2026 - 09:24"&gt;Mon, 10/26/2026 - 09:24&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Newsletter&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/51c6/Employer%20Advisor%20October%202026%20Newsletter.pdf"&gt;
+              &lt;span&gt;Employer Advisor October 2026 Newsletter.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Honouring Mi’kmaq roots through support, healing, and connection</title>
+      <link>https://www.princeedwardisland.ca/en/news/honouring-mikmaq-roots-through-support-healing-and-connection</link>
+      <guid isPermaLink="false">81558 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 26 Oct 2026 12:16:05 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Honouring Mi’kmaq roots through support, healing, and connection&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-26T09:16:05-03:00" title="Monday, October 26, 2026 - 09:16"&gt;Mon, 10/26/2026 - 09:16&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="womens history month" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/abc5/Womens%20History%201.jpg.webp?itok=zyphopCO" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Women have long played an important role in supporting one another, strengthening their communities and creating opportunities for others. For Patsy Gavin, that legacy of women supporting women has shaped more than 40 years of advocacy and volunteer work with the Mi’kmaq community.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Patsy is president of the Aboriginal Women’s Association of PEI and volunteers with the Sukwisim Healing Lodge and the Mi’kmaq Family Resource Centre. Across these organizations, she works to ensure Indigenous women and children have access to support, opportunities to learn, and connections to their culture and community.&amp;nbsp;&lt;/p&gt;&lt;p&gt;As a day school survivor, Patsy’s own experiences have shaped her healing journey and the work she does today. Her connection to the Aboriginal Women’s Association began when she was young. Over the years, the organization became a place where she could learn about Mi’kmaq culture, develop new skills, and find support. Today, she helps create those same opportunities for other women.&amp;nbsp;&lt;/p&gt;&lt;article class="align-left media media--type-image media--view-mode-default"&gt;
+  
+        &lt;img alt="two women in front of sign" class="image-style-large" height="360" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/bbee/Womens%20History%202.jpg?itok=7ueaDjGX" width="480" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;p&gt;“I don’t do this work for myself. I do it for the children, the next generation and the generation after that,” she says.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Through education, advocacy, and traditional skills such as beadwork and moccasin making, the Aboriginal Women’s Association helps women build confidence, share knowledge, and strengthen their cultural connections. At the Sukwisim Healing Lodge, Patsy supports a Circle of Care approach that recognizes healing takes time and that support is often needed beyond formal treatment.&lt;/p&gt;&lt;p&gt;Patsy credits her mother, Marilyn Sark, and the other women who led before her with teaching her the importance of leadership, perseverance, and community. Their influence continues to guide her as she works with other women to create spaces where people feel heard, supported, and connected.&lt;/p&gt;&lt;p&gt;For Patsy, that work is also about recognizing the strength and resilience of the Mi’kmaq community.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“We’re still here.” she says&lt;/p&gt;&lt;p&gt;Patsy describes herself as deeply maternal. Although she was unable to have children of her own, she has devoted much of her life to supporting women and children and building a better future for the generations to come.&amp;nbsp;&lt;/p&gt;&lt;p&gt;That commitment is reflected in her message to those who will carry this work forward. She says, “Remember that you’re only a small part of history, but your choices can affect future generations.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;Through October, the Government of Prince Edward Island is celebrating Women’s History Month by highlighting women whose leadership, advocacy, and commitment to community are creating opportunities and helping shape a stronger future for generations of Island women.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -502,303 +863,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       
             &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-02-15T13:00:00Z"&gt;February 15, 2027 9:00 am&lt;/time&gt;
  to &lt;time class="datetime" datetime="2027-02-16T20:00:00Z"&gt;February 16, 2027 4:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Province celebrates and invests in community organizations</title>
-      <link>https://www.princeedwardisland.ca/en/news/province-celebrates-and-invests-in-community-organizations</link>
-      <guid isPermaLink="false">81551 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 17:59:55 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province celebrates and invests in community organizations&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T14:59:55-03:00" title="Friday, October 23, 2026 - 14:59"&gt;Fri, 10/23/2026 - 14:59&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="people standing in front of a fire truck" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/5da6/Announcement%20Photo.jpg.webp?itok=sGA5wa1C" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Today, Minister for Fisheries, Rural Development and Tourism Ernie Hudson wrapped up a week of community celebrations in which he recognized community organizations, commended volunteers, and highlighted investments made through the Rural Growth Initiative (RGI).&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Strong communities are built by people who step up, volunteer, and work together to make life better for their neighbours. Through the Rural Growth Initiative, we are helping local organizations strengthen the places where Islanders gather, learn, stay active, and support one another. These investments are making a real difference in communities across Prince Edward Island, helping them remain vibrant, resilient, and strong for generations to come."&amp;nbsp;&lt;/p&gt;&lt;p&gt;- Premier Rob Lantz.&amp;nbsp;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;This fiscal year, $6.8 million has been invested in 85 projects around the province, including BGC Montague, supporting the creation of a youth centre that will provide youth programming, leadership development, recreation, and food security supports; the facility upgrades to the West Prince Curling Club, enabling them to host national and regional championships which attract visitors and generate economic activity; and the New Glasgow Rural Community Fire Company Purchasing new bunker gear and portable radios to improve firefighter safety and emergency response capacity.&lt;/p&gt;&lt;p&gt;"The strength of rural Prince Edward Island has always come from the people. Through the Rural Growth Initiative, we are supporting local organizations that provide gathering spaces, recreational opportunities, tourism experiences, emergency services, and community programs that improve the quality of life for those rural Islanders," said Minister of Fisheries, Rural Development and Tourism Ernie Hudson. "These projects reflect the dedication of volunteers and community leaders who continue to invest their time and energy into creating vibrant, inclusive and resilient communities."&lt;/p&gt;&lt;p&gt;RGI supports municipalities and non-profit organizations in delivering community infrastructure and capacity-building projects, including upgrades to community spaces, fire halls, and initiatives that strengthen local services and amenities across rural Prince Edward Island.&amp;nbsp;Since 2019, the Government of Prince Edward Island has invested more than $45.6 million on 878 projects across the three counties through RGI.&lt;/p&gt;&lt;p&gt;More information about the Rural Growth Initiative can be found on the&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/fisheries-rural-development-and-tourism/rural-growth-initiative"&gt;provincial website&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Backgrounder&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Partial list of RGI funded projects for fiscal year 2026-2027&lt;/strong&gt;:&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;New Glasgow Rural Community Fire Company:&amp;nbsp;&lt;/strong&gt;New bunker gear and portable radios to strengthen firefighter safety and emergency response capacity.&lt;br /&gt;Rural Growth Initiative (RGI): $75,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;North Rustico Lions Club:&amp;nbsp;&lt;/strong&gt;Building expansion and facility improvements to increase capacity for community programming and emergency reception services.&lt;br /&gt;RGI: $225,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rustico Bay Seniors Club:&amp;nbsp;&lt;/strong&gt;Accessible kitchen and outdoor space improvements to enhance programming and social opportunities for seniors and residents.&lt;br /&gt;RGI: $67,743&lt;/p&gt;&lt;p&gt;&lt;strong&gt;New London Community Complex:&lt;/strong&gt; Facility improvements including heat pumps, flooring, kitchen equipment, signage, security systems, and exterior drainage upgrades.&lt;br /&gt;RGI: $79,940&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hunter River Lions Club:&amp;nbsp;&lt;/strong&gt;Facility expansion with a larger commercial kitchen, accessible washroom, and barrier-free entrance.&lt;br /&gt;RGI: $225,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;East Prince Quad Trax ATV Club Inc.:&lt;/strong&gt; Trail, bridge, drainage, and signage improvements to enhance safety and recreational access across the trail network.&lt;br /&gt;RGI: $71,883&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Stanley Bridge Memorial Society Inc.:&lt;/strong&gt; Restoration of a deteriorating heritage building window to preserve a valued community and cultural asset.&lt;br /&gt;RGI: $863&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Kensington Area Snowmobile Association:&lt;/strong&gt; Trail maintenance and signage upgrades to improve safety and the snowmobiling experience.&lt;br /&gt;RGI: $36,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;International Children's Memorial Place:&lt;/strong&gt; New steps, decks, ramps, and commemorative signage to improve accessibility and support community healing, education, and remembrance programs.&lt;br /&gt;RGI: $12,450&lt;/p&gt;&lt;p&gt;&lt;strong&gt;PEI Firefighters Association:&amp;nbsp;&lt;/strong&gt;Fire simulator replacement&amp;nbsp;&lt;/p&gt;&lt;p&gt;RGI: $1.3 million over 2 years&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;West Prince Curling Club:&amp;nbsp;&lt;/strong&gt;Upgrading spectator and gathering areas to improve safety and prepare the facility to host national&amp;nbsp;and regional curling championships.&lt;/p&gt;&lt;p&gt;RGI funding: $28,013&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tignish ATV Sportsmen Riders Inc:&amp;nbsp;&lt;/strong&gt;Enhancing and expanding year-round ATV trail infrastructure to strengthen connections within PEI's province-wide trail network&lt;/p&gt;&lt;p&gt;RGI funding: $75,000 &amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tyne Valley Rural Fire Company:&amp;nbsp;&lt;/strong&gt;Purchasing a new Hurst Jaws of Life rescue system to improve emergency response and vehicle extrication capabilities.&lt;/p&gt;&lt;p&gt;RGI funding: $30,606&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Royal Canadian Legion Branch # 6 – Tignish:&amp;nbsp;&lt;/strong&gt;Renovating and expanding kitchen facilities and upgrading the exterior to increase capacity for community events and programming.&amp;nbsp;&lt;/p&gt;&lt;p&gt;RGI funding: $187,500&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;PEI Shellfish Association:&amp;nbsp;&lt;/strong&gt;Upgrading the Shellfish Museum with new equipment and amenities to enhance the visitor experience.&lt;/p&gt;&lt;p&gt;RGI funding: $2,625&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;West Country Historical Society – Bideford Parsonage Museum:&amp;nbsp;&lt;/strong&gt;Completing restoration work to preserve the historic museum building and protect it from further deterioration&lt;/p&gt;&lt;p&gt;RGI funding: $29,563&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Elmsdale Community Centre Inc:&amp;nbsp;&lt;/strong&gt;Replacing windows and adding storage and equipment upgrades to improve functionality and support increased community use&lt;/p&gt;&lt;p&gt;RGI funding: $16,935&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rural Municipality of Miminegash – Fire Department:&amp;nbsp;&lt;/strong&gt;Acquiring a new rescue tool and replacing aging firefighter protective equipment to strengthen emergency response capacity.&lt;/p&gt;&lt;p&gt;RGI funding: $23,837&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;O’Leary Community Sports Centre:&amp;nbsp;&lt;/strong&gt;Upgrading dressing room shower facilities and arena maintenance equipment to improve operations and user experience.&lt;/p&gt;&lt;p&gt;RGI funding: $28,050&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The West Point Development Corporation:&amp;nbsp;&lt;/strong&gt;Enhancing tourism infrastructure and visitor experiences through facility upgrades, interactive exhibits, and digital improvements at the Lighthouse Inn, Museum, and Harbourside Centre&lt;/p&gt;&lt;p&gt;RGI funding: $91,500&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Souris Show Hall Foundation Ltd.:&amp;nbsp;&lt;/strong&gt;Upgrading the Souris Show Hall with a new roof, seating, signage, murals, exterior improvements and sound booth upgrades to support year-round cultural programming.&lt;/p&gt;&lt;p&gt;RGI: $90,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Central Kings Rural Fire Company:&amp;nbsp;&lt;/strong&gt;Replacing firefighter protective equipment and renovating the community hall that serves as an event space and reception centre.&lt;/p&gt;&lt;p&gt;RGI: $75,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;St. Teresa and Area Development Corporation:&amp;nbsp;&lt;/strong&gt;Expanding and modernizing the community centre through accessibility, energy-efficiency, and facility upgrades.&lt;/p&gt;&lt;p&gt;RGI: $249,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;St. Peter’s and Area Development Corporation:&amp;nbsp;&lt;/strong&gt;Improving the energy efficiency and sustainability of St. Peters Landing through heat pumps, windows, doors and electrical upgrades.&lt;/p&gt;&lt;p&gt;RGI: $83,095&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Rural Municipality of St. Peter’s:&amp;nbsp;&lt;/strong&gt;Upgrading the Dr. Roddie Community Centre and enhancing fire department communications and equipment.&lt;/p&gt;&lt;p&gt;RGI: $51,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;BGC Montague:&amp;nbsp;&lt;/strong&gt;Establishing a youth centre in Montague that provides safe after-school programming, leadership development, recreation and food supports.&lt;/p&gt;&lt;p&gt;RGI: $158,962&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Eastern Kings ATV Club:&amp;nbsp;&lt;/strong&gt;Enhancing and expanding trail infrastructure between Murray River and Montague to improve connectivity, safety and tourism opportunities.&lt;/p&gt;&lt;p&gt;RGI: $31,000&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Janice Fogarty&lt;br /&gt;Department of Fisheries, Rural Development and Tourism&lt;br /&gt;&lt;a href="mailto:jefogarty@gov.pe.ca"&gt;jefogarty@gov.pe.ca&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Pesticide Applicator Continuing Education Course - DAY B - Summerside</title>
-      <link>https://www.princeedwardisland.ca/en/event/pesticide-applicator-continuing-education-course-day-b-summerside</link>
-      <guid isPermaLink="false">81550 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 17:53:53 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pesticide Applicator Continuing Education Course - DAY B - Summerside&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T14:53:53-03:00" title="Friday, October 23, 2026 - 14:53"&gt;Fri, 10/23/2026 - 14:53&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/agriculture/pesticide-applicator-continuing-education-course-cec" title="Pesticide Applicator Continuing Education Course  (CEC)"&gt;&lt;strong&gt;Pesticide Applicator Continuing Education Courses&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Continuing Education Courses will enable a holder of a Pesticide Class A Applicator Certificate to &lt;strong&gt;renew&lt;/strong&gt; their certification without writing the Class A exam.&lt;/li&gt;&lt;li&gt;Certification is required every 5 years.&lt;/li&gt;&lt;li&gt;These courses are for RENEWING the Class A Certificate only.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;DAY&amp;nbsp;B - Topics:&lt;br /&gt;Emergency Response, Pesticide Monitoring and Enforcement, Professionalism and Traceability, First Aid, Calibration and Calculations, Pesticide Label Training, Pesticide Safety, and Integrated Pest Management..&lt;/p&gt;&lt;p&gt;More Details to come&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-01-16T12:45:00Z"&gt;January 16, 2027 8:45 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2027-01-16T20:00:00Z"&gt;January 16, 2027 4:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Pesticide Applicator Continuing Education Course - DAY B - Montague</title>
-      <link>https://www.princeedwardisland.ca/en/event/pesticide-applicator-continuing-education-course-day-b-montague</link>
-      <guid isPermaLink="false">81549 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 17:51:44 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pesticide Applicator Continuing Education Course - DAY B - Montague&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T14:51:44-03:00" title="Friday, October 23, 2026 - 14:51"&gt;Fri, 10/23/2026 - 14:51&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/agriculture/pesticide-applicator-continuing-education-course-cec" title="Pesticide Applicator Continuing Education Course  (CEC)"&gt;&lt;strong&gt;Pesticide Applicator Continuing Education Courses&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Continuing Education Courses will enable a holder of a Pesticide Class A Applicator Certificate to &lt;strong&gt;renew&lt;/strong&gt; their certification without writing the Class A exam.&lt;/li&gt;&lt;li&gt;Certification is required every 5 years.&lt;/li&gt;&lt;li&gt;These courses are for RENEWING the Class A Certificate only.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;DAY&amp;nbsp;B - Topics:&lt;br /&gt;Emergency Response, Pesticide Monitoring and Enforcement, Professionalism and Traceability, First Aid, Calibration and Calculations, Pesticide Label Training, Pesticide Safety, and Integrated Pest Management..&lt;/p&gt;&lt;p&gt;More Details to come&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-01-28T12:45:00Z"&gt;January 28, 2027 8:45 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2027-01-28T20:00:00Z"&gt;January 28, 2027 4:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Pesticide Applicator Continuing Education Course - DAY A - Summerside</title>
-      <link>https://www.princeedwardisland.ca/en/event/pesticide-applicator-continuing-education-course-day-a-summerside</link>
-      <guid isPermaLink="false">81548 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 17:49:15 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pesticide Applicator Continuing Education Course - DAY A - Summerside&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T14:49:15-03:00" title="Friday, October 23, 2026 - 14:49"&gt;Fri, 10/23/2026 - 14:49&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/agriculture/pesticide-applicator-continuing-education-course-cec" title="Pesticide Applicator Continuing Education Course  (CEC)"&gt;&lt;strong&gt;Pesticide Applicator Continuing Education Courses&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Continuing Education Courses will enable a holder of a Pesticide Class A Applicator Certificate to &lt;strong&gt;renew&lt;/strong&gt; their certification without writing the Class A exam.&lt;/li&gt;&lt;li&gt;Certification is required every 5 years.&lt;/li&gt;&lt;li&gt;These courses are for RENEWING the Class A Certificate only.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;DAY A -&amp;nbsp;Topics:&lt;br /&gt;Environmental Fate of Pesticides, Aquatic Impact of Pesticides, General Information, Application Equipment Selection, Pest Identification, Human Health and Safety, and Climate Change.&lt;/p&gt;&lt;p&gt;More Details to come&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-01-12T12:45:00Z"&gt;January 12, 2027 8:45 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2027-01-12T20:00:00Z"&gt;January 12, 2027 4:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Pesticide Applicator Continuing Education Course - DAY A - Montague</title>
-      <link>https://www.princeedwardisland.ca/en/event/pesticide-applicator-continuing-education-course-day-a-montague</link>
-      <guid isPermaLink="false">81547 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 23 Oct 2026 17:46:18 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pesticide Applicator Continuing Education Course - DAY A - Montague&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-23T14:46:18-03:00" title="Friday, October 23, 2026 - 14:46"&gt;Fri, 10/23/2026 - 14:46&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/agriculture/pesticide-applicator-continuing-education-course-cec" title="Pesticide Applicator Continuing Education Course  (CEC)"&gt;&lt;strong&gt;Pesticide Applicator Continuing Education Courses&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The Continuing Education Courses will enable a holder of a Pesticide Class A Applicator Certificate to &lt;strong&gt;renew&lt;/strong&gt; their certification without writing the Class A exam.&lt;/li&gt;&lt;li&gt;Certification is required every 5 years.&lt;/li&gt;&lt;li&gt;These courses are for RENEWING the Class A Certificate only.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;DAY A -&amp;nbsp;Topics:&lt;br /&gt;Environmental Fate of Pesticides, Aquatic Impact of Pesticides, General Information, Application Equipment Selection, Pest Identification, Human Health and Safety, and Climate Change.&lt;/p&gt;&lt;p&gt;More Details to come&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-01-26T12:45:00Z"&gt;January 26, 2027 8:45 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2027-01-26T20:00:00Z"&gt;January 26, 2027 4:00 pm&lt;/time&gt;
 &lt;/div&gt;
       
   &lt;/div&gt;
