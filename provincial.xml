@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 27 Oct 2026 16:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 20:43:46 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,218 +217,34 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>An Act to Amend the Prince Edward Island Lands Protection Act (N0. 2)</title>
-      <link>https://www.princeedwardisland.ca/en/publication/an-act-to-amend-the-prince-edward-island-lands-protection-act-n0-2</link>
-      <guid isPermaLink="false">81575 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 27 Oct 2026 14:36:31 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;An Act to Amend the Prince Edward Island Lands Protection Act (N0. 2)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-27T11:36:31-03:00" title="Tuesday, October 27, 2026 - 11:36"&gt;Tue, 10/27/2026 - 11:36&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Planning Document&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/9e37/LandsProtectionActPUBLICCONSULTATION.pdf"&gt;
-              &lt;span&gt;LandsProtectionActPUBLICCONSULTATION.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
+      <title>Drinking Water (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">4F774EE7-78FE-4ACC-BFB5-C8D571FBE2FA-1</guid>
+      <pubDate>2026-10-27T16:08:33-03:00</pubDate>
+      <description>Community of Inverness. The Municipality of Inverness County has issued a boil water advisory for all Inverness water system users following multiple water main breaks earlier today, Oct. 27, 2026... | Areas: Community of Inverness. | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Applications open for 2027 Correctional Officer Training Program</title>
-      <link>https://www.princeedwardisland.ca/en/news/applications-open-for-2027-correctional-officer-training-program</link>
-      <guid isPermaLink="false">81573 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 27 Oct 2026 13:19:07 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Applications open for 2027 Correctional Officer Training Program&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-27T10:19:07-03:00" title="Tuesday, October 27, 2026 - 10:19"&gt;Tue, 10/27/2026 - 10:19&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The provincial government, in partnership with the Atlantic Police Academy is continuing to help Island residents pursue a career in correctional services at a reduced cost.&lt;/p&gt;&lt;p&gt;The Correctional Officer Training Program helps prepare students for a career in corrections and ensures there are enough qualified officers to staff correctional facilities.&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“The Correctional Officer Training Program sets students up for success in a career in public safety. Graduates are eligible for an interview to be a casual correctional officer in PEI, and they can apply for permanent positions after one year. This helps make sure our corrections system is well-staffed with qualified people.”&lt;/p&gt;&lt;p&gt;- Minister of Justice and Public Safety Bloyce Thompson&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The next cohort will begin on January 4, 2027. This six-month program consists of 17 weeks of coursework followed by a seven-week on-the-job training placement at correctional centres across the Island. Graduates of the program will receive a correctional officer diploma from the Atlantic Police Academy.&lt;/p&gt;&lt;p&gt;Individuals accepted into the program may be eligible for a range of supports, including a substantial tuition reduction. Participants may also receive assistance from Skills PEI to help cover costs such as mileage and childcare. Those who are unemployed or underemployed and meet eligibility criteria may qualify for Employment Insurance.&lt;/p&gt;&lt;p&gt;"Building a skilled workforce means creating opportunities for Islanders to pursue meaningful careers in every sector, including public safety," said Minister of Workforce and Advanced Learning Jenn Redmond. "Through SkillsPEI, we are helping individuals access the training and supports they need to succeed in the Correctional Officer Training Program while contributing to safer, stronger communities across Prince Edward Island."&lt;/p&gt;&lt;p&gt;The deadline to apply is November 13, 2026 at noon.&amp;nbsp;&lt;/p&gt;&lt;p&gt;For eligibility and application requirements, visit&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/correctional-officer-training-program"&gt;Correctional Officer Training Program&lt;/a&gt;.&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Katie Cudmore&amp;nbsp;&lt;br /&gt;Department of Justice and Public Safety&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:Katiecudmore@gov.pe.ca"&gt;Katiecudmore@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Remotely Piloted Aircraft Systems for Pesticide Application</title>
-      <link>https://www.princeedwardisland.ca/en/publication/remotely-piloted-aircraft-systems-for-pesticide-application</link>
-      <guid isPermaLink="false">81571 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 26 Oct 2026 18:15:16 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Remotely Piloted Aircraft Systems for Pesticide Application&lt;/span&gt;
+      <title>Dairy Beef Club Meetings</title>
+      <link>https://www.princeedwardisland.ca/en/information/agriculture/dairy-beef-club-meetings</link>
+      <guid isPermaLink="false">81585 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 27 Oct 2026 18:32:23 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dairy Beef Club Meetings&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-26T15:15:16-03:00" title="Monday, October 26, 2026 - 15:15"&gt;Mon, 10/26/2026 - 15:15&lt;/time&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-27T15:32:23-03:00" title="Tuesday, October 27, 2026 - 15:32"&gt;Tue, 10/27/2026 - 15:32&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
           &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;A Remotely Piloted Aircraft System (RPAS) consists of a navigable aircraft (otherwise known as a drone) operated by a pilot who is not on board plus all system elements that are required for flight operations. Health Canada and the PEI Department of Land and Environment have approved RPAS (ie. drones) for use to apply pesticides that are registered for RPAS and aerial use.&lt;/p&gt;&lt;/div&gt;
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Dairy Beef Club is a new opportunity for producers across the dairy-beef chain to connect and learn peer to peer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The DBC is open to dairy producers, nursery growers, backgrounders, and finishers involved in dairy-beef or interested in becoming involved in the production chain.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The pilot will include in-person learning sessions, farm tours, and virtual presentation. Topics will &amp;nbsp;focus on real production challenges and practical solutions that can benefit your farm.&amp;nbsp;&lt;/p&gt;&lt;h3&gt;What's in it for you?&amp;nbsp;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Learn from other producers.&lt;/li&gt;&lt;li&gt;Get practical information&lt;/li&gt;&lt;li&gt;Make connections.&lt;/li&gt;&lt;li&gt;Improve your bottom line.&lt;/li&gt;&lt;li&gt;Help direct group learning.&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Topics to be covered:&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Building a resilient Beef Calf&lt;/li&gt;&lt;li&gt;Beef Calf Health Management&lt;/li&gt;&lt;li&gt;Maritime Livestock Price Insurance&lt;/li&gt;&lt;li&gt;Backgrounding Beef Calves on pasture&lt;/li&gt;&lt;li&gt;Dairy Crosses in Feedlot (400-S00lbs)&lt;/li&gt;&lt;li&gt;Calf Performance Targets and Indicators&lt;/li&gt;&lt;li&gt;Handling Systems and Data Collection&lt;/li&gt;&lt;li&gt;Finishing (800-1500Ibs)&lt;/li&gt;&lt;li&gt;Farm Tour&lt;/li&gt;&lt;li&gt;Producer Panels&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Check out the &lt;a href="https://www.princeedwardisland.ca/en/events?f%5B0%5D=department%3A1531"&gt;Calendar&lt;/a&gt; for more information:&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/events?f%5B0%5D=department%3A1531&amp;amp;f%5B1%5D=event_date_end%3A2026-11"&gt;November&amp;nbsp;&lt;/a&gt;&lt;ul&gt;&lt;li&gt;Nov 3 - OLeary Club&lt;/li&gt;&lt;li&gt;Nov 10 - Monatgue Club&lt;/li&gt;&lt;li&gt;Nov 12 - Charlottetown Club&lt;/li&gt;&lt;li&gt;Nov 26 - Virtual Meeting&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/events?f%5B0%5D=department%3A1531&amp;amp;f%5B1%5D=event_date_end%3A2026-12"&gt;December&lt;/a&gt;&lt;ul&gt;&lt;li&gt;Dec 1 - O'Leary Club&lt;/li&gt;&lt;li&gt;Dec 2 - Monatgue Club&lt;/li&gt;&lt;li&gt;Dec 3 - Charlottetown Club&lt;/li&gt;&lt;li&gt;Dec 16 - Virtual Meeting&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;For more information, contact:&lt;/h3&gt;&lt;p&gt;Ellen Davis&lt;br /&gt;Livestock Champion, PEI Cattle Producer &amp;nbsp;&lt;br /&gt;902-214-0587&lt;/p&gt;&lt;p&gt;Jeff Campbell&lt;br /&gt;Dairy Development Officer, PEI Department of Agriculture &amp;nbsp;&lt;br /&gt;902-218-3568&lt;/p&gt;&lt;p&gt;Maggie McCormick&lt;br /&gt;Livestock Development Supervisor, PEI Department of Agriculture &amp;nbsp;902-314-0827&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
       
   &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/f982/af_RPAS%20Factsheet.pdf"&gt;
-              &lt;span&gt;af_RPAS Factsheet.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
   
     
       
@@ -463,13 +279,13 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>MyPEI Account In-person Verification - O’Leary Public Library</title>
-      <link>https://www.princeedwardisland.ca/en/event/mypei-account-in-person-verification-oleary-public-library</link>
-      <guid isPermaLink="false">81570 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 26 Oct 2026 17:17:01 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MyPEI Account In-person Verification - O’Leary Public Library&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-26T14:17:01-03:00" title="Monday, October 26, 2026 - 14:17"&gt;Mon, 10/26/2026 - 14:17&lt;/time&gt;
+      <title>Dairy Beef Club - On-line</title>
+      <link>https://www.princeedwardisland.ca/en/event/dairy-beef-club-on-line-0</link>
+      <guid isPermaLink="false">81584 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 27 Oct 2026 18:30:23 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dairy Beef Club - On-line&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-27T15:30:23-03:00" title="Tuesday, October 27, 2026 - 15:30"&gt;Tue, 10/27/2026 - 15:30&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--onecol"&gt;
     &lt;div class="layout__region layout__region--content"&gt;
@@ -493,27 +309,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;article class="align-right media media--type-image media--view-mode-default"&gt;
-  
-        &lt;img alt="MyPEI Account logo" class="image-style-large" height="75" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/embedded_images/mypei-full.png?itok=-TWO-ayk" width="273" /&gt;
-
-
-
-  &lt;/article&gt;
-&lt;p&gt;Drop by a participating public library during Digital Health Week and let us help you verify your &lt;a href="https://www.princeedwardisland.ca/en/topic/mypei-account" title="MyPEI Account"&gt;MyPEI Account&lt;/a&gt; and get connected to &lt;a href="https://www.princeedwardisland.ca/en/topic/myhealthpei" title="MyHealthPEI"&gt;MyHealthPEI&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;With MyHealthPEI, you can:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;View recent lab results and imaging reports&lt;/li&gt;&lt;li&gt;See your vaccination records&lt;/li&gt;&lt;li&gt;Track some of your health information online&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A verified MyPEI Account gives you access to MyHealthPEI and other provincial online government services. Visit us in-person (no appointment needed) and we'll help you get set up!&lt;/p&gt;&lt;h3&gt;To verify your account in-person, you’ll need two pieces of valid ID&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Primary ID&lt;/strong&gt;: Must be one of the following:&lt;ul&gt;&lt;li&gt;PEI Driver’s License&lt;/li&gt;&lt;li&gt;Voluntary ID&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Secondary ID&lt;/strong&gt;: Choose one from the following list:&lt;ul&gt;&lt;li&gt;Birth Certificate&lt;/li&gt;&lt;li&gt;Canadian Citizenship Card&lt;/li&gt;&lt;li&gt;Permanent Resident Card&lt;/li&gt;&lt;li&gt;Certificate of Indian Status&lt;/li&gt;&lt;li&gt;Canadian Passport&lt;/li&gt;&lt;li&gt;Nexus Card&lt;/li&gt;&lt;li&gt;Official Immigration Document&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;You will also need:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;To be at least 16 years of age&lt;/li&gt;&lt;li&gt;A mobile phone, tablet, or laptop&lt;/li&gt;&lt;li&gt;Access to your email&lt;/li&gt;&lt;/ul&gt;
-&lt;div class="rich-text alert alert-info"&gt;
-  &lt;p&gt;Bring along your PEI Health Card if you would like help linking your health information to your account.&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeeventfield-location-geo"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-location-geo field--type-geofield field--label-hidden field__item"&gt;&lt;div class="geofield-google-map" id="geofield-map-node-event-81570-field-location-geo" style="width: 100%; height: 450px;"&gt;&lt;/div&gt;
-&lt;/div&gt;
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Dairy Beef Club is a new opportunity for producers across the dairy-beef chain to connect and learn peer to peer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The DBC is open to dairy producers, nursery growers, backgrounders, and finishers involved in dairy-beef or interested in becoming involved in the production chain.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The pilot will include in-person learning sessions, farm tours, and virtual presentation. Topics will &amp;nbsp;focus on real production challenges and practical solutions that can benefit your farm.&amp;nbsp;&lt;/p&gt;&lt;h5&gt;TOPIC: &amp;nbsp;&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;Dr David Renault - Beef Calf Performance Targets and Indicators&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;For more information contact:&lt;/h3&gt;&lt;p&gt;Ellen Davis&lt;br /&gt;Livestock Champion, PEI Cattle Producer &amp;nbsp;&lt;br /&gt;902-214-0587&lt;/p&gt;&lt;p&gt;Jeff Campbell&lt;br /&gt;PEI Department of Agriculture &amp;nbsp;&lt;br /&gt;902-218-3568&lt;/p&gt;&lt;p&gt;Maggie McCormick&lt;br /&gt;PEI Department of Agriculture&lt;br /&gt;902-314-0827&lt;/p&gt;&lt;p&gt;Dr. Les Halliday&lt;br /&gt;902-330-1008&lt;/p&gt;&lt;/div&gt;
       
   &lt;/div&gt;
 
@@ -524,8 +320,62 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
   
     
       
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-20T17:00:00Z"&gt;November 20, 2026 1:00 pm&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-11-20T19:00:00Z"&gt;November 20, 2026 3:00 pm&lt;/time&gt;
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-12-16T17:00:00Z"&gt;December 16, 2026 1:00 pm&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-12-16T19:00:00Z"&gt;December 16, 2026 3:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Dairy Beef Club - Charlottetown Club</title>
+      <link>https://www.princeedwardisland.ca/en/event/dairy-beef-club-charlottetown-club-0</link>
+      <guid isPermaLink="false">81583 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 27 Oct 2026 18:27:32 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dairy Beef Club - Charlottetown Club&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-27T15:27:32-03:00" title="Tuesday, October 27, 2026 - 15:27"&gt;Tue, 10/27/2026 - 15:27&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Dairy Beef Club is a new opportunity for producers across the dairy-beef chain to connect and learn peer to peer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The DBC is open to dairy producers, nursery growers, backgrounders, and finishers involved in dairy-beef or interested in becoming involved in the production chain.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The pilot will include in-person learning sessions, farm tours, and virtual presentation. Topics will &amp;nbsp;focus on real production challenges and practical solutions that can benefit your farm.&amp;nbsp;&lt;/p&gt;&lt;h5&gt;TOPIC: &amp;nbsp;&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;Daryl Stoltz - Backgrounding Beef Calves on pasture&lt;/li&gt;&lt;li&gt;Dr Les Halliday - Dairy Crosses in Feedlot (400-800 lbs&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;For more information contact:&lt;/h3&gt;&lt;p&gt;Ellen Davis&lt;br /&gt;Livestock Champion, PEI Cattle Producer &amp;nbsp;&lt;br /&gt;902-214-0587&lt;/p&gt;&lt;p&gt;Jeff Campbell&lt;br /&gt;PEI Department of Agriculture &amp;nbsp;&lt;br /&gt;902-218-3568&lt;/p&gt;&lt;p&gt;Maggie McCormick&lt;br /&gt;PEI Department of Agriculture&lt;br /&gt;902-314-0827&lt;/p&gt;&lt;p&gt;Dr. Les Halliday&lt;br /&gt;902-330-1008&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-12-03T17:00:00Z"&gt;December 3, 2026 1:00 pm&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-12-03T19:00:00Z"&gt;December 3, 2026 3:00 pm&lt;/time&gt;
 &lt;/div&gt;
       
   &lt;/div&gt;
@@ -534,7 +384,391 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
       
 &lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
-          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;O'Leary Public &lt;/span&gt; &lt;span class="family-name"&gt;Library&lt;/span&gt;&lt;br /&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;PEI Farm&lt;/span&gt; &lt;span class="family-name"&gt;Center&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;420 University Avenue&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Charlottetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1A 2Y9&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Dairy Beef Club - Montague Club</title>
+      <link>https://www.princeedwardisland.ca/en/event/dairy-beef-club-montague-club-0</link>
+      <guid isPermaLink="false">81582 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 27 Oct 2026 18:25:30 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dairy Beef Club - Montague Club&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-27T15:25:30-03:00" title="Tuesday, October 27, 2026 - 15:25"&gt;Tue, 10/27/2026 - 15:25&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Dairy Beef Club is a new opportunity for producers across the dairy-beef chain to connect and learn peer to peer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The DBC is open to dairy producers, nursery growers, backgrounders, and finishers involved in dairy-beef or interested in becoming involved in the production chain.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The pilot will include in-person learning sessions, farm tours, and virtual presentation. Topics will &amp;nbsp;focus on real production challenges and practical solutions that can benefit your farm.&amp;nbsp;&lt;/p&gt;&lt;h5&gt;TOPIC: &amp;nbsp;&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;Daryl Stoltz - Backgrounding Beef Calves on pasture&lt;/li&gt;&lt;li&gt;Dr Les Halliday - Dairy Crosses in Feedlot (400-800 lbs&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;For more information contact:&lt;/h3&gt;&lt;p&gt;Ellen Davis&lt;br /&gt;Livestock Champion, PEI Cattle Producer &amp;nbsp;&lt;br /&gt;902-214-0587&lt;/p&gt;&lt;p&gt;Jeff Campbell&lt;br /&gt;PEI Department of Agriculture &amp;nbsp;&lt;br /&gt;902-218-3568&lt;/p&gt;&lt;p&gt;Maggie McCormick&lt;br /&gt;PEI Department of Agriculture&lt;br /&gt;902-314-0827&lt;/p&gt;&lt;p&gt;Dr. Les Halliday&lt;br /&gt;902-330-1008&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-12-02T17:00:00Z"&gt;December 2, 2026 1:00 pm&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-12-02T19:00:00Z"&gt;December 2, 2026 3:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Access PEI &lt;/span&gt; &lt;span class="family-name"&gt;Montague&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;41 Wood Islands Road&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Montague&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0A 1R0&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Dairy Beef Club - O'Leary Club</title>
+      <link>https://www.princeedwardisland.ca/en/event/dairy-beef-club-oleary-club-0</link>
+      <guid isPermaLink="false">81581 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 27 Oct 2026 18:22:38 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dairy Beef Club - O'Leary Club&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-27T15:22:38-03:00" title="Tuesday, October 27, 2026 - 15:22"&gt;Tue, 10/27/2026 - 15:22&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Dairy Beef Club is a new opportunity for producers across the dairy-beef chain to connect and learn peer to peer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The DBC is open to dairy producers, nursery growers, backgrounders, and finishers involved in dairy-beef or interested in becoming involved in the production chain.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The pilot will include in-person learning sessions, farm tours, and virtual presentation. Topics will &amp;nbsp;focus on real production challenges and practical solutions that can benefit your farm.&amp;nbsp;&lt;/p&gt;&lt;h5&gt;TOPIC: &amp;nbsp;&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;Daryl Stoltz - Backgrounding Beef Calves on pasture&lt;/li&gt;&lt;li&gt;Dr Les Halliday - Dairy Crosses in Feedlot (400-800 lbs&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;For more information contact:&lt;/h3&gt;&lt;p&gt;Ellen Davis&lt;br /&gt;Livestock Champion, PEI Cattle Producer &amp;nbsp;&lt;br /&gt;902-214-0587&lt;/p&gt;&lt;p&gt;Jeff Campbell&lt;br /&gt;PEI Department of Agriculture &amp;nbsp;&lt;br /&gt;902-218-3568&lt;/p&gt;&lt;p&gt;Maggie McCormick&lt;br /&gt;PEI Department of Agriculture&lt;br /&gt;902-314-0827&lt;/p&gt;&lt;p&gt;Dr. Les Halliday&lt;br /&gt;902-330-1008&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-12-01T17:00:00Z"&gt;December 1, 2026 1:00 pm&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-12-01T19:00:00Z"&gt;December 1, 2026 3:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;O'Leary Community &lt;/span&gt; &lt;span class="family-name"&gt;Complex&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;18 Community Street&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;O'Leary&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0B 1M0&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Dairy Beef Club - On-line</title>
+      <link>https://www.princeedwardisland.ca/en/event/dairy-beef-club-on-line</link>
+      <guid isPermaLink="false">81580 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 27 Oct 2026 18:20:15 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dairy Beef Club - On-line&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-27T15:20:15-03:00" title="Tuesday, October 27, 2026 - 15:20"&gt;Tue, 10/27/2026 - 15:20&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Dairy Beef Club is a new opportunity for producers across the dairy-beef chain to connect and learn peer to peer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The DBC is open to dairy producers, nursery growers, backgrounders, and finishers involved in dairy-beef or interested in becoming involved in the production chain.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The pilot will include in-person learning sessions, farm tours, and virtual presentation. Topics will &amp;nbsp;focus on real production challenges and practical solutions that can benefit your farm.&amp;nbsp;&lt;/p&gt;&lt;h5&gt;TOPIC: &amp;nbsp;&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;Dr David Renault - Beef Calf Health Management, Vaccination and Treatments&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;For more information contact:&lt;/h3&gt;&lt;p&gt;Ellen Davis&lt;br /&gt;Livestock Champion, PEI Cattle Producer &amp;nbsp;&lt;br /&gt;902-214-0587&lt;/p&gt;&lt;p&gt;Jeff Campbell&lt;br /&gt;PEI Department of Agriculture &amp;nbsp;&lt;br /&gt;902-218-3568&lt;/p&gt;&lt;p&gt;Maggie McCormick&lt;br /&gt;PEI Department of Agriculture&lt;br /&gt;902-314-0827&lt;/p&gt;&lt;p&gt;Dr. Les Halliday&lt;br /&gt;902-330-1008&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-26T17:00:00Z"&gt;November 26, 2026 1:00 pm&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-26T19:00:00Z"&gt;November 26, 2026 3:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Dairy Beef Club - Charlottetown Club</title>
+      <link>https://www.princeedwardisland.ca/en/event/dairy-beef-club-charlottetown-club</link>
+      <guid isPermaLink="false">81579 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 27 Oct 2026 18:17:23 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dairy Beef Club - Charlottetown Club&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-27T15:17:23-03:00" title="Tuesday, October 27, 2026 - 15:17"&gt;Tue, 10/27/2026 - 15:17&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Dairy Beef Club is a new opportunity for producers across the dairy-beef chain to connect and learn peer to peer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The DBC is open to dairy producers, nursery growers, backgrounders, and finishers involved in dairy-beef or interested in becoming involved in the production chain.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The pilot will include in-person learning sessions, farm tours, and virtual presentation. Topics will &amp;nbsp;focus on real production challenges and practical solutions that can benefit your farm.&amp;nbsp;&lt;/p&gt;&lt;h5&gt;TOPIC: &amp;nbsp;&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;Building a Resilient Beef Calf; Maritime Livestock Price Insurance; Atlantic Beef Producers Cooperative&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;For more information contact:&lt;/h3&gt;&lt;p&gt;Ellen Davis&lt;br /&gt;Livestock Champion, PEI Cattle Producer &amp;nbsp;&lt;br /&gt;902-214-0587&lt;/p&gt;&lt;p&gt;Jeff Campbell&lt;br /&gt;PEI Department of Agriculture &amp;nbsp;&lt;br /&gt;902-218-3568&lt;/p&gt;&lt;p&gt;Maggie McCormick&lt;br /&gt;PEI Department of Agriculture&lt;br /&gt;902-314-0827&lt;/p&gt;&lt;p&gt;Dr. Les Halliday&lt;br /&gt;902-330-1008&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-12T17:00:00Z"&gt;November 12, 2026 1:00 pm&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-12T19:00:00Z"&gt;November 12, 2026 3:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;PEI Farm&lt;/span&gt; &lt;span class="family-name"&gt;Center&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;420 University Avenue&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Charlottetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1A 2Y9&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Dairy Beef Club - Montague Club</title>
+      <link>https://www.princeedwardisland.ca/en/event/dairy-beef-club-montague-club</link>
+      <guid isPermaLink="false">81578 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 27 Oct 2026 18:14:07 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dairy Beef Club - Montague Club&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-27T15:14:07-03:00" title="Tuesday, October 27, 2026 - 15:14"&gt;Tue, 10/27/2026 - 15:14&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Dairy Beef Club is a new opportunity for producers across the dairy-beef chain to connect and learn peer to peer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The DBC is open to dairy producers, nursery growers, backgrounders, and finishers involved in dairy-beef or interested in becoming involved in the production chain.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The pilot will include in-person learning sessions, farm tours, and virtual presentation. Topics will &amp;nbsp;focus on real production challenges and practical solutions that can benefit your farm.&amp;nbsp;&lt;/p&gt;&lt;h5&gt;TOPIC: &amp;nbsp;&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;Building a Resilient Beef Calf; Maritime Livestock Price Insurance; Atlantic Beef Producers Cooperative&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;For more information contact:&lt;/h3&gt;&lt;p&gt;Ellen Davis&lt;br /&gt;Livestock Champion, PEI Cattle Producer &amp;nbsp;&lt;br /&gt;902-214-0587&lt;/p&gt;&lt;p&gt;Jeff Campbell&lt;br /&gt;PEI Department of Agriculture &amp;nbsp;&lt;br /&gt;902-218-3568&lt;/p&gt;&lt;p&gt;Maggie McCormick&lt;br /&gt;PEI Department of Agriculture&lt;br /&gt;902-314-0827&lt;/p&gt;&lt;p&gt;Dr. Les Halliday&lt;br /&gt;902-330-1008&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-10T17:00:00Z"&gt;November 10, 2026 1:00 pm&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-10T19:00:00Z"&gt;November 10, 2026 3:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Access PEI &lt;/span&gt; &lt;span class="family-name"&gt;Montague&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;41 Wood Islands Road&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Montague&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0A 1R0&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Dairy Beef Club - O'Leary Club</title>
+      <link>https://www.princeedwardisland.ca/en/event/dairy-beef-club-oleary-club</link>
+      <guid isPermaLink="false">81577 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 27 Oct 2026 18:04:29 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dairy Beef Club - O'Leary Club&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-27T15:04:29-03:00" title="Tuesday, October 27, 2026 - 15:04"&gt;Tue, 10/27/2026 - 15:04&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Dairy Beef Club is a new opportunity for producers across the dairy-beef chain to connect and learn peer to peer.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The DBC is open to dairy producers, nursery growers, backgrounders, and finishers involved in dairy-beef or interested in becoming involved in the production chain.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The pilot will include in-person learning sessions, farm tours, and virtual presentation. Topics will &amp;nbsp;focus on real production challenges and practical solutions that can benefit your farm.&amp;nbsp;&lt;/p&gt;&lt;h5&gt;TOPIC: &amp;nbsp;&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;Building a Resilient Beef Calf; Maritime Livestock Price Insurance; Atlantic Beef Producers Cooperative&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;For more information contact:&lt;/h3&gt;&lt;p&gt;Ellen Davis&lt;br /&gt;Livestock Champion, PEI Cattle Producer &amp;nbsp;&lt;br /&gt;902-214-0587&lt;/p&gt;&lt;p&gt;Jeff Campbell&lt;br /&gt;PEI Department of Agriculture &amp;nbsp;&lt;br /&gt;902-218-3568&lt;/p&gt;&lt;p&gt;Maggie McCormick&lt;br /&gt;PEI Department of Agriculture&lt;br /&gt;902-314-0827&lt;/p&gt;&lt;p&gt;Dr. Les Halliday&lt;br /&gt;902-330-1008&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-03T17:00:00Z"&gt;November 3, 2026 1:00 pm&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-03T19:00:00Z"&gt;November 3, 2026 3:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;O'Leary Community &lt;/span&gt; &lt;span class="family-name"&gt;Complex&lt;/span&gt;&lt;br /&gt;
 &lt;span class="address-line1"&gt;18 Community Street&lt;/span&gt;&lt;br /&gt;
 &lt;span class="locality"&gt;O'Leary&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0B 1V0&lt;/span&gt;&lt;br /&gt;
 &lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
@@ -549,99 +783,13 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>MyPEI Account In-person Verification - Montague Public Library</title>
-      <link>https://www.princeedwardisland.ca/en/event/mypei-account-in-person-verification-montague-public-library</link>
-      <guid isPermaLink="false">81568 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 26 Oct 2026 17:13:31 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MyPEI Account In-person Verification - Montague Public Library&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-26T14:13:31-03:00" title="Monday, October 26, 2026 - 14:13"&gt;Mon, 10/26/2026 - 14:13&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;article class="align-right media media--type-image media--view-mode-default"&gt;
-  
-        &lt;img alt="MyPEI Account logo" class="image-style-large" height="75" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/embedded_images/mypei-full.png?itok=-TWO-ayk" width="273" /&gt;
-
-
-
-  &lt;/article&gt;
-&lt;p&gt;Drop by a participating public library during Digital Health Week and let us help you verify your &lt;a href="https://www.princeedwardisland.ca/en/topic/mypei-account" title="MyPEI Account"&gt;MyPEI Account&lt;/a&gt; and get connected to &lt;a href="https://www.princeedwardisland.ca/en/topic/myhealthpei" title="MyHealthPEI"&gt;MyHealthPEI&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;With MyHealthPEI, you can:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;View recent lab results and imaging reports&lt;/li&gt;&lt;li&gt;See your vaccination records&lt;/li&gt;&lt;li&gt;Track some of your health information online&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A verified MyPEI Account gives you access to MyHealthPEI and other provincial online government services. Visit us in-person (no appointment needed) and we'll help you get set up!&lt;/p&gt;&lt;h3&gt;To verify your account in-person, you’ll need two pieces of valid ID&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Primary ID&lt;/strong&gt;: Must be one of the following:&lt;ul&gt;&lt;li&gt;PEI Driver’s License&lt;/li&gt;&lt;li&gt;Voluntary ID&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Secondary ID&lt;/strong&gt;: Choose one from the following list:&lt;ul&gt;&lt;li&gt;Birth Certificate&lt;/li&gt;&lt;li&gt;Canadian Citizenship Card&lt;/li&gt;&lt;li&gt;Permanent Resident Card&lt;/li&gt;&lt;li&gt;Certificate of Indian Status&lt;/li&gt;&lt;li&gt;Canadian Passport&lt;/li&gt;&lt;li&gt;Nexus Card&lt;/li&gt;&lt;li&gt;Official Immigration Document&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;You will also need:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;To be at least 16 years of age&lt;/li&gt;&lt;li&gt;A mobile phone, tablet, or laptop&lt;/li&gt;&lt;li&gt;Access to your email&lt;/li&gt;&lt;/ul&gt;
-&lt;div class="rich-text alert alert-info"&gt;
-  &lt;p&gt;Bring along your PEI Health Card if you would like help linking your health information to your account.&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeeventfield-location-geo"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-location-geo field--type-geofield field--label-hidden field__item"&gt;&lt;div class="geofield-google-map" id="geofield-map-node-event-81568-field-location-geo" style="width: 100%; height: 450px;"&gt;&lt;/div&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-19T18:00:00Z"&gt;November 19, 2026 2:00 pm&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-11-19T20:00:00Z"&gt;November 19, 2026 4:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
-  
-    
-      
-&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
-          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Montague Rotary &lt;/span&gt; &lt;span class="family-name"&gt;Library&lt;/span&gt;&lt;br /&gt;
-&lt;span class="address-line1"&gt;21 Sullivan Lane&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Montague&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0A 1R0&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>PEI property tax payment reminder</title>
-      <link>https://www.princeedwardisland.ca/en/news/pei-property-tax-payment-reminder-0</link>
-      <guid isPermaLink="false">81566 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 26 Oct 2026 17:11:04 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PEI property tax payment reminder&lt;/span&gt;
+      <title>Feedback wanted on proposed changes to the Prince Edward Island Lands Protection Act</title>
+      <link>https://www.princeedwardisland.ca/en/news/feedback-wanted-on-proposed-changes-to-the-prince-edward-island-lands-protection-act</link>
+      <guid isPermaLink="false">81576 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 27 Oct 2026 16:42:47 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Feedback wanted on proposed changes to the Prince Edward Island Lands Protection Act&lt;/span&gt;
 &lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-26T14:11:04-03:00" title="Monday, October 26, 2026 - 14:11"&gt;Mon, 10/26/2026 - 14:11&lt;/time&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-27T13:42:47-03:00" title="Tuesday, October 27, 2026 - 13:42"&gt;Tue, 10/27/2026 - 13:42&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
@@ -658,7 +806,7 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Property owners across the Island are reminded that the final instalment of their 2026 property taxes is due Nov. 30, 2026.&lt;/p&gt;&lt;p&gt;Property tax payments can be made in one of the following ways:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;By cash, cheque or debit at any &lt;a href="https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/access-pei-locations"&gt;Access PEI&lt;/a&gt; site.&lt;/li&gt;&lt;li&gt;By cash, cheque or debit at a financial institution. Automatic payments are encouraged to avoid interest charges.&lt;/li&gt;&lt;li&gt;By cheque using the provincial drop box located at 95 Rochford St., First Floor, Shaw Building South, Charlottetown.&lt;/li&gt;&lt;li&gt;By mailing a cheque to:&lt;br /&gt;Province of Prince Edward Island&lt;br /&gt;Finance and Affordability&lt;br /&gt;P.O. Box 880&lt;br /&gt;Charlottetown, PE&lt;br /&gt;C1A 7M2&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;PEI property tax statements were mailed to all property owners in May 2026. Replacement copies can be requested &lt;a href="https://www.princeedwardisland.ca/en/service/request-a-copy-of-your-pei-property-tax-statement"&gt;online&lt;/a&gt; or property owners can use the &lt;a href="https://www.princeedwardisland.ca/en/feature/property-tax-balance-inquiry#/service/PropertyTaxInquiry/PropertyTaxInquirySearch"&gt;property tax balance inquiry&lt;/a&gt; to check their outstanding balances.&lt;/p&gt;&lt;p&gt;Anyone with questions or who needs assistance with their property taxes can email &lt;a href="mailto:taxandland@gov.pe.ca"&gt;taxandland@gov.pe.ca&lt;/a&gt; or call 902-368-4070.&lt;/p&gt;&lt;p&gt;Learn more about PEI property taxes &lt;a href="https://www.princeedwardisland.ca/en/information/finance/property-taxes-and-charges#utm_source=redirect&amp;amp;utm_medium=url&amp;amp;utm_campaign=propertytaxes"&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;br /&gt;Vicki Tse&lt;br /&gt;Department of Finance and Affordability&lt;br /&gt;&lt;a href="mailto:vickitse@gov.pe.ca"&gt;vickitse@gov.pe.ca&lt;/a&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The province is inviting residents and interested stakeholders to provide feedback on proposed changes to the &lt;em&gt;Prince Edward Island Lands Protection Act&lt;/em&gt;.&lt;/p&gt;&lt;p&gt;As part of the Department of Land and Environment's ongoing review of provincial legislation, a consultation document is available online for public review.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"We want to hear from Islanders to help ensure our legislation remains effective and reflects the needs of our communities. Public input is an important part of the legislative process, and we encourage interested residents and organizations to share their perspectives."&lt;/p&gt;&lt;p&gt;- Minister of Land and Environment Darlene Compton&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The following legislation is available for review:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;An Act to Amend the Prince Edward Island Lands Protection Act (No. 2)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Comments can be submitted by email to &lt;strong&gt;&lt;a href="mailto:DeptLE@gov.pe.ca"&gt;DeptLE@gov.pe.ca&lt;/a&gt;&lt;/strong&gt; until &lt;strong&gt;November 10, 2026.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;For more information and to review the consultation document, visit&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/land-and-environment/department-of-land-and-environment-public-consultations"&gt;Department of Land and Environmental Public Consultations&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Morgan Martin&lt;br /&gt;Department of Land and Environment&lt;br /&gt;902-218-3430&lt;br /&gt;&lt;a href="mailto:mxmartin@gov.pe.ca"&gt;mxmartin@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
       
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
@@ -686,350 +834,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
                       &lt;/div&gt;
       &lt;/div&gt;
 
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Health PEI Board Meeting - June 25, 2026 Minutes</title>
-      <link>https://www.princeedwardisland.ca/en/publication/health-pei-board-meeting-june-25-2026-minutes</link>
-      <guid isPermaLink="false">81569 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 26 Oct 2026 17:10:30 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Health PEI Board Meeting - June 25, 2026 Minutes&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-26T14:10:30-03:00" title="Monday, October 26, 2026 - 14:10"&gt;Mon, 10/26/2026 - 14:10&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Minutes from the June 25, 2026 Health PEI Board Meeting.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/7a07/health_pei_board_meeting_june_25_2026_minutes.pdf"&gt;
-              &lt;span&gt;health_pei_board_meeting_june_25_2026_minutes.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>MyPEI Account In-person Verification - Souris Public Library</title>
-      <link>https://www.princeedwardisland.ca/en/event/mypei-account-in-person-verification-souris-public-library</link>
-      <guid isPermaLink="false">81567 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 26 Oct 2026 17:09:28 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MyPEI Account In-person Verification - Souris Public Library&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-26T14:09:28-03:00" title="Monday, October 26, 2026 - 14:09"&gt;Mon, 10/26/2026 - 14:09&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;article class="align-right media media--type-image media--view-mode-default"&gt;
-  
-        &lt;img alt="MyPEI Account logo" class="image-style-large" height="75" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/embedded_images/mypei-full.png?itok=-TWO-ayk" width="273" /&gt;
-
-
-
-  &lt;/article&gt;
-&lt;p&gt;Drop by a participating public library during Digital Health Week and let us help you verify your &lt;a href="https://www.princeedwardisland.ca/en/topic/mypei-account" title="MyPEI Account"&gt;MyPEI Account&lt;/a&gt; and get connected to &lt;a href="https://www.princeedwardisland.ca/en/topic/myhealthpei" title="MyHealthPEI"&gt;MyHealthPEI&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;With MyHealthPEI, you can:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;View recent lab results and imaging reports&lt;/li&gt;&lt;li&gt;See your vaccination records&lt;/li&gt;&lt;li&gt;Track some of your health information online&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A verified MyPEI Account gives you access to MyHealthPEI and other provincial online government services. Visit us in-person (no appointment needed) and we'll help you get set up!&lt;/p&gt;&lt;h3&gt;To verify your account in-person, you’ll need two pieces of valid ID&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Primary ID&lt;/strong&gt;: Must be one of the following:&lt;ul&gt;&lt;li&gt;PEI Driver’s License&lt;/li&gt;&lt;li&gt;Voluntary ID&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Secondary ID&lt;/strong&gt;: Choose one from the following list:&lt;ul&gt;&lt;li&gt;Birth Certificate&lt;/li&gt;&lt;li&gt;Canadian Citizenship Card&lt;/li&gt;&lt;li&gt;Permanent Resident Card&lt;/li&gt;&lt;li&gt;Certificate of Indian Status&lt;/li&gt;&lt;li&gt;Canadian Passport&lt;/li&gt;&lt;li&gt;Nexus Card&lt;/li&gt;&lt;li&gt;Official Immigration Document&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;You will also need:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;To be at least 16 years of age&lt;/li&gt;&lt;li&gt;A mobile phone, tablet, or laptop&lt;/li&gt;&lt;li&gt;Access to your email&lt;/li&gt;&lt;/ul&gt;
-&lt;div class="rich-text alert alert-info"&gt;
-  &lt;p&gt;Bring along your PEI Health Card if you would like help linking your health information to your account.&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeeventfield-location-geo"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-location-geo field--type-geofield field--label-hidden field__item"&gt;&lt;div class="geofield-google-map" id="geofield-map-node-event-81567-field-location-geo" style="width: 100%; height: 450px;"&gt;&lt;/div&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-19T14:00:00Z"&gt;November 19, 2026 10:00 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-11-19T16:00:00Z"&gt;November 19, 2026 12:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
-  
-    
-      
-&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
-          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Souris Public &lt;/span&gt; &lt;span class="family-name"&gt;Library&lt;/span&gt;&lt;br /&gt;
-&lt;span class="address-line1"&gt;75 Main Street&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Souris&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0A 2B0&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>MyPEI Account In-person Verification - Summerside Public Library</title>
-      <link>https://www.princeedwardisland.ca/en/event/mypei-account-in-person-verification-summerside-public-library</link>
-      <guid isPermaLink="false">81565 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 26 Oct 2026 17:05:16 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MyPEI Account In-person Verification - Summerside Public Library&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-26T14:05:16-03:00" title="Monday, October 26, 2026 - 14:05"&gt;Mon, 10/26/2026 - 14:05&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;article class="align-right media media--type-image media--view-mode-default"&gt;
-  
-        &lt;img alt="MyPEI Account logo" class="image-style-large" height="75" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/embedded_images/mypei-full.png?itok=-TWO-ayk" width="273" /&gt;
-
-
-
-  &lt;/article&gt;
-&lt;p&gt;Drop by a participating public library during Digital Health Week and let us help you verify your &lt;a href="https://www.princeedwardisland.ca/en/topic/mypei-account" title="MyPEI Account"&gt;MyPEI Account&lt;/a&gt; and get connected to &lt;a href="https://www.princeedwardisland.ca/en/topic/myhealthpei" title="MyHealthPEI"&gt;MyHealthPEI&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;With MyHealthPEI, you can:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;View recent lab results and imaging reports&lt;/li&gt;&lt;li&gt;See your vaccination records&lt;/li&gt;&lt;li&gt;Track some of your health information online&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A verified MyPEI Account gives you access to MyHealthPEI and other provincial online government services. Visit us in-person (no appointment needed) and we'll help you get set up!&lt;/p&gt;&lt;h3&gt;To verify your account in-person, you’ll need two pieces of valid ID&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Primary ID&lt;/strong&gt;: Must be one of the following:&lt;ul&gt;&lt;li&gt;PEI Driver’s License&lt;/li&gt;&lt;li&gt;Voluntary ID&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Secondary ID&lt;/strong&gt;: Choose one from the following list:&lt;ul&gt;&lt;li&gt;Birth Certificate&lt;/li&gt;&lt;li&gt;Canadian Citizenship Card&lt;/li&gt;&lt;li&gt;Permanent Resident Card&lt;/li&gt;&lt;li&gt;Certificate of Indian Status&lt;/li&gt;&lt;li&gt;Canadian Passport&lt;/li&gt;&lt;li&gt;Nexus Card&lt;/li&gt;&lt;li&gt;Official Immigration Document&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;You will also need:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;To be at least 16 years of age&lt;/li&gt;&lt;li&gt;A mobile phone, tablet, or laptop&lt;/li&gt;&lt;li&gt;Access to your email&lt;/li&gt;&lt;/ul&gt;
-&lt;div class="rich-text alert alert-info"&gt;
-  &lt;p&gt;Bring along your PEI Health Card if you would like help linking your health information to your account.&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeeventfield-location-geo"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-location-geo field--type-geofield field--label-hidden field__item"&gt;&lt;div class="geofield-google-map" id="geofield-map-node-event-81565-field-location-geo" style="width: 100%; height: 450px;"&gt;&lt;/div&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-18T17:00:00Z"&gt;November 18, 2026 1:00 pm&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-11-18T19:00:00Z"&gt;November 18, 2026 3:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
-  
-    
-      
-&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
-          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Summerside Public &lt;/span&gt; &lt;span class="family-name"&gt;Library&lt;/span&gt;&lt;br /&gt;
-&lt;span class="address-line1"&gt;57 Central Street&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Summerside&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1N 3K9&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>MyPEI Account In-person Verification - Charlottetown Public Library</title>
-      <link>https://www.princeedwardisland.ca/en/event/mypei-account-in-person-verification-charlottetown-public-library</link>
-      <guid isPermaLink="false">81564 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 26 Oct 2026 16:54:51 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MyPEI Account In-person Verification - Charlottetown Public Library&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-26T13:54:51-03:00" title="Monday, October 26, 2026 - 13:54"&gt;Mon, 10/26/2026 - 13:54&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;article class="align-right media media--type-image media--view-mode-default"&gt;
-  
-        &lt;img alt="MyPEI Account logo" class="image-style-large" height="75" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/embedded_images/mypei-full.png?itok=-TWO-ayk" width="273" /&gt;
-
-
-
-  &lt;/article&gt;
-&lt;p&gt;Drop by a participating public library during Digital Health Week and let us help you verify your &lt;a href="https://www.princeedwardisland.ca/en/topic/mypei-account" title="MyPEI Account"&gt;MyPEI Account&lt;/a&gt; and get connected to &lt;a href="https://www.princeedwardisland.ca/en/topic/myhealthpei" title="MyHealthPEI"&gt;MyHealthPEI&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;With MyHealthPEI, you can:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;View recent lab results and imaging reports&lt;/li&gt;&lt;li&gt;See your vaccination records&lt;/li&gt;&lt;li&gt;Track some of your health information online&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A verified MyPEI Account gives you access to MyHealthPEI and other provincial online government services. Visit us in-person (no appointment needed) and we'll help you get set up!&lt;/p&gt;&lt;h3&gt;To verify your account in-person, you’ll need two pieces of valid ID&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Primary ID&lt;/strong&gt;: Must be one of the following:&lt;ul&gt;&lt;li&gt;PEI Driver’s License&lt;/li&gt;&lt;li&gt;Voluntary ID&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Secondary ID&lt;/strong&gt;: Choose one from the following list:&lt;ul&gt;&lt;li&gt;Birth Certificate&lt;/li&gt;&lt;li&gt;Canadian Citizenship Card&lt;/li&gt;&lt;li&gt;Permanent Resident Card&lt;/li&gt;&lt;li&gt;Certificate of Indian Status&lt;/li&gt;&lt;li&gt;Canadian Passport&lt;/li&gt;&lt;li&gt;Nexus Card&lt;/li&gt;&lt;li&gt;Official Immigration Document&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;You will also need:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;To be at least 16 years of age&lt;/li&gt;&lt;li&gt;A mobile phone, tablet, or laptop&lt;/li&gt;&lt;li&gt;Access to your email&lt;/li&gt;&lt;/ul&gt;
-&lt;div class="rich-text alert alert-info"&gt;
-  &lt;p&gt;Bring along your PEI Health Card if you would like help linking your health information to your account.&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeeventfield-location-geo"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-location-geo field--type-geofield field--label-hidden field__item"&gt;&lt;div class="geofield-google-map" id="geofield-map-node-event-81564-field-location-geo" style="width: 100%; height: 450px;"&gt;&lt;/div&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-16T14:00:00Z"&gt;November 16, 2026 10:00 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2026-11-16T17:00:00Z"&gt;November 16, 2026 1:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
-  
-    
-      
-&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
-          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Charlottetown Library &lt;/span&gt; &lt;span class="family-name"&gt;Learning Centre&lt;/span&gt;&lt;br /&gt;
-&lt;span class="address-line1"&gt;100-97 Queen Street&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Charlottetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1A 4A9&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;/div&gt;
 
   &lt;/div&gt;
 
