@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:23:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:49:27 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,12 +217,351 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Drinking Water (Issued)</title>
+      <title>Drinking Water (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">4F774EE7-78FE-4ACC-BFB5-C8D571FBE2FA-1</guid>
-      <pubDate>2026-10-27T16:08:33-03:00</pubDate>
-      <description>Community of Inverness. The Municipality of Inverness County has issued a boil water advisory for all Inverness water system users following multiple water main breaks earlier today, Oct. 27, 2026... | Areas: Community of Inverness. | Level: advisory</description>
+      <guid isPermaLink="false">3B816805-D087-4C44-A55A-C0EEE1522B40-1</guid>
+      <pubDate>2026-10-28T15:05:38-03:00</pubDate>
+      <description>Community of Inverness. The Municipality of Inverness County has issued a boil water advisory for all Inverness water system users following multiple water main breaks that occurred Oct. 27, 2026... | Areas: Community of Inverness. | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Health PEI Annual General Meeting – October 28, 2026 Financial Report</title>
+      <link>https://www.princeedwardisland.ca/en/publication/health-pei-annual-general-meeting-october-28-2026-financial-report</link>
+      <guid isPermaLink="false">81602 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 28 Oct 2026 20:22:28 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Health PEI Annual General Meeting – October 28, 2026 Financial Report&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-28T17:22:28-03:00" title="Wednesday, October 28, 2026 - 17:22"&gt;Wed, 10/28/2026 - 17:22&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Financial report presented at the Health PEI Annual General Meeting on October 28, 2026.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/0e7f/health_pei_annual_general_meeting_october_28_2026_financial_report.pdf"&gt;
+              &lt;span&gt;health_pei_annual_general_meeting_october_28_2026_financial_report.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Health PEI Business Plan 2026-2027</title>
+      <link>https://www.princeedwardisland.ca/en/publication/health-pei-business-plan-2026-2027</link>
+      <guid isPermaLink="false">81601 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 28 Oct 2026 20:21:41 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Health PEI Business Plan 2026-2027&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-28T17:21:41-03:00" title="Wednesday, October 28, 2026 - 17:21"&gt;Wed, 10/28/2026 - 17:21&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Planning Document&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;This annual plan outlines how resources allocated in Health PEI’s budget will deliver on the government’s priorities outlined in the&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/publications/provincialhealthplan2023-2028_4.pdf"&gt;PEI Provincial Health Plan&lt;/a&gt; (2023-2028) demonstrating value to Island taxpayers.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/4c57/Health_PEI_Business_Plan_2026-2027.pdf"&gt;
+              &lt;span&gt;Health_PEI_Business_Plan_2026-2027.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Health PEI Annual Report 2025-2026</title>
+      <link>https://www.princeedwardisland.ca/en/publication/health-pei-annual-report-2025-2026</link>
+      <guid isPermaLink="false">81600 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 28 Oct 2026 20:20:26 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Health PEI Annual Report 2025-2026&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-28T17:20:26-03:00" title="Wednesday, October 28, 2026 - 17:20"&gt;Wed, 10/28/2026 - 17:20&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Annual Report&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;This Annual Report provides an overview of Health PEI's actions and performance results that are linked to the organization’s strategic goals and priorities. It also includes a financial overview and the audited financial statements for the year ending March 31, 2026.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/22f6/Health_PEI_Annual_Report_2025-2026.pdf"&gt;
+              &lt;span&gt;Health_PEI_Annual_Report_2025-2026.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Health PEI Board announces new CEO</title>
+      <link>https://www.princeedwardisland.ca/en/news/health-pei-board-announces-new-ceo</link>
+      <guid isPermaLink="false">81599 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 28 Oct 2026 19:29:18 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Health PEI Board announces new CEO&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-28T16:29:18-03:00" title="Wednesday, October 28, 2026 - 16:29"&gt;Wed, 10/28/2026 - 16:29&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Health PEI Board of Directors has appointed Laurae Kloschinsky as Chief Executive Officer of Health PEI, effective immediately, following a competitive recruitment process.&lt;/p&gt;&lt;p&gt;Kloschinsky has served as Interim Chief Executive Officer since March 2026, providing stable leadership during a period of significant healthcare transformation. She brings extensive leadership experience and has worked closely with health care providers, communities, government and system partners to advance innovation and improve access to care for Islanders.&lt;/p&gt;&lt;p&gt;"Since stepping into the interim role, Laurae has provided steady leadership, a strong focus on patients and staff, and a commitment to collaboration with health care professionals, government, communities and system partners across Prince Edward Island," said Dr. Wedge. "The Board is confident her experience, vision and ability to build strong partnerships will help Health PEI continue improving access to care and strengthening services for Islanders."&lt;/p&gt;&lt;p&gt;As Chief Executive Officer, Kloschinsky will lead Health PEI in delivering health care services across the province while advancing organizational priorities focused on Right People, Right Care, Right Place and Right Time.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Laurae has built strong relationships with health care professionals, community partners and stakeholders across Prince Edward Island. Her appointment provides leadership continuity as we continue working together to improve access to care and strengthen our healthcare system for Islanders."&lt;/p&gt;&lt;p&gt;- Minister of Health and Wellness Cory Deagle&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;"It is a privilege to lead Health PEI and work alongside dedicated physicians, nurse practitioners, nurses, allied health professionals, staff, volunteers and partners who support healthcare delivery across our province," said Laurae Klonchinsky. "Together, we will continue focusing on providing high-quality care, supporting our workforce, and ensuring Islanders receive the care they need, when and where they need it."&lt;/p&gt;&lt;p&gt;Kloschinsky is an experienced health care executive and pharmacist from rural PEI, with extensive experience in health care operations, change management, communications, technology implementation, and system innovation. Prior to her appointment as Interim Chief Executive Officer, she held senior leadership roles within the Government of PEI and worked closely with health care partners across Prince Edward Island to advance improvements in health care delivery.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Media contact&lt;br /&gt;Stephanie Kelly&lt;br /&gt;Senior Communications Officer,&amp;nbsp;&lt;br /&gt;Health PEI&lt;br /&gt;&lt;a href="mailto:Stephaniekelly@ihis.org"&gt;Stephaniekelly@ihis.org&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -625,335 +964,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodeformcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Paving the way for the next generation of Island women in medicine</title>
-      <link>https://www.princeedwardisland.ca/en/news/paving-the-way-for-the-next-generation-of-island-women-in-medicine</link>
-      <guid isPermaLink="false">81591 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 28 Oct 2026 12:53:00 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Paving the way for the next generation of Island women in medicine&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-28T09:53:00-03:00" title="Wednesday, October 28, 2026 - 09:53"&gt;Wed, 10/28/2026 - 09:53&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="L-R: Sydney Riggs, Lauren Reid, Hannah Fong, Meghan Kiley, Monica Gollaher" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/1c6a/MedStudentsFeature-Image_2.jpg.webp?itok=ZdJmlANv" width="1000" /&gt;
-
-  
-
-
-        &lt;figcaption class="tw-text-sm tw-text-dark tw-font-normal tw-font-headers tw-tracking-tighter mt-2"&gt;
-      L-R: Sydney Riggs, Lauren Reid, Hannah Fong, Meghan Kiley, Monica Gollaher
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;For five Island women, studying medicine means being part of something new: the opportunity to pursue their medical education at home in Prince Edward Island.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Meghan Kiley, Lauren Reid, Hannah Fong, Monica Gollaher, and Sydney Riggs are part of the first cohort of the Memorial regional campus medical learners at the University of Prince Edward Island. While each has her own story and path to medicine, they share a desire to make a difference in the lives of others.&amp;nbsp;&lt;/p&gt;&lt;p&gt;For Meghan, studying medicine at home carries special meaning.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Growing up on the Island, attending medical school here was never an option,” Meghan says.&amp;nbsp; “Being able to pursue my education in the same communities that helped shape who I am is especially meaningful.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;For Lauren, being part of the first cohort means setting an example for future students of what medical education looks like on PEI.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“When I applied there were no medical students studying on PEI, which made it challenging to connect with peers who understood the journey,” says Lauren. “Now I feel fortunate to be in a position where I can provide that guidance and support to other Island women interested in pursuing medicine.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;Their experiences also highlight the importance of women’s representation in health care, both in patient care and leadership.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Hannah sees learning from women already leading in Island health care as an opportunity to help build a system that better reflects the needs of the people it serves.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Having more women in medicine brings more attention, research, and funding to women’s health issues,” Hannah says. “Having more representation in health care leadership means more women at the table when important decisions are made.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;Sydney brings a unique perspective through her previous experience in health care finance and governance at Health PEI.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“I saw firsthand that the people around the table shape which questions get asked and which priorities get funded,” Sydney says. “More women in health care leadership positions means those decisions better reflect the patients and workforce they affect.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;Meghan says having more female physicians on PEI is an important step towards addressing gaps in women’s health research and care.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Greater representation will lead to a more inclusive health care system where women feel heard, supported, and equally represented,” she says.&amp;nbsp;&lt;/p&gt;&lt;p&gt;All five women also recognize the impact of the people who supported them along the way. Each can point to mothers, mentors, coaches, professors, friends, and colleagues who showed them what is possible and encouraged them to pursue their goals.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Now, they have an opportunity to offer that same encouragement to others.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“I hope girls growing up in PEI know that being from a small province doesn’t have to limit what they can do or what they want to achieve,” Monica says.&lt;/p&gt;&lt;p&gt;As they continue their medical education, these five women hope to help make that future more visible for the next generation of Island women… showing them that they can pursue ambitious careers, contribute to their communities, and build lives that reflect their own goals.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Throughout October, the Government of Prince Edward Island is celebrating Women’s History Month by highlighting Island women whose experiences, achievements, and leadership are helping shape the future of their communities and inspiring the next generation.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Forms for Retail Sales Tax</title>
-      <link>https://www.princeedwardisland.ca/en/information/finance-and-affordability/forms-for-retail-sales-tax</link>
-      <guid isPermaLink="false">81590 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 28 Oct 2026 12:42:09 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Forms for Retail Sales Tax&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mlwilliams&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-28T09:42:09-03:00" title="Wednesday, October 28, 2026 - 09:42"&gt;Wed, 10/28/2026 - 09:42&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;This section provides links to the standard forms used in the administration of Retail Sales Tax.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/form/fm-097-declaration-of-even-trade-vehicles-registered-on-pei"&gt;FM-097-T-E, Declaration of Even Trade Vehicles Registered on PEI&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.princeedwardisland.ca/en/form/fm-098-t-e-request-refund-for-retail-sales-tax-rst"&gt;FM-098-T-E, Request for Refund of Retail Sales Tax (RST)&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.princeedwardisland.ca/en/form/fm-099-t-e-retail-sales-tax-return"&gt;FM-099-T-E, Retail Sales Tax Return&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.princeedwardisland.ca/en/form/fm-100-t-e-retail-sales-tax-rst-self-declaration"&gt;FM-100-T-E, Retail Sales Tax Self-declaration&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.princeedwardisland.ca/en/form/fm-101-t-e-swornaffirmed-statement-for-family-transfer-of-designated-property"&gt;FM-101-T-E, Sworn/Affirmed Statement for Family Transfer of Designated Property&lt;/a&gt;&lt;br /&gt;&lt;a href="https://www.princeedwardisland.ca/en/form/fm-102-t-e-statement-of-inheritance-of-motor-vehicle"&gt;FM-102-T-E, Statement of Inheritance of Motor Vehicle&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Potato Sector Economic Impact Infographic 2019</title>
-      <link>https://www.princeedwardisland.ca/en/publication/potato-sector-economic-impact-infographic-2019</link>
-      <guid isPermaLink="false">81589 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 28 Oct 2026 11:27:47 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Potato Sector Economic Impact Infographic 2019&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-28T08:27:47-03:00" title="Wednesday, October 28, 2026 - 08:27"&gt;Wed, 10/28/2026 - 08:27&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Research&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;This infographic is an economic analysis of the PEI Potato Sector for 2019&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/5e85/af_potato_study_econ_analysis_2019.pdf"&gt;
-              &lt;span&gt;af_potato_study_econ_analysis_2019.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>PEI Potato Sector - Economic Impact Report 2019</title>
-      <link>https://www.princeedwardisland.ca/en/publication/pei-potato-sector-economic-impact-report-2019</link>
-      <guid isPermaLink="false">81588 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 28 Oct 2026 11:26:20 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PEI Potato Sector - Economic Impact Report 2019&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-28T08:26:20-03:00" title="Wednesday, October 28, 2026 - 08:26"&gt;Wed, 10/28/2026 - 08:26&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Research&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;This report provides the results of an economic impact study of PEI's potato sector.for 2019&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/8f23/af_potato_econ_impact_study_2019.pdf"&gt;
-              &lt;span&gt;af_potato_econ_impact_study_2019.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
   
     
       
