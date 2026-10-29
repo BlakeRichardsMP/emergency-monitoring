@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:39:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:52:17 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -219,10 +219,197 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Drinking Water (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">3B816805-D087-4C44-A55A-C0EEE1522B40-1</guid>
-      <pubDate>2026-10-28T15:05:38-03:00</pubDate>
+      <guid isPermaLink="false">7CB18E0B-A76A-4467-BA09-C22271125E5B-1</guid>
+      <pubDate>2026-10-29T15:22:58-03:00</pubDate>
       <description>Community of Inverness. The Municipality of Inverness County has issued a boil water advisory for all Inverness water system users following multiple water main breaks that occurred Oct. 27, 2026... | Areas: Community of Inverness. | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Senior High Program of Studies and Authorized Materials - 2027-2028</title>
+      <link>https://www.princeedwardisland.ca/en/publication/senior-high-program-of-studies-and-authorized-materials-2027-2028</link>
+      <guid isPermaLink="false">81613 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 29 Oct 2026 18:37:37 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Senior High Program of Studies and Authorized Materials - 2027-2028&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;rpgallant&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-29T15:37:37-03:00" title="Thursday, October 29, 2026 - 15:37"&gt;Thu, 10/29/2026 - 15:37&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/8cb7/DEEY%20-%20Senior%20High%20POS%20%202027-2028.pdf"&gt;
+              &lt;span&gt;DEEY - Senior High POS  2027-2028.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>From seed to plate at East Wiltshire Intermediate School</title>
+      <link>https://www.princeedwardisland.ca/en/news/from-seed-to-plate-at-east-wiltshire-intermediate-school</link>
+      <guid isPermaLink="false">81611 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 29 Oct 2026 16:16:36 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;From seed to plate at East Wiltshire Intermediate School&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-29T13:16:36-03:00" title="Thursday, October 29, 2026 - 13:16"&gt;Thu, 10/29/2026 - 13:16&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="kids in front of school" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/e0d9/EWIS%20Food%20Garden.jpg.webp?itok=3-eAzMf4" width="1000" /&gt;
+
+  
+
+
+        &lt;figcaption class="tw-text-sm tw-text-dark tw-font-normal tw-font-headers tw-tracking-tighter mt-2"&gt;
+      Grade 8 students Ryan Rix, Nash MacDonald, Kwinn Nicholson, and Cole Rix recently completed the foods and nutrition class at East Wiltshire Intermediate School in Cornwall. 
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Students in the foods and nutrition class at East Wiltshire Intermediate in Cornwall aren’t just learning how to cook; they’re learning where their food comes from.&lt;/p&gt;&lt;p&gt;As part of the provincial curriculum and through the school's garden project, students are developing a deeper connection to food and the environment around them, by planting, harvesting, and preparing a variety of fruits, vegetables, and herbs in a garden in the school's backyard.&lt;/p&gt;&lt;article class="align-right media media--type-image media--view-mode-default"&gt;
+  
+        &lt;img alt="picture of onions in a garden" class="image-style-large" height="480" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/1bdd/Onion%20sign%20EWIS.jpeg?itok=eBem1iOw" width="271" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;p&gt;The project has been growing since 2022, providing many students with the chance to step outside the traditional classroom setting and engage with food production from seed to plate.&lt;/p&gt;&lt;p&gt;Sarah McIntosh is the Foods and Nutrition teacher in the Life Skills Program and one of three staff members who share the leadership responsibilities of the garden.&lt;/p&gt;&lt;p&gt;“Whether students are planting seeds in the spring, harvesting squash in the fall, or just taking the time to observe the evolving cycles of the garden, it creates a lot of curiosity in them,” she said.&lt;/p&gt;&lt;p&gt;“It’s been great for giving students ideas and experiences with hands-on cooking, creating, and tasting. It gives them a broader perspective on flavours, and what can be done locally as well.”&lt;/p&gt;&lt;p&gt;In the foods class, as part of the provincial curriculum, McIntosh teaches students how to make recipes that feature fresh veggies and herbs, such as bruschetta, zucchini egg muffins, pickled beans, breakfast burritos, and warming soups in the fall.&lt;/p&gt;&lt;p&gt;For Grade 8 student Ryan Rix, one of the highlights has been harvesting ingredients that later become part of their meals in class.&lt;/p&gt;&lt;p&gt;"I like working in the garden," he said. "My favourite part is probably just coming outside to pick veggies for the food we make."&lt;/p&gt;&lt;p&gt;One of his favourite meals included fresh parsley, green onions, and chives from the garden.&lt;/p&gt;&lt;p&gt;The project has helped students develop practical gardening skills, like learning how to tell when vegetables are ready to be harvested.&lt;/p&gt;&lt;p&gt;"The skills I've learned are knowing the right time to pick the veggies in the garden," he said. "It teaches you if they are good to eat yet or not."&lt;/p&gt;&lt;p&gt;For Grade 8 student Cole Rix, working in the garden has given him a new appreciation for the time and effort involved in growing food.&lt;/p&gt;&lt;p&gt;"It takes a lot of time for them to grow," he said. "You just have to use a lot of water and then wait."&lt;/p&gt;&lt;article class="align-left media media--type-image media--view-mode-default"&gt;
+  
+        &lt;img alt="student in a garden" class="image-style-large" height="480" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/698d/Ryan%20Rix%20EWIS_0.jpeg?itok=bcUGAGYn" width="308" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;p&gt;Rix says the garden has encouraged him to eat healthier food and try new things.&lt;/p&gt;&lt;p&gt;"I tried peppers from the garden this year and I've never tried them before, and they actually tasted pretty good," he said.&lt;/p&gt;&lt;p&gt;The impact of the garden extends far beyond the harvest. It serves as an outdoor classroom for science lessons, offers hands-on learning opportunities for students in the resource area, and provides meaningful garden-based activities for students receiving behavioral support.&lt;/p&gt;&lt;p&gt;McIntosh hopes other Island schools will be encouraged to start gardens in their school communities.&lt;/p&gt;&lt;p&gt;&amp;nbsp;"We hope to increase community involvement to create meaningful relationships with our nearby neighbours and to help manage the needs of the garden over summer break," she said.&lt;/p&gt;&lt;p&gt;For students like Ryan, the garden has changed the way he thinks about food and fresh ingredients.&lt;/p&gt;&lt;p&gt;&amp;nbsp;"The fresher it is, it really tastes better, rather than buying something, it tastes a lot better just growing it yourself."&lt;/p&gt;&lt;p&gt;&lt;em&gt;The East Wiltshire Intermediate School garden project was made possible by the province’s Outdoor Learning Grant, which is offered to K-12 educators in Prince Edward Island. The grant empowers educators to create hands-on outdoor learning experiences that enrich the curriculum and foster environmental stewardship.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -725,195 +912,30 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Health PEI Business Plan 2026-2027</title>
-      <link>https://www.princeedwardisland.ca/en/publication/health-pei-business-plan-2026-2027</link>
-      <guid isPermaLink="false">81601 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 28 Oct 2026 20:21:41 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Health PEI Business Plan 2026-2027&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-28T17:21:41-03:00" title="Wednesday, October 28, 2026 - 17:21"&gt;Wed, 10/28/2026 - 17:21&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+      <title>Premier McLeod on the Enbridge Line 21 Pipeline</title>
+      <link>https://www.gov.nt.ca/en/newsroom/news/premier-mcleod-enbridge-line-21-pipeline</link>
+      <guid isPermaLink="false">9422 at https://www.gov.nt.ca</guid>
+      <pubDate>Wed, 26 Sep 2018 23:05:28 +0000</pubDate>
+      <description>&lt;div class="field field-name-body field-type-text-with-summary field-label-hidden"&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;p&gt;&lt;strong&gt;YELLOWKNIFE&lt;/strong&gt; - Premier Bob McLeod issued the following statement on the Enbridge Line 21 pipeline today:&lt;/p&gt;
 
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Planning Document&lt;/span&gt;
-      &lt;/div&gt;
+&lt;p&gt;“I was pleased to learn that operations have resumed for Enbridge’s Line 21 pipeline after almost 2 years of no activity.&lt;/p&gt;
 
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;This annual plan outlines how resources allocated in Health PEI’s budget will deliver on the government’s priorities outlined in the&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/publications/provincialhealthplan2023-2028_4.pdf"&gt;PEI Provincial Health Plan&lt;/a&gt; (2023-2028) demonstrating value to Island taxpayers.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
+&lt;p&gt;"Resource development has, and will continue to be, the backbone of our economy and is central to ensuring a good source of middle class jobs and business opportunities. Our territory has mineral and petroleum resources and the development of those resources can have a transformative effect on our people and economy.&lt;/p&gt;
 
+&lt;p&gt;"Sustainable economic development is key to the future of Northerners. With a strong resource development base, we will be able to support diversification of our local economies into emerging and established sectors.&lt;/p&gt;
 
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/4c57/Health_PEI_Business_Plan_2026-2027.pdf"&gt;
-              &lt;span&gt;Health_PEI_Business_Plan_2026-2027.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
+&lt;p&gt;"On behalf of the Government of the Northwest Territories I’d like to offer my congratulations to Imperial Oil, Enbridge the town of Norman Wells and other partners for getting this pipeline back up and running. I know the efforts and economic impacts of the pipeline have already begun to take shape in the community and will be felt for years to come. ”&lt;/p&gt;
 
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
 
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Health PEI Annual Report 2025-2026</title>
-      <link>https://www.princeedwardisland.ca/en/publication/health-pei-annual-report-2025-2026</link>
-      <guid isPermaLink="false">81600 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 28 Oct 2026 20:20:26 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Health PEI Annual Report 2025-2026&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gemacdonald&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-28T17:20:26-03:00" title="Wednesday, October 28, 2026 - 17:20"&gt;Wed, 10/28/2026 - 17:20&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Annual Report&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;This Annual Report provides an overview of Health PEI's actions and performance results that are linked to the organization’s strategic goals and priorities. It also includes a financial overview and the audited financial statements for the year ending March 31, 2026.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/22f6/Health_PEI_Annual_Report_2025-2026.pdf"&gt;
-              &lt;span&gt;Health_PEI_Annual_Report_2025-2026.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
+&lt;p&gt;&lt;strong&gt;Charlotte Digness&lt;/strong&gt;&lt;br /&gt;
+	Media and Communications Coordinator&lt;br /&gt;
+	Cabinet Communications and Protocol&lt;br /&gt;
+	Government of the Northwest Territories&lt;br /&gt;
+	Ph: 867-767-9140 ext. 11092&lt;br /&gt;
+	Email: &lt;a href="mailto:charlotte_digness@gov.nt.ca"&gt;charlotte_digness@gov.nt.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-type field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;News Type:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/news-type/media-statement"&gt;Media Statement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-department field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;Department:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/department/premier"&gt;Premier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class="links inline"&gt;&lt;li class="fr first last"&gt;&lt;a class="language-link" href="https://www.gov.nt.ca/fr/newsroom/le-premier-ministre-mcleod-se-r%C3%A9jouit-de-la-r%C3%A9ouverture-de-l%E2%80%99ol%C3%A9oduc-21-d%E2%80%99enbridge" xml:lang="fr"&gt;Français&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <source>Northwest Territories</source>
     </item>
 
   </channel>
