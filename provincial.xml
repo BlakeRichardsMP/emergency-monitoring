@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 30 Oct 2026 17:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:29:51 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -235,12 +235,162 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Drinking Water (Updated)</title>
+      <title>Drinking Water (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">7CB18E0B-A76A-4467-BA09-C22271125E5B-1</guid>
-      <pubDate>2026-10-29T15:22:58-03:00</pubDate>
-      <description>Community of Inverness. The Municipality of Inverness County has issued a boil water advisory for all Inverness water system users following multiple water main breaks that occurred Oct. 27, 2026... | Areas: Community of Inverness. | Level: advisory</description>
+      <guid isPermaLink="false">EC9B5679-FC8F-4CF0-B32A-062BE1BC9CA0-1</guid>
+      <pubDate>2026-10-30T15:32:37-03:00</pubDate>
+      <description>Community of Inverness. The Municipality of Inverness County would like to notify users of the Inverness water system that the Boil Water Advisory is no longer in effect as of Friday, October 30 at... | Areas: Community of Inverness. | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>PEI’s fall fiscal update highlights economic resilience and improved net debt outlook</title>
+      <link>https://www.princeedwardisland.ca/en/news/peis-fall-fiscal-update-highlights-economic-resilience-and-improved-net-debt-outlook</link>
+      <guid isPermaLink="false">81629 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 30 Oct 2026 18:57:08 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PEI’s fall fiscal update highlights economic resilience and improved net debt outlook&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-30T15:57:08-03:00" title="Friday, October 30, 2026 - 15:57"&gt;Fri, 10/30/2026 - 15:57&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Minister of Finance Jill Burridge released the Island’s &lt;a href="https://www.princeedwardisland.ca/en/publication/second-quarter-fiscal-and-economic-update"&gt;fall fiscal and economic update&lt;/a&gt;&amp;nbsp;for fiscal year 2026-27.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Second quarter (Q2) results provide a mid-point update on provincial spending and the Island’s economic conditions, reflecting government’s efforts to deliver essential public services, managing expenditures and debt, and support economic growth.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Island workers and businesses are working hard, and we continue to see that reflected in the resilience of our economy despite global uncertainty. Just as Island households make thoughtful financial decisions every day, government is doing the same. Our focus remains on maintaining essential programs and services, like healthcare and public education, while balancing responsible spending, careful debt management, and strategic investments that will support sustainable, long-term economic growth.”&lt;/p&gt;&lt;p&gt;- Minister of Finance and Affordability Jill Burridge&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The updated forecast for fiscal year 2026-2027 is a deficit of $459.3 million, a $49.4 million increase from the 2026-2027 budget estimates presented in April 2026.&amp;nbsp;The increased operating expenses of $101.3 million can be primarily attributed to the delivery of health care services, social program funding, and the rising fuel costs&lt;/p&gt;&lt;p&gt;Government revenues outperformed Spring 2026 budget estimates by $52 million thanks to stronger corporate income tax and sales tax revenues, and additional federal funding. Despite the rising financial pressures to maintain public programs and services, Prince Edward Island’s net debt position is improving by an estimated $101.8 million. The net debt-to-GDP ratio budgeted at 38.1 per cent has been reduced to 36.4 per cent, below the 40 per cent guardrail.&lt;/p&gt;&lt;p&gt;While expenditures have increased, the Q2 update shows PEI’s strong and resilient economy is contributing to improved revenues. Key indicators for the Island economy show year-to-date changes in 2026 compared to the same periods in 2025.&lt;/p&gt;&lt;p&gt;Population (July to July):&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Prince Edward Island’s population increased by 0.8% to reach 182,989 residents.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Labour participation (January to September):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Employment: The average monthly employment increased 3.1% compared to the same period last year.&lt;/li&gt;&lt;li&gt;Unemployment rate: PEI’s unemployment rate fell to 7.4%, representing a 0.7% decrease from the previous year.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Income (January to June):&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Labour income grew by 7.1%, exceeding the province’s Spring 2026 forecast of 4%.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Working Island residents earned an average of $1,181 weekly.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Construction (January to September):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Housing starts: Residential construction continues to demonstrate strong activity with 1,442 starts.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Value of non-residential construction is down 15.3%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;PEI economic sectors (January to August):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Exports: PEI’s international goods exports increased by 7.2%.&lt;/li&gt;&lt;li&gt;Tourism: Air, ferry, and road travel to Prince Edward Island, as well as overnight stays, are on pace for another record tourism year.&lt;/li&gt;&lt;li&gt;Farm cash receipts were up 3.5%.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Learn more about Prince Edward Island’s second quarter economic and fiscal updates &lt;a href="https://www.princeedwardisland.ca/en/publication/second-quarter-fiscal-and-economic-update"&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Vicki Tse&lt;br /&gt;Department of Finance and Affordability&lt;br /&gt;&lt;a href="mailto:vickitse@gov.pe.ca"&gt;vickitse@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Backgrounder:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Economic update:&lt;/p&gt;&lt;p&gt;Economic data is reported on a year-to-date basis using various surveys and compares results to the same period from the previous year.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;PEI's population was estimated at 182,989 on July 1, 2026, an increase of 0.8% compared to a year earlier&lt;/li&gt;&lt;li&gt;Average monthly employment for the first nine months of 2026 was up 3.1 per cent compared to the same period in 2025.&lt;/li&gt;&lt;li&gt;The average monthly unemployment rate fell by 0.7 percentage points to 7.4%.&lt;/li&gt;&lt;li&gt;Labour income grew 7.1% year-to-date through June, trending above the budget forecast of 4.0% for 2026. Average weekly earnings of $1,181 year-to-date through July were up 5.1%, in excess of inflation.&lt;/li&gt;&lt;li&gt;Retail sales grew 7.4% or $163 million year-to-date through July, on track to exceed the budget forecast of 3.0%.&lt;/li&gt;&lt;li&gt;Housing construction activity remains nearly on par with 2025’s high level of activity, with 1,442 starts through the first three quarters.&lt;/li&gt;&lt;li&gt;International goods exports were up 7.2% year-to-date through August, largely reflecting growth in the repair category of special transactions trade.&lt;/li&gt;&lt;li&gt;Tourism statistics show bridge, air and ferry traffic on track for record years through September and overnight stays are also on pace for a record year.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Fiscal update:&lt;/p&gt;&lt;p&gt;The baseline assumptions and projections are based on Spring 2026 information to develop the 2026-27 budget estimates. As the year progresses, based on operational needs, influences of global events, and other factors, the province’s fiscal and economic position will change.&lt;/p&gt;&lt;p&gt;Spring 2026 estimates include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Total revenues: $3,386.3 million&lt;/li&gt;&lt;li&gt;Total expenditures: $3,796.2 million&lt;/li&gt;&lt;li&gt;Deficit: $409.9 million&lt;/li&gt;&lt;li&gt;Total net debt: $4,504.8 million&lt;/li&gt;&lt;li&gt;Total net debt-to-GDP: 38.1%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Q2 fiscal and economic update include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Total revenues: $3,438.2 million&lt;/li&gt;&lt;li&gt;Total expenditures: $3,897.5 million&lt;/li&gt;&lt;li&gt;Deficit: $459.3 million&lt;/li&gt;&lt;li&gt;Total net debt: $4,403.0 million&lt;/li&gt;&lt;li&gt;Total net debt-to-GDP: 36.4%&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Supplementary Departmental Summary&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Health PEI&lt;/strong&gt; is forecasting an increase in expenditures of $74.3 million from their Operating Budget. Key pressures include agency staffing, wage levies and salary premiums, out-of-province contracted services, medical supplies, and equipment and software pressures. These pressures are partially offset by salary vacancies/savings and delayed implementation of initiatives.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Innovation PEI&lt;/strong&gt; expenditures are forecasted to be $23.3 million over budget, primarily due to significantly higher-than-anticipated performance related to the Aerospace and Defence Tax Rebate program. This is partially offset by an increase in expected Corporate Income Tax revenue from this sector.&lt;/li&gt;&lt;li&gt;The &lt;strong&gt;Department of Energy&lt;/strong&gt; expenditures are anticipated to be $12.6 million over budget, largely reflecting increased Oil to Heat Pump Affordability (OHPA) grants to clear approved client backlogs before federal funding deadlines. This overage is fully offset by additional revenue of $12.9 million.&lt;/li&gt;&lt;li&gt;The &lt;strong&gt;Department of Health and Wellness&lt;/strong&gt; is forecasting an expenditure increase of $12.1 million, due to prescription drug programs, Aging with Dignity initiatives carried forward from the prior year, Digital Health operating costs, At Home Caregiver Benefit program client growth, Chief Public Health Office vaccine and drug costs, and remaining Alliance for Mental Wellbeing wind-up commitments. These overages are fully offset by additional revenue.&lt;/li&gt;&lt;li&gt;The &lt;strong&gt;Department of Social Development and Seniors&lt;/strong&gt; is anticipating an increase in expenditures of $4.3 million compared to Budget. This is primarily driven by a $5.8 million increase in AccessAbility Supports due to caseload growth, $800 thousand for the Seniors Hearing Aid Rebate Program, and salary pressures partially offset by a $2.2 million decrease in Social Assistance as clients transition to the AccessAbility Support Program.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Public Schools Branch&amp;nbsp;&lt;/strong&gt;and&lt;strong&gt; La Commission scolaire de langue française&lt;/strong&gt; are forecasting a combined $3.0 million increase due to high diesel and heating fuel prices driven by global supply chain disruptions.&lt;/li&gt;&lt;li&gt;The &lt;strong&gt;Department of Justice and Public Safety&lt;/strong&gt; is forecasting an expenditure increase of $2.1 million, primarily driven by $1.0 million in salary pressures due to lower vacancies than budgeted, $647 thousand in professional services, and $242 thousand for supplies due to higher correctional inmate bed days.&lt;/li&gt;&lt;li&gt;The &lt;strong&gt;Department of Transportation and Infrastructure&lt;/strong&gt; is forecasting a net decrease in expenditures of $29.0 million. The reduction is primarily because major infrastructure projects are progressing more slowly than planned, delaying associated expenditures. These savings are partially offset by increased highway, bridge, line material, sand, and salary costs.&lt;/li&gt;&lt;li&gt;Interest charges on debt are forecasted to be $3.8 million over budget as borrowing rates for both debentures and short-term treasury notes are higher than assumed during budget preparation.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Second Quarter Fiscal and Economic Update</title>
+      <link>https://www.princeedwardisland.ca/en/publication/second-quarter-fiscal-and-economic-update</link>
+      <guid isPermaLink="false">81628 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 30 Oct 2026 17:21:39 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Second Quarter Fiscal and Economic Update&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-30T14:21:39-03:00" title="Friday, October 30, 2026 - 14:21"&gt;Fri, 10/30/2026 - 14:21&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Report&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/07d0/2026-2027SecondQuarterFiscalandEconomicUpdate.pdf"&gt;
+              &lt;span&gt;2026-2027SecondQuarterFiscalandEconomicUpdate.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -928,195 +1078,30 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Strengthening Non-Family Succession</title>
-      <link>https://www.princeedwardisland.ca/en/publication/strengthening-non-family-succession</link>
-      <guid isPermaLink="false">81617 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 30 Oct 2026 12:17:01 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Strengthening Non-Family Succession&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-30T09:17:01-03:00" title="Friday, October 30, 2026 - 09:17"&gt;Fri, 10/30/2026 - 09:17&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+      <title>Premier McLeod on the Enbridge Line 21 Pipeline</title>
+      <link>https://www.gov.nt.ca/en/newsroom/news/premier-mcleod-enbridge-line-21-pipeline</link>
+      <guid isPermaLink="false">9422 at https://www.gov.nt.ca</guid>
+      <pubDate>Wed, 26 Sep 2018 23:05:28 +0000</pubDate>
+      <description>&lt;div class="field field-name-body field-type-text-with-summary field-label-hidden"&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;p&gt;&lt;strong&gt;YELLOWKNIFE&lt;/strong&gt; - Premier Bob McLeod issued the following statement on the Enbridge Line 21 pipeline today:&lt;/p&gt;
 
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Planning Document&lt;/span&gt;
-      &lt;/div&gt;
+&lt;p&gt;“I was pleased to learn that operations have resumed for Enbridge’s Line 21 pipeline after almost 2 years of no activity.&lt;/p&gt;
 
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Step Toward the Future: Farm Succession: 8 practical ways the exitng generation can help make non-family succession smoother and more successful for everyone involved, including themselves.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
+&lt;p&gt;"Resource development has, and will continue to be, the backbone of our economy and is central to ensuring a good source of middle class jobs and business opportunities. Our territory has mineral and petroleum resources and the development of those resources can have a transformative effect on our people and economy.&lt;/p&gt;
 
+&lt;p&gt;"Sustainable economic development is key to the future of Northerners. With a strong resource development base, we will be able to support diversification of our local economies into emerging and established sectors.&lt;/p&gt;
 
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/ad0f/af_Strengthening%20Non-Family%20Succession.pdf"&gt;
-              &lt;span&gt;af_Strengthening Non-Family Succession.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
+&lt;p&gt;"On behalf of the Government of the Northwest Territories I’d like to offer my congratulations to Imperial Oil, Enbridge the town of Norman Wells and other partners for getting this pipeline back up and running. I know the efforts and economic impacts of the pipeline have already begun to take shape in the community and will be felt for years to come. ”&lt;/p&gt;
 
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
 
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Who's Who list</title>
-      <link>https://www.princeedwardisland.ca/en/publication/whos-who-list</link>
-      <guid isPermaLink="false">81616 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 30 Oct 2026 12:13:53 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Who's Who list&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;slmacneil&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-10-30T09:13:53-03:00" title="Friday, October 30, 2026 - 09:13"&gt;Fri, 10/30/2026 - 09:13&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Planning Document&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Step Toward the Future: Farm Succession worksheet for planning participants roles in farm succession.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/c7c5/af_whoswholist.pdf"&gt;
-              &lt;span&gt;af_whoswholist.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
+&lt;p&gt;&lt;strong&gt;Charlotte Digness&lt;/strong&gt;&lt;br /&gt;
+	Media and Communications Coordinator&lt;br /&gt;
+	Cabinet Communications and Protocol&lt;br /&gt;
+	Government of the Northwest Territories&lt;br /&gt;
+	Ph: 867-767-9140 ext. 11092&lt;br /&gt;
+	Email: &lt;a href="mailto:charlotte_digness@gov.nt.ca"&gt;charlotte_digness@gov.nt.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-type field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;News Type:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/news-type/media-statement"&gt;Media Statement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-department field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;Department:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/department/premier"&gt;Premier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class="links inline"&gt;&lt;li class="fr first last"&gt;&lt;a class="language-link" href="https://www.gov.nt.ca/fr/newsroom/le-premier-ministre-mcleod-se-r%C3%A9jouit-de-la-r%C3%A9ouverture-de-l%E2%80%99ol%C3%A9oduc-21-d%E2%80%99enbridge" xml:lang="fr"&gt;Français&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <source>Northwest Territories</source>
     </item>
 
   </channel>
