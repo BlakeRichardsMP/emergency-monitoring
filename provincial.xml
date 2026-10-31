@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 30 Oct 2026 21:29:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:59:10 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -213,15 +213,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">70018DE8-D244-4BD1-9924-65768FE60BCF-1</guid>
       <pubDate>2026-10-29T17:12:31-06:00</pubDate>
       <description>A Precautionary Drinking Water Advisory has been issued for the Village of Medstead. This advisory is for the entire community and for any individuals who may access water from the Village of... | Areas: The Village of Medstead | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Drinking Water (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/F1128C0F-85AB-43CF-8133-0DE862602E34</link>
-      <guid isPermaLink="false">789B7BBE-DC82-4571-BE31-FB65F66F5AAD-1</guid>
-      <pubDate>2026-10-29T17:05:42-06:00</pubDate>
-      <description>Precautionary Drinking Water Advisory is being issued for the Village of Medstead. A Precautionary Drinking Water Advisory has been issued for the Village of Medstead. This advisory is for the... | Areas: Precautionary Drinking Water Advisory is being issued for the Village of Medstead. | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
