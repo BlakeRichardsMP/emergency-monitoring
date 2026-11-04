@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 04 Nov 2026 16:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:14:05 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -223,6 +223,199 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Lynch</title>
+      <link>https://www.princeedwardisland.ca/en/employee/lynch-spencer</link>
+      <guid isPermaLink="false">81663 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 04 Nov 2026 22:13:19 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Lynch&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-04T18:13:19-04:00" title="Wednesday, November 4, 2026 - 18:13"&gt;Wed, 11/04/2026 - 18:13&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Project Manager&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health PEI&lt;/strong&gt;
+            &lt;div&gt;Facility and Capital Planning&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>New cyberviolence prevention grants support community-led initiatives</title>
+      <link>https://www.princeedwardisland.ca/en/news/new-cyberviolence-prevention-grants-support-community-led-initiatives</link>
+      <guid isPermaLink="false">81661 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 04 Nov 2026 19:15:11 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New cyberviolence prevention grants support community-led initiatives&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-04T15:15:11-04:00" title="Wednesday, November 4, 2026 - 15:15"&gt;Wed, 11/04/2026 - 15:15&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="Community organizations from across Prince Edward Island join Minister of Workforce and Advanced Learning and Minister responsible for the Status of Women Jenn Redmond to celebrate funding through the Cyberviolence Prevention Grants Program" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/e3f6/YouthCyberViolenceGrant.jpg.webp?itok=5fsD3fL8" width="1000" /&gt;
+
+  
+
+
+        &lt;figcaption class="tw-text-sm tw-text-dark tw-font-normal tw-font-headers tw-tracking-tighter mt-2"&gt;
+      Community organizations from across Prince Edward Island join Minister of Workforce and Advanced Learning and Minister responsible for the Status of Women Jenn Redmond to celebrate funding through the Cyberviolence Prevention Grants Program
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Seven community organizations are receiving provincial funding from the new Cyberviolence Prevention Grant to help young Islanders build safer and more respectful online communities.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Through the Interministerial Women's Secretariat, the province is investing $100,000 in community-led initiatives that will help young people develop the skills and confidence they need to navigate digital spaces safely. The initiative is a key action under &lt;a href="https://www.princeedwardisland.ca/en/information/justice-and-public-safety/provincial-youth-cyberviolence-prevention-strategy"&gt;Prince Edward Island's Youth Cyberviolence Prevention Strategy&lt;/a&gt; and will support projects designed to prevent cyberbullying, promote healthy online behaviour and increase awareness of cyberviolence among youth.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Digital spaces are an important part of everyday life for young people, offering opportunities to learn, connect and express themselves. These community-led projects will help equip young Islanders with the knowledge and tools they need to stay safe online while fostering a culture of respect, inclusion and kindness in digital spaces."&lt;/p&gt;&lt;p&gt;- Minister of Workforce and Advanced Learning and Minister responsible for the Status of Women, Jenn Redmond.&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The grant program was developed in response to feedback gathered during consultations for the Youth Cyberviolence Prevention Strategy. Young people, parents, caregivers and community partners identified the need for stronger support, practical resources and greater awareness to address cyberviolence and its impacts.&lt;/p&gt;&lt;p&gt;More than half of parents and caregivers surveyed during the strategy's development reported that a young person in their care had experienced some form of cyberviolence. Funded projects include cyberbullying prevention, digital citizenship education, youth leadership development, and resources tailored to newcomer youth, LGBTQIA+ youth, and young people with learning disabilities.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“With this grant, STEAM PEI and the PEI IT Alliance are working together hosting Cyber Titans, a program to empower young Islanders with the knowledge, skills, and confidence they need to thrive in an increasingly digital world,” said STEAM PEI director of partnership and development Emily Wood. “These learning opportunities will promote healthy online behaviours by allowing youth to develop the skills to recognize online vulnerabilities, understand the impact of their digital interactions, and make informed choices that contribute to safer, more respectful, and inclusive online communities across the Island.”&lt;/p&gt;&lt;p&gt;For more information on the Provincial Youth Cyberviolence Prevent Strategy and resources on cyber safety, visit &lt;a href="https://www.cybersafecarepei.ca/"&gt;cybersafecarepei.ca&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;April Gallant&lt;br /&gt;Department of Workforce and Advanced Learning&lt;br /&gt;&lt;a href="mailto:aldgallant@gov.pe.ca"&gt;aldgallant@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Backgrounder:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Cyberviolence Prevention Grant Recipients 2026&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Learning Disabilities Association of PEI;&amp;nbsp;&lt;/strong&gt;for their project:&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;em&gt;Cyber Violence Prevention for those with Learning Disabilities,&amp;nbsp;&lt;/em&gt;a project that will enhance awareness, education, and action toward preventing cyberviolence in Prince Edward Island by delivering targeted, accessible training and resources focused on youth with learning disabilities.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount:&lt;/strong&gt; $8,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chinese Society of PEI&lt;/strong&gt;: for their project, &lt;em&gt;Safe Screens PEI: Chinese Youth Against Cyberviolence&lt;/em&gt;; a six-month bilingual prevention project for Chinese, immigrant, racialized and linguistically diverse youth in PEI, with priority for girls and young women.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount&lt;/strong&gt;: $10,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;PEERS Alliance;&lt;/strong&gt;&lt;em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/em&gt;for their project:&lt;em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Building Resillience: An Anti Cyber violence campaign,&amp;nbsp;&lt;/em&gt;where workshops will be developed for various demographics within the LGBTQIA+ Demographic and be presented to various focus groups with both organizations and community members to gain a broader understanding of the specific kinds of rhetoric individuals are being subjected to.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount:&lt;/strong&gt; $15,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sport PEI:&amp;nbsp;&lt;/strong&gt;for their project; &lt;em&gt;Play with Respect. Post with Respect,&amp;nbsp;&lt;/em&gt;where&lt;em&gt;&amp;nbsp;&lt;/em&gt;SPORT PEI will create a province-wide awareness campaign and host Community Engagement Activations promoting positive digital cultures and encourage respectful online behavior. The project will also develop a Digital Playbook, providing tips on communication best practices, platform guidance, sample templates, reporting information and educational resources for athletes, coaches, officials, volunteers and families.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount:&lt;/strong&gt; $15,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Community Legal Information Association of Prince Edward Island:&lt;/strong&gt; for their project &lt;em&gt;Earlier Education, Stronger Prevention: Expanding Cyberbullying Intervention&lt;/em&gt;; a project that will create an interactive, trauma-informed, and age-appropriate educational resource for PEI youth aged 10-11 and deliver the pilot workshop meeting the Health &amp;amp; Phys Ed. curriculum outcomes for grades 5-6.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount:&lt;/strong&gt; $17,250&lt;/p&gt;&lt;p&gt;&lt;strong&gt;East Prince Women’s Information Centre (EPWIC):&amp;nbsp;&lt;/strong&gt;for their project, &lt;em&gt;Youth Creating Healthy Digital Spaces &amp;amp; Culture&lt;/em&gt;, where EPWIC and Generation XX will create a Youth Digital Leadership Team and Speakers Bureau in response to PEI’s Provincial Youth Cyberviolence Prevention Strategy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount:&lt;/strong&gt; $17,250&lt;/p&gt;&lt;p&gt;&lt;strong&gt;S.T.E.A.M. PEI:&amp;nbsp;&lt;/strong&gt;for their project, Cyber Titans. Cyber Titans in partnership with the PEI IT Alliance which will empower PEI youth to prevent cyberviolence by building the knowledge, skills, and ethical foundation needed to become responsible digital citizens. The program combines hands-on cybersecurity training with education on cyber ethics, online safety, cyberbullying, harassment, image-based abuse, and the consequences of harmful online behaviour.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount:&lt;/strong&gt; $17,500&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>October 2026 Engage PEI Appointments</title>
+      <link>https://www.princeedwardisland.ca/en/information/executive-council-office/october-2026-engage-pei-appointments</link>
+      <guid isPermaLink="false">81658 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 04 Nov 2026 17:16:02 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;October 2026 Engage PEI Appointments&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-04T13:16:02-04:00" title="Wednesday, November 4, 2026 - 13:16"&gt;Wed, 11/04/2026 - 13:16&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;h2&gt;Advisory Council on the Status of Women&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Soleil Hutchinson (reappointment) – Bonshaw&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Boilers and Pressure Vessels Advisory Board&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Luke MacAulay – Charlottetown&lt;/li&gt;&lt;li&gt;James McCarthy – Summerside&lt;/li&gt;&lt;li&gt;Wade Silliker – Brackley Beach&lt;/li&gt;&lt;li&gt;Steven Townsend (reappointment) – Bedeque&amp;nbsp;&lt;/li&gt;&lt;li&gt;Sean Wheeler (reappointment) – Charlottetown&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Council of the College of Audiology and Speech-Language Pathology of Prince Edward Island&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Krystal Rice (reappointment) – North Wiltshire&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Council of the College of Counselling Therapy of Prince Edward Island&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Anthony Carroll - Charlottetown&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Debt Risk Advisory Committee&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Blair Dunn - Summerside&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Early Learning and Child Care Board&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Lauren MacIsaac- Charlottetown&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Environmental Advisory Council&amp;nbsp;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Cassadra Gautreau - Dunstaffnage&lt;/li&gt;&lt;li&gt;Debbie Johnston &amp;nbsp;(reappointment) - Three Rivers&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Fathers of Confederation Buildings Trust&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Thomas (Tom) Dunne - Stanley Bridge&lt;/li&gt;&lt;li&gt;Katie Arsenault (reappointment) - Charlottetown&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Maritime Provinces Higher Education Commission&amp;nbsp;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Dr. Paula Wood-Adams - Charlottetown&lt;/li&gt;&lt;li&gt;Patricia Shields (reappointment) - Charlottetown&amp;nbsp;&lt;/li&gt;&lt;li&gt;Nicole Bellefleur (reappointment) - Charlottetown&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Prince Edward Island Grain Elevators Corporation Board of Directors&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Denton Ellis (reappointment) - O’Leary&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Prince Edward Island Marketing Council&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Erika Bradley (reappointment) - Charlottetown&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Provincial Apprenticeship Board&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Sue LeFort - Charlottetown&lt;/li&gt;&lt;li&gt;Danielle Boudreault - Georgetown&amp;nbsp;&lt;/li&gt;&lt;li&gt;Brett MacKay - Wellington&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Public Schools Branch Board of Trustees&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Paul MacDonald - Souris&lt;/li&gt;&lt;li&gt;Dale Sabean - Kensington&lt;/li&gt;&lt;li&gt;Dennis Lewis (reappointment) - Lennox Island&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -625,172 +818,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       &lt;li&gt;
                     &lt;strong&gt;Justice and Public Safety&lt;/strong&gt;
             &lt;div&gt;Legal Aid&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Li</title>
-      <link>https://www.princeedwardisland.ca/en/employee/li-joyce-0</link>
-      <guid isPermaLink="false">81649 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 04 Nov 2026 02:21:12 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Li&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-03T22:21:12-04:00" title="Tuesday, November 3, 2026 - 22:21"&gt;Tue, 11/03/2026 - 22:21&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Lawyer&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Justice and Public Safety&lt;/strong&gt;
-            &lt;div&gt;Legal Aid&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Kharel</title>
-      <link>https://www.princeedwardisland.ca/en/employee/kharel-shrijana</link>
-      <guid isPermaLink="false">81648 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 03 Nov 2026 22:18:05 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Kharel&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-03T18:18:05-04:00" title="Tuesday, November 3, 2026 - 18:18"&gt;Tue, 11/03/2026 - 18:18&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;RN Student&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                  &lt;div&gt;Health and Wellness&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Hearn</title>
-      <link>https://www.princeedwardisland.ca/en/employee/hearn-jake</link>
-      <guid isPermaLink="false">81647 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 03 Nov 2026 22:04:11 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Hearn&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-03T18:04:11-04:00" title="Tuesday, November 3, 2026 - 18:04"&gt;Tue, 11/03/2026 - 18:04&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;SW#1&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                  &lt;div&gt;Health and Wellness&lt;/div&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
 
