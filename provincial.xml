@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 06 Nov 2026 11:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:29:16 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -226,12 +226,152 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Weather (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3858454054.2026-1</guid>
+      <pubDate>2026-11-06T18:25:57-00:00</pubDate>
+      <description>Weather | Areas: Yarmouth County, Cumberland County - Minas Shore, Colchester County - Cobequid Bay | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Weather (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3182939484.2026-1</guid>
-      <pubDate>2026-11-06T08:58:22-00:00</pubDate>
-      <description>Prolonged, heavy rainfall is possible. Locations: parts of southwestern and northern Nova Scotia. Potential rainfall: 40 to 80 mm. Time span: this afternoon until Sunday night. Remarks: A... | Areas: Kings County, Annapolis County, Digby County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3858454054.2026-2</guid>
+      <pubDate>2026-11-06T18:25:57-00:00</pubDate>
+      <description>Prolonged, heavy rainfall is possible. Locations: parts of northwestern Nova Scotia. Potential rainfall: 40 to 70 mm. Time span: continuing until Sunday night. Remarks: A slow-moving weather system... | Areas: Cumberland County North and Cobequid Pass, Colchester County North, Hants County, Colchester County - Truro and south | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Rainfall (Updated)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1332560211.2026-1</guid>
+      <pubDate>2026-11-06T18:22:05-00:00</pubDate>
+      <description>Rain, at times heavy, is expected. Total rainfall: 50 to 80 mm, with locally higher amounts in thundershowers. Time span: ending Sunday morning. Remarks: Heavy rain with embedded thundershowers... | Areas: Kings County, Annapolis County, Digby County, Yarmouth County, Cumberland County - Minas Shore, Colchester County - Cobequid Bay | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Health PEI Launches new Applicant Tracking System</title>
+      <link>https://www.princeedwardisland.ca/en/news/health-pei-launches-new-applicant-tracking-system</link>
+      <guid isPermaLink="false">81670 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 06 Nov 2026 15:52:01 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Health PEI Launches new Applicant Tracking System &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-06T11:52:01-04:00" title="Friday, November 6, 2026 - 11:52"&gt;Fri, 11/06/2026 - 11:52&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Health PEI has recently launched a new applicant tracking system (ATS), providing a more streamlined and user-friendly experience for individuals interested in health care careers across Prince Edward Island.&lt;/p&gt;&lt;p&gt;The new system makes it easier for candidates to search, filter, and apply for opportunities with Health PEI. The platform features a simplified application process, mobile-friendly design, and bilingual access in both English and French.&lt;/p&gt;&lt;p&gt;Applicants can create and manage a personal profile, apply to multiple job opportunities, track the status of their applications, and sign up for job alerts based on their areas of interest.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Attracting and recruiting talented health care professionals is essential to strengthening our health system and improving access to care for Islanders. This new applicant tracking system modernizes the recruitment experience, making it easier for people to explore career opportunities, connect with Health PEI, and contribute to the delivery of health care across the province."&lt;/p&gt;&lt;p&gt;- &amp;nbsp;Minister of Health and Wellness, Cory Deagle&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;In addition to improving the candidate and employee experience, the platform also strengthens workforce planning by capturing key recruitment data, including application volumes, internal workforce trends, candidate qualifications, and time-to-hire metrics.&amp;nbsp;&lt;/p&gt;&lt;p&gt;"The applicant tracking system represents an important step forward in our efforts to attract and hire the health care professionals our province needs," said Pico Sine, Director of Workforce Recruitment with Health PEI. "By providing a simple and more accessible application experience, we’re making it easier for candidates to connect with job opportunities and for employees to grow their careers across our health care system.”&lt;/p&gt;&lt;p&gt;The launch of the new system is part of Health PEI's efforts to modernize recruitment processes and improve access for job seekers interested in building a health care career on Prince Edward Island.&lt;/p&gt;&lt;p&gt;Individuals interested in exploring career opportunities with Health PEI can visit&amp;nbsp;&lt;a href="https://jobspei.ca/pei-health-jobs"&gt;Health PEI Jobs | JobsPEI&amp;nbsp;&lt;/a&gt;to create a profile, sign up for job alerts, and apply for current opportunities.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jessica Bruce&lt;br /&gt;Senior Communications Officer, Health PEI&lt;br /&gt;&lt;a href="mailto:Jessicabruce@gov.pe.ca"&gt;Jessicabruce@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Premier Lantz recognizes National Indigenous Veterans Day</title>
+      <link>https://www.princeedwardisland.ca/en/news/premier-lantz-recognizes-national-indigenous-veterans-day</link>
+      <guid isPermaLink="false">81669 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 06 Nov 2026 15:17:15 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Premier Lantz recognizes National Indigenous Veterans Day&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-06T11:17:15-04:00" title="Friday, November 6, 2026 - 11:17"&gt;Fri, 11/06/2026 - 11:17&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Premier Rob Lantz issued the following statement recognizing National Indigenous Veterans Day on November 8:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Today, we honour the First Nations, Inuit and Métis men and women who have served Canada with courage and dedication.&lt;br /&gt;&lt;br /&gt;For generations, Indigenous people have answered the call to serve—from the world wars to peacekeeping missions and military operations around the world.&lt;br /&gt;&lt;br /&gt;Yet despite their service and sacrifice, many Indigenous veterans returned home to discrimination and were denied benefits and opportunities afforded to other veterans. This injustice is an important part of our country’s history, and it must not be overlooked.&lt;br /&gt;&lt;br /&gt;Here on Prince Edward Island, we honour the service of Mi’kmaw veterans and recognize the lasting impact of their sacrifices on their families and communities.&lt;br /&gt;&lt;br /&gt;National Indigenous Veterans Day is a time to remember those who lost their lives, honour those who returned home and recognize the generations of Indigenous families who have supported those who serve.&lt;br /&gt;&lt;br /&gt;We owe it to these veterans and to future generations to preserve their stories, and ensure their contributions are never forgotten.&lt;br /&gt;&lt;br /&gt;Lest we forget.”&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Emily Blue&lt;br /&gt;Executive Council Office&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:emblue@gov.pe.ca"&gt;emblue@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -770,143 +910,30 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Using nature to help protect the Victoria Causeway</title>
-      <link>https://www.princeedwardisland.ca/en/news/using-nature-to-help-protect-the-victoria-causeway</link>
-      <guid isPermaLink="false">81657 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 04 Nov 2026 15:04:59 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Using nature to help protect the Victoria Causeway&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-04T11:04:59-04:00" title="Wednesday, November 4, 2026 - 11:04"&gt;Wed, 11/04/2026 - 11:04&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+      <title>Premier McLeod on the Enbridge Line 21 Pipeline</title>
+      <link>https://www.gov.nt.ca/en/newsroom/news/premier-mcleod-enbridge-line-21-pipeline</link>
+      <guid isPermaLink="false">9422 at https://www.gov.nt.ca</guid>
+      <pubDate>Wed, 26 Sep 2018 23:05:28 +0000</pubDate>
+      <description>&lt;div class="field field-name-body field-type-text-with-summary field-label-hidden"&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;p&gt;&lt;strong&gt;YELLOWKNIFE&lt;/strong&gt; - Premier Bob McLeod issued the following statement on the Enbridge Line 21 pipeline today:&lt;/p&gt;
 
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
+&lt;p&gt;“I was pleased to learn that operations have resumed for Enbridge’s Line 21 pipeline after almost 2 years of no activity.&lt;/p&gt;
 
+&lt;p&gt;"Resource development has, and will continue to be, the backbone of our economy and is central to ensuring a good source of middle class jobs and business opportunities. Our territory has mineral and petroleum resources and the development of those resources can have a transformative effect on our people and economy.&lt;/p&gt;
 
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="People on the beach" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/01a4/Victoria%20Causeway%201.jpg.jpeg.webp?itok=ed9xm3g9" width="1000" /&gt;
+&lt;p&gt;"Sustainable economic development is key to the future of Northerners. With a strong resource development base, we will be able to support diversification of our local economies into emerging and established sectors.&lt;/p&gt;
 
-  
+&lt;p&gt;"On behalf of the Government of the Northwest Territories I’d like to offer my congratulations to Imperial Oil, Enbridge the town of Norman Wells and other partners for getting this pipeline back up and running. I know the efforts and economic impacts of the pipeline have already begun to take shape in the community and will be felt for years to come. ”&lt;/p&gt;
 
+&lt;p&gt; &lt;/p&gt;
 
-        &lt;figcaption class="tw-text-sm tw-text-dark tw-font-normal tw-font-headers tw-tracking-tighter mt-2"&gt;
-      L-R: South Shore Watershed Association members Katie Timothy, Matt Meenink, Anna White, Adam El Bahh and Romy Munkres
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Sometimes the best solutions to nature's challenges come from nature itself.&lt;/p&gt;&lt;p&gt;This past summer, members of the South Shore Watershed Association (SSWA) took on a project in collaboration with the PEI government to help slow erosion and reduce impacts to the&amp;nbsp;Victoria causeway by using nature-based solutions.&lt;/p&gt;&lt;p&gt;Romy Munkres, project leader with SSWA, explained that the provincially-owned property next to the Victoria causeway roadway is eroding quickly. &amp;nbsp;&lt;/p&gt;&lt;p&gt;“This project location was chosen due to the high vulnerability of this section of coast, the proximity of the Victoria causeway road, and the government ownership of two parcels of land between the shoreline and the roadway,” Munkres says.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“The Victoria causeway is one of the most erosion-prone on the south shore and the road is very important as it is one of only two routes providing access to the village of Victoria-by-the-Sea.”&lt;/p&gt;&lt;p&gt;The project uses a nature-based approach with many benefits. Native&amp;nbsp;salt-tolerant shrubs will be planted along the bank and their roots will gradually stabilize the soil over the coming years to help slow erosion.&lt;/p&gt;&lt;p&gt;“We are planting throughout the 15-meter buffer zone to create a web of roots that will grow further inland over time,” they said. “The nature-based solution uses native plants that will not negatively impact the area and reduce erosion, while maintaining the area’s natural habitat.”&lt;/p&gt;&lt;p&gt;For this location, wild rose and bayberry were used. Munkres explained they were useful for several reasons.&lt;/p&gt;&lt;p&gt;“First, these shrubs are incredibly tolerant of salt, which is vital in a coastal planting site. Second, they have deep roots to help to stabilize the soil and hold the bank together, slowing erosion. Third, they&amp;nbsp;are native species to the island. Using native species in nature-based solutions is important because they are perfectly adapted to local conditions and can do the job that they are being used for. In this case, they help stabilize an eroding cliff.”&lt;/p&gt;&lt;p&gt;Long term, the hope is that this planting will spread throughout the buffer zone and beyond, creating a stable web of roots that holds the loose, sandy soil together and slows erosion along the bank.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Erosion is a natural process and there is no solution, nature-based or engineered, that will hold erosion back forever, so the idea is to slow the erosion from reaching the causeway road and increase the lifespan of the road,” Munkres said.&lt;/p&gt;&lt;p&gt;Brian Thompson, Director of the Department's Land and Environment Division, says projects of this nature have been very successful thanks to partnerships between provincial government and watershed groups across the province.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“The experience and efforts of the South Shore Watershed Association are greatly appreciated,” he says. “The partnerships we have developed with local watershed groups have been instrumental in moving these projects forward.”&lt;/p&gt;&lt;p&gt;With a nature-based approach, the benefits are far reaching. Besides being more cost effective, it also causes less interference to the habitat and the native species that live there.&lt;/p&gt;&lt;p&gt;“This location is home to a flourishing colony of bank swallows, a threatened species, and a well-used beach,” they added. “Nature-based solutions were the best option to reduce erosion and protect both the swallows and the beach.”&lt;/p&gt;&lt;p&gt;SSWA and the provincial government recognize that more actions may be needed in the future to ensure the causeway continues to protect this important infrastructure.&lt;/p&gt;&lt;p&gt;For now, the preferred option is the nature-based approach.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Drake</title>
-      <link>https://www.princeedwardisland.ca/en/employee/drake-jen</link>
-      <guid isPermaLink="false">81655 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 04 Nov 2026 09:38:47 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Drake&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-04T05:38:47-04:00" title="Wednesday, November 4, 2026 - 05:38"&gt;Wed, 11/04/2026 - 05:38&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Admin Assistant (Youth Justice Services)&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Justice and Public Safety&lt;/strong&gt;
-            &lt;div&gt;Legal Aid&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
+&lt;p&gt;&lt;strong&gt;Charlotte Digness&lt;/strong&gt;&lt;br /&gt;
+	Media and Communications Coordinator&lt;br /&gt;
+	Cabinet Communications and Protocol&lt;br /&gt;
+	Government of the Northwest Territories&lt;br /&gt;
+	Ph: 867-767-9140 ext. 11092&lt;br /&gt;
+	Email: &lt;a href="mailto:charlotte_digness@gov.nt.ca"&gt;charlotte_digness@gov.nt.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-type field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;News Type:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/news-type/media-statement"&gt;Media Statement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-department field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;Department:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/department/premier"&gt;Premier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class="links inline"&gt;&lt;li class="fr first last"&gt;&lt;a class="language-link" href="https://www.gov.nt.ca/fr/newsroom/le-premier-ministre-mcleod-se-r%C3%A9jouit-de-la-r%C3%A9ouverture-de-l%E2%80%99ol%C3%A9oduc-21-d%E2%80%99enbridge" xml:lang="fr"&gt;Français&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <source>Northwest Territories</source>
     </item>
 
   </channel>
