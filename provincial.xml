@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 05 Nov 2026 23:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 03:31:27 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -226,10 +226,10 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Weather (Issued)</title>
+      <title>Weather (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4123941209.2026-1</guid>
-      <pubDate>2026-11-05T19:24:08-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0381057386.2026-1</guid>
+      <pubDate>2026-11-06T02:26:06-00:00</pubDate>
       <description>Prolonged, heavy rainfall is possible. Locations: parts of southwestern Nova Scotia. Potential rainfall: 40 to 80 mm. Time span: Friday afternoon until Sunday night. Remarks: A slow-moving weather... | Areas: Kings County, Annapolis County, Digby County, Yarmouth County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
