@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 07 Nov 2026 20:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 23:48:09 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -277,6 +277,62 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-11-07T19:37:06-00:00</pubDate>
       <description>Inverness County - Mabou and north. Damaging winds are expected. Time span: tonight until Sunday morning. Maximum wind gusts: southeasterly up to 90 km/h. Locations: Margaree Harbour to Bay St... | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>MacDonald</title>
+      <link>https://www.princeedwardisland.ca/en/employee/macdonald-damon</link>
+      <guid isPermaLink="false">81672 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Sat, 07 Nov 2026 22:21:52 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MacDonald&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;CSMCMULLIN&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-07T18:21:52-04:00" title="Saturday, November 7, 2026 - 18:21"&gt;Sat, 11/07/2026 - 18:21&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Industrial Relations Officer &amp;amp; CEO of PEI Labor Relations Board&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Workforce and Advanced Learning&lt;/strong&gt;
+            &lt;div&gt;Labour and Industrial Relations&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -850,59 +906,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>October 2026 Engage PEI Appointments</title>
-      <link>https://www.princeedwardisland.ca/en/information/executive-council-office/october-2026-engage-pei-appointments</link>
-      <guid isPermaLink="false">81658 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 04 Nov 2026 17:16:02 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;October 2026 Engage PEI Appointments&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-04T13:16:02-04:00" title="Wednesday, November 4, 2026 - 13:16"&gt;Wed, 11/04/2026 - 13:16&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;h2&gt;Advisory Council on the Status of Women&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Soleil Hutchinson (reappointment) – Bonshaw&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Boilers and Pressure Vessels Advisory Board&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Luke MacAulay – Charlottetown&lt;/li&gt;&lt;li&gt;James McCarthy – Summerside&lt;/li&gt;&lt;li&gt;Wade Silliker – Brackley Beach&lt;/li&gt;&lt;li&gt;Steven Townsend (reappointment) – Bedeque&amp;nbsp;&lt;/li&gt;&lt;li&gt;Sean Wheeler (reappointment) – Charlottetown&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Council of the College of Audiology and Speech-Language Pathology of Prince Edward Island&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Krystal Rice (reappointment) – North Wiltshire&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Council of the College of Counselling Therapy of Prince Edward Island&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Anthony Carroll - Charlottetown&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Debt Risk Advisory Committee&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Blair Dunn - Summerside&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Early Learning and Child Care Board&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Lauren MacIsaac- Charlottetown&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Environmental Advisory Council&amp;nbsp;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Cassadra Gautreau - Dunstaffnage&lt;/li&gt;&lt;li&gt;Debbie Johnston &amp;nbsp;(reappointment) - Three Rivers&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Fathers of Confederation Buildings Trust&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Thomas (Tom) Dunne - Stanley Bridge&lt;/li&gt;&lt;li&gt;Katie Arsenault (reappointment) - Charlottetown&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Maritime Provinces Higher Education Commission&amp;nbsp;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Dr. Paula Wood-Adams - Charlottetown&lt;/li&gt;&lt;li&gt;Patricia Shields (reappointment) - Charlottetown&amp;nbsp;&lt;/li&gt;&lt;li&gt;Nicole Bellefleur (reappointment) - Charlottetown&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Prince Edward Island Grain Elevators Corporation Board of Directors&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Denton Ellis (reappointment) - O’Leary&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Prince Edward Island Marketing Council&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Erika Bradley (reappointment) - Charlottetown&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Provincial Apprenticeship Board&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Sue LeFort - Charlottetown&lt;/li&gt;&lt;li&gt;Danielle Boudreault - Georgetown&amp;nbsp;&lt;/li&gt;&lt;li&gt;Brett MacKay - Wellington&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Public Schools Branch Board of Trustees&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Paul MacDonald - Souris&lt;/li&gt;&lt;li&gt;Dale Sabean - Kensington&lt;/li&gt;&lt;li&gt;Dennis Lewis (reappointment) - Lennox Island&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
   
     
       
