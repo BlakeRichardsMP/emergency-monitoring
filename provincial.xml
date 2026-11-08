@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 08 Nov 2026 11:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 17:14:57 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,11 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Wind (Issued)</title>
+      <title>Wind (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1560014735.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1560014735.2026-1</guid>
-      <pubDate>2026-11-08T10:47:30-00:00</pubDate>
-      <description>Damaging winds are expected Sunday afternoon over portions of southwest Saskatchewan. Winds will begin to ease Sunday evening. Secure loose objects. | Areas: R.M. of Deer Forks including Burstall and Estuary, R.M. of Happyland including Leader Prelate and Mendham, R.M. of Enterprise including Richmound, R.M. of Fox Valley including Fox Valley, R.M. of Big Stick including Golden Prairie, R.M. of Clinworth including Sceptre Lemsford and Portreeve, R.M. of Miry Creek including Abbey Lancer and Shackleton, R.M. of Pittville including Hazlet, R.M. of Piapot including Piapot, R.M. of Gull Lake including Gull Lake and Tompkins, R.M. of Carmichael including Carmichael, R.M. of Maple Creek including Maple Creek | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4160113544.2026-1</guid>
+      <pubDate>2026-11-08T14:25:42-00:00</pubDate>
+      <description>Damaging winds are expected Sunday afternoon over portions of southwest Saskatchewan. Winds will begin to ease Sunday evening. Secure loose objects. | Areas: R.M. of Deer Forks including Burstall and Estuary, R.M. of Happyland including Leader Prelate and Mendham, R.M. of Enterprise including Richmound, R.M. of Fox Valley including Fox Valley, R.M. of Big Stick including Golden Prairie, R.M. of Clinworth including Sceptre Lemsford and Portreeve, R.M. of Miry Creek including Abbey Lancer and Shackleton, R.M. of Pittville including Hazlet, R.M. of Piapot including Piapot, R.M. of Gull Lake including Gull Lake and Tompkins, R.M. of Carmichael including Carmichael, R.M. of Lacadena including Kyle Tyner and Sanctuary, R.M. of Victory including Beechy, R.M. of Canaan including Lucky Lake, R.M. of Riverside including Cabri Pennant and Success, R.M. of Saskatchewan Landing including Stewart Valley, R.M. of Webb including Webb and Antelope lake, R.M. of Swift Current including Swift Current and Wymark, R.M. of Lac Pelletier including Blumenhof, R.M. of Excelsior including Waldeck Rush Lake and Main Centre, R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of Coulee including Neidpath and McMahon, R.M. of Lawtonia including Hodgeville, R.M. of Glen Bain including Glen Bain, R.M. of Whiska Creek including Vanguard Neville and Pambrun, R.M. of Maple Creek including Maple Creek | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -255,18 +255,18 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Rainfall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3827845776.2026-1</guid>
-      <pubDate>2026-11-08T11:07:28-00:00</pubDate>
-      <description>Rain, at times heavy, is expected. Further rainfall amounts: 10 to 25 mm Time span: ending later today. Allow extra time for travel. | Areas: Guysborough County, Richmond County, Inverness County - south of Mabou, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4033376438.2026-1</guid>
+      <pubDate>2026-11-08T14:46:16-00:00</pubDate>
+      <description>Rain, at times heavy, continues. Further rainfall amounts: 10 to 20 mm Time span: ending later today. Allow extra time for travel. | Areas: Guysborough County, Richmond County, Inverness County - south of Mabou, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Wind (Updated)</title>
+      <title>Wind (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2428048069.2026-1</guid>
-      <pubDate>2026-11-08T08:35:59-00:00</pubDate>
-      <description>Inverness County - Mabou and north. Damaging winds are expected. Time span: easing this morning. Maximum wind gusts: southeasterly up to 100 km/h. Locations: Margaree Harbour to Bay St. Lawrence... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1052519004.2026-1</guid>
+      <pubDate>2026-11-08T12:57:07-00:00</pubDate>
+      <description>Inverness County - Mabou and north. Damaging winds are no longer expected. | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
