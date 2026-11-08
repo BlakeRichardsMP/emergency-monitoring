@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 08 Nov 2026 17:14:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:13:38 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -253,11 +253,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Rainfall (Updated)</title>
+      <title>Rainfall (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.4033376438.2026-1</guid>
-      <pubDate>2026-11-08T14:46:16-00:00</pubDate>
-      <description>Rain, at times heavy, continues. Further rainfall amounts: 10 to 20 mm Time span: ending later today. Allow extra time for travel. | Areas: Guysborough County, Richmond County, Inverness County - south of Mabou, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2023206243.2026-1</guid>
+      <pubDate>2026-11-08T19:57:35-00:00</pubDate>
+      <description>Significant rainfall is no longer expected. | Areas: Guysborough County, Richmond County, Inverness County - south of Mabou, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
