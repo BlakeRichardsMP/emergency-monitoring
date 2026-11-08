@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 08 Nov 2026 04:41:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:32:21 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,6 +208,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Wind (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1560014735.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1560014735.2026-1</guid>
+      <pubDate>2026-11-08T10:47:30-00:00</pubDate>
+      <description>Damaging winds are expected Sunday afternoon over portions of southwest Saskatchewan. Winds will begin to ease Sunday evening. Secure loose objects. | Areas: R.M. of Deer Forks including Burstall and Estuary, R.M. of Happyland including Leader Prelate and Mendham, R.M. of Enterprise including Richmound, R.M. of Fox Valley including Fox Valley, R.M. of Big Stick including Golden Prairie, R.M. of Clinworth including Sceptre Lemsford and Portreeve, R.M. of Miry Creek including Abbey Lancer and Shackleton, R.M. of Pittville including Hazlet, R.M. of Piapot including Piapot, R.M. of Gull Lake including Gull Lake and Tompkins, R.M. of Carmichael including Carmichael, R.M. of Maple Creek including Maple Creek | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Wind (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.0661037337.2026</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.2972732880.2026-1</guid>
@@ -244,38 +253,38 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Weather (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0610754515.2026-1</guid>
-      <pubDate>2026-11-08T02:21:46-00:00</pubDate>
-      <description>Prolonged, heavy rainfall is possible. Further rainfall amounts: 15 to 25 mm with higher amounts possible. Time span: until Sunday morning Remarks: A slow-moving weather system will bring a period... | Areas: Cumberland County North and Cobequid Pass, Colchester County North, Hants County, Colchester County - Truro and south, Pictou County, Antigonish County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
       <title>Rainfall (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1277971125.2026-1</guid>
-      <pubDate>2026-11-08T02:21:18-00:00</pubDate>
-      <description>Heavy rain is expected. Rain, at times heavy, is expected. Further rainfall amounts: 35 to 55 mm. Time span: until Sunday evening. Remarks: Rainfall rates of 10 to 20 mm per hour may occur over... | Areas: Halifax County - east of Porters Lake, Guysborough County, Richmond County, Inverness County - south of Mabou, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Rainfall (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3369888052.2026-1</guid>
-      <pubDate>2026-11-08T02:15:12-00:00</pubDate>
-      <description>Rain, at times heavy, is expected. Further rainfall amounts: 15 to 25 mm, with locally higher amounts in thundershowers. Time span: until Sunday morning. Remarks: Rainfall rates of 10 mm per hour... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Colchester County - Cobequid Bay, Halifax Metro and Halifax County West | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3827845776.2026-1</guid>
+      <pubDate>2026-11-08T11:07:28-00:00</pubDate>
+      <description>Rain, at times heavy, is expected. Further rainfall amounts: 10 to 25 mm Time span: ending later today. Allow extra time for travel. | Areas: Guysborough County, Richmond County, Inverness County - south of Mabou, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
       <title>Wind (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3953750263.2026-1</guid>
-      <pubDate>2026-11-08T02:14:36-00:00</pubDate>
-      <description>Inverness County - Mabou and north. Damaging winds are expected. Time span: tonight until Sunday morning. Maximum wind gusts: southeasterly up to 100 km/h. Locations: Margaree Harbour to Bay St... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2428048069.2026-1</guid>
+      <pubDate>2026-11-08T08:35:59-00:00</pubDate>
+      <description>Inverness County - Mabou and north. Damaging winds are expected. Time span: easing this morning. Maximum wind gusts: southeasterly up to 100 km/h. Locations: Margaree Harbour to Bay St. Lawrence... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Rainfall (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3475583153.2026-1</guid>
+      <pubDate>2026-11-08T08:35:19-00:00</pubDate>
+      <description>Significant rainfall is no longer expected. | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Colchester County - Cobequid Bay, Halifax Metro and Halifax County West | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Weather (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1155387739.2026-1</guid>
+      <pubDate>2026-11-08T08:35:36-00:00</pubDate>
+      <description>Weather | Areas: Cumberland County North and Cobequid Pass, Colchester County North, Hants County, Colchester County - Truro and south, Pictou County, Antigonish County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
