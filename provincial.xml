@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:48:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:43:07 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,20 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Wind (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.1560014735.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2991026049.2026-1</guid>
-      <pubDate>2026-11-09T00:04:36-00:00</pubDate>
-      <description>Damaging winds are no longer expected. | Areas: R.M. of Deer Forks including Burstall and Estuary, R.M. of Happyland including Leader Prelate and Mendham, R.M. of Enterprise including Richmound, R.M. of Fox Valley including Fox Valley, R.M. of Big Stick including Golden Prairie, R.M. of Clinworth including Sceptre Lemsford and Portreeve, R.M. of Miry Creek including Abbey Lancer and Shackleton, R.M. of Pittville including Hazlet, R.M. of Piapot including Piapot, R.M. of Gull Lake including Gull Lake and Tompkins, R.M. of Carmichael including Carmichael, R.M. of Lacadena including Kyle Tyner and Sanctuary, R.M. of Victory including Beechy, R.M. of Canaan including Lucky Lake, R.M. of Riverside including Cabri Pennant and Success, R.M. of Saskatchewan Landing including Stewart Valley, R.M. of Webb including Webb and Antelope lake, R.M. of Swift Current including Swift Current and Wymark, R.M. of Lac Pelletier including Blumenhof, R.M. of Excelsior including Waldeck Rush Lake and Main Centre, R.M. of Morse including Herbert Morse Ernfold and Gouldtown, R.M. of Coulee including Neidpath and McMahon, R.M. of Lawtonia including Hodgeville, R.M. of Glen Bain including Glen Bain, R.M. of Whiska Creek including Vanguard Neville and Pambrun, R.M. of Maple Creek including Maple Creek | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Drinking Water (Updated)</title>
+      <title>Drinking Water (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/70018DE8-D244-4BD1-9924-65768FE60BCF</link>
-      <guid isPermaLink="false">3F259C65-D01F-46DF-B3B8-15263CBA067F-1</guid>
-      <pubDate>2026-11-02T14:44:00-06:00</pubDate>
-      <description>Update: A Precautionary Drinking Water Advisory has been issued for the Village of Medstead. This advisory is for the entire community and for any individuals who may access water from the Village... | Areas: The Village of Medstead | Level: advisory</description>
+      <guid isPermaLink="false">D42D98EC-1416-486C-81DA-9C19932AAB54-1</guid>
+      <pubDate>2026-11-09T08:22:48-06:00</pubDate>
+      <description>Cancelled: A Precautionary Drinking Water Advisory has been issued for the Village of Medstead. Water tests have been done and confirmed that water is safe to drink now. Water is safe to drink now | Areas: The Village of Medstead | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -235,39 +226,229 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Rainfall (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2023206243.2026-1</guid>
-      <pubDate>2026-11-08T19:57:35-00:00</pubDate>
-      <description>Significant rainfall is no longer expected. | Areas: Guysborough County, Richmond County, Inverness County - south of Mabou, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
-      <source>Nova Scotia</source>
+      <title>Candle Safety Tips</title>
+      <link>https://www.princeedwardisland.ca/en/publication/candle-safety-tips</link>
+      <guid isPermaLink="false">81682 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 09 Nov 2026 19:38:50 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Candle Safety Tips&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;katiecudmore&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-09T15:38:50-04:00" title="Monday, November 9, 2026 - 15:38"&gt;Mon, 11/09/2026 - 15:38&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Candle safety tips from the National Fire Prevention Association&amp;nbsp;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/a53f/CandleSafetyTips.pdf"&gt;
+              &lt;span&gt;CandleSafetyTips.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
-      <title>Wind (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1052519004.2026-1</guid>
-      <pubDate>2026-11-08T12:57:07-00:00</pubDate>
-      <description>Inverness County - Mabou and north. Damaging winds are no longer expected. | Areas: Inverness County - Mabou and north | Level: advisory</description>
-      <source>Nova Scotia</source>
+      <title>Province seeking public feedback for upcoming 2027-2028 operating budget</title>
+      <link>https://www.princeedwardisland.ca/en/news/province-seeking-public-feedback-for-upcoming-2027-2028-operating-budget</link>
+      <guid isPermaLink="false">81681 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 09 Nov 2026 19:20:51 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province seeking public feedback for upcoming 2027-2028 operating budget&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-09T15:20:51-04:00" title="Monday, November 9, 2026 - 15:20"&gt;Mon, 11/09/2026 - 15:20&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Island residents are invited to share their priorities for the upcoming 2027-2028 operating budget.&lt;/p&gt;&lt;p&gt;Every year, the province invites residents, businesses, community organizations, and other stakeholder partners to share their input on what public programs and services should be prioritized in the operating budget. Everyone can engage in the budget consultation process by completing the online&amp;nbsp;&lt;a href="https://gov.questionpro.ca/prebudget"&gt;survey&lt;/a&gt; or sending an email submission (&lt;a href="mailto:budgetsubmissions@gov.pe.ca"&gt;budgetsubmissions@gov.pe.ca&lt;/a&gt;) until January 10, 2027.&lt;/p&gt;&lt;p&gt;New this year, in-person information and engagement sessions are resuming to give all residents the opportunity to learn more about the budget process, the current economic situation for Prince Edward Island, and provide direct feedback to the Minister and the Department of Finance and Affordability. Registration is not required.&lt;/p&gt;&lt;p&gt;The four sessions will take place across the Island on the following dates and locations:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;November 16, 6:00-8:00pm - Jack Blanchard Hall, 7 Pond St, Charlottetown, PE&lt;/li&gt;&lt;li&gt;November 23, 6:00-8:00pm - Mill River Resort, 180 Mill River Resort Rd. Route 136 Woodstock, PE. Simultaneous French interpretation will be available at this session only.&lt;/li&gt;&lt;li&gt;November 30, 5:00-7:00pm – Linkletter Community Centre, 1670 Route 11, Linkletter Rd, Linkletter, PE&lt;/li&gt;&lt;li&gt;December 7, 6:00-8:00pm – King’s Playhouse, 65 Grafton St, Georgetown, PE&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Organizations and stakeholder partners are invited to participate in&amp;nbsp;&lt;a href="https://PrinceEdwardIsland.ca/PreBudget"&gt;virtual consultations&lt;/a&gt; and must register by email (&lt;a href="mailto:budgetsubmissions@gov.pe.ca"&gt;budgetsubmissions@gov.pe.ca&lt;/a&gt;) by November 18, 2026 to reserve their five-minute timeslot to present their priorities to the Minister of Finance and Affordability.&lt;/p&gt;&lt;p&gt;Learn more about pre-consultation consultations&amp;nbsp;&lt;a href="https://PrinceEdwardIsland.ca/PreBudget"&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Vicki Tse&lt;br /&gt;Department of Finance and Affordability&lt;br /&gt;&lt;a href="mailto:vickitse@gov.pe.ca"&gt;vickitse@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
-      <title>Rainfall (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3475583153.2026-1</guid>
-      <pubDate>2026-11-08T08:35:19-00:00</pubDate>
-      <description>Significant rainfall is no longer expected. | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Colchester County - Cobequid Bay, Halifax Metro and Halifax County West | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
+      <title>FINAL_W2026-27MechanicalSitePreparatonTENDER_19Nov2026</title>
+      <link>https://www.princeedwardisland.ca/en/publication/finalw2026-27mechanicalsitepreparatontender19nov2026</link>
+      <guid isPermaLink="false">81674 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 09 Nov 2026 13:39:02 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FINAL_W2026-27MechanicalSitePreparatonTENDER_19Nov2026&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-09T09:39:02-04:00" title="Monday, November 9, 2026 - 09:39"&gt;Mon, 11/09/2026 - 09:39&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
-    <item>
-      <title>Weather (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1155387739.2026-1</guid>
-      <pubDate>2026-11-08T08:35:36-00:00</pubDate>
-      <description>Weather | Areas: Cumberland County North and Cobequid Pass, Colchester County North, Hants County, Colchester County - Truro and south, Pictou County, Antigonish County | Level: advisory</description>
-      <source>Nova Scotia</source>
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/406e/FINAL_W2026-27MechanicalSitePreparatonTENDER_19Nov2026.pdf"&gt;
+              &lt;span&gt;FINAL_W2026-27MechanicalSitePreparatonTENDER_19Nov2026.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -723,207 +904,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
           &lt;div class="layout__region layout__region--second"&gt;
         
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Lynch</title>
-      <link>https://www.princeedwardisland.ca/en/employee/lynch-spencer</link>
-      <guid isPermaLink="false">81663 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 04 Nov 2026 22:13:19 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Lynch&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-04T18:13:19-04:00" title="Wednesday, November 4, 2026 - 18:13"&gt;Wed, 11/04/2026 - 18:13&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Project Manager&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health PEI&lt;/strong&gt;
-            &lt;div&gt;Facility and Capital Planning&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>New cyberviolence prevention grants support community-led initiatives</title>
-      <link>https://www.princeedwardisland.ca/en/news/new-cyberviolence-prevention-grants-support-community-led-initiatives</link>
-      <guid isPermaLink="false">81661 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 04 Nov 2026 19:15:11 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New cyberviolence prevention grants support community-led initiatives&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-04T15:15:11-04:00" title="Wednesday, November 4, 2026 - 15:15"&gt;Wed, 11/04/2026 - 15:15&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Community organizations from across Prince Edward Island join Minister of Workforce and Advanced Learning and Minister responsible for the Status of Women Jenn Redmond to celebrate funding through the Cyberviolence Prevention Grants Program" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/e3f6/YouthCyberViolenceGrant.jpg.webp?itok=5fsD3fL8" width="1000" /&gt;
-
-  
-
-
-        &lt;figcaption class="tw-text-sm tw-text-dark tw-font-normal tw-font-headers tw-tracking-tighter mt-2"&gt;
-      Community organizations from across Prince Edward Island join Minister of Workforce and Advanced Learning and Minister responsible for the Status of Women Jenn Redmond to celebrate funding through the Cyberviolence Prevention Grants Program
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Seven community organizations are receiving provincial funding from the new Cyberviolence Prevention Grant to help young Islanders build safer and more respectful online communities.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Through the Interministerial Women's Secretariat, the province is investing $100,000 in community-led initiatives that will help young people develop the skills and confidence they need to navigate digital spaces safely. The initiative is a key action under &lt;a href="https://www.princeedwardisland.ca/en/information/justice-and-public-safety/provincial-youth-cyberviolence-prevention-strategy"&gt;Prince Edward Island's Youth Cyberviolence Prevention Strategy&lt;/a&gt; and will support projects designed to prevent cyberbullying, promote healthy online behaviour and increase awareness of cyberviolence among youth.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Digital spaces are an important part of everyday life for young people, offering opportunities to learn, connect and express themselves. These community-led projects will help equip young Islanders with the knowledge and tools they need to stay safe online while fostering a culture of respect, inclusion and kindness in digital spaces."&lt;/p&gt;&lt;p&gt;- Minister of Workforce and Advanced Learning and Minister responsible for the Status of Women, Jenn Redmond.&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The grant program was developed in response to feedback gathered during consultations for the Youth Cyberviolence Prevention Strategy. Young people, parents, caregivers and community partners identified the need for stronger support, practical resources and greater awareness to address cyberviolence and its impacts.&lt;/p&gt;&lt;p&gt;More than half of parents and caregivers surveyed during the strategy's development reported that a young person in their care had experienced some form of cyberviolence. Funded projects include cyberbullying prevention, digital citizenship education, youth leadership development, and resources tailored to newcomer youth, LGBTQIA+ youth, and young people with learning disabilities.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“With this grant, STEAM PEI and the PEI IT Alliance are working together hosting Cyber Titans, a program to empower young Islanders with the knowledge, skills, and confidence they need to thrive in an increasingly digital world,” said STEAM PEI director of partnership and development Emily Wood. “These learning opportunities will promote healthy online behaviours by allowing youth to develop the skills to recognize online vulnerabilities, understand the impact of their digital interactions, and make informed choices that contribute to safer, more respectful, and inclusive online communities across the Island.”&lt;/p&gt;&lt;p&gt;For more information on the Provincial Youth Cyberviolence Prevent Strategy and resources on cyber safety, visit &lt;a href="https://www.cybersafecarepei.ca/"&gt;cybersafecarepei.ca&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;April Gallant&lt;br /&gt;Department of Workforce and Advanced Learning&lt;br /&gt;&lt;a href="mailto:aldgallant@gov.pe.ca"&gt;aldgallant@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Backgrounder:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Cyberviolence Prevention Grant Recipients 2026&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Learning Disabilities Association of PEI;&amp;nbsp;&lt;/strong&gt;for their project:&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;em&gt;Cyber Violence Prevention for those with Learning Disabilities,&amp;nbsp;&lt;/em&gt;a project that will enhance awareness, education, and action toward preventing cyberviolence in Prince Edward Island by delivering targeted, accessible training and resources focused on youth with learning disabilities.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount:&lt;/strong&gt; $8,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chinese Society of PEI&lt;/strong&gt;: for their project, &lt;em&gt;Safe Screens PEI: Chinese Youth Against Cyberviolence&lt;/em&gt;; a six-month bilingual prevention project for Chinese, immigrant, racialized and linguistically diverse youth in PEI, with priority for girls and young women.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount&lt;/strong&gt;: $10,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;PEERS Alliance;&lt;/strong&gt;&lt;em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/em&gt;for their project:&lt;em&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Building Resillience: An Anti Cyber violence campaign,&amp;nbsp;&lt;/em&gt;where workshops will be developed for various demographics within the LGBTQIA+ Demographic and be presented to various focus groups with both organizations and community members to gain a broader understanding of the specific kinds of rhetoric individuals are being subjected to.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount:&lt;/strong&gt; $15,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sport PEI:&amp;nbsp;&lt;/strong&gt;for their project; &lt;em&gt;Play with Respect. Post with Respect,&amp;nbsp;&lt;/em&gt;where&lt;em&gt;&amp;nbsp;&lt;/em&gt;SPORT PEI will create a province-wide awareness campaign and host Community Engagement Activations promoting positive digital cultures and encourage respectful online behavior. The project will also develop a Digital Playbook, providing tips on communication best practices, platform guidance, sample templates, reporting information and educational resources for athletes, coaches, officials, volunteers and families.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount:&lt;/strong&gt; $15,000&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Community Legal Information Association of Prince Edward Island:&lt;/strong&gt; for their project &lt;em&gt;Earlier Education, Stronger Prevention: Expanding Cyberbullying Intervention&lt;/em&gt;; a project that will create an interactive, trauma-informed, and age-appropriate educational resource for PEI youth aged 10-11 and deliver the pilot workshop meeting the Health &amp;amp; Phys Ed. curriculum outcomes for grades 5-6.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount:&lt;/strong&gt; $17,250&lt;/p&gt;&lt;p&gt;&lt;strong&gt;East Prince Women’s Information Centre (EPWIC):&amp;nbsp;&lt;/strong&gt;for their project, &lt;em&gt;Youth Creating Healthy Digital Spaces &amp;amp; Culture&lt;/em&gt;, where EPWIC and Generation XX will create a Youth Digital Leadership Team and Speakers Bureau in response to PEI’s Provincial Youth Cyberviolence Prevention Strategy.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount:&lt;/strong&gt; $17,250&lt;/p&gt;&lt;p&gt;&lt;strong&gt;S.T.E.A.M. PEI:&amp;nbsp;&lt;/strong&gt;for their project, Cyber Titans. Cyber Titans in partnership with the PEI IT Alliance which will empower PEI youth to prevent cyberviolence by building the knowledge, skills, and ethical foundation needed to become responsible digital citizens. The program combines hands-on cybersecurity training with education on cyber ethics, online safety, cyberbullying, harassment, image-based abuse, and the consequences of harmful online behaviour.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Amount:&lt;/strong&gt; $17,500&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>New measures continue to improve safety in Island schools</title>
-      <link>https://www.princeedwardisland.ca/en/news/new-measures-continue-to-improve-safety-in-island-schools</link>
-      <guid isPermaLink="false">81660 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 04 Nov 2026 18:30:15 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New measures continue to improve safety in Island schools&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-04T14:30:15-04:00" title="Wednesday, November 4, 2026 - 14:30"&gt;Wed, 11/04/2026 - 14:30&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Safety at Island schools remains a top priority as government continues to act on recommendations made by former Chief Justice of the Prince Edward Island Court of Appeal David Jenkins.&lt;/p&gt;&lt;p&gt;In his report titled Student Safety in Island Schools: Handling of Complaints and Incidents of Staff Sexual Misconduct&lt;em&gt;&amp;nbsp;&lt;/em&gt;(the Jenkins Report), the former Chief Justice made more than 60 recommendations for the Department of Education and Early Years, the Public Schools Branch (PSB), La Commission scolaire de langue française (CSLF), and other government departments. The report, commissioned in May 2025 after two serious student safety incidents, identified vulnerabilities in existing safeguards and recommended improvements and measures to better protect children in Island schools.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“The department and the education authorities have done tremendous work in their response to the Jenkins report, and I commend them for their efforts to improve safety for students and staff. There is still work to be done, but I am pleased with the progress thus far and I look forward to seeing even more recommendations implemented in the near future.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;- Minister of Education and Early Years Robin Croucher&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Of the 62 recommendations in the report 50 have been acted on including the implementation of the following measures:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A new stand-alone sexual misconduct policy, which has been approved by the PSB and CSLF&lt;/li&gt;&lt;li&gt;An enhanced incident reporting system that can better identify trends and track incidents&lt;/li&gt;&lt;li&gt;Mandatory annual training and refresher training for staff on recognizing and preventing child sexual abuse&lt;/li&gt;&lt;li&gt;Enhanced criminal record and vulnerable sector checks&lt;/li&gt;&lt;li&gt;Better coordination between Child Protection Services, law enforcement, the Department of Education and Early Years, and the Child &amp;amp; Youth Advocate to close information gaps&lt;/li&gt;&lt;li&gt;Internal procedures to ensure incident reports reach the right department and are acted on without delay&lt;/li&gt;&lt;li&gt;Annual offense declarations for all staff, including immediate disclosure of new offenses&lt;/li&gt;&lt;li&gt;Training on &lt;em&gt;Duty to Report&lt;/em&gt; and the legal requirement to report incidents to law enforcement and or Child Protective Services immediately&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Work continues to address another 11 recommendations including:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Development of a new code of conduct for Island schools&amp;nbsp;that will set out expectations for staff, students, parents and guardians, and volunteers&amp;nbsp;&lt;/li&gt;&lt;li&gt;Alignment of the Safe &amp;amp; Caring Learning Environment policy with the new sexual misconduct policy&lt;/li&gt;&lt;li&gt;Changes to legislation to align the Education Act, The Child and Family Services Act, and the new sexual misconduct policy.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;To view the full report, visit &lt;a href="https://www.princeedwardisland.ca/en/publication/student-safety-in-island-schools-handling-of-complaints-and-incidents-of-staff-sexual"&gt;Student Safety in Island Schools&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Andrew Sprague&lt;br /&gt;Department of Education and Early Years&lt;br /&gt;&lt;a href="mailto:asgsprague@gov.pe.ca"&gt;asgsprague@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
