@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 10 Nov 2026 08:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:48:43 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,6 +208,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Freezing Rain (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3908664244.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3583227489.2026-1</guid>
+      <pubDate>2026-11-10T14:54:58-00:00</pubDate>
+      <description>Ice build-up due to freezing rain is expected. Locations: Portions of southern Saskatchewan, including the Trans-Canada highway. Freezing rain duration: 2 to 4 hours. Time span: This morning until... | Areas: City of Regina, R.M. of Huron including Tugaske, R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Craik including Craik and Aylesbury, R.M. of Sarnia including Holdfast Chamberlain and Dilke, R.M. of Marquis including Tuxford Keeler and Buffalo Pound, R.M. of Dufferin including Bethune and Findlater, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Caron including Caronport and Caron, R.M. of Pense including Pense Belle Plaine and Stony Beach, City of Moose Jaw, R.M. of Hillsborough including Crestwynd and Old Wives lake, R.M. of Redburn including Rouleau and Hearne, R.M. of Baildon including Briercrest, R.M. of Moose Jaw east of Highway 2 including Pasqua, R.M. of Moose Jaw west of Highway 2 including Bushell Park, R.M. of McKillop including Strasbourg and Rowans Ravine Prov. Park, R.M. of Longlaketon including Earl Grey and Silton, R.M. of Lumsden including Lumsden Regina Beach and Craven, R.M. of Bratt's Lake including Wilcox Corinne and Estlin, R.M. of Sherwood east of Highway 6, R.M. of Sherwood west of Highway 6 including Grand Coulee, R.M. of Lajord including Lajord Kronau and Riceton, R.M. of Francis including Vibank Sedley and Odessa, R.M. of Montmartre including Assiniboine Res., R.M. of Edenwold including Balgonie and Piapot Res., R.M. of South Qu'Appelle including Qu'Appelle and Edgeley, R.M. of Terrell including Spring Valley and Cardross, R.M. of Elmsthorpe including Avonlea and Truax, R.M. of Caledonia including Milestone and Parry, R.M. of Scott including Yellow Grass Lang and Lewvan, R.M. of Wellington including Cedoux Colfax and Tyvan, R.M. of Fillmore including Fillmore Creelman and Osage, R.M. of Arm River including Davidson and Girvin, R.M. of Willner west of Davidson, R.M. of Big Arm including Imperial and Liberty | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Drinking Water (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/70018DE8-D244-4BD1-9924-65768FE60BCF</link>
       <guid isPermaLink="false">D42D98EC-1416-486C-81DA-9C19932AAB54-1</guid>
@@ -226,23 +235,402 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Candle Safety Tips</title>
-      <link>https://www.princeedwardisland.ca/en/publication/candle-safety-tips</link>
-      <guid isPermaLink="false">81682 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 09 Nov 2026 19:38:50 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Candle Safety Tips&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;katiecudmore&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-09T15:38:50-04:00" title="Monday, November 9, 2026 - 15:38"&gt;Mon, 11/09/2026 - 15:38&lt;/time&gt;
+      <title>Pre-Budget Consultations Information and Public Engagement Session</title>
+      <link>https://www.princeedwardisland.ca/en/event/pre-budget-consultations-information-and-public-engagement-session-2</link>
+      <guid isPermaLink="false">81707 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 10 Nov 2026 16:12:58 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pre-Budget Consultations Information and Public Engagement Session&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jennadeighan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-10T12:12:58-04:00" title="Tuesday, November 10, 2026 - 12:12"&gt;Tue, 11/10/2026 - 12:12&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;article class="media media--type-image media--view-mode-full"&gt;
+  
+        &lt;img alt="Une femme noire tape sur un ordinateur." class="image-style-large" height="270" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/3807/Pre%20budget%20consultations_0.jpg?itok=QO6ZCLuw" width="480" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;PEI residents are invited to participate in an information and public engagement session in Georgetown, hosted by the Minister of Finance and Affordability and the Deputy Minister of Finance and Affordability. No registration is required.&lt;/p&gt;&lt;p&gt;Participants will have an opportunity to share their perspectives on:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;What should be the Government of Prince Edward Island’s top three priorities?&lt;/li&gt;&lt;li&gt;What government initiatives could help improve affordability, strengthen public services, support economic growth, and maintain long-term fiscal sustainability?&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-12-07T22:00:00Z"&gt;December 7, 2026 6:00 pm&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-12-08T00:00:00Z"&gt;December 7, 2026 8:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;King's&lt;/span&gt; &lt;span class="family-name"&gt;Playhouse&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;65 Grafton Street&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Georgetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0A 1L0&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Pre-Budget Consultations Information and Public Engagement Session</title>
+      <link>https://www.princeedwardisland.ca/en/event/pre-budget-consultations-information-and-public-engagement-session-1</link>
+      <guid isPermaLink="false">81706 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 10 Nov 2026 16:07:53 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pre-Budget Consultations Information and Public Engagement Session&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jennadeighan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-10T12:07:53-04:00" title="Tuesday, November 10, 2026 - 12:07"&gt;Tue, 11/10/2026 - 12:07&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;article class="media media--type-image media--view-mode-full"&gt;
+  
+        &lt;img alt="Une femme noire tape sur un ordinateur." class="image-style-large" height="270" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/3807/Pre%20budget%20consultations_0.jpg?itok=QO6ZCLuw" width="480" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;PEI Residents&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;are invited to participate in an information and public engagement session in Linkletter, hosted by the Minister and the Deputy Minister of Finance and Affordability. No registration is required.&lt;/p&gt;&lt;p&gt;Participants will be invited to share their perspectives on:&amp;nbsp;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;What should be the Government of Prince Edward Island's top three priorities?&lt;/li&gt;&lt;li&gt;What government-led initiatives can help address affordability, strengthen public services, support economic growth, and maintain long-term fiscal sustainability?&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-30T21:00:00Z"&gt;November 30, 2026 5:00 pm&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-30T23:00:00Z"&gt;November 30, 2026 7:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Linkletter&lt;/span&gt; &lt;span class="family-name"&gt;Community Center&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;1670 Route 11, Linkletter Rd&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Linkletter&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0B 1T0&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Pre-Budget Consultations Information and Public Engagement Session</title>
+      <link>https://www.princeedwardisland.ca/en/event/pre-budget-consultations-information-and-public-engagement-session-0</link>
+      <guid isPermaLink="false">81705 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 10 Nov 2026 15:58:31 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pre-Budget Consultations Information and Public Engagement Session&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jennadeighan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-10T11:58:31-04:00" title="Tuesday, November 10, 2026 - 11:58"&gt;Tue, 11/10/2026 - 11:58&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;article class="media media--type-image media--view-mode-full"&gt;
+  
+        &lt;img alt="Une femme noire tape sur un ordinateur." class="image-style-large" height="270" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/3807/Pre%20budget%20consultations_0.jpg?itok=QO6ZCLuw" width="480" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;PEI Residents&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;are invited to participate in an information and public engagement session in Mill River, hosted by the Minister and the Deputy Minister of Finance and Affordability. No registration is required.&lt;/p&gt;&lt;p&gt;Participants will be invited to share their perspectives on:&amp;nbsp;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;What should be the Government of Prince Edward Island's top three priorities?&lt;/li&gt;&lt;li&gt;What government-led initiatives can help address affordability, strengthen public services, support economic growth, and maintain long-term fiscal sustainability?&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-23T22:00:00Z"&gt;November 23, 2026 6:00 pm&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-24T00:00:00Z"&gt;November 23, 2026 8:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Mill&lt;/span&gt; &lt;span class="family-name"&gt;River Resort&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;180 Mill River Resort Rd, Route 136&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Woodstock&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C0B 1V0&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Pre-Budget Consultations Information and Public Engagement Session</title>
+      <link>https://www.princeedwardisland.ca/en/event/pre-budget-consultations-information-and-public-engagement-session</link>
+      <guid isPermaLink="false">81704 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 10 Nov 2026 15:51:33 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pre-Budget Consultations Information and Public Engagement Session&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jennadeighan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-10T11:51:33-04:00" title="Tuesday, November 10, 2026 - 11:51"&gt;Tue, 11/10/2026 - 11:51&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;article class="media media--type-image media--view-mode-full"&gt;
+  
+        &lt;img alt="Une femme noire tape sur un ordinateur." class="image-style-large" height="270" src="https://www.princeedwardisland.ca/sites/default/files/styles/large/public/3807/Pre%20budget%20consultations_0.jpg?itok=QO6ZCLuw" width="480" /&gt;
+
+
+
+  &lt;/article&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;PEI residents are invited to participate in an information and public engagement session in Charlottetown, hosted by the Minister of Finance and Affordability and the Deputy Minister of Finance and Affordability. No registration is required.&lt;/p&gt;&lt;p&gt;Participants will have an opportunity to share their perspectives on:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;What should be the Government of Prince Edward Island’s top three priorities?&lt;/li&gt;&lt;li&gt;What government initiatives could help improve affordability, strengthen public services, support economic growth, and maintain long-term fiscal sustainability?&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2026-11-16T22:00:00Z"&gt;November 16, 2026 6:00 pm&lt;/time&gt;
+ to &lt;time class="datetime" datetime="2026-11-17T00:00:00Z"&gt;November 16, 2026 8:00 pm&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
+  
+    
+      
+&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
+          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Jack&lt;/span&gt; &lt;span class="family-name"&gt;Blanchard Hall&lt;/span&gt;&lt;br /&gt;
+&lt;span class="address-line1"&gt;7 Pond Street&lt;/span&gt;&lt;br /&gt;
+&lt;span class="locality"&gt;Charlottetown&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1A 2N9&lt;/span&gt;&lt;br /&gt;
+&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Porter</title>
+      <link>https://www.princeedwardisland.ca/en/employee/porter-cameron</link>
+      <guid isPermaLink="false">81697 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 10 Nov 2026 14:09:24 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Porter&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;stevengallant&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-10T10:09:24-04:00" title="Tuesday, November 10, 2026 - 10:09"&gt;Tue, 11/10/2026 - 10:09&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
           &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
   
     
       
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Candle safety tips from the National Fire Prevention Association&amp;nbsp;&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Provincial Forest Technician&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
       
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Land and Environment&lt;/strong&gt;
+            &lt;div&gt;Provincial Forest&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Nuvaxovid®  Recombinant Protein, Adjuvanted COVID-19 Vaccine Omicron XFG Variant</title>
+      <link>https://www.princeedwardisland.ca/en/publication/nuvaxovidr-recombinant-protein-adjuvanted-covid-19-vaccine-omicron-xfg-variant</link>
+      <guid isPermaLink="false">81695 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 10 Nov 2026 13:09:07 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Nuvaxovid®  Recombinant Protein, Adjuvanted COVID-19 Vaccine Omicron XFG Variant&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kjmcclintick&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-10T09:09:07-04:00" title="Tuesday, November 10, 2026 - 09:09"&gt;Tue, 11/10/2026 - 09:09&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
+      &lt;/div&gt;
+
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
   
@@ -261,8 +649,8 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
 
           
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/a53f/CandleSafetyTips.pdf"&gt;
-              &lt;span&gt;CandleSafetyTips.pdf&lt;/span&gt;
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/812c/2026-2027%20COVID-19%20Vaccine%20Fact%20Sheet%20Nuvaxovid%20.pdf"&gt;
+              &lt;span&gt;2026-2027 COVID-19 Vaccine Fact Sheet Nuvaxovid .pdf&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
@@ -312,74 +700,13 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Province seeking public feedback for upcoming 2027-2028 operating budget</title>
-      <link>https://www.princeedwardisland.ca/en/news/province-seeking-public-feedback-for-upcoming-2027-2028-operating-budget</link>
-      <guid isPermaLink="false">81681 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 09 Nov 2026 19:20:51 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Province seeking public feedback for upcoming 2027-2028 operating budget&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-09T15:20:51-04:00" title="Monday, November 9, 2026 - 15:20"&gt;Mon, 11/09/2026 - 15:20&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Island residents are invited to share their priorities for the upcoming 2027-2028 operating budget.&lt;/p&gt;&lt;p&gt;Every year, the province invites residents, businesses, community organizations, and other stakeholder partners to share their input on what public programs and services should be prioritized in the operating budget. Everyone can engage in the budget consultation process by completing the online&amp;nbsp;&lt;a href="https://gov.questionpro.ca/prebudget"&gt;survey&lt;/a&gt; or sending an email submission (&lt;a href="mailto:budgetsubmissions@gov.pe.ca"&gt;budgetsubmissions@gov.pe.ca&lt;/a&gt;) until January 10, 2027.&lt;/p&gt;&lt;p&gt;New this year, in-person information and engagement sessions are resuming to give all residents the opportunity to learn more about the budget process, the current economic situation for Prince Edward Island, and provide direct feedback to the Minister and the Department of Finance and Affordability. Registration is not required.&lt;/p&gt;&lt;p&gt;The four sessions will take place across the Island on the following dates and locations:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;November 16, 6:00-8:00pm - Jack Blanchard Hall, 7 Pond St, Charlottetown, PE&lt;/li&gt;&lt;li&gt;November 23, 6:00-8:00pm - Mill River Resort, 180 Mill River Resort Rd. Route 136 Woodstock, PE. Simultaneous French interpretation will be available at this session only.&lt;/li&gt;&lt;li&gt;November 30, 5:00-7:00pm – Linkletter Community Centre, 1670 Route 11, Linkletter Rd, Linkletter, PE&lt;/li&gt;&lt;li&gt;December 7, 6:00-8:00pm – King’s Playhouse, 65 Grafton St, Georgetown, PE&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Organizations and stakeholder partners are invited to participate in&amp;nbsp;&lt;a href="https://PrinceEdwardIsland.ca/PreBudget"&gt;virtual consultations&lt;/a&gt; and must register by email (&lt;a href="mailto:budgetsubmissions@gov.pe.ca"&gt;budgetsubmissions@gov.pe.ca&lt;/a&gt;) by November 18, 2026 to reserve their five-minute timeslot to present their priorities to the Minister of Finance and Affordability.&lt;/p&gt;&lt;p&gt;Learn more about pre-consultation consultations&amp;nbsp;&lt;a href="https://PrinceEdwardIsland.ca/PreBudget"&gt;here&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Vicki Tse&lt;br /&gt;Department of Finance and Affordability&lt;br /&gt;&lt;a href="mailto:vickitse@gov.pe.ca"&gt;vickitse@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>FINAL_W2026-27MechanicalSitePreparatonTENDER_19Nov2026</title>
-      <link>https://www.princeedwardisland.ca/en/publication/finalw2026-27mechanicalsitepreparatontender19nov2026</link>
-      <guid isPermaLink="false">81674 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 09 Nov 2026 13:39:02 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;FINAL_W2026-27MechanicalSitePreparatonTENDER_19Nov2026&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-09T09:39:02-04:00" title="Monday, November 9, 2026 - 09:39"&gt;Mon, 11/09/2026 - 09:39&lt;/time&gt;
+      <title>Duty to Report Punjabi Poster</title>
+      <link>https://www.princeedwardisland.ca/en/publication/duty-to-report-punjabi-poster</link>
+      <guid isPermaLink="false">81694 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 10 Nov 2026 13:02:05 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Duty to Report Punjabi Poster&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jamacleod&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-10T09:02:05-04:00" title="Tuesday, November 10, 2026 - 09:02"&gt;Tue, 11/10/2026 - 09:02&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
@@ -401,8 +728,8 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
 
           
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/406e/FINAL_W2026-27MechanicalSitePreparatonTENDER_19Nov2026.pdf"&gt;
-              &lt;span&gt;FINAL_W2026-27MechanicalSitePreparatonTENDER_19Nov2026.pdf&lt;/span&gt;
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/fdb5/Punjabi%20Duty%20to%20Report.pdf"&gt;
+              &lt;span&gt;Punjabi Duty to Report.pdf&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
@@ -452,342 +779,18 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>MacDonald</title>
-      <link>https://www.princeedwardisland.ca/en/employee/macdonald-damon</link>
-      <guid isPermaLink="false">81672 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Sat, 07 Nov 2026 22:21:52 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;MacDonald&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;CSMCMULLIN&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-07T18:21:52-04:00" title="Saturday, November 7, 2026 - 18:21"&gt;Sat, 11/07/2026 - 18:21&lt;/time&gt;
+      <title>Duty to Report Hindi Poster</title>
+      <link>https://www.princeedwardisland.ca/en/publication/duty-to-report-hindi-poster</link>
+      <guid isPermaLink="false">81693 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 10 Nov 2026 13:00:37 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Duty to Report Hindi Poster&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jamacleod&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-10T09:00:37-04:00" title="Tuesday, November 10, 2026 - 09:00"&gt;Tue, 11/10/2026 - 09:00&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
           &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Industrial Relations Officer &amp;amp; CEO of PEI Labor Relations Board&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Workforce and Advanced Learning&lt;/strong&gt;
-            &lt;div&gt;Labour and Industrial Relations&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Health PEI Launches new Applicant Tracking System</title>
-      <link>https://www.princeedwardisland.ca/en/news/health-pei-launches-new-applicant-tracking-system</link>
-      <guid isPermaLink="false">81670 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 06 Nov 2026 15:52:01 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Health PEI Launches new Applicant Tracking System &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-06T11:52:01-04:00" title="Friday, November 6, 2026 - 11:52"&gt;Fri, 11/06/2026 - 11:52&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Health PEI has recently launched a new applicant tracking system (ATS), providing a more streamlined and user-friendly experience for individuals interested in health care careers across Prince Edward Island.&lt;/p&gt;&lt;p&gt;The new system makes it easier for candidates to search, filter, and apply for opportunities with Health PEI. The platform features a simplified application process, mobile-friendly design, and bilingual access in both English and French.&lt;/p&gt;&lt;p&gt;Applicants can create and manage a personal profile, apply to multiple job opportunities, track the status of their applications, and sign up for job alerts based on their areas of interest.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Attracting and recruiting talented health care professionals is essential to strengthening our health system and improving access to care for Islanders. This new applicant tracking system modernizes the recruitment experience, making it easier for people to explore career opportunities, connect with Health PEI, and contribute to the delivery of health care across the province."&lt;/p&gt;&lt;p&gt;- &amp;nbsp;Minister of Health and Wellness, Cory Deagle&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;In addition to improving the candidate and employee experience, the platform also strengthens workforce planning by capturing key recruitment data, including application volumes, internal workforce trends, candidate qualifications, and time-to-hire metrics.&amp;nbsp;&lt;/p&gt;&lt;p&gt;"The applicant tracking system represents an important step forward in our efforts to attract and hire the health care professionals our province needs," said Pico Sine, Director of Workforce Recruitment with Health PEI. "By providing a simple and more accessible application experience, we’re making it easier for candidates to connect with job opportunities and for employees to grow their careers across our health care system.”&lt;/p&gt;&lt;p&gt;The launch of the new system is part of Health PEI's efforts to modernize recruitment processes and improve access for job seekers interested in building a health care career on Prince Edward Island.&lt;/p&gt;&lt;p&gt;Individuals interested in exploring career opportunities with Health PEI can visit&amp;nbsp;&lt;a href="https://jobspei.ca/pei-health-jobs"&gt;Health PEI Jobs | JobsPEI&amp;nbsp;&lt;/a&gt;to create a profile, sign up for job alerts, and apply for current opportunities.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Jessica Bruce&lt;br /&gt;Senior Communications Officer, Health PEI&lt;br /&gt;&lt;a href="mailto:Jessicabruce@gov.pe.ca"&gt;Jessicabruce@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Premier Lantz recognizes National Indigenous Veterans Day</title>
-      <link>https://www.princeedwardisland.ca/en/news/premier-lantz-recognizes-national-indigenous-veterans-day</link>
-      <guid isPermaLink="false">81669 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 06 Nov 2026 15:17:15 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Premier Lantz recognizes National Indigenous Veterans Day&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-06T11:17:15-04:00" title="Friday, November 6, 2026 - 11:17"&gt;Fri, 11/06/2026 - 11:17&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Premier Rob Lantz issued the following statement recognizing National Indigenous Veterans Day on November 8:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Today, we honour the First Nations, Inuit and Métis men and women who have served Canada with courage and dedication.&lt;br /&gt;&lt;br /&gt;For generations, Indigenous people have answered the call to serve—from the world wars to peacekeeping missions and military operations around the world.&lt;br /&gt;&lt;br /&gt;Yet despite their service and sacrifice, many Indigenous veterans returned home to discrimination and were denied benefits and opportunities afforded to other veterans. This injustice is an important part of our country’s history, and it must not be overlooked.&lt;br /&gt;&lt;br /&gt;Here on Prince Edward Island, we honour the service of Mi’kmaw veterans and recognize the lasting impact of their sacrifices on their families and communities.&lt;br /&gt;&lt;br /&gt;National Indigenous Veterans Day is a time to remember those who lost their lives, honour those who returned home and recognize the generations of Indigenous families who have supported those who serve.&lt;br /&gt;&lt;br /&gt;We owe it to these veterans and to future generations to preserve their stories, and ensure their contributions are never forgotten.&lt;br /&gt;&lt;br /&gt;Lest we forget.”&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Emily Blue&lt;br /&gt;Executive Council Office&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:emblue@gov.pe.ca"&gt;emblue@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Macdonald</title>
-      <link>https://www.princeedwardisland.ca/en/employee/macdonald-isabelle</link>
-      <guid isPermaLink="false">81667 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 05 Nov 2026 21:58:27 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Macdonald&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-05T17:58:27-04:00" title="Thursday, November 5, 2026 - 17:58"&gt;Thu, 11/05/2026 - 17:58&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Youth Worker&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                  &lt;div&gt;Health and Wellness&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Rural transit marks five years of serving Islanders</title>
-      <link>https://www.princeedwardisland.ca/en/news/rural-transit-marks-five-years-of-serving-islanders</link>
-      <guid isPermaLink="false">81666 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 05 Nov 2026 18:26:37 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Rural transit marks five years of serving Islanders&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jpranahan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-05T14:26:37-04:00" title="Thursday, November 5, 2026 - 14:26"&gt;Thu, 11/05/2026 - 14:26&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Rural transit marks five years of serving Islanders" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/e28d/Rural%20transit%20marks%20five%20years%20of%20serving%20Islanders.jpg.webp?itok=MPqrFXWz" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;For the past five years, rural transit has helped Islanders get where they need to go by providing an affordable and reliable transportation option.&lt;/p&gt;&lt;p&gt;During that time, it has become an established part of the province’s transportation network by connecting rural communities with larger centres and making it easier for Islanders to access work, services and everyday needs.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Over the past five years, rural transit has made a real difference for people in communities across PEI,” said Transportation and Infrastructure Minister Bloyce Thompson. “This milestone reflects the tremendous growth of the service, and we look forward to continuing to enhance it for Islanders in the years ahead.”&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The provincial government recently signed a five-year agreement with Trius Transit to continue the rural transit service, giving it further stability and a stronger foundation for continued improvements. This supports the province’s commitment to safe, affordable, and sustainable transportation for Islanders.&lt;/p&gt;&lt;p&gt;“Affordability for people has been a cornerstone of rural transit,” Minister Thompson added. “Offering $2 one-way fare, low cost monthly passes and free travel for children and students from kindergarten to Grade 12, makes this a very valuable service for many Islanders.”&lt;/p&gt;&lt;p&gt;The next phase will focus on providing reliable, accessible service, with enough capacity to meet demand and improvements based on ridership trends and community feedback.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Rural transit can make a real difference in people’s lives,” said Trius Transit president Matthew Cassidy. “As we mark five years of this service on PEI, we’re proud to make transportation more accessible, convenient and affordable for Islanders.”&lt;/p&gt;&lt;p&gt;To accommodate growing ridership, larger motorcoach buses have been added to the Western PEI, Three Rivers and Montague routes, offering more seating and improved comfort for passengers.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quick facts:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;More than 550,000 one-way passenger trips have been taken since 2021.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Rural transit has grown from three to eight year-round routes and services from Tignish to Souris.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Monthly ridership has grown from about 1,500 trips in 2021 to almost 13,000 trips in 2026.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Rural transit recorded 15,376 one-way trips in September 2026, the third-highest monthly total on record.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Ridership reached 115,948 trips between January and September 2026, five per cent higher than during the same period in 2025.&amp;nbsp;&lt;/li&gt;&lt;li&gt;The North Shore summer shuttle provided more than 11,000 one-way trips in 2026.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For more information on schedules or to book a seat, visit the Trius Transit &lt;a href="https://www.t3transit.ca/transit-pei-schedules"&gt;website&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dan Hodgson&amp;nbsp;&lt;br /&gt;Department of Transportation and Infrastructure&lt;br /&gt;&lt;a href="mailto:danmhodgson@gov.pe.ca"&gt;danmhodgson@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Orders in Council November 3, 2026 (1095-1096)</title>
-      <link>https://www.princeedwardisland.ca/en/publication/orders-in-council-november-3-2026-1095-1096</link>
-      <guid isPermaLink="false">81665 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 05 Nov 2026 18:13:20 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orders in Council November 3, 2026 (1095-1096)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tamperry&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-05T14:13:20-04:00" title="Thursday, November 5, 2026 - 14:13"&gt;Thu, 11/05/2026 - 14:13&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Orders in Council&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
   
     
       
@@ -804,8 +807,8 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
 
           
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/994f/20261103truwww.pdf"&gt;
-              &lt;span&gt;20261103truwww.pdf&lt;/span&gt;
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/e09d/Hindi%20Duty%20to%20Report.pdf"&gt;
+              &lt;span&gt;Hindi Duty to Report.pdf&lt;/span&gt;
     
               &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
   
@@ -855,46 +858,51 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Cormier</title>
-      <link>https://www.princeedwardisland.ca/en/employee/cormier-deana</link>
-      <guid isPermaLink="false">81664 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 05 Nov 2026 09:21:35 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Cormier&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;patrickmackay&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-05T05:21:35-04:00" title="Thursday, November 5, 2026 - 05:21"&gt;Thu, 11/05/2026 - 05:21&lt;/time&gt;
+      <title>Duty to Report French Poster</title>
+      <link>https://www.princeedwardisland.ca/en/publication/duty-to-report-french-poster</link>
+      <guid isPermaLink="false">81692 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 10 Nov 2026 12:57:51 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Duty to Report French Poster&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jamacleod&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-10T08:57:51-04:00" title="Tuesday, November 10, 2026 - 08:57"&gt;Tue, 11/10/2026 - 08:57&lt;/time&gt;
 &lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
           &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
   
     
       
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Payroll and Benefits Coordinator&lt;/span&gt;
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/70f2/French%20Duty%20to%20Report.pdf"&gt;
+              &lt;span&gt;French Duty to Report.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
   &lt;/div&gt;
 
   &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Public Service Commission&lt;/strong&gt;
-            &lt;div&gt;HR Management and Labour Relations&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
   
     
       
@@ -903,7 +911,104 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       &lt;/div&gt;
     
           &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Duty to Report Spanish Poster</title>
+      <link>https://www.princeedwardisland.ca/en/publication/duty-to-report-spanish-poster</link>
+      <guid isPermaLink="false">81691 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 10 Nov 2026 12:55:07 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Duty to Report Spanish Poster&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jamacleod&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-10T08:55:07-04:00" title="Tuesday, November 10, 2026 - 08:55"&gt;Tue, 11/10/2026 - 08:55&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
         
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/d1a9/Spanish%20Duty%20to%20Report.pdf"&gt;
+              &lt;span&gt;Spanish Duty to Report.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
