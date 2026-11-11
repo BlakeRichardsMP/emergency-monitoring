@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 11 Nov 2026 16:58:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:24:22 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -205,15 +205,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/17aug23a/"&gt;BC Emer
       <description>&lt;p&gt;On Saturday, June 29, 2023, at 2227, a BC Emergency Alert announcing an Evacuation Order was issued by the Town of Osoyoos and the Regional District of Okanagan-Similkameen due to wildfire. Impacted residents should evacuate the area immediately. An Evacuation Alert has also been issued for nearby areas (details below). BC Emergency Alert Message Evacuation [&amp;#8230;]&lt;/p&gt;
 The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emergency Alert: Evacuation Order for parts of Osoyoos and surrounding area due to wildfire. July 29, 2023.&lt;/a&gt; first appeared on &lt;a href="https://www.emergencyinfobc.gov.bc.ca"&gt;EmergencyInfoBC&lt;/a&gt;.</description>
       <source>British Columbia</source>
-    </item>
-
-    <item>
-      <title>Freezing Rain (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3908664244.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2486573129.2026-1</guid>
-      <pubDate>2026-11-10T16:55:17-00:00</pubDate>
-      <description>Freezing rain is no longer expected. | Areas: City of Regina, R.M. of Huron including Tugaske, R.M. of Eyebrow including Eyebrow and Brownlee, R.M. of Craik including Craik and Aylesbury, R.M. of Sarnia including Holdfast Chamberlain and Dilke, R.M. of Marquis including Tuxford Keeler and Buffalo Pound, R.M. of Dufferin including Bethune and Findlater, R.M. of Wheatlands including Mortlach and Parkbeg, R.M. of Caron including Caronport and Caron, R.M. of Pense including Pense Belle Plaine and Stony Beach, City of Moose Jaw, R.M. of Hillsborough including Crestwynd and Old Wives lake, R.M. of Redburn including Rouleau and Hearne, R.M. of Baildon including Briercrest, R.M. of Moose Jaw east of Highway 2 including Pasqua, R.M. of Moose Jaw west of Highway 2 including Bushell Park, R.M. of McKillop including Strasbourg and Rowans Ravine Prov. Park, R.M. of Longlaketon including Earl Grey and Silton, R.M. of Lumsden including Lumsden Regina Beach and Craven, R.M. of Bratt's Lake including Wilcox Corinne and Estlin, R.M. of Sherwood east of Highway 6, R.M. of Sherwood west of Highway 6 including Grand Coulee, R.M. of Lajord including Lajord Kronau and Riceton, R.M. of Francis including Vibank Sedley and Odessa, R.M. of Montmartre including Assiniboine Res., R.M. of Edenwold including Balgonie and Piapot Res., R.M. of South Qu'Appelle including Qu'Appelle and Edgeley, R.M. of Terrell including Spring Valley and Cardross, R.M. of Elmsthorpe including Avonlea and Truax, R.M. of Caledonia including Milestone and Parry, R.M. of Scott including Yellow Grass Lang and Lewvan, R.M. of Wellington including Cedoux Colfax and Tyvan, R.M. of Fillmore including Fillmore Creelman and Osage, R.M. of Arm River including Davidson and Girvin, R.M. of Willner west of Davidson, R.M. of Big Arm including Imperial and Liberty | Level: advisory</description>
-      <source>Saskatchewan</source>
     </item>
 
     <item>
