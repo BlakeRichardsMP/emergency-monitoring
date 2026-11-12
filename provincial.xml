@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 20:29:47 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -214,6 +214,186 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Weather (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2335019857.2026-1</guid>
+      <pubDate>2026-11-12T19:43:38-00:00</pubDate>
+      <description>The first notable snowfall of the season is expected for inland areas and over higher terrain. Locations: parts of mainland Nova Scotia and Cape Breton. Potential snowfall: possibly reaching 5 cm... | Areas: Lunenburg County, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Drinking Water (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">837292BA-B143-4A88-BAB1-236142155586-1</guid>
+      <pubDate>2026-11-12T14:36:19-04:00</pubDate>
+      <description>The Municipality of Inverness County has issued a boil water advisory for the Community of Inverness water system users following multiple water main breaks that occurred on November 12th, 2026... | Areas: Community of Inverness | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Islanders invited to submit input on codes of conduct for Island schools</title>
+      <link>https://www.princeedwardisland.ca/en/news/islanders-invited-to-submit-input-on-codes-of-conduct-for-island-schools</link>
+      <guid isPermaLink="false">81726 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 12 Nov 2026 19:04:37 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Islanders invited to submit input on codes of conduct for Island schools&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-12T15:04:37-04:00" title="Thursday, November 12, 2026 - 15:04"&gt;Thu, 11/12/2026 - 15:04&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="three people standing in front of building" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/9576/code%20of%20conduct.jpg.webp?itok=cNzk8OPF" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Islanders have an opportunity to help shape new codes of conduct for Island schools to support safe, respectful learning environments across the province.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Public consultations are underway at both the Public Schools Branch (PSB) and La Commission scolaire de langue française (CSLF) as each organization develops their own code and asks Islanders for input.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Creating new codes of conduct was a key recommendation in the Jenkins Report, Student Safety in Island Schools: Handling of Complaints and Incidents of Staff Sexual Misconduct. In response, the Minister of Education and Early Years issued a ministerial directive in September, with education authorities expected to approve the new codes by the end of 2026.&lt;/p&gt;&lt;p&gt;Provide input on the PSB code of conduct by visiting the &lt;a href="https://psb.edu.pe.ca/about-us/policies-and-procedures/consultation-code-of-conduct"&gt;PSB website&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Provide input on the CSLF code of conduct, visit the &lt;a href="https://cslf.edu.pe.ca/accueil"&gt;CSLF website&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The deadline for submissions is December 12, 2026.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Quotes:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;“These new codes of conduct will set shared expectations for students, staff, parents and guardians, volunteers and visitors, and will help encourage positive behaviour. They will also help ensure consistency from school to school, so expectations do not change as students and families move through the PSB and CSLF. I encourage all Islanders to provide input to help shape the new codes.”&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Minister of Education and Early Years Robin Croucher&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;“A code of conduct developed by and for La Commission scolaire de langue française will reflect the reality, aspirations, and identity of our school community. It will provide a common framework for promoting respectful and positive relationships throughout our community, helping ensure the well-being and success of everyone.”&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; -&amp;nbsp;CSLF Superintendent Ghislain&amp;nbsp;Bernard&lt;/p&gt;&lt;p&gt;"Feeling safe, respected, and supported through positive interactions is how students thrive in our schools and at home. A clear, consistent expectation through a common code of conduct helps make that possible by giving students, staff, and families a common understanding of how we treat one another and our surroundings. We want this code to reflect the voices of our school communities, so I urge students, families, and staff to share their thoughts on the codes."&lt;/p&gt;&lt;ul&gt;&lt;li&gt;PSB interim director Rob MacAdam&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Andrew Sprague&lt;br /&gt;Department of Education and Early Years&lt;br /&gt;&lt;a href="mailto:asgsprague@gov.pe.ca"&gt;asgsprague@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Six decades together and able to stay at home with the right support</title>
+      <link>https://www.princeedwardisland.ca/en/news/six-decades-together-and-able-to-stay-at-home-with-the-right-support</link>
+      <guid isPermaLink="false">81725 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 12 Nov 2026 14:14:28 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Six decades together and able to stay at home with the right support &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-12T10:14:28-04:00" title="Thursday, November 12, 2026 - 10:14"&gt;Thu, 11/12/2026 - 10:14&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="man holding a ladies hand in the hospital " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/df90/Six%20decades%20together%20image.jpg.webp?itok=eID2hZ0h" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;For Stanley and Adrienne MacDonald, home is a place filled with love, laughter, and memories. Their house in O'Leary was built in 1914 and once belonged to Adrienne's grandparents.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The couple brought it back into the family in 1970 and raised their three daughters, Heidi, Bethany, and Jill. Now 84 and 82, Stanley and Adrienne celebrated 60 years of marriage this past year. Their home is filled with family photographs and reminders of the life they've built together.&lt;/p&gt;&lt;p&gt;Looking back on six decades of marriage, Stanley jokes about reaching the milestone. "We didn't think we'd make it," he says with a laugh.&lt;br /&gt;&lt;br /&gt;They've shared plenty of adventures over the years, including cruises around the world. Stanley, a retired pharmacist who spent his career at the O’Leary Pharmacy, keeps busy offering private tours of the Island to visiting cruise ship passengers. These days, much of his time is spent caring for Adrienne.&amp;nbsp;&lt;/p&gt;&lt;p&gt;As her health and mobility have changed, Stanley has become her primary caregiver. With additional help from caregivers coming into their home each day, he's able to make sure Adrienne gets the care she needs.&lt;/p&gt;&lt;p&gt;"We have a schedule," Stanley says. "I'm more on duty at night and some of the day in the mornings, depending on what help is available that day."&lt;/p&gt;&lt;p&gt;The couple recently began receiving financial support through the province's &lt;a href="https://www.princeedwardisland.ca/en/information/health-and-wellness/at-home-caregiver-benefit"&gt;At Home Caregiver Benefit&lt;/a&gt;, which helps eligible Islanders with high care needs continue living at home with the support of a primary caregiver.&lt;/p&gt;&lt;p&gt;Adrienne recently spent nearly two weeks in hospital. While her stay helped address some health concerns, she was eager to get back home and be surrounded by familiar comforts.&lt;/p&gt;&lt;p&gt;The couple has adapted their home to meet Adrienne's needs, turning a downstairs room into a bedroom and adding a wheelchair ramp. Caregivers help with meals, personal care and other daily tasks, while Stanley looks after her medications.&lt;br /&gt;&lt;br /&gt;Their eldest daughter Heidi, who lives in New Brunswick, helped arrange the benefit and, along with her sisters Bethany in England and Jill in British Columbia, remains closely involved in coordinating her parents' care. Regular FaceTime calls and visits help keep the family connected.&lt;/p&gt;&lt;p&gt;"Dad has always been very independent and he's doing everything he can to make sure Mom is comfortable and well cared for,” Heidi says. “Having that extra support makes a big difference. It means they can stay at home together, with Dad’s bed right next to hers.” “Thankfully, Mom is almost always smiling and still makes jokes,” she adds.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Stanley says they didn't initially realize they could get financial assistance to help with the cost of care.&lt;br /&gt;"We had no idea this kind of financial help was available," he says. "It does cost a lot when you're bringing in people to help every day. It means we can keep things going here at home."&lt;br /&gt;&lt;br /&gt;The &lt;a href="https://www.princeedwardisland.ca/en/information/health-and-wellness/at-home-caregiver-benefit"&gt;At Home Caregiver Benefit&lt;/a&gt; provides eligible households with between $250 and $1,500 per month, depending on household income, to help with the cost of caring for a loved one.&lt;br /&gt;&lt;br /&gt;For Stanley and Adrienne, the benefit is helping make it possible to continue the life they've built together in the place they've called home for more than 50 years.&lt;/p&gt;&lt;p&gt;After 60 years of marriage, Stanley knows Adrienne pretty well. Their days may look different now, but what matters most has not changed.&lt;/p&gt;&lt;p&gt;"The key word is comfort and happiness," he says. "That makes it so much easier for us, to know that she's comfortable and still smiling."&lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;For more information, visit &lt;a href="https://www.princeedwardisland.ca/en/information/health-and-wellness/at-home-caregiver-benefit"&gt;At Home Caregiver Benefit&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -682,203 +862,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
   &lt;/div&gt;</description>
       <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Statement by Minister Deagle on Nurse Practitioner Week</title>
-      <link>https://www.princeedwardisland.ca/en/news/statement-by-minister-deagle-on-nurse-practitioner-week</link>
-      <guid isPermaLink="false">81714 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 10 Nov 2026 19:26:58 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Statement by Minister Deagle on Nurse Practitioner Week&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-10T15:26:58-04:00" title="Tuesday, November 10, 2026 - 15:26"&gt;Tue, 11/10/2026 - 15:26&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="people in front of a building" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/84d4/Nurse%20Practitioner%20Week.jpg.webp?itok=me0X5lIC" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Minister of Health and Wellness Cory Deagle issued the following statement to recognize Nurse Practitioner Week:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Nurse Practitioner Week, November 8-14, &amp;nbsp;is an opportunity to recognize and thank the dedicated nurse practitioners who provide exceptional care to Islanders every day.&lt;/p&gt;&lt;p&gt;Nurse practitioners are a vital part of Prince Edward Island's health care system. They work across primary care, hospitals, long-term care, mental health and addictions services, and specialized care settings, helping Islanders access timely, high-quality care closer to home.&lt;/p&gt;&lt;p&gt;Their expertise, compassion, and commitment make a meaningful difference in the lives of patients and families across our province. Whether they are managing complex health conditions, supporting prevention and wellness, or providing ongoing primary care, nurse practitioners play an essential role in delivering patient-centred care.&lt;/p&gt;&lt;p&gt;Prince Edward Island is fortunate to have one of the strongest nurse practitioner workforces in the country. Our government remains committed to supporting nurse practitioners to work to their full scope of practice and to continuing to grow this important workforce. This year alone, Health PEI welcomed 20 new nurse practitioners, helping strengthen access to care for Islanders.&lt;/p&gt;&lt;p&gt;I would also like to recognize the leadership of the Prince Edward Island Nurse Practitioner Association and thank its members for their advocacy and ongoing commitment to advancing the profession.&lt;/p&gt;&lt;p&gt;To all nurse practitioners across Prince Edward Island, thank you for your professionalism, your dedication, and the care you provide every day. Your work improves the health and well-being of Islanders and strengthens our health care system.”&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Autumn Tremere&lt;br /&gt;Department of Health and Wellness&lt;br /&gt;&lt;a href="mailto:agtremere@gov.pe.ca"&gt;agtremere@gov.pe.ca&lt;/a&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Oyster Growers Income Stabilization Program Application Form</title>
-      <link>https://www.princeedwardisland.ca/en/publication/oyster-growers-income-stabilization-program-application-form</link>
-      <guid isPermaLink="false">81713 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 10 Nov 2026 19:02:14 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Oyster Growers Income Stabilization Program Application Form&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kderoo&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-10T15:02:14-04:00" title="Tuesday, November 10, 2026 - 15:02"&gt;Tue, 11/10/2026 - 15:02&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Guidelines&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/380b/Oyster%20Growers%20Income%20Stabilization%20Program_Application%20Form.pdf"&gt;
-              &lt;span&gt;Oyster Growers Income Stabilization Program_Application Form.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Premier McLeod on the Enbridge Line 21 Pipeline</title>
-      <link>https://www.gov.nt.ca/en/newsroom/news/premier-mcleod-enbridge-line-21-pipeline</link>
-      <guid isPermaLink="false">9422 at https://www.gov.nt.ca</guid>
-      <pubDate>Wed, 26 Sep 2018 23:05:28 +0000</pubDate>
-      <description>&lt;div class="field field-name-body field-type-text-with-summary field-label-hidden"&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;p&gt;&lt;strong&gt;YELLOWKNIFE&lt;/strong&gt; - Premier Bob McLeod issued the following statement on the Enbridge Line 21 pipeline today:&lt;/p&gt;
-
-&lt;p&gt;“I was pleased to learn that operations have resumed for Enbridge’s Line 21 pipeline after almost 2 years of no activity.&lt;/p&gt;
-
-&lt;p&gt;"Resource development has, and will continue to be, the backbone of our economy and is central to ensuring a good source of middle class jobs and business opportunities. Our territory has mineral and petroleum resources and the development of those resources can have a transformative effect on our people and economy.&lt;/p&gt;
-
-&lt;p&gt;"Sustainable economic development is key to the future of Northerners. With a strong resource development base, we will be able to support diversification of our local economies into emerging and established sectors.&lt;/p&gt;
-
-&lt;p&gt;"On behalf of the Government of the Northwest Territories I’d like to offer my congratulations to Imperial Oil, Enbridge the town of Norman Wells and other partners for getting this pipeline back up and running. I know the efforts and economic impacts of the pipeline have already begun to take shape in the community and will be felt for years to come. ”&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Charlotte Digness&lt;/strong&gt;&lt;br /&gt;
-	Media and Communications Coordinator&lt;br /&gt;
-	Cabinet Communications and Protocol&lt;br /&gt;
-	Government of the Northwest Territories&lt;br /&gt;
-	Ph: 867-767-9140 ext. 11092&lt;br /&gt;
-	Email: &lt;a href="mailto:charlotte_digness@gov.nt.ca"&gt;charlotte_digness@gov.nt.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-type field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;News Type:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/news-type/media-statement"&gt;Media Statement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-department field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;Department:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/department/premier"&gt;Premier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class="links inline"&gt;&lt;li class="fr first last"&gt;&lt;a class="language-link" href="https://www.gov.nt.ca/fr/newsroom/le-premier-ministre-mcleod-se-r%C3%A9jouit-de-la-r%C3%A9ouverture-de-l%E2%80%99ol%C3%A9oduc-21-d%E2%80%99enbridge" xml:lang="fr"&gt;Français&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <source>Northwest Territories</source>
     </item>
 
   </channel>
