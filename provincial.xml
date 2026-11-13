@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 13 Nov 2026 01:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:30:39 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -232,6 +232,62 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-11-12T14:36:19-04:00</pubDate>
       <description>The Municipality of Inverness County has issued a boil water advisory for the Community of Inverness water system users following multiple water main breaks that occurred on November 12th, 2026... | Areas: Community of Inverness | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Bruce</title>
+      <link>https://www.princeedwardisland.ca/en/employee/bruce-melanie-1</link>
+      <guid isPermaLink="false">81727 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 13 Nov 2026 04:43:00 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Bruce&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;DSMACKINNON&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-13T00:43:00-04:00" title="Friday, November 13, 2026 - 00:43"&gt;Fri, 11/13/2026 - 00:43&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Chronic Disease Consultant&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health and Wellness&lt;/strong&gt;
+            &lt;div&gt;Community Health and Policy&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -777,87 +833,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
           &lt;div class="layout__region layout__region--second"&gt;
         
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Capital Budget 2027-2028 prioritizes needs to build a strong foundation for tomorrow</title>
-      <link>https://www.princeedwardisland.ca/en/news/capital-budget-2027-2028-prioritizes-needs-to-build-a-strong-foundation-for-tomorrow</link>
-      <guid isPermaLink="false">81715 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 10 Nov 2026 19:35:33 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Capital Budget 2027-2028 prioritizes needs to build a strong foundation for tomorrow&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-10T15:35:33-04:00" title="Tuesday, November 10, 2026 - 15:35"&gt;Tue, 11/10/2026 - 15:35&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Minister Burridge holding the cover of the Capital Budget" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/0029/Minister%20Burridge%20holding%20the%20cover.jpg.webp?itok=HEXa19kA" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Today, Minister of Finance and Affordability Jill Burridge presented the Government of Prince Edward Island’s 2027-28 Capital Budget, a five-year $1.34 billion capital plan, to the Legislative Assembly.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Prince Edward Island today is not the same PEI it was ten or twenty years ago, and Islanders’ expectations of government have evolved too. To deliver the services Islanders expect, we have to close the infrastructure gaps that remain. Today’s budget does that by focusing our capital investments where the needs are most pressing.”&lt;/p&gt;&lt;p&gt;- Premier of Prince Edward Island Rob Lantz&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The 2027-28 Capital Budget reduces five-year planned spending by $289 million from last year’s plan. Major projects are nearing completion, construction is paced to reflect the realities of a competitive construction market, and government is balancing investments within its fiscal guardrails while protecting essential healthcare and education services.&lt;/p&gt;&lt;p&gt;“Our five-year capital plan is focused on getting the basics right by building the strong foundation Prince Edward Island needs to go into the future. We need healthcare and education systems that work for Islanders. That’s why nearly 60% of our five-year plan is dedicated to these essential services; we are taking care of what we already have, renewing aging infrastructure, and building new where it is needed,” said Minister of Finance and Affordability Jill Burridge. “We are going to do this responsibly, spending what we can at a pace we can afford, because this is what Islanders depend on us to do.”&lt;/p&gt;&lt;p&gt;Close to 60% of the Capital Budget plan presented today is dedicated to maintaining healthcare services and public education for Islanders by focusing investments in maintaining and repairing existing assets and infrastructure, and strategically investing in new projects to align with population growth and service demands.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Five-year highlights of the Capital Budget include:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;A safe and reliable healthcare system - $418 million&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Three Rivers Health Campus that delivers modern care for Eastern PEI - $113 million&lt;/li&gt;&lt;li&gt;Mental health campus completion - $69 million&amp;nbsp;&lt;/li&gt;&lt;li&gt;QEH critical systems for boilers, chillers, and generators - $40 million&lt;/li&gt;&lt;li&gt;Modernizing access to healthcare information - $20 million&lt;/li&gt;&lt;li&gt;With the support of PCH and QEH foundations ($33 million), replacing and renewing critical healthcare equipment and repairing facilities - $98 million&amp;nbsp;&lt;/li&gt;&lt;li&gt;Expanding public long-term care - $16 million&lt;/li&gt;&lt;li&gt;Increasing access to primary care - $19 million&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Taking care of our schools and building where needed - $380 million&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;New Summerside school - $80 million&lt;/li&gt;&lt;li&gt;Completing and renewing high schools - $23 million&lt;/li&gt;&lt;li&gt;Expanding and new intermediate schools - $58 million&lt;/li&gt;&lt;li&gt;Renovating and new elementary schools - $62 million&lt;/li&gt;&lt;li&gt;Strengthening French language education - $69 million&lt;/li&gt;&lt;li&gt;School Revitalization Fund and capital repairs - $33 million&lt;/li&gt;&lt;li&gt;Safe Rides to School - $23 million&lt;/li&gt;&lt;li&gt;Classroom Technology - $20 million&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Connecting communities and strengthening the economy - $370 million&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Rehabilitating and improving roads, bridges, and highways - $285 million&lt;/li&gt;&lt;li&gt;Protecting our land and shorelines - $15 million&lt;/li&gt;&lt;li&gt;Heavy equipment and fleet renewal - $27 million&lt;/li&gt;&lt;li&gt;Boosting economic infrastructure - $15 million&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Continuing housing progress - $60 million&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Taking care of existing public housing - $25 million&lt;/li&gt;&lt;li&gt;More social housing and infrastructure - $26 million&lt;/li&gt;&lt;li&gt;Residential group homes for youth - $5 million&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For more information on the 2027-28 Capital Budget, visit&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/finance/capital-budget"&gt;PrinceEdwardIsland.ca/Capital-Budget&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Sydney Gallant&lt;br /&gt;Office of the Premier&lt;br /&gt;&lt;a href="mailto:sydngallant@gov.pe.ca"&gt;sydngallant@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Vicki Tse&lt;br /&gt;Department of Finance and Affordability&lt;br /&gt;&lt;a href="mailto:vickitse@gov.pe.ca"&gt;vickitse@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
