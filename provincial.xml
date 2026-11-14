@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 14 Nov 2026 09:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:56:37 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -217,20 +217,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Drinking Water (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">C06770EE-9910-4650-A63A-84BE9DA037D7-1</guid>
+      <pubDate>2026-11-14T11:44:20-04:00</pubDate>
+      <description>The Municipality of Inverness County has issued a boil water advisory for the Community of Inverness water system users following multiple water main breaks that occurred on November 12th, 2026... | Areas: Community of Inverness | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Weather (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.1838016209.2026-1</guid>
       <pubDate>2026-11-13T19:48:38-00:00</pubDate>
       <description>Weather | Areas: Pictou County, Guysborough County, Antigonish County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
-
-    <item>
-      <title>Drinking Water (Updated)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">5424BECF-B6B5-4E1F-8FC2-D414939C0A57-1</guid>
-      <pubDate>2026-11-13T14:27:11-04:00</pubDate>
-      <description>The Municipality of Inverness County has issued a boil water advisory for the Community of Inverness water system users following multiple water main breaks that occurred on November 12th, 2026... | Areas: Community of Inverness | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
