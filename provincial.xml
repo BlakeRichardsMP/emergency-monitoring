@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 15 Nov 2026 14:37:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 19:57:24 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -214,15 +214,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Drinking Water (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">C06770EE-9910-4650-A63A-84BE9DA037D7-1</guid>
-      <pubDate>2026-11-14T11:44:20-04:00</pubDate>
-      <description>The Municipality of Inverness County has issued a boil water advisory for the Community of Inverness water system users following multiple water main breaks that occurred on November 12th, 2026... | Areas: Community of Inverness | Level: advisory</description>
-      <source>Nova Scotia</source>
     </item>
 
     <item>
