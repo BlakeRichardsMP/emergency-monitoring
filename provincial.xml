@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:23:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:32:38 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,12 +208,242 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Snowfall (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3331122805.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3331122805.2026-1</guid>
+      <pubDate>2026-11-17T21:54:14-00:00</pubDate>
+      <description>Snowfall, with total amounts of 10 to 15 cm is expected. Snow is expected to develop overnight tonight over the Cypress Hills, becoming heavy at times on Wednesday. Time span: overnight until... | Areas: R.M. of Piapot including Piapot, R.M. of Carmichael including Carmichael, R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Drinking Water (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">113E7C44-0E05-4C6C-B62B-C988952ACA8C-1</guid>
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>November 16-20 is Financial Literacy Week</title>
+      <link>https://www.princeedwardisland.ca/en/news/november-16-20-is-financial-literacy-week</link>
+      <guid isPermaLink="false">81748 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 17 Nov 2026 19:43:49 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;November 16-20 is Financial Literacy Week &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-17T15:43:49-04:00" title="Tuesday, November 17, 2026 - 15:43"&gt;Tue, 11/17/2026 - 15:43&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="Image of people in front of stairs " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/f9da/Financial%20Literacy%20Week.jpg.webp?itok=b_K7NxMm" width="1000" /&gt;
+
+  
+
+
+        &lt;figcaption class="tw-text-sm tw-text-dark tw-font-normal tw-font-headers tw-tracking-tighter mt-2"&gt;
+      Minister of Agriculture Hilton MacLennan, Flexible Learning Support Leader Lori Ronahan, Director of English Programs and Services Maribeth Rogers Neale and Minister of Education and Early Years Robin Croucher
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Students across Prince Edward Island will benefit from a strengthened framework aimed at improving financial literacy.&lt;/p&gt;&lt;p&gt;To mark Financial Literacy Week, the province has created a Provincial K-12 Literacy Framework to help Island students build the confidence and practical skills needed to make informed financial decisions throughout their lives. The Framework will help students explore real-world topics such as spending, saving, goal setting, and the factors that influence financial choices.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Financial literacy is a foundational life skill that helps people make informed decisions and build confidence in managing their financial future. Through the Provincial K-12 Financial Literacy Framework, we are ensuring students have opportunities to develop these skills throughout their education, helping prepare them for success in school, work and life."&lt;/p&gt;&lt;p&gt;- Minister of Education and Early Years Robin Croucher&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The Framework was used to develop a Financial Literacy Week Activity Guide, which offers engaging, age-appropriate learning opportunities for students across Island schools. The guide is available as an internal resource for Island educators to use in their lesson plans during Financial Literacy Week and throughout the school year.&lt;/p&gt;&lt;p&gt;This year marks the first time the Government of Prince Edward Island has formally recognized Financial Literacy Week, which will take place annually during the third full week of November.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Andrew Sprague&lt;br /&gt;Department of Education and Early Years&lt;br /&gt;&lt;a href="mailto:asgsprague@gov.pe.ca"&gt;asgsprague@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Pridham-MacNeill</title>
+      <link>https://www.princeedwardisland.ca/en/employee/pridham-macneill-michelle-0</link>
+      <guid isPermaLink="false">81747 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 17 Nov 2026 18:36:12 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pridham-MacNeill&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gwydionmorris&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-17T14:36:12-04:00" title="Tuesday, November 17, 2026 - 14:36"&gt;Tue, 11/17/2026 - 14:36&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Nursing Program Lead&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Health and Wellness&lt;/strong&gt;
+            &lt;div&gt;Health Workforce Development&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Alert Ready test planned</title>
+      <link>https://www.princeedwardisland.ca/en/news/alert-ready-test-planned</link>
+      <guid isPermaLink="false">81746 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 17 Nov 2026 17:44:02 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Alert Ready test planned&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-17T13:44:02-04:00" title="Tuesday, November 17, 2026 - 13:44"&gt;Tue, 11/17/2026 - 13:44&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="person on a phone" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/e6a1/Ready%20Alert%201.jpg.webp?itok=TIkHdwAf" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Islanders are advised that there will be a test of the Alert Ready system Wednesday, November 18, 2026 at approximately 12:55 p.m.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.alertready.ca/"&gt;Alert Ready,&lt;/a&gt; the Canadian emergency alerting system, delivers critical information to television, radio, and compatible wireless devices to ensure that citizens are aware of emergencies and can take the appropriate steps in the event of immediate risk or danger. This pre-scheduled alert will indicate it is just a test.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“We were fortunate to have had minimal impacts during this year’s hurricane season. Testing the Alert Ready system is a good reminder that emergencies can happen at any time. Particularly with winter just around the corner, residents should remain prepared for extreme weather.”&lt;/p&gt;&lt;p&gt;- Justice and Public Safety Minister Bloyce Thompson&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Personal preparedness is the first step. It is important for everyone to have a supply of items their household may need if an emergency occurs. This can vary by household, but can include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Water&lt;/li&gt;&lt;li&gt;Non-perishable food and a can opener&lt;/li&gt;&lt;li&gt;Medicine&lt;/li&gt;&lt;li&gt;Flashlights&amp;nbsp;&lt;/li&gt;&lt;li&gt;A battery powered or hand crank radio&lt;/li&gt;&lt;li&gt;Printed list of important phone numbers&lt;/li&gt;&lt;li&gt;Supplies for pets&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For detailed lists, including recommended emergency kit items for pets, and a check list for a vehicle emergency kit, download a copy of&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/publications/ops-preguide.pdf"&gt;Your Emergency Preparedness Guide&lt;/a&gt;&lt;/p&gt;&lt;p&gt;There are 62 certified reception centres in the province, along with nine provincial emergency sites, and each is equipped with a generator to provide backup power. Emergency reception centre sites are listed on the province’s&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/feature/reception-centre-map"&gt;Reception Centre Map.&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Many Island gas stations now have generators so they can stay open and provide fuel in the event of a power outage. These locations are noted on the&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/feature/fuel-station-resiliency-sites-with-generators"&gt;Fuel Station Resiliency Sites With Generators&lt;/a&gt; map.&amp;nbsp;&lt;/p&gt;&lt;p&gt;If residents are using home generators during a power outage, it is important to keep the following&amp;nbsp;safety measures in mind:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Place generators at least 20 feet away from doors, windows and vents.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Make sure the fumes cannot enter the home through windows, doors, vents or other openings in the building.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Never use a generator in an attached garage, even with the door open.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Make sure carbon monoxide and smoke alarms are in good working order.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For more information on getting prepared for extreme weather and other emergencies, visit:&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/justice-and-public-safety/extreme-weather-safety"&gt;Extreme Weather Safety&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Katie Cudmore&amp;nbsp;&lt;br /&gt;Department of Justice and Public Safety&lt;br /&gt;&lt;a href="mailto:Katie.cudmore@gov.pe.ca"&gt;Katiecudmore@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -652,252 +882,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
   &lt;/div&gt;</description>
       <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>PF Peters Road PIDs 259465 289124 289116  432484</title>
-      <link>https://www.princeedwardisland.ca/en/publication/pf-peters-road-pids-259465-289124-289116-432484</link>
-      <guid isPermaLink="false">81736 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 16 Nov 2026 17:00:11 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PF Peters Road PIDs 259465 289124 289116  432484&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-16T13:00:11-04:00" title="Monday, November 16, 2026 - 13:00"&gt;Mon, 11/16/2026 - 13:00&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/0369/PF%20Peters%20Road%20PIDs%20259465%20289124%20289116%20%20432484_0.pdf"&gt;
-              &lt;span&gt;PF Peters Road PIDs 259465 289124 289116  432484.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Scotchfort PID130203</title>
-      <link>https://www.princeedwardisland.ca/en/publication/scotchfort-pid130203</link>
-      <guid isPermaLink="false">81735 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 16 Nov 2026 16:46:32 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Scotchfort PID130203&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-16T12:46:32-04:00" title="Monday, November 16, 2026 - 12:46"&gt;Mon, 11/16/2026 - 12:46&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/a15d/Scotchfort%20PID130203.pdf"&gt;
-              &lt;span&gt;Scotchfort PID130203.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Digital Health Week highlights online tools for Islanders</title>
-      <link>https://www.princeedwardisland.ca/en/news/digital-health-week-highlights-online-tools-for-islanders</link>
-      <guid isPermaLink="false">81734 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 16 Nov 2026 15:17:22 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Digital Health Week highlights online tools for Islanders &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-16T11:17:22-04:00" title="Monday, November 16, 2026 - 11:17"&gt;Mon, 11/16/2026 - 11:17&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;During Digital Health Week, November 16 to 22, Islanders are encouraged to explore trusted digital tools and resources that help them access health information and take a more active role in their health.&lt;/p&gt;&lt;p&gt;Digital Health Week is an annual national initiative led by&amp;nbsp;&lt;a href="https://www.infoway-inforoute.ca/en/"&gt;Canada Health Infoway&lt;/a&gt;. This year’s focus is on connected care, highlighting the importance of a patient’s health information moving securely between various providers and care settings.&lt;/p&gt;&lt;p&gt;In Prince Edward Island,&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/topic/myhealthpei"&gt;MyHealthPEI,&lt;/a&gt; an online tool recently introduced, gives Island residents aged 16 and older secure access to laboratory results, diagnostic imaging reports, immunization records, self-entry tools and trusted educational health information.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Digital health investments are giving Islanders more secure and convenient access to their health information, while helping health-care providers deliver more connected and coordinated care. The first year of MyHealthPEI has shown that Islanders value having greater access to their health information and opportunities to participate more actively in their care.”&lt;/p&gt;&lt;p&gt;-Health and Wellness Minister, Cory Deagle&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;As of November 1, 2026, more than 16,000 Islanders have registered for MyHealthPEI and connected to their personal health information online. Islanders who are not yet using it can create and verify a MyPEI account and connect to MyHealthPEI using a valid PEI Health Card.&lt;/p&gt;&lt;p&gt;This week, participating PEI Public Libraries will offer in-person clinics to help people with MyPEI account setup, verification and MyHealthPEI access. Islanders should review the identification requirements and bring the necessary documents. Year-round support is also available at Access PEI locations. Information on pop-up clinic locations and required documents is available&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/mypei-account-in-person-verification"&gt;online&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“We know that having someone available to help can make a real difference when people are getting started with digital health tools,” said MyHealthPEI manager of Citizen Information Services Kelly Coughlin. “By partnering with PEI Public Libraries, Access PEI and community organizations, we are bringing support closer to Islanders and making it easier for them to connect with digital health services.”&lt;/p&gt;&lt;p&gt;Prince Edward Island’s participation in Digital Health Week reflects the province’s five-year&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/health-and-wellness/digital-health-strategy"&gt;Digital Health Strategy&lt;/a&gt;, which guides investments in secure technologies that help Islanders manage their health, support providers in delivering care and strengthen the use of health information across the system.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Schedule for pop-up clinics at PEI Public Libraries:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/point-interest/charlottetown-library-learning-centre"&gt;Charlottetown Public Library&lt;/a&gt; – Monday, November 16 from 10 a.m. to 1 p.m.&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/point-interest/summerside-rotary-library"&gt;Summerside Public Library&lt;/a&gt; – Wednesday, November 18 from 1 p.m. to 3 p.m.&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/point-interest/souris-public-library"&gt;Souris Public Library&lt;/a&gt; – Thursday, November 19 from 10 a.m. to 12 p.m.&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/point-interest/montague-rotary-library"&gt;Montague Public Library&lt;/a&gt; – Thursday, November 19 from 2 p.m. to 4 p.m.&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/building/oleary-public-library"&gt;O’Leary Public Library&lt;/a&gt; – Friday, November 20 from 1 p.m. to 3 p.m.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Quick facts:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;As of November 1, 2026, more than 16,000 MyHealthPEI accounts have been created.&amp;nbsp;Islanders have used the service to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;View recent laboratory results more than 365,000 times&amp;nbsp;&lt;/li&gt;&lt;li&gt;View recent diagnostic imaging reports more than 187,000 times&amp;nbsp;&lt;/li&gt;&lt;li&gt;View immunization histories more than 40,000 times&amp;nbsp;&lt;/li&gt;&lt;li&gt;Record more than 87,000 updates using self-entry health tools, with the highest self-entry updates: health issues (14,700), medical procedures (14,500), allergy information (8,400), and blood pressure measurements (6,500).&amp;nbsp;&lt;/li&gt;&lt;li&gt;Upload more than 8,400 personal medical documents&lt;/li&gt;&lt;li&gt;Print more than 11,000 documents&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media Contacts:&lt;/strong&gt;&lt;br /&gt;Maureen Coulter&lt;br /&gt;Department of Health and Wellness&lt;br /&gt;&lt;a href="mailto:maureen.coulter@gov.pe.ca"&gt;maureencoulter@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Stephanie Kelly&lt;br /&gt;Health PEI&lt;br /&gt;&lt;a href="mailto:stephaniekelly@ihis.org"&gt;stephaniekelly@ihis.org&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Learn more:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/service/log-into-myhealthpei"&gt;Access MyHealthPEI&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/health-pei/myhealthpei-support-and-resources"&gt;MyHealthPEI support and resources&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/transportation-and-infrastructure/mypei-account-in-person-verification"&gt;MyPEI and MyHealthPEI pop-up clinics&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://yourguidetodigitalhealth.princeedwardisland.ca/"&gt;Your Guide to Digital Health&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.princeedwardisland.ca/en/information/health-and-wellness/digital-health-strategy"&gt;Prince Edward Island’s Digital Health Strategy&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Premier McLeod on the Enbridge Line 21 Pipeline</title>
-      <link>https://www.gov.nt.ca/en/newsroom/news/premier-mcleod-enbridge-line-21-pipeline</link>
-      <guid isPermaLink="false">9422 at https://www.gov.nt.ca</guid>
-      <pubDate>Wed, 26 Sep 2018 23:05:28 +0000</pubDate>
-      <description>&lt;div class="field field-name-body field-type-text-with-summary field-label-hidden"&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;p&gt;&lt;strong&gt;YELLOWKNIFE&lt;/strong&gt; - Premier Bob McLeod issued the following statement on the Enbridge Line 21 pipeline today:&lt;/p&gt;
-
-&lt;p&gt;“I was pleased to learn that operations have resumed for Enbridge’s Line 21 pipeline after almost 2 years of no activity.&lt;/p&gt;
-
-&lt;p&gt;"Resource development has, and will continue to be, the backbone of our economy and is central to ensuring a good source of middle class jobs and business opportunities. Our territory has mineral and petroleum resources and the development of those resources can have a transformative effect on our people and economy.&lt;/p&gt;
-
-&lt;p&gt;"Sustainable economic development is key to the future of Northerners. With a strong resource development base, we will be able to support diversification of our local economies into emerging and established sectors.&lt;/p&gt;
-
-&lt;p&gt;"On behalf of the Government of the Northwest Territories I’d like to offer my congratulations to Imperial Oil, Enbridge the town of Norman Wells and other partners for getting this pipeline back up and running. I know the efforts and economic impacts of the pipeline have already begun to take shape in the community and will be felt for years to come. ”&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Charlotte Digness&lt;/strong&gt;&lt;br /&gt;
-	Media and Communications Coordinator&lt;br /&gt;
-	Cabinet Communications and Protocol&lt;br /&gt;
-	Government of the Northwest Territories&lt;br /&gt;
-	Ph: 867-767-9140 ext. 11092&lt;br /&gt;
-	Email: &lt;a href="mailto:charlotte_digness@gov.nt.ca"&gt;charlotte_digness@gov.nt.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-type field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;News Type:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/news-type/media-statement"&gt;Media Statement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-department field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;Department:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/department/premier"&gt;Premier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class="links inline"&gt;&lt;li class="fr first last"&gt;&lt;a class="language-link" href="https://www.gov.nt.ca/fr/newsroom/le-premier-ministre-mcleod-se-r%C3%A9jouit-de-la-r%C3%A9ouverture-de-l%E2%80%99ol%C3%A9oduc-21-d%E2%80%99enbridge" xml:lang="fr"&gt;Français&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <source>Northwest Territories</source>
     </item>
 
   </channel>
