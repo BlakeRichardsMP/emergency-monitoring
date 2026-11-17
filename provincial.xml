@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:23:36 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -214,6 +214,174 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Bergevin</title>
+      <link>https://www.princeedwardisland.ca/en/employee/bergevin-jean</link>
+      <guid isPermaLink="false">81743 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 17 Nov 2026 08:56:08 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Bergevin&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;bjones&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-17T04:56:08-04:00" title="Tuesday, November 17, 2026 - 04:56"&gt;Tue, 11/17/2026 - 04:56&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Bilingual Administrative Assistant&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;Je parle français&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Fisheries, Rural Development and Tourism&lt;/strong&gt;
+            &lt;div&gt;Museum and Heritage Foundation&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Murphy</title>
+      <link>https://www.princeedwardisland.ca/en/employee/murphy-dana-0</link>
+      <guid isPermaLink="false">81742 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 17 Nov 2026 06:04:58 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Murphy&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-17T02:04:58-04:00" title="Tuesday, November 17, 2026 - 02:04"&gt;Tue, 11/17/2026 - 02:04&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;AccessAbility Supports Coordinator&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Social Development and Seniors&lt;/strong&gt;
+            &lt;div&gt;Social Assistance/AccessAbility Supports Program&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Triolo</title>
+      <link>https://www.princeedwardisland.ca/en/employee/triolo-andrea-0</link>
+      <guid isPermaLink="false">81741 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 17 Nov 2026 05:33:26 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Triolo&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-17T01:33:26-04:00" title="Tuesday, November 17, 2026 - 01:33"&gt;Tue, 11/17/2026 - 01:33&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Director of Justice Policy and FTP Realtions&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Justice and Public Safety&lt;/strong&gt;
+            &lt;div&gt;Justice Policy, Planning, and FPT Relations&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -672,211 +840,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Health PEI prepares for upcoming Accreditation Canada surveys</title>
-      <link>https://www.princeedwardisland.ca/en/news/health-pei-prepares-for-upcoming-accreditation-canada-surveys</link>
-      <guid isPermaLink="false">81733 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 16 Nov 2026 14:17:53 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Health PEI prepares for upcoming Accreditation Canada surveys&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-16T10:17:53-04:00" title="Monday, November 16, 2026 - 10:17"&gt;Mon, 11/16/2026 - 10:17&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Health PEI is preparing for its upcoming Accreditation Canada on-site survey visits, scheduled for November 2026 and June 2027, as part of its ongoing commitment to delivering safe, high-quality, person-centered care for Islanders.&lt;/p&gt;&lt;p&gt;From November 22 to 27, 2026, Accreditation Canada surveyors will visit many Health PEI facilities and programs across Prince Edward Island. During this time, surveyors will meet with staff, physicians, leaders, volunteers, patients, clients, residents and their families, to gain a firsthand understanding of the care and services being delivered throughout the organization.&lt;/p&gt;&lt;p&gt;Accreditation is an important part of organizational accountability and continuous quality improvement. Through its partnership with the Health Standards Organization (HSO) and Accreditation Canada, Health PEI assesses its programs and services against evidence-based national standards to strengthen quality, safety, and patient experience across the health system.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Accreditation is more than a survey visit. It is an ongoing journey of learning, collaboration and improvement that helps ensure we continue providing the highest quality care possible to Islanders. We look forward to welcoming surveyors to our facilities and programs this November and demonstrating the dedication and expertise of our teams across the organization."&lt;/p&gt;&lt;p&gt;- Chief Executive Officer of Health PEI, Laurae Kloschinsky&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The surveys will assess Health PEI programs and services against national standards and provide valuable insights into organizational strengths and opportunities for improvement. Surveyors will be visible in facilities and programs across the province, observing care environments, reviewing practices, and speaking with both our teams and the patients, clients, residents and families we serve about quality and safety initiatives.&lt;/p&gt;&lt;p&gt;Following the June 2027 survey visit, Health PEI will receive a report and will be awarded an accreditation decision in summer of 2027.&lt;/p&gt;&lt;p&gt;Health PEI's last on-site accreditation survey took place in 2022. Since then, teams across the organization have continued to advance initiatives aimed at enhancing patient safety, quality of care, and service delivery. Accreditation findings and final decisions are shared publicly, reinforcing transparency and accountability to Islanders.&lt;/p&gt;&lt;p&gt;"Accreditation involves everyone," said Laurae Kloschinsky. "It is an opportunity to celebrate the exceptional work happening across Health PEI every day, learn from one another, and demonstrate our ongoing commitment to providing safe, high-quality care and services for Islanders."&lt;/p&gt;&lt;p&gt;As Health PEI prepares to welcome surveyors, the organization extends its thanks to staff, physicians, volunteers, patient and family partners, leaders, foundations, unions, and community partners whose ongoing commitment to quality and patient safety helps ensure the best possible care for Islanders.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media Contact:&lt;/strong&gt;&lt;br /&gt;Stephanie Kelly&lt;br /&gt;Senior Communications Officer, Health PEI&lt;br /&gt;&lt;a href="mailto:stephaniekelly@ihis.org"&gt;stephaniekelly@ihis.org&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Guild</title>
-      <link>https://www.princeedwardisland.ca/en/employee/guild-gord</link>
-      <guid isPermaLink="false">81732 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 13 Nov 2026 22:53:18 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Guild&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;alandoucette&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-13T18:53:18-04:00" title="Friday, November 13, 2026 - 18:53"&gt;Fri, 11/13/2026 - 18:53&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Chief Financial Officer&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                  &lt;div&gt;Transportation and Infrastructure&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Orders in Council November 10, 2026 (1097-1133)</title>
-      <link>https://www.princeedwardisland.ca/en/publication/orders-in-council-november-10-2026-1097-1133</link>
-      <guid isPermaLink="false">81730 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Fri, 13 Nov 2026 17:29:02 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orders in Council November 10, 2026 (1097-1133)&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tamperry&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-13T13:29:02-04:00" title="Friday, November 13, 2026 - 13:29"&gt;Fri, 11/13/2026 - 13:29&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Orders in Council&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/05c9/20261110truwww.pdf"&gt;
-              &lt;span&gt;20261110truwww.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
   
     
       
