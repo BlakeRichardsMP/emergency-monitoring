@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:37:21 +0000</lastBuildDate>
 
     <item>
       <title>This is a scheduled test of the Alberta Emergency Alert system. There is no emergency.</title>
@@ -218,6 +218,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Snowfall (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3331122805.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3376028288.2026-1</guid>
+      <pubDate>2026-11-19T04:27:12-00:00</pubDate>
+      <description>Significant snowfall is no longer expected. | Areas: R.M. of Piapot including Piapot, R.M. of Carmichael including Carmichael, R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Test Message (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/A926E804-6EC9-4468-810E-E0838A70AD42</link>
       <guid isPermaLink="false">A926E804-6EC9-4468-810E-E0838A70AD42-1</guid>
@@ -232,15 +241,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">F3BEB486-BA84-4DFA-9366-0F151EF61634-1</guid>
       <pubDate>2026-11-18T12:19:23-06:00</pubDate>
       <description>RM of Orkney #244. A Precautionary Drinking Water Advisory is being issued for all users north and east of Otthon on Highway 10 which includes both Collacott and Pleasant Heights subdivisions,... | Areas: RM of Orkney #244 | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Snowfall (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3331122805.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2574576998.2026-1</guid>
-      <pubDate>2026-11-18T16:06:59-00:00</pubDate>
-      <description>Snowfall, with total amounts of 10 to 15 cm is expected. Snow at times heavy is expected over the Cypress Hills today. Total accumulations will approach 15 cm over the higher terrain. The snow will... | Areas: R.M. of Piapot including Piapot, R.M. of Carmichael including Carmichael, R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
