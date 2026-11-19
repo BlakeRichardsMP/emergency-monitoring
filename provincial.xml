@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:54:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:17:24 +0000</lastBuildDate>
 
     <item>
       <title>This is a scheduled test of the Alberta Emergency Alert system. There is no emergency.</title>
@@ -314,6 +314,174 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-11-18T13:55:04-04:00</pubDate>
       <description>This is a scheduled TEST of the National Public Alerting System. This is a test. If this had been an actual emergency, you would now hear instructions that would assist you to protect you and your... | Areas: National Public Alerting System. | Level: test</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Ferguson</title>
+      <link>https://www.princeedwardisland.ca/en/employee/ferguson-troy</link>
+      <guid isPermaLink="false">81758 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 19 Nov 2026 01:44:14 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ferguson&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-18T21:44:14-04:00" title="Wednesday, November 18, 2026 - 21:44"&gt;Wed, 11/18/2026 - 21:44&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Equipment Operator&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Transportation and Infrastructure&lt;/strong&gt;
+            &lt;div&gt;Highway Maintenance Operations&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>O'Donnell</title>
+      <link>https://www.princeedwardisland.ca/en/employee/odonnell-brooke-0</link>
+      <guid isPermaLink="false">81757 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 19 Nov 2026 01:38:50 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;O'Donnell&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-18T21:38:50-04:00" title="Wednesday, November 18, 2026 - 21:38"&gt;Wed, 11/18/2026 - 21:38&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Victim Services Worker&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Justice and Public Safety&lt;/strong&gt;
+            &lt;div&gt;Victim Services&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Webster</title>
+      <link>https://www.princeedwardisland.ca/en/employee/webster-mary</link>
+      <guid isPermaLink="false">81756 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 19 Nov 2026 01:31:57 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Webster&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-18T21:31:57-04:00" title="Wednesday, November 18, 2026 - 21:31"&gt;Wed, 11/18/2026 - 21:31&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Library Branch Technician&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Education and Early Years&lt;/strong&gt;
+            &lt;div&gt;Public Library Service&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -737,199 +905,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Pridham-MacNeill</title>
-      <link>https://www.princeedwardisland.ca/en/employee/pridham-macneill-michelle-0</link>
-      <guid isPermaLink="false">81747 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 17 Nov 2026 18:36:12 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Pridham-MacNeill&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;gwydionmorris&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-17T14:36:12-04:00" title="Tuesday, November 17, 2026 - 14:36"&gt;Tue, 11/17/2026 - 14:36&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Nursing Program Lead&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Health and Wellness&lt;/strong&gt;
-            &lt;div&gt;Health Workforce Development&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Alert Ready test planned</title>
-      <link>https://www.princeedwardisland.ca/en/news/alert-ready-test-planned</link>
-      <guid isPermaLink="false">81746 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 17 Nov 2026 17:44:02 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Alert Ready test planned&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-17T13:44:02-04:00" title="Tuesday, November 17, 2026 - 13:44"&gt;Tue, 11/17/2026 - 13:44&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="person on a phone" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/e6a1/Ready%20Alert%201.jpg.webp?itok=TIkHdwAf" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Islanders are advised that there will be a test of the Alert Ready system Wednesday, November 18, 2026 at approximately 12:55 p.m.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.alertready.ca/"&gt;Alert Ready,&lt;/a&gt; the Canadian emergency alerting system, delivers critical information to television, radio, and compatible wireless devices to ensure that citizens are aware of emergencies and can take the appropriate steps in the event of immediate risk or danger. This pre-scheduled alert will indicate it is just a test.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“We were fortunate to have had minimal impacts during this year’s hurricane season. Testing the Alert Ready system is a good reminder that emergencies can happen at any time. Particularly with winter just around the corner, residents should remain prepared for extreme weather.”&lt;/p&gt;&lt;p&gt;- Justice and Public Safety Minister Bloyce Thompson&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Personal preparedness is the first step. It is important for everyone to have a supply of items their household may need if an emergency occurs. This can vary by household, but can include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Water&lt;/li&gt;&lt;li&gt;Non-perishable food and a can opener&lt;/li&gt;&lt;li&gt;Medicine&lt;/li&gt;&lt;li&gt;Flashlights&amp;nbsp;&lt;/li&gt;&lt;li&gt;A battery powered or hand crank radio&lt;/li&gt;&lt;li&gt;Printed list of important phone numbers&lt;/li&gt;&lt;li&gt;Supplies for pets&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For detailed lists, including recommended emergency kit items for pets, and a check list for a vehicle emergency kit, download a copy of&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/sites/default/files/publications/ops-preguide.pdf"&gt;Your Emergency Preparedness Guide&lt;/a&gt;&lt;/p&gt;&lt;p&gt;There are 62 certified reception centres in the province, along with nine provincial emergency sites, and each is equipped with a generator to provide backup power. Emergency reception centre sites are listed on the province’s&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/feature/reception-centre-map"&gt;Reception Centre Map.&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Many Island gas stations now have generators so they can stay open and provide fuel in the event of a power outage. These locations are noted on the&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/feature/fuel-station-resiliency-sites-with-generators"&gt;Fuel Station Resiliency Sites With Generators&lt;/a&gt; map.&amp;nbsp;&lt;/p&gt;&lt;p&gt;If residents are using home generators during a power outage, it is important to keep the following&amp;nbsp;safety measures in mind:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Place generators at least 20 feet away from doors, windows and vents.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Make sure the fumes cannot enter the home through windows, doors, vents or other openings in the building.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Never use a generator in an attached garage, even with the door open.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Make sure carbon monoxide and smoke alarms are in good working order.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;For more information on getting prepared for extreme weather and other emergencies, visit:&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/justice-and-public-safety/extreme-weather-safety"&gt;Extreme Weather Safety&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Katie Cudmore&amp;nbsp;&lt;br /&gt;Department of Justice and Public Safety&lt;br /&gt;&lt;a href="mailto:Katie.cudmore@gov.pe.ca"&gt;Katiecudmore@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Bergevin</title>
-      <link>https://www.princeedwardisland.ca/en/employee/bergevin-jean</link>
-      <guid isPermaLink="false">81743 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 17 Nov 2026 08:56:08 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Bergevin&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;bjones&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-17T04:56:08-04:00" title="Tuesday, November 17, 2026 - 04:56"&gt;Tue, 11/17/2026 - 04:56&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Bilingual Administrative Assistant&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;Je parle français&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Fisheries, Rural Development and Tourism&lt;/strong&gt;
-            &lt;div&gt;Museum and Heritage Foundation&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
