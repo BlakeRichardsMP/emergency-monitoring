@@ -5,17 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 19 Nov 2026 19:09:19 +0000</lastBuildDate>
-
-    <item>
-      <title>This is a scheduled test of the Alberta Emergency Alert system. There is no emergency.</title>
-      <link>https://www.alberta.ca/data/aea/cap/2026/11/18/2026-11-18T13_55_13-06_00=AlbertaEmergencyManagementAgency=68CDE0FC-31DE-4271-8180-2AD8AC130451.xml</link>
-      <guid isPermaLink="false">https://www.alberta.ca/data/aea/rss/2026-11-18T13_55_13-06_00=AlbertaEmergencyManagementAgency=68CDE0FC-31DE-4271-8180-2AD8AC130451</guid>
-      <pubDate>2026-11-18T13:55:13-06:00</pubDate>
-      <description>This is only a test. If this were a real emergency, this alert would describe the threat, the location of the threat, and instructions on how to protect yourself and your loved ones.
-Area: (This test is in effect for all of Alberta.)</description>
-      <source>Alberta</source>
-    </item>
+    <lastBuildDate>Fri, 20 Nov 2026 01:15:48 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -218,29 +208,20 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Drinking Water (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/F3BEB486-BA84-4DFA-9366-0F151EF61634</link>
+      <guid isPermaLink="false">5EF65E84-DA10-47A3-BA83-E35FA61B0015-1</guid>
+      <pubDate>2026-11-19T14:36:14-06:00</pubDate>
+      <description>RM of Orkney #244. Update: A Precautionary Drinking Water Advisory has been issued for all users North and East of Otthon on Highway 10, including Collacott, Pleasant Heights, Ebenezer, Maple Grove... | Areas: RM of Orkney #244 | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Snowfall (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3331122805.2026</link>
       <guid isPermaLink="false">urn:oid:2.49.0.1.124.3376028288.2026-1</guid>
       <pubDate>2026-11-19T04:27:12-00:00</pubDate>
       <description>Significant snowfall is no longer expected. | Areas: R.M. of Piapot including Piapot, R.M. of Carmichael including Carmichael, R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Test Message (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/A926E804-6EC9-4468-810E-E0838A70AD42</link>
-      <guid isPermaLink="false">A926E804-6EC9-4468-810E-E0838A70AD42-1</guid>
-      <pubDate>2026-11-18T13:55:06-06:00</pubDate>
-      <description>TEST ALERT – This is a scheduled test of the national emergency alerting system in Saskatchewan, issued by SaskAlert. If this were an actual emergency, you would receive instructions to protect... | Areas: Saskatchewan | Level: test</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Drinking Water (Issued)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/F3BEB486-BA84-4DFA-9366-0F151EF61634</link>
-      <guid isPermaLink="false">F3BEB486-BA84-4DFA-9366-0F151EF61634-1</guid>
-      <pubDate>2026-11-18T12:19:23-06:00</pubDate>
-      <description>RM of Orkney #244. A Precautionary Drinking Water Advisory is being issued for all users north and east of Otthon on Highway 10 which includes both Collacott and Pleasant Heights subdivisions,... | Areas: RM of Orkney #244 | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -254,30 +235,229 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Quebec Emergency Alert</title>
-      <link>https://alerte.gouv.qc.ca/en</link>
-      <guid isPermaLink="false">14671</guid>
-      <pubDate></pubDate>
-      <description></description>
-      <source>Quebec</source>
+      <title>Public Schools Branch pilots video cameras on six school buses</title>
+      <link>https://www.princeedwardisland.ca/en/news/public-schools-branch-pilots-video-cameras-on-six-school-buses</link>
+      <guid isPermaLink="false">81762 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 19 Nov 2026 21:01:34 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Public Schools Branch pilots video cameras on six school buses&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-19T17:01:34-04:00" title="Thursday, November 19, 2026 - 17:01"&gt;Thu, 11/19/2026 - 17:01&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Public Schools Branch (PSB) will begin testing video cameras on six school buses this week to improve safety for students and bus drivers and hold motorists accountable for illegally passing stopped buses.&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt;The pilot includes exterior cameras that record vehicles passing a stopped school bus while its red lights are flashing, and interior cameras that record video and audio inside the bus. Signs on each bus let riders know that cameras are in use.&lt;/p&gt;&lt;p&gt;"Drivers who pass a stopped school bus are putting children at serious risk," said PSB director of transportation and risk management Dave Gillis. "Our staff report these incidents to police, and we've heard again and again that video evidence would make those reports stronger. This pilot is about keeping everyone who uses our transportation system safe."&lt;/p&gt;&lt;p&gt;The interior cameras will help staff respond to behaviour concerns and incidents on buses fairly and accurately, supporting both students and drivers.&lt;/p&gt;&lt;p&gt;Along with this pilot, the PSB will finalize a policy on the use of video cameras on school buses.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Matt MacLeod&lt;br /&gt;Public Schools Branch&lt;br /&gt;&lt;a href="mailto:mattimacleod@gov.pe.ca"&gt;mattimacleod@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Backgrounder:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;How footage is handled&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Footage is not monitored live and is not reviewed routinely. It is only reviewed when an incident is reported.&lt;/li&gt;&lt;li&gt;Only branch-based transportation staff or school administrators may view footage.&lt;/li&gt;&lt;li&gt;Footage related to vehicles passing a stopped bus or incidents involving police may be shared with law enforcement as part of the report.&lt;/li&gt;&lt;li&gt;External camera footage is automatically deleted after 30 days unless it is needed for a reported incident.&lt;/li&gt;&lt;li&gt;Internal camera footage is automatically deleted after 90 days unless it is needed for a reported incident.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
-      <title>Quebec Emergency Alert</title>
-      <link>https://alerte.gouv.qc.ca/en</link>
-      <guid isPermaLink="false">14670</guid>
-      <pubDate></pubDate>
-      <description></description>
-      <source>Quebec</source>
+      <title>Statement by Minister Deagle on National Addictions Awareness Week</title>
+      <link>https://www.princeedwardisland.ca/en/news/statement-by-minister-deagle-on-national-addictions-awareness-week</link>
+      <guid isPermaLink="false">81761 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 19 Nov 2026 19:20:55 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Statement by Minister Deagle on National Addictions Awareness Week&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-19T15:20:55-04:00" title="Thursday, November 19, 2026 - 15:20"&gt;Thu, 11/19/2026 - 15:20&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="people standing in front of a Christmas tree" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/920f/Addictions%20Awareness.jpeg.webp?itok=u9BYF9J8" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Minister of Health and Wellness Cory Deagle issued the following statement:&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“National Addictions Awareness Week, November 15-21, is an opportunity to increase understanding, reduce stigma, and encourage conversations about substance use, gambling, and recovery.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Addiction is a health issue that can affect anyone. Substance use and gambling-related harms impact individuals, families, workplaces, and communities across the province.&lt;/p&gt;&lt;p&gt;Reducing stigma is one of the most important ways we can help people access support. When people feel safe asking for help, they are more likely to seek treatment and begin their recovery journey.&amp;nbsp;&lt;/p&gt;&lt;p&gt;I would like to thank the health care professionals, addictions counsellors, peer support workers, outreach teams, first responders, and community organizations who support Islanders every day.&lt;/p&gt;&lt;p&gt;In Prince Edward Island, we continue to invest in a full range of services that help people prevent and address addiction, support recovery, and reduce harm. Islanders can also access counselling through Open Access Counselling clinics, support through the Mental Health and Addictions Phone Line, free naloxone kits through the Take Home Naloxone Program, and overdose monitoring through the National Overdose Response Service.&amp;nbsp;&lt;/p&gt;&lt;p&gt;During National Addictions Awareness Week, we reaffirm our commitment to ensuring Islanders feel safe asking for help and know that support is available.&amp;nbsp;&lt;/p&gt;&lt;p&gt;If you or someone you know is struggling with substance use, gambling, or addiction, please know that help is available and that you are not alone.&lt;/p&gt;&lt;p&gt;Call the Mental Health and Addictions phone line at 1-833-553-6983 for help 24 hours a day.”&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;Media contact:&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;Maureen Coulter&lt;br /&gt;Department of Health and Wellness&lt;br /&gt;&lt;a href="mailto:maureencoulter@gov.pe.ca"&gt;maureencoulter@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
-      <title>Quebec Emergency Alert</title>
-      <link>https://alerte.gouv.qc.ca/en</link>
-      <guid isPermaLink="false">14669</guid>
-      <pubDate></pubDate>
-      <description></description>
-      <source>Quebec</source>
+      <title>Island artists celebrated at annual Arts Awards</title>
+      <link>https://www.princeedwardisland.ca/en/news/island-artists-celebrated-at-annual-arts-awards</link>
+      <guid isPermaLink="false">81760 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Thu, 19 Nov 2026 19:06:03 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Island artists celebrated at annual Arts Awards&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-19T15:06:03-04:00" title="Thursday, November 19, 2026 - 15:06"&gt;Thu, 11/19/2026 - 15:06&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="People receiving an award" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/f771/Arts%20Award%201.jpeg.webp?itok=Q8-ZRLL8" width="1000" /&gt;
+
+  
+
+
+        &lt;figcaption class="tw-text-sm tw-text-dark tw-font-normal tw-font-headers tw-tracking-tighter mt-2"&gt;
+      Back L to R: Bill Lundy, Sharlene Kelly, Janelle Sinclair, Sam Langille, Alex Bevan-Baker, Logan Richard  Front L to R: Jenna MacMillan, Jay Whitehead, Richard Pellissier-Lush 
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Island artists were recognized for their excellence at the 2026 Prince Edward Island Arts Awards ceremony.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The awards honour outstanding achievements in the arts and culture community.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;The following recipients were distinguished at the annual gala:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Artist of the Year Award: Logan Richard&lt;/li&gt;&lt;li&gt;Gertie &amp;amp; Henry Purdy Emerging Visual Arts Bursary:&amp;nbsp;Alex Bevan-Baker&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Leo Cheverie Cultural Connector of the Year Award:&amp;nbsp;Richard Pellissier-Lush&lt;/li&gt;&lt;li&gt;Organization of the Year Award:&amp;nbsp;Club Red Productions&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Premier’s Award for Stand-Out Project of the Year: 333 - The Toronto Bathhouse Raids&lt;/li&gt;&lt;/ul&gt;&lt;blockquote&gt;&lt;p&gt;“Congratulations to all of this year’s recipients on this well-deserved recognition. Island artists play an important role in shaping and strengthening our culture, and we are proud to support their creativity, talent and contributions to Prince Edward Island’s vibrant creative sector.”&lt;/p&gt;&lt;p&gt;- Minister of Economic Development, Trade and Artificial Intelligence Zack Bell&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;br /&gt;"What a thrill to be included among such a wealth of talented artists acknowledged at last night's awards ceremony.&amp;nbsp;It was a beautiful celebration of a year of cultural excellence right here on PEI.&amp;nbsp; The team behind the production of 333 is so honoured by this recognition for our project and, importantly, so moved by this show of support for live, queer, and independent theatre that tells our Canadian stories.&amp;nbsp;I couldn't be prouder of this accomplishment and to be a creative artist here in PEI.&amp;nbsp; This whole experience has been so wonderfully validating.&amp;nbsp; Thank you to everyone who made these awards happen."&lt;/p&gt;&lt;p&gt;- Premier's Award for Stand-Out Project of the Year recipient&amp;nbsp;Jay Whitehead&lt;/p&gt;&lt;p&gt;"Receiving the Leo Cheverie Cultural Connector of the Year Award is an incredible honour, especially knowing the legacy of a man who dedicated his life to bringing people together. As a proud Mi'kmaw artist from Lennox Island First Nation, I believe the arts are more than performances or creative expression. They are opportunities to build bridges, preserve our stories, celebrate our identities, and create a sense of belonging. I share this recognition with my family, our Elders, our youth, and everyone who continues to support and uplift Indigenous voices. My greatest hope is that the work we do today inspires the next generation to embrace their culture, find their voice, and recognize that their stories deserve to be heard."&lt;/p&gt;&lt;p&gt;- Leo Cheverie Cultural Connector of the Year Award recipient Richard Pellissier-Lush&lt;/p&gt;&lt;p&gt;Each recipient receives a cash prize and a unique work of art created in Prince Edward Island.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Learn more about the &lt;a href="https://www.princeedwardisland.ca/en/service/prince-edward-island-arts-awards"&gt;Prince Edward Island Arts Awards&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Jill Edwards&lt;br /&gt;Department of Economic Development, Trade and Artificial Intelligence&lt;br /&gt;&lt;a href="mailto:jedwards@gov.pe.ca"&gt;jedwards@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Backgrounder&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;The Leo Cheverie Cultural Connector of the Year Award&lt;/strong&gt;: Celebrates an individual, group or organization from PEI whose role as a champion of the arts has had a positive impact on creating access and connections between various communities within the arts and culture sector of the province.&lt;br /&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;The Artist of the Year Award&lt;/strong&gt;: Celebrates an individual artist or group regardless of artistic discipline who has had a break-out year in their respective field of practice and has demonstrated outstanding contribution and growth. Assessors will be looking for merit in artistic achievement, momentum for the future, professional recognition, as well as provincial, national and/or international recognition.&lt;br /&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;The Organization of the Year Award&lt;/strong&gt;: Recognizes an organization from PEI whose artistic and cultural contributions have had a significant, positive impact on the provincial landscape, its residents, and visitors. Individuals, groups and bands are not considered organizations and should therefore be nominated under another category.&amp;nbsp;&amp;nbsp;&lt;br /&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;The Premier of Prince Edward Island’s Award for Stand-Out Project of the Year&lt;/strong&gt;: Recognizes an artist, arts professional, group, collective or arts organization that has produced an innovative artistic or cultural project addressing themes such as reconciliation, climate change, accessibility, digital innovation, and more.&lt;br /&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;The Gertie &amp;amp; Henry Purdy Emerging Visual Arts Bursary&lt;/strong&gt;: Awarded to an emerging artist in the visual arts to support any activity that encourages training, promotion, exhibition, and leadership in and to the field of practice of the artist. This bursary is intended for creators in the plastic arts fields. Traditionally, these art forms include sculpture, drawing, painting, printmaking, ceramics, and photography. Filmmaking and media arts are not included.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;The Father Adrien Arsenault Senior Arts Award&lt;/strong&gt; (awarded bi-annually. The next prize in this category will be awarded in 2027): Honours and acknowledges the excellence of the work of a senior Island artist who has produced a significant body of work in the practice of visual arts, writing and publishing, music, dance, fine craft, theatre, film, or video.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -678,202 +858,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
           &lt;div class="layout__region layout__region--second"&gt;
         
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Livingstone</title>
-      <link>https://www.princeedwardisland.ca/en/employee/livingstone-nikita</link>
-      <guid isPermaLink="false">81750 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 18 Nov 2026 01:36:02 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Livingstone&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-17T21:36:02-04:00" title="Tuesday, November 17, 2026 - 21:36"&gt;Tue, 11/17/2026 - 21:36&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Youth Worker&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Social Development and Seniors&lt;/strong&gt;
-            &lt;div&gt;Residential Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Kaur</title>
-      <link>https://www.princeedwardisland.ca/en/employee/kaur-navdeep</link>
-      <guid isPermaLink="false">81749 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 18 Nov 2026 01:35:12 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Kaur&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-17T21:35:12-04:00" title="Tuesday, November 17, 2026 - 21:35"&gt;Tue, 11/17/2026 - 21:35&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Youth Worker&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Social Development and Seniors&lt;/strong&gt;
-            &lt;div&gt;Residential Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>November 16-20 is Financial Literacy Week</title>
-      <link>https://www.princeedwardisland.ca/en/news/november-16-20-is-financial-literacy-week</link>
-      <guid isPermaLink="false">81748 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 17 Nov 2026 19:43:49 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;November 16-20 is Financial Literacy Week &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-17T15:43:49-04:00" title="Tuesday, November 17, 2026 - 15:43"&gt;Tue, 11/17/2026 - 15:43&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="Image of people in front of stairs " height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/f9da/Financial%20Literacy%20Week.jpg.webp?itok=b_K7NxMm" width="1000" /&gt;
-
-  
-
-
-        &lt;figcaption class="tw-text-sm tw-text-dark tw-font-normal tw-font-headers tw-tracking-tighter mt-2"&gt;
-      Minister of Agriculture Hilton MacLennan, Flexible Learning Support Leader Lori Ronahan, Director of English Programs and Services Maribeth Rogers Neale and Minister of Education and Early Years Robin Croucher
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Students across Prince Edward Island will benefit from a strengthened framework aimed at improving financial literacy.&lt;/p&gt;&lt;p&gt;To mark Financial Literacy Week, the province has created a Provincial K-12 Literacy Framework to help Island students build the confidence and practical skills needed to make informed financial decisions throughout their lives. The Framework will help students explore real-world topics such as spending, saving, goal setting, and the factors that influence financial choices.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Financial literacy is a foundational life skill that helps people make informed decisions and build confidence in managing their financial future. Through the Provincial K-12 Financial Literacy Framework, we are ensuring students have opportunities to develop these skills throughout their education, helping prepare them for success in school, work and life."&lt;/p&gt;&lt;p&gt;- Minister of Education and Early Years Robin Croucher&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The Framework was used to develop a Financial Literacy Week Activity Guide, which offers engaging, age-appropriate learning opportunities for students across Island schools. The guide is available as an internal resource for Island educators to use in their lesson plans during Financial Literacy Week and throughout the school year.&lt;/p&gt;&lt;p&gt;This year marks the first time the Government of Prince Edward Island has formally recognized Financial Literacy Week, which will take place annually during the third full week of November.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Andrew Sprague&lt;br /&gt;Department of Education and Early Years&lt;br /&gt;&lt;a href="mailto:asgsprague@gov.pe.ca"&gt;asgsprague@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
