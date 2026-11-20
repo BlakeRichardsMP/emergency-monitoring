@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 20 Nov 2026 08:54:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:34:38 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -223,6 +223,220 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Dupuis</title>
+      <link>https://www.princeedwardisland.ca/en/employee/dupuis-brigitte-0</link>
+      <guid isPermaLink="false">81765 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 20 Nov 2026 14:41:26 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Dupuis&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;KACURRIE&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-20T10:41:26-04:00" title="Friday, November 20, 2026 - 10:41"&gt;Fri, 11/20/2026 - 10:41&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Executive Legal Officer&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Justice and Public Safety&lt;/strong&gt;
+            &lt;div&gt;Family Law Section&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>English Language Arts Curriculum Grade 4-6 (4ANGM, 5ANGM, 6ANGM)</title>
+      <link>https://www.princeedwardisland.ca/en/publication/english-language-arts-curriculum-grade-4-6-4angm-5angm-6angm</link>
+      <guid isPermaLink="false">81764 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 20 Nov 2026 14:20:36 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;English Language Arts Curriculum Grade 4-6 (4ANGM, 5ANGM, 6ANGM)&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;LHrobinson&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-20T10:20:36-04:00" title="Friday, November 20, 2026 - 10:20"&gt;Fri, 11/20/2026 - 10:20&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/7a45/Anglais%204-6.pdf"&gt;
+              &lt;span&gt;Anglais 4-6.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>English Language Arts Curriculum Grade 7-9 (7ANGM, 8ANGM, 9ANGM)</title>
+      <link>https://www.princeedwardisland.ca/en/publication/english-language-arts-curriculum-grade-7-9-7angm-8angm-9angm</link>
+      <guid isPermaLink="false">81763 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 20 Nov 2026 13:55:05 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;English Language Arts Curriculum Grade 7-9 (7ANGM, 8ANGM, 9ANGM)&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;LHrobinson&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-20T09:55:05-04:00" title="Friday, November 20, 2026 - 09:55"&gt;Fri, 11/20/2026 - 09:55&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/60a9/Anglais%207-9.pdf"&gt;
+              &lt;span&gt;Anglais 7-9.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -678,208 +892,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
   &lt;/div&gt;</description>
       <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Investigator appointed to lead independent review of Carr case</title>
-      <link>https://www.princeedwardisland.ca/en/news/investigator-appointed-to-lead-independent-review-of-carr-case</link>
-      <guid isPermaLink="false">81754 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 18 Nov 2026 19:09:07 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Investigator appointed to lead independent review of Carr case &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-18T15:09:07-04:00" title="Wednesday, November 18, 2026 - 15:09"&gt;Wed, 11/18/2026 - 15:09&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;An investigator has been appointed to lead an independent review of the Byron Carr murder investigation.&lt;/p&gt;&lt;p&gt;The Honorable Duncan R. Beveridge has been appointed as an investigator under the &lt;em&gt;Police Act.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"The resulting report and recommendations from this review will be delivered to me and subsequently be made public. It is important to be clear that the review is not to determine liability. It will focus on ensuring police and prosecutorial practices follow best practices for major crime investigations.”&lt;/p&gt;&lt;p&gt;- Justice and Public Safety Minister Bloyce Thompson&amp;nbsp;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Justice Beveridge is a retired justice of the Nova Scotia Court of Appeal. Prior to his appointment to the bench, he practiced law as a crown prosecutor and defence lawyer. In addition, he has experience in carrying out independent reviews, as part of the Westray prosecution in Nova Scotia and then as senior counsel for the review of the Government of Nova Scotia’s response to reports of institutional abuse.&lt;/p&gt;&lt;p&gt;“I have committed to Justice Beveridge that his review will be completely independent, and he will have the resources he considers necessary to fulfill his mandate,” said Minister Thompson. “That said, if he concludes additional powers are warranted, he can submit an interim report to me with recommendations to that end.”&lt;/p&gt;&lt;p&gt;The review will begin January 4, 2027 and is expected to take several months to a year.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Katie Cudmore&amp;nbsp;&lt;br /&gt;Department of Justice and Public Safety&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:Katiecudmore@gov.pe.ca"&gt;Katiecudmore@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Backgrounder:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Terms of reference for Justice Beveridge’s investigation&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;The purpose of this appointment is to:&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;review the circumstances and handling of the Byron Carr homicide investigation conducted by the Charlottetown Police Service, including file management and oversight, evidence and asset management, inter-agency coordination, as well as interaction and consultation with Crown services;&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;review the operation and administration of the Charlottetown Police Service as a police department in relation to modern policing standards and expectations for Prince Edward Island for major case file investigations; and&amp;nbsp;&lt;/li&gt;&lt;li&gt;make findings regarding the Byron Carr homicide investigation conducted by the Charlottetown Police Service, as well as standards and expectations for major case file police investigations in Prince Edward Island.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Responsibilities&amp;nbsp;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;The investigation undertaken as a result of the appointment shall be conducted pursuant to section 4 of the &lt;em&gt;Police Act&lt;/em&gt; to:&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;review investigation management, oversight, inter-agency coordination, and interactions with Crown services, regarding the Byron Carr homicide investigation by Charlottetown Police Services, including relevant factors, decisions, policies, practices or biases that may have affected service delivery, investigative outcomes, or public confidence; and&amp;nbsp;&lt;/li&gt;&lt;li&gt;review modern policing standards and expectations for Prince Edward Island regarding major case file investigations, including minimum standards, policies and procedures for&amp;nbsp;&lt;/li&gt;&lt;li&gt;case management investigative practices;&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;the creation, maintenance, retention, accessibility, and disclosure of investigative files and records;&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;the collection, handling, storage, tracking, disclosure, retention, and disposition of evidence;&amp;nbsp;&lt;/li&gt;&lt;li&gt;evidence continuity and chain of custody;&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;exhibit, property, and evidence management systems and controls;&amp;nbsp;&lt;/li&gt;&lt;li&gt;inter-agency coordination and Crown services interaction;&amp;nbsp;&lt;/li&gt;&lt;li&gt;organizational governance;&amp;nbsp;&lt;/li&gt;&lt;li&gt;supervision, accountability, leadership and oversight; and&amp;nbsp;&lt;/li&gt;&lt;li&gt;training and development.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Report&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Upon completion of the investigation the investigator shall, pursuant to section 4(4) of the &lt;em&gt;Act&lt;/em&gt;, prepare and submit a written report to the Minister, which shall include the investigator’s findings.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The investigator’s report will be released to the public subject only to legal and privacy considerations.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Government’s Response to the Independent IRAC Review</title>
-      <link>https://www.princeedwardisland.ca/en/information/governments-response-to-the-independent-irac-review</link>
-      <guid isPermaLink="false">81753 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 18 Nov 2026 14:36:16 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Government’s Response to the Independent IRAC Review&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tlpeters&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-18T10:36:16-04:00" title="Wednesday, November 18, 2026 - 10:36"&gt;Wed, 11/18/2026 - 10:36&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;h2&gt;Building a modern, transparent, and accountable regulatory system for Prince Edward Island&lt;/h2&gt;&lt;p&gt;The Government of Prince Edward Island is moving forward with building a modern, transparent, and accountable regulatory environment to replace the Island Regulatory and Appeals Commission (IRAC), following an independent review led by Commissioner Rory Francis.&lt;/p&gt;&lt;p&gt;The review resulted in 74 recommendations to improve regulatory services, strengthen accountability and modernize how decisions are made.&lt;/p&gt;&lt;p&gt;Government will do this through legislative reform, developing policies with the input from Islanders, industries, and stakeholders, and standing up and operationalizing a new regulatory structure with two specialized boards: the PEI Energy and Utilities Board and the PEI Land and Appeals Board. The two boards will be supported by a shared administrative body called the Appeals, Land and Regulatory Commission of Prince Edward Island. &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;h2&gt;Why is IRAC changing?&lt;/h2&gt;&lt;p&gt;IRAC makes decisions and provides services that affect Islanders in several areas, including electricity rates, residential tenancies, land-related matters and appeals.&lt;/p&gt;&lt;p&gt;The independent review examined IRAC’s structure, responsibilities and operations, and identified opportunities to strengthen transparency, accountability and the delivery of regulatory services.&lt;/p&gt;&lt;p&gt;In September 2026, in response to the interim report that was made public by the independent review, government announced plans to replace IRAC with two specialized regulatory boards.&lt;/p&gt;&lt;p&gt;The proposed changes are intended to provide more focused regulatory oversight, clearer responsibilities and stronger accountability while protecting independent decision-making.&lt;/p&gt;&lt;h2&gt;What is changing?&lt;/h2&gt;&lt;p&gt;Government is moving forward with legislation to establish two specialized regulatory boards and to create a standalone tenancy office.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;PEI Energy and Utilities Board&lt;ul&gt;&lt;li&gt;This board will be responsible for energy and utilities regulation, including electricity matters.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;PEI Land and Appeals Board&lt;ul&gt;&lt;li&gt;This board will be responsible for land-related regulatory matters and appeals.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The boards would share administrative and technical services to support their operations while maintaining independent decision-making.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Residential Tenancy Office&lt;ul&gt;&lt;li&gt;The Residential Tenancy Office will operate separately from the regulatory boards. Additional changes are intended to improve residential tenancy processes and appeals.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;What will these changes mean for Islanders?&lt;/h2&gt;&lt;p&gt;The reforms are intended to improve regulatory services and make processes clearer and more accountable. This will include:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;For tenants and landlords:&lt;ul&gt;&lt;li&gt;Clearer responsibilities and improvements to how residential tenancy matters and appeals are handled.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;For electricity customers:&lt;ul&gt;&lt;li&gt;Stronger independent consumer representation in electricity rate hearings and further work to modernize electricity regulation to make utilities more accountable to the customers who pay for their services.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;For businesses and communities:&lt;ul&gt;&lt;li&gt;More specialized regulatory oversight, stronger accountability and improved transparency around decisions that affect Islanders.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Existing regulatory processes and appeals will continue while the transition is planned and implemented.&lt;/p&gt;&lt;h2&gt;How will the changes happen?&lt;/h2&gt;&lt;p&gt;Government is advancing the recommendations made by the independent review of the Island Regulatory &amp;amp; Appeals Commission, focusing on three main streams of work:&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;h3&gt;#1 Legislative reforms&lt;/h3&gt;&lt;p&gt;Initially, legislative reforms will focus on establishing the new regulatory structure and strengthening accountability through legislation.&lt;/p&gt;&lt;p&gt;This includes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Establishing the PEI Energy and Utilities Board and PEI Land and Appeals Board, supported by shared administrative and technical services.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Introducing a transparent, merit-based appointment process for commissioners, with stronger conflict of interest requirements.&lt;/li&gt;&lt;li&gt;Separating the Residential Tenancy Office from IRAC and updating residential tenancy and appeal processes.&lt;/li&gt;&lt;li&gt;Establishing an Office of the Independent Consumer Advocate to represent consumers and small businesses in major utility proceedings.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Supporting the development of performance-based electricity regulations.&lt;/li&gt;&lt;li&gt;Strengthening public reporting and accountability, including regular independent reviews.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Some legislation has already been tabled and will be debated before the end of 2026.&amp;nbsp; Additional legislative amendments and changes will be required as the new Commission is established, operational procedures are determined, and policy work is completed to ensure the new Commission can work efficiently and effectively to serve Islanders.&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;h3&gt;#2 Policy Development &amp;amp; Ongoing Public Consultation&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/h3&gt;&lt;p&gt;Some recommendations require additional review, planning or consultation before further decisions are made and the recommendations can be operationalized under the new structure.&lt;/p&gt;&lt;p&gt;This work includes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Long-term electricity planning;&lt;/li&gt;&lt;li&gt;Modernizing appeals processes; and&lt;/li&gt;&lt;li&gt;Reviewing land-use and land protection policies.&amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Government is committed to ongoing consultation on policy development to ensure that those impacted by the changes have an opportunity to provide input.&amp;nbsp;The goal is to ensure that while modernizing policies, procedures, and processes relate to the new regulatory bodies that it provides more accountability, more transparency, and more efficiently under for the people it serves.&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;h3&gt;#3: Operationalizing the new Boards and ensuring a smooth transition&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;A central pillar to building the new Boards will be ensuring services are maintained for Islanders and industry while supporting the continuity of existing applications and proceedings.&amp;nbsp;This will require significant work to ensure there are no gaps in service delivery and that the new Boards are able to operate under the new model smoothly.&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt;This work includes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Recruiting and appointing commissioners.&lt;/li&gt;&lt;li&gt;Planning staffing and administrative arrangements.&lt;/li&gt;&lt;li&gt;Establishing shared services and governance agreements.&lt;/li&gt;&lt;li&gt;Preparing budgets, technology and operational systems.&lt;/li&gt;&lt;li&gt;Supporting the continued delivery of regulatory services throughout the transition.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Work is advancing in all three work streams and will continue throughout and after the transition period.&amp;nbsp;&lt;/p&gt;&lt;h2&gt;What happens to the 74 recommendations?&lt;/h2&gt;&lt;p&gt;Commissioner Francis’s final report contains 74 recommendations covering regulatory services, governance, accountability and other areas of reform.&lt;/p&gt;&lt;p&gt;Government has reviewed the recommendations and identified actions to address the findings.&lt;/p&gt;&lt;p&gt;Some recommendations are being advanced through the workstreams mentioned above. Others fall within the responsibilities of independent regulatory bodies, some of which will require further policy review and consultation with Islanders.&amp;nbsp;Government will act on all recommendations that they are responsible for at the appropriate time before, during, or after the transition period.&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt;The three work streams provide a framework for moving this work forward while recognizing that different recommendations require different actions and timelines.&lt;/p&gt;
-&lt;div class="rich-text alert alert-info"&gt;
-  &lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/news/new-legislation-tabled-to-replace-irac-with-modern-transparent-and-specialized-regulators" title="New legislation tabled to replace IRAC with modern, transparent, and specialized regulators built for Islanders"&gt;Read government’s announcement outlining the legislation being introduced and the next steps in responding to the independent IRAC review.&lt;/a&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;h2&gt;Reports and resources&lt;/h2&gt;&lt;p&gt;&lt;a href="https://iracreview.ca/final-report/"&gt;Read Commissioner Rory Francis’s findings and 74 recommendations&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/en/news/government-to-take-immediate-action-to-dismantle-irac-and-build-new-regulatory-bodies-with"&gt;Read government’s September announcement on restructuring IRAC&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Al-Kabalan</title>
-      <link>https://www.princeedwardisland.ca/en/employee/al-kabalan-daman</link>
-      <guid isPermaLink="false">81751 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 18 Nov 2026 04:24:03 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Al-Kabalan&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-18T00:24:03-04:00" title="Wednesday, November 18, 2026 - 00:24"&gt;Wed, 11/18/2026 - 00:24&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Youth Worker&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Social Development and Seniors&lt;/strong&gt;
-            &lt;div&gt;Residential Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Premier McLeod on the Enbridge Line 21 Pipeline</title>
-      <link>https://www.gov.nt.ca/en/newsroom/news/premier-mcleod-enbridge-line-21-pipeline</link>
-      <guid isPermaLink="false">9422 at https://www.gov.nt.ca</guid>
-      <pubDate>Wed, 26 Sep 2018 23:05:28 +0000</pubDate>
-      <description>&lt;div class="field field-name-body field-type-text-with-summary field-label-hidden"&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;p&gt;&lt;strong&gt;YELLOWKNIFE&lt;/strong&gt; - Premier Bob McLeod issued the following statement on the Enbridge Line 21 pipeline today:&lt;/p&gt;
-
-&lt;p&gt;“I was pleased to learn that operations have resumed for Enbridge’s Line 21 pipeline after almost 2 years of no activity.&lt;/p&gt;
-
-&lt;p&gt;"Resource development has, and will continue to be, the backbone of our economy and is central to ensuring a good source of middle class jobs and business opportunities. Our territory has mineral and petroleum resources and the development of those resources can have a transformative effect on our people and economy.&lt;/p&gt;
-
-&lt;p&gt;"Sustainable economic development is key to the future of Northerners. With a strong resource development base, we will be able to support diversification of our local economies into emerging and established sectors.&lt;/p&gt;
-
-&lt;p&gt;"On behalf of the Government of the Northwest Territories I’d like to offer my congratulations to Imperial Oil, Enbridge the town of Norman Wells and other partners for getting this pipeline back up and running. I know the efforts and economic impacts of the pipeline have already begun to take shape in the community and will be felt for years to come. ”&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Charlotte Digness&lt;/strong&gt;&lt;br /&gt;
-	Media and Communications Coordinator&lt;br /&gt;
-	Cabinet Communications and Protocol&lt;br /&gt;
-	Government of the Northwest Territories&lt;br /&gt;
-	Ph: 867-767-9140 ext. 11092&lt;br /&gt;
-	Email: &lt;a href="mailto:charlotte_digness@gov.nt.ca"&gt;charlotte_digness@gov.nt.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-type field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;News Type:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/news-type/media-statement"&gt;Media Statement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-department field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;Department:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/department/premier"&gt;Premier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class="links inline"&gt;&lt;li class="fr first last"&gt;&lt;a class="language-link" href="https://www.gov.nt.ca/fr/newsroom/le-premier-ministre-mcleod-se-r%C3%A9jouit-de-la-r%C3%A9ouverture-de-l%E2%80%99ol%C3%A9oduc-21-d%E2%80%99enbridge" xml:lang="fr"&gt;Français&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <source>Northwest Territories</source>
     </item>
 
   </channel>
