@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 20 Nov 2026 01:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:54:13 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -213,15 +213,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <guid isPermaLink="false">5EF65E84-DA10-47A3-BA83-E35FA61B0015-1</guid>
       <pubDate>2026-11-19T14:36:14-06:00</pubDate>
       <description>RM of Orkney #244. Update: A Precautionary Drinking Water Advisory has been issued for all users North and East of Otthon on Highway 10, including Collacott, Pleasant Heights, Ebenezer, Maple Grove... | Areas: RM of Orkney #244 | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Snowfall (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.3331122805.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3376028288.2026-1</guid>
-      <pubDate>2026-11-19T04:27:12-00:00</pubDate>
-      <description>Significant snowfall is no longer expected. | Areas: R.M. of Piapot including Piapot, R.M. of Carmichael including Carmichael, R.M. of Maple Creek including Maple Creek, R.M. of Maple Creek including Cypress Hills Prov. Park, R.M. of Arlington including Dollard, R.M. of White Valley including Eastend and Ravenscrag | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
