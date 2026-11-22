@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Sun, 22 Nov 2026 15:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:03:17 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -226,10 +226,19 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Weather (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3607063491.2026-1</guid>
+      <pubDate>2026-11-22T19:45:49-00:00</pubDate>
+      <description>Heavy rainfall is expected. Locations: Nova Scotia. Potential rainfall: 30 to 50 mm, possibly higher over some areas. Potential wind gusts: 70 to 80 km/h along the Atlantic coast. Time span: early... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
+
+    <item>
       <title>Wind (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0314369883.2026-1</guid>
-      <pubDate>2026-11-22T14:38:31-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1529309133.2026-1</guid>
+      <pubDate>2026-11-22T19:40:47-00:00</pubDate>
       <description>Inverness County - Mabou and north. Damaging winds are expected. Time span: Monday afternoon. Maximum wind gusts: southeasterly up to 110 km/h. Locations: Margaree Harbour to Bay St. Lawrence... | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
