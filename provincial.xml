@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:54:04 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,6 +208,15 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Telephone Service (Issued)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/3E4B295E-F3AB-490C-B97B-0939C35F2B06</link>
+      <guid isPermaLink="false">3E4B295E-F3AB-490C-B97B-0939C35F2B06-1</guid>
+      <pubDate>2026-11-23T13:28:15-06:00</pubDate>
+      <description>Key Lake Mine and all areas and communities north of that location. On November 24, from 8:00 a.m. until approximately 5:00 p.m., crews will be completing necessary maintenance on the fibre... | Areas: Key Lake Mine and all areas and communities north of that location | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Drinking Water (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/F3BEB486-BA84-4DFA-9366-0F151EF61634</link>
       <guid isPermaLink="false">5EF65E84-DA10-47A3-BA83-E35FA61B0015-1</guid>
@@ -226,21 +235,333 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Weather (Updated)</title>
+      <title>Weather (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3333125608.2026-1</guid>
-      <pubDate>2026-11-23T08:50:38-00:00</pubDate>
-      <description>Heavy rainfall is expected. Locations: Nova Scotia. Potential rainfall: 30 to 50 mm, possibly higher over some areas. Potential wind gusts: 70 to 80 km/h along the Atlantic coast. Time span: this... | Areas: Kings County, Annapolis County, Digby County, Lunenburg County, Queens County, Shelburne County, Yarmouth County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax Metro and Halifax County West, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3480362195.2026-1</guid>
+      <pubDate>2026-11-23T19:21:20-00:00</pubDate>
+      <description>Heavy rainfall no longer expected. | Areas: Kings County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>Wind (Updated)</title>
+      <title>Wind (Cancelled)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2610921140.2026-1</guid>
-      <pubDate>2026-11-23T08:43:18-00:00</pubDate>
-      <description>Inverness County - Mabou and north. Damaging winds are expected. Time span: this afternoon. Maximum wind gusts: southeasterly up to 110 km/h. Locations: Margaree Harbour to Bay St. Lawrence. Secure... | Areas: Inverness County - Mabou and north | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2046727647.2026-1</guid>
+      <pubDate>2026-11-23T19:09:49-00:00</pubDate>
+      <description>Inverness County - Mabou and north. Damaging winds are no longer expected. | Areas: Inverness County - Mabou and north | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>New rules for non-resident ownership of municipal property</title>
+      <link>https://www.princeedwardisland.ca/en/news/new-rules-for-non-resident-ownership-of-municipal-property</link>
+      <guid isPermaLink="false">81771 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 23 Nov 2026 18:38:25 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New rules for non-resident ownership of municipal property &lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-23T14:38:25-04:00" title="Monday, November 23, 2026 - 14:38"&gt;Mon, 11/23/2026 - 14:38&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Amendments to the Prince Edward Island Lands Protection Act will establish new rules for non-resident ownership of municipal property, effective January 1, 2027.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Starting in the new year, non-residents will need approval by applying to the&amp;nbsp;&lt;a href="https://irac.pe.ca/"&gt;Island Regulatory and Appeals Commission&lt;/a&gt; to acquire more than one municipal property. A municipal property is one acre or less located in an area with an official plan. Until now, these properties have been exempt from the Act.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“These changes mean that all property in Prince Edward Island will now fall under the Lands Protection Act. We will have new rules for non-resident property ownership within municipalities, helping address concerns about vacant properties and supporting housing availability in our communities.”&lt;/p&gt;&lt;p&gt;- Minister of Land and Environment Darlene Compton&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;These amendments were passed during the spring 2026 sitting of the PEI Legislative Assembly.&lt;/p&gt;&lt;p&gt;For more information on land protection, visit:&amp;nbsp;&lt;a href="https://irac.pe.ca/lands/land/"&gt;Lands Protection - Island Regulatory &amp;amp; Appeals Commission.&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Morgan Martin&lt;br /&gt;Department of Land and Environment&lt;br /&gt;902-218-3430&lt;br /&gt;&lt;a href="mailto:mxmartin@gov.pe.ca"&gt;mxmartin@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>New rules improve access for service dog handlers</title>
+      <link>https://www.princeedwardisland.ca/en/news/new-rules-improve-access-for-service-dog-handlers</link>
+      <guid isPermaLink="false">81770 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 23 Nov 2026 17:57:41 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New rules improve access for service dog handlers&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-23T13:57:41-04:00" title="Monday, November 23, 2026 - 13:57"&gt;Mon, 11/23/2026 - 13:57&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="people standing in front of a sign" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/a9eb/Service%20Dog%20Act.jpg.webp?itok=2M8qZwDi" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Islanders with service dogs can now voluntarily certify their dogs under a new law, helping to reaffirm their access to public spaces, housing, and services.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Provincial certification verifies that a service dog meets the training and testing standards in the regulations under the &lt;em&gt;Service Dog Act&lt;/em&gt;. The law comes into force on November 29, 2026.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“The goal of this new law is to give service dog handlers more confidence, clarity, and peace of mind about their rights while helping create more welcoming and inclusive communities for everyone. This is great example of how this government works with community members to make positive changes for people living with disabilities.”&amp;nbsp;&lt;/p&gt;&lt;p&gt;- Minister of Social Development and Seniors Barb Ramsay&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Jennifer Sanderson of Summerside, who handles Braden, a Lions Foundation of Canada certified guide dog, says PEI certification will reduce potential conflicts and ease concerns about entering businesses or accessing services.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“This is exciting for people who use service dogs in PEI,” said Sanderson. “Certification recognizes and validates the vital role that trained service dogs play in supporting their handlers. They are much more than pets, and this helps the public better understand that.”&lt;/p&gt;&lt;p&gt;People can voluntarily certify and register their service dog for free at &lt;a href="https://resourceabilities.ca/"&gt;ResourceAbilities&lt;/a&gt;, PEI’s first service dog registrar. They will receive a photo identification card. &amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;“We’re pleased to serve as PEI’s service dog registrar and to continue working with the province toward our shared goal of removing barriers for people with disabilities,” said executive director of ResourceAbilities Devon Broome. “We look forward to helping Islanders who seek to register their service dogs by making the process clear and accessible.”&lt;/p&gt;&lt;p&gt;Human rights law ensures that people with disabilities have a right to bring service dogs into public places, regardless of certification or registration.&lt;/p&gt;&lt;p&gt;For more information visit: &lt;a href="https://servicedogact.princeedwardisland.ca/"&gt;Service Dog Act&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Stacey Miller&lt;br /&gt;Department of Social Development and Seniors&amp;nbsp;&lt;br /&gt;&lt;a href="mailto:samiller@gov.pe.ca"&gt;samiller@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Kindergarten registration opens for the 2027-28 school year</title>
+      <link>https://www.princeedwardisland.ca/en/news/kindergarten-registration-opens-for-the-2027-28-school-year</link>
+      <guid isPermaLink="false">81769 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 23 Nov 2026 14:18:53 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Kindergarten registration opens for the 2027-28 school year&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-23T10:18:53-04:00" title="Monday, November 23, 2026 - 10:18"&gt;Mon, 11/23/2026 - 10:18&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="group of kids on a playground" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/78c7/EJC01386.jpg.webp?itok=vdOwwBjB" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Island parents and guardians can register their child for kindergarten at their local school beginning November 23 for the 2027-28 school year.&lt;/p&gt;&lt;p&gt;Any child who turns five years old by December 31 of the year they begin kindergarten can be enrolled in their local&amp;nbsp;&lt;a href="https://psb.edu.pe.ca/schools/registering-your-child-for-school"&gt;English&lt;/a&gt; or&amp;nbsp;&lt;a href="https://cslf.edu.pe.ca/familles-et-communaute/criteres-dinscription"&gt;French&lt;/a&gt; public school. Parents or guardians who are unsure of their local school can contact the&amp;nbsp;&lt;a href="https://psb.edu.pe.ca/"&gt;Public Schools Branch&lt;/a&gt; or&amp;nbsp;&lt;a href="https://cslf.edu.pe.ca/"&gt;La Commission scolaire de langue française&lt;/a&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;for school zone information.&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"Starting kindergarten is an exciting chapter in your child's education and development. I encourage all parents and caregivers to register their child as early as possible. Early registration helps schools plan for the upcoming year and gives children and families more time to get ready for a successful start to kindergarten."&lt;/p&gt;&lt;p&gt;- Minister of Education and Early Years Robin Croucher&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Parents and guardians can register their child during school hours. They will be required to provide provincially issued identification and proof of address during the registration process.&lt;/p&gt;&lt;p&gt;Families whose child was born outside Canada, or families who speak a first language other than English or French at home are encouraged to first visit the&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/information/education-and-early-years/register-your-child-for-school#eal/falreceptioncentre"&gt;PEI Student Welcome Centre&lt;/a&gt; (formally the EAL/FAL reception centre). Staff can assist with the kindergarten registration process by helping parents review required documents and provide guidance to support their child's entry into school.&lt;/p&gt;&lt;p&gt;To help make back to school costs more affordable for families, the province provides free school supplies to Island students from kindergarten to Grade 9.&lt;/p&gt;&lt;p&gt;Learn more about preparing your child for kindergarten at &lt;a href="https://www.princeedwardisland.ca/en/information/education-and-early-years/register-your-child-for-school#eal/falreceptioncentre"&gt;PrinceEdwardIsland.ca/KindergartenRegistration&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media Contact:&lt;/strong&gt;&lt;br /&gt;Andrew Sprague&lt;br /&gt;Department of Education and Early Years&lt;br /&gt;&lt;a href="mailto:asgsprague@gov.pe.ca"&gt;asgsprague@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Employer Advisor November 2026 Newsletter</title>
+      <link>https://www.princeedwardisland.ca/en/publication/employer-advisor-november-2026-newsletter</link>
+      <guid isPermaLink="false">81768 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Mon, 23 Nov 2026 14:03:07 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Employer Advisor November 2026 Newsletter&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;nataleesmith&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-23T10:03:07-04:00" title="Monday, November 23, 2026 - 10:03"&gt;Mon, 11/23/2026 - 10:03&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Newsletter&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/9bed/Employer%20Advisor%20November%202026%20Newsletter.pdf"&gt;
+              &lt;span&gt;Employer Advisor November 2026 Newsletter.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -688,258 +1009,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Island artists celebrated at annual Arts Awards</title>
-      <link>https://www.princeedwardisland.ca/en/news/island-artists-celebrated-at-annual-arts-awards</link>
-      <guid isPermaLink="false">81760 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 19 Nov 2026 19:06:03 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Island artists celebrated at annual Arts Awards&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-19T15:06:03-04:00" title="Thursday, November 19, 2026 - 15:06"&gt;Thu, 11/19/2026 - 15:06&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="People receiving an award" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/f771/Arts%20Award%201.jpeg.webp?itok=Q8-ZRLL8" width="1000" /&gt;
-
-  
-
-
-        &lt;figcaption class="tw-text-sm tw-text-dark tw-font-normal tw-font-headers tw-tracking-tighter mt-2"&gt;
-      Back L to R: Bill Lundy, Sharlene Kelly, Janelle Sinclair, Sam Langille, Alex Bevan-Baker, Logan Richard  Front L to R: Jenna MacMillan, Jay Whitehead, Richard Pellissier-Lush 
-    &lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Island artists were recognized for their excellence at the 2026 Prince Edward Island Arts Awards ceremony.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The awards honour outstanding achievements in the arts and culture community.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;The following recipients were distinguished at the annual gala:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Artist of the Year Award: Logan Richard&lt;/li&gt;&lt;li&gt;Gertie &amp;amp; Henry Purdy Emerging Visual Arts Bursary:&amp;nbsp;Alex Bevan-Baker&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Leo Cheverie Cultural Connector of the Year Award:&amp;nbsp;Richard Pellissier-Lush&lt;/li&gt;&lt;li&gt;Organization of the Year Award:&amp;nbsp;Club Red Productions&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Premier’s Award for Stand-Out Project of the Year: 333 - The Toronto Bathhouse Raids&lt;/li&gt;&lt;/ul&gt;&lt;blockquote&gt;&lt;p&gt;“Congratulations to all of this year’s recipients on this well-deserved recognition. Island artists play an important role in shaping and strengthening our culture, and we are proud to support their creativity, talent and contributions to Prince Edward Island’s vibrant creative sector.”&lt;/p&gt;&lt;p&gt;- Minister of Economic Development, Trade and Artificial Intelligence Zack Bell&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;br /&gt;"What a thrill to be included among such a wealth of talented artists acknowledged at last night's awards ceremony.&amp;nbsp;It was a beautiful celebration of a year of cultural excellence right here on PEI.&amp;nbsp; The team behind the production of 333 is so honoured by this recognition for our project and, importantly, so moved by this show of support for live, queer, and independent theatre that tells our Canadian stories.&amp;nbsp;I couldn't be prouder of this accomplishment and to be a creative artist here in PEI.&amp;nbsp; This whole experience has been so wonderfully validating.&amp;nbsp; Thank you to everyone who made these awards happen."&lt;/p&gt;&lt;p&gt;- Premier's Award for Stand-Out Project of the Year recipient&amp;nbsp;Jay Whitehead&lt;/p&gt;&lt;p&gt;"Receiving the Leo Cheverie Cultural Connector of the Year Award is an incredible honour, especially knowing the legacy of a man who dedicated his life to bringing people together. As a proud Mi'kmaw artist from Lennox Island First Nation, I believe the arts are more than performances or creative expression. They are opportunities to build bridges, preserve our stories, celebrate our identities, and create a sense of belonging. I share this recognition with my family, our Elders, our youth, and everyone who continues to support and uplift Indigenous voices. My greatest hope is that the work we do today inspires the next generation to embrace their culture, find their voice, and recognize that their stories deserve to be heard."&lt;/p&gt;&lt;p&gt;- Leo Cheverie Cultural Connector of the Year Award recipient Richard Pellissier-Lush&lt;/p&gt;&lt;p&gt;Each recipient receives a cash prize and a unique work of art created in Prince Edward Island.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Learn more about the &lt;a href="https://www.princeedwardisland.ca/en/service/prince-edward-island-arts-awards"&gt;Prince Edward Island Arts Awards&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Jill Edwards&lt;br /&gt;Department of Economic Development, Trade and Artificial Intelligence&lt;br /&gt;&lt;a href="mailto:jedwards@gov.pe.ca"&gt;jedwards@gov.pe.ca&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Backgrounder&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;The Leo Cheverie Cultural Connector of the Year Award&lt;/strong&gt;: Celebrates an individual, group or organization from PEI whose role as a champion of the arts has had a positive impact on creating access and connections between various communities within the arts and culture sector of the province.&lt;br /&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;The Artist of the Year Award&lt;/strong&gt;: Celebrates an individual artist or group regardless of artistic discipline who has had a break-out year in their respective field of practice and has demonstrated outstanding contribution and growth. Assessors will be looking for merit in artistic achievement, momentum for the future, professional recognition, as well as provincial, national and/or international recognition.&lt;br /&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;The Organization of the Year Award&lt;/strong&gt;: Recognizes an organization from PEI whose artistic and cultural contributions have had a significant, positive impact on the provincial landscape, its residents, and visitors. Individuals, groups and bands are not considered organizations and should therefore be nominated under another category.&amp;nbsp;&amp;nbsp;&lt;br /&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;The Premier of Prince Edward Island’s Award for Stand-Out Project of the Year&lt;/strong&gt;: Recognizes an artist, arts professional, group, collective or arts organization that has produced an innovative artistic or cultural project addressing themes such as reconciliation, climate change, accessibility, digital innovation, and more.&lt;br /&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;The Gertie &amp;amp; Henry Purdy Emerging Visual Arts Bursary&lt;/strong&gt;: Awarded to an emerging artist in the visual arts to support any activity that encourages training, promotion, exhibition, and leadership in and to the field of practice of the artist. This bursary is intended for creators in the plastic arts fields. Traditionally, these art forms include sculpture, drawing, painting, printmaking, ceramics, and photography. Filmmaking and media arts are not included.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;The Father Adrien Arsenault Senior Arts Award&lt;/strong&gt; (awarded bi-annually. The next prize in this category will be awarded in 2027): Honours and acknowledges the excellence of the work of a senior Island artist who has produced a significant body of work in the practice of visual arts, writing and publishing, music, dance, fine craft, theatre, film, or video.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Ferguson</title>
-      <link>https://www.princeedwardisland.ca/en/employee/ferguson-troy</link>
-      <guid isPermaLink="false">81758 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 19 Nov 2026 01:44:14 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ferguson&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-18T21:44:14-04:00" title="Wednesday, November 18, 2026 - 21:44"&gt;Wed, 11/18/2026 - 21:44&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Equipment Operator&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Transportation and Infrastructure&lt;/strong&gt;
-            &lt;div&gt;Highway Maintenance Operations&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>O'Donnell</title>
-      <link>https://www.princeedwardisland.ca/en/employee/odonnell-brooke-0</link>
-      <guid isPermaLink="false">81757 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 19 Nov 2026 01:38:50 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;O'Donnell&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-18T21:38:50-04:00" title="Wednesday, November 18, 2026 - 21:38"&gt;Wed, 11/18/2026 - 21:38&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Victim Services Worker&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Justice and Public Safety&lt;/strong&gt;
-            &lt;div&gt;Victim Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Webster</title>
-      <link>https://www.princeedwardisland.ca/en/employee/webster-mary</link>
-      <guid isPermaLink="false">81756 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 19 Nov 2026 01:31:57 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Webster&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-18T21:31:57-04:00" title="Wednesday, November 18, 2026 - 21:31"&gt;Wed, 11/18/2026 - 21:31&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Library Branch Technician&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Education and Early Years&lt;/strong&gt;
-            &lt;div&gt;Public Library Service&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
