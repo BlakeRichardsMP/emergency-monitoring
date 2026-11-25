@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 01:01:12 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,11 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Telephone Service (Issued)</title>
+      <title>Telephone Service (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/3E4B295E-F3AB-490C-B97B-0939C35F2B06</link>
-      <guid isPermaLink="false">3E4B295E-F3AB-490C-B97B-0939C35F2B06-1</guid>
-      <pubDate>2026-11-23T13:28:15-06:00</pubDate>
-      <description>Key Lake Mine and all areas and communities north of that location. On November 24, from 8:00 a.m. until approximately 5:00 p.m., crews will be completing necessary maintenance on the fibre... | Areas: Key Lake Mine and all areas and communities north of that location | Level: advisory</description>
+      <guid isPermaLink="false">A521FFF9-93FB-426F-8C0B-101659D520AD-1</guid>
+      <pubDate>2026-11-24T17:06:51-06:00</pubDate>
+      <description>Key Lake Mine and all areas and communities north of that location. CANCELLED: As of 5:00 p.m. today, crews have completed planned maintenance on the fibre transport network serving Key Lake and... | Areas: Key Lake Mine and all areas and communities north of that location | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -235,21 +235,84 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Weather (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3480362195.2026-1</guid>
-      <pubDate>2026-11-23T19:21:20-00:00</pubDate>
-      <description>Heavy rainfall no longer expected. | Areas: Kings County, Cumberland County - Minas Shore, Cumberland County North and Cobequid Pass, Colchester County - Cobequid Bay, Colchester County North, Hants County, Colchester County - Truro and south, Halifax County - east of Porters Lake, Pictou County, Guysborough County, Antigonish County, Richmond County, Inverness County - south of Mabou, Inverness County - Mabou and north, Victoria County, Sydney Metro and Cape Breton County | Level: advisory</description>
-      <source>Nova Scotia</source>
-    </item>
+      <title>Report recommends farmland investment trust for PEI</title>
+      <link>https://www.princeedwardisland.ca/en/news/report-recommends-farmland-investment-trust-for-pei</link>
+      <guid isPermaLink="false">81774 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Tue, 24 Nov 2026 19:14:21 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Report recommends farmland investment trust for PEI&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-24T15:14:21-04:00" title="Tuesday, November 24, 2026 - 15:14"&gt;Tue, 11/24/2026 - 15:14&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
-    <item>
-      <title>Wind (Cancelled)</title>
-      <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.2046727647.2026-1</guid>
-      <pubDate>2026-11-23T19:09:49-00:00</pubDate>
-      <description>Inverness County - Mabou and north. Damaging winds are no longer expected. | Areas: Inverness County - Mabou and north | Level: advisory</description>
-      <source>Nova Scotia</source>
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="two people standing in front of stairs" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/22bd/Farmland%20Investment%20Trust.jpg.webp?itok=TLmyI-4W" width="1000" /&gt;
+
+  
+
+
+    &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;A report on agricultural land recommends creating a PEI farmland investment trust to help preserve farmland for agricultural use.&lt;/p&gt;&lt;p&gt;Dr. Greg Keefe’s report entitled Examination of Farmland Trusts looks at models to protect agricultural land and advance opportunities for young farmers in Prince Edward Island.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“The loss of agricultural land is a threat to the social and economic health of the Island. We appreciate Dr. Keefe’s work and valuable insights on a farmland trust, agricultural land use policy and planning, a charitable land trust, environmental farm management and taxation. We will be analyzing his recommendations, with the farmland investment trust being first on the list.”&lt;/p&gt;&lt;p&gt;- Agriculture Minister Hilton MacLennan&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Dr. Keefe, an experienced leader in agriculture and veterinary medicine, was engaged by the Department of Agriculture to examine systems to support affordable and stable access to PEI farmland by farmers, especially new farmers.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The proposed PEI Farmland Investment Trust would buy farmland at market value and lease it to farmers, who would have opportunities to build equity over time and eventually purchase the land. &amp;nbsp; Investments would be structured to deliver modest returns while supporting sustainable agricultural and keeping PEI farmland under local control.&amp;nbsp; Management of the farmland and financing for the trust would be handled by a non-governmental organization regulated by government, or by a commission of government. Investment opportunities would be open only to Islanders.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Protection of agricultural land, and support for new and existing farmers to own the land they work, are essential for the future of farming in PEI," said Dr. Greg Keefe. "This report contains a series of recommendations, which could help the province to achieve those goals.”&lt;/p&gt;&lt;p&gt;The &lt;a href="https://www.princeedwardisland.ca/en/publication/pei-farmland-trusts-report"&gt;Examination of Farmland Trusts&lt;/a&gt; report is available on the province’s website.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Katie Cudmore&lt;br /&gt;Department of Agriculture&lt;br /&gt;902-314-3996&lt;br /&gt;&lt;a href="mailto:katiecudmore@gov.pe.ca"&gt;katiecudmore@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Backgrounder&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dr. Greg Keefe is Professor emeritus and former interim President of UPEI and Dean of the Atlantic Veterinary College. He is the recipient of numerous awards including the Ontario Veterinary College Distinguished Alumni Award and a CVMA award for Advancement of Large Animal Medicine in Canada.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -898,87 +961,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
       
             &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Public Schools Branch (PSB) will begin testing video cameras on six school buses this week to improve safety for students and bus drivers and hold motorists accountable for illegally passing stopped buses.&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt;The pilot includes exterior cameras that record vehicles passing a stopped school bus while its red lights are flashing, and interior cameras that record video and audio inside the bus. Signs on each bus let riders know that cameras are in use.&lt;/p&gt;&lt;p&gt;"Drivers who pass a stopped school bus are putting children at serious risk," said PSB director of transportation and risk management Dave Gillis. "Our staff report these incidents to police, and we've heard again and again that video evidence would make those reports stronger. This pilot is about keeping everyone who uses our transportation system safe."&lt;/p&gt;&lt;p&gt;The interior cameras will help staff respond to behaviour concerns and incidents on buses fairly and accurately, supporting both students and drivers.&lt;/p&gt;&lt;p&gt;Along with this pilot, the PSB will finalize a policy on the use of video cameras on school buses.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Matt MacLeod&lt;br /&gt;Public Schools Branch&lt;br /&gt;&lt;a href="mailto:mattimacleod@gov.pe.ca"&gt;mattimacleod@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Backgrounder:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;How footage is handled&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Footage is not monitored live and is not reviewed routinely. It is only reviewed when an incident is reported.&lt;/li&gt;&lt;li&gt;Only branch-based transportation staff or school administrators may view footage.&lt;/li&gt;&lt;li&gt;Footage related to vehicles passing a stopped bus or incidents involving police may be shared with law enforcement as part of the report.&lt;/li&gt;&lt;li&gt;External camera footage is automatically deleted after 30 days unless it is needed for a reported incident.&lt;/li&gt;&lt;li&gt;Internal camera footage is automatically deleted after 90 days unless it is needed for a reported incident.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Statement by Minister Deagle on National Addictions Awareness Week</title>
-      <link>https://www.princeedwardisland.ca/en/news/statement-by-minister-deagle-on-national-addictions-awareness-week</link>
-      <guid isPermaLink="false">81761 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 19 Nov 2026 19:20:55 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Statement by Minister Deagle on National Addictions Awareness Week&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-19T15:20:55-04:00" title="Thursday, November 19, 2026 - 15:20"&gt;Thu, 11/19/2026 - 15:20&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="people standing in front of a Christmas tree" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/920f/Addictions%20Awareness.jpeg.webp?itok=u9BYF9J8" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Minister of Health and Wellness Cory Deagle issued the following statement:&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“National Addictions Awareness Week, November 15-21, is an opportunity to increase understanding, reduce stigma, and encourage conversations about substance use, gambling, and recovery.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Addiction is a health issue that can affect anyone. Substance use and gambling-related harms impact individuals, families, workplaces, and communities across the province.&lt;/p&gt;&lt;p&gt;Reducing stigma is one of the most important ways we can help people access support. When people feel safe asking for help, they are more likely to seek treatment and begin their recovery journey.&amp;nbsp;&lt;/p&gt;&lt;p&gt;I would like to thank the health care professionals, addictions counsellors, peer support workers, outreach teams, first responders, and community organizations who support Islanders every day.&lt;/p&gt;&lt;p&gt;In Prince Edward Island, we continue to invest in a full range of services that help people prevent and address addiction, support recovery, and reduce harm. Islanders can also access counselling through Open Access Counselling clinics, support through the Mental Health and Addictions Phone Line, free naloxone kits through the Take Home Naloxone Program, and overdose monitoring through the National Overdose Response Service.&amp;nbsp;&lt;/p&gt;&lt;p&gt;During National Addictions Awareness Week, we reaffirm our commitment to ensuring Islanders feel safe asking for help and know that support is available.&amp;nbsp;&lt;/p&gt;&lt;p&gt;If you or someone you know is struggling with substance use, gambling, or addiction, please know that help is available and that you are not alone.&lt;/p&gt;&lt;p&gt;Call the Mental Health and Addictions phone line at 1-833-553-6983 for help 24 hours a day.”&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;Media contact:&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;Maureen Coulter&lt;br /&gt;Department of Health and Wellness&lt;br /&gt;&lt;a href="mailto:maureencoulter@gov.pe.ca"&gt;maureencoulter@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
       
   &lt;/div&gt;
 &lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
