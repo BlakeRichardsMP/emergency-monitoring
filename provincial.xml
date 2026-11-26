@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:46:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:39:22 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,20 +208,11 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Telephone Service (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/3E4B295E-F3AB-490C-B97B-0939C35F2B06</link>
-      <guid isPermaLink="false">A521FFF9-93FB-426F-8C0B-101659D520AD-1</guid>
-      <pubDate>2026-11-24T17:06:51-06:00</pubDate>
-      <description>Key Lake Mine and all areas and communities north of that location. CANCELLED: As of 5:00 p.m. today, crews have completed planned maintenance on the fibre transport network serving Key Lake and... | Areas: Key Lake Mine and all areas and communities north of that location | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Drinking Water (Updated)</title>
+      <title>Drinking Water (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/F3BEB486-BA84-4DFA-9366-0F151EF61634</link>
-      <guid isPermaLink="false">5EF65E84-DA10-47A3-BA83-E35FA61B0015-1</guid>
-      <pubDate>2026-11-19T14:36:14-06:00</pubDate>
-      <description>RM of Orkney #244. Update: A Precautionary Drinking Water Advisory has been issued for all users North and East of Otthon on Highway 10, including Collacott, Pleasant Heights, Ebenezer, Maple Grove... | Areas: RM of Orkney #244 | Level: advisory</description>
+      <guid isPermaLink="false">A7D556DE-011A-4204-A739-3A141666297D-1</guid>
+      <pubDate>2026-11-25T15:59:36-06:00</pubDate>
+      <description>RM of Orkney #244. Cancelled: The Precautionary Drinking Water Advisory for all users north and east of Otthon on Highway 10, including Collacott, Pleasant Heights, Ebenezer, Maple Grove Estates,... | Areas: RM of Orkney #244 | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -232,6 +223,67 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Ministerial Order issued to remove Public Schools Branch Chair</title>
+      <link>https://www.princeedwardisland.ca/en/news/ministerial-order-issued-to-remove-public-schools-branch-chair</link>
+      <guid isPermaLink="false">81779 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Wed, 25 Nov 2026 20:24:07 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ministerial Order issued to remove Public Schools Branch Chair&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-25T16:24:07-04:00" title="Wednesday, November 25, 2026 - 16:24"&gt;Wed, 11/25/2026 - 16:24&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Minister of Education and Early Years Robin Croucher has issued a Ministerial Order removing Public Schools Branch (PSB) Board of Trustees Chair Andrew MacFarlane.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“This fall I commissioned a review and subsequent report that examined the work of the Board of Trustees over the last year, and how the board has been carrying out its responsibilities. That report outlines various concerns with the performance of the Chair, and his interactions with PSB staff, consultants, and other Trustees."&lt;/p&gt;&lt;p&gt;-Minister of Education and Early Years Robin Croucher&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The recommendations of the Commissioner were compiled based on interviews held with individuals who have had professional interactions with the Chair.&lt;/p&gt;&lt;p&gt;The report identified an opportunity to strengthen training for the Trustees on the scope and limits of their responsibilities. The PSB is in the process of updating its governance training, so new trustees get thorough instruction from the start and current Trustees receive regular refresher training.&lt;/p&gt;&lt;p&gt;The current Vice-Chair Karen Clare will serve as Interim Chair until such time as the Board of Trustees elects a new Chair.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Andrew Sprague&lt;br /&gt;Department of Education and Early Years&lt;br /&gt;&lt;a href="mailto:asgsprague@gov.pe.ca"&gt;asgsprague@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -876,122 +928,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
   &lt;/div&gt;</description>
       <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Employer Advisor November 2026 Newsletter</title>
-      <link>https://www.princeedwardisland.ca/en/publication/employer-advisor-november-2026-newsletter</link>
-      <guid isPermaLink="false">81768 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Mon, 23 Nov 2026 14:03:07 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Employer Advisor November 2026 Newsletter&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;nataleesmith&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-23T10:03:07-04:00" title="Monday, November 23, 2026 - 10:03"&gt;Mon, 11/23/2026 - 10:03&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Newsletter&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/9bed/Employer%20Advisor%20November%202026%20Newsletter.pdf"&gt;
-              &lt;span&gt;Employer Advisor November 2026 Newsletter.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Premier McLeod on the Enbridge Line 21 Pipeline</title>
-      <link>https://www.gov.nt.ca/en/newsroom/news/premier-mcleod-enbridge-line-21-pipeline</link>
-      <guid isPermaLink="false">9422 at https://www.gov.nt.ca</guid>
-      <pubDate>Wed, 26 Sep 2018 23:05:28 +0000</pubDate>
-      <description>&lt;div class="field field-name-body field-type-text-with-summary field-label-hidden"&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;p&gt;&lt;strong&gt;YELLOWKNIFE&lt;/strong&gt; - Premier Bob McLeod issued the following statement on the Enbridge Line 21 pipeline today:&lt;/p&gt;
-
-&lt;p&gt;“I was pleased to learn that operations have resumed for Enbridge’s Line 21 pipeline after almost 2 years of no activity.&lt;/p&gt;
-
-&lt;p&gt;"Resource development has, and will continue to be, the backbone of our economy and is central to ensuring a good source of middle class jobs and business opportunities. Our territory has mineral and petroleum resources and the development of those resources can have a transformative effect on our people and economy.&lt;/p&gt;
-
-&lt;p&gt;"Sustainable economic development is key to the future of Northerners. With a strong resource development base, we will be able to support diversification of our local economies into emerging and established sectors.&lt;/p&gt;
-
-&lt;p&gt;"On behalf of the Government of the Northwest Territories I’d like to offer my congratulations to Imperial Oil, Enbridge the town of Norman Wells and other partners for getting this pipeline back up and running. I know the efforts and economic impacts of the pipeline have already begun to take shape in the community and will be felt for years to come. ”&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Charlotte Digness&lt;/strong&gt;&lt;br /&gt;
-	Media and Communications Coordinator&lt;br /&gt;
-	Cabinet Communications and Protocol&lt;br /&gt;
-	Government of the Northwest Territories&lt;br /&gt;
-	Ph: 867-767-9140 ext. 11092&lt;br /&gt;
-	Email: &lt;a href="mailto:charlotte_digness@gov.nt.ca"&gt;charlotte_digness@gov.nt.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-type field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;News Type:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/news-type/media-statement"&gt;Media Statement&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="field field-name-field-news-department field-type-taxonomy-term-reference field-label-above"&gt;&lt;div class="field-label"&gt;Department:&amp;nbsp;&lt;/div&gt;&lt;div class="field-items"&gt;&lt;div class="field-item even"&gt;&lt;a href="https://www.gov.nt.ca/en/department/premier"&gt;Premier&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class="links inline"&gt;&lt;li class="fr first last"&gt;&lt;a class="language-link" href="https://www.gov.nt.ca/fr/newsroom/le-premier-ministre-mcleod-se-r%C3%A9jouit-de-la-r%C3%A9ouverture-de-l%E2%80%99ol%C3%A9oduc-21-d%E2%80%99enbridge" xml:lang="fr"&gt;Français&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <source>Northwest Territories</source>
     </item>
 
   </channel>
