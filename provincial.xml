@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 26 Nov 2026 20:28:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 03:09:29 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -205,15 +205,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/17aug23a/"&gt;BC Emer
       <description>&lt;p&gt;On Saturday, June 29, 2023, at 2227, a BC Emergency Alert announcing an Evacuation Order was issued by the Town of Osoyoos and the Regional District of Okanagan-Similkameen due to wildfire. Impacted residents should evacuate the area immediately. An Evacuation Alert has also been issued for nearby areas (details below). BC Emergency Alert Message Evacuation [&amp;#8230;]&lt;/p&gt;
 The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emergency Alert: Evacuation Order for parts of Osoyoos and surrounding area due to wildfire. July 29, 2023.&lt;/a&gt; first appeared on &lt;a href="https://www.emergencyinfobc.gov.bc.ca"&gt;EmergencyInfoBC&lt;/a&gt;.</description>
       <source>British Columbia</source>
-    </item>
-
-    <item>
-      <title>Drinking Water (Cancelled)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/F3BEB486-BA84-4DFA-9366-0F151EF61634</link>
-      <guid isPermaLink="false">A7D556DE-011A-4204-A739-3A141666297D-1</guid>
-      <pubDate>2026-11-25T15:59:36-06:00</pubDate>
-      <description>RM of Orkney #244. Cancelled: The Precautionary Drinking Water Advisory for all users north and east of Otthon on Highway 10, including Collacott, Pleasant Heights, Ebenezer, Maple Grove Estates,... | Areas: RM of Orkney #244 | Level: advisory</description>
-      <source>Saskatchewan</source>
     </item>
 
     <item>
