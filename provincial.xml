@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:18:30 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -208,12 +208,179 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
+      <title>Freezing Rain (Cancelled)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2730424622.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1909268178.2026-1</guid>
+      <pubDate>2026-11-27T10:20:12-00:00</pubDate>
+      <description>Freezing rain | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, Hwy 165 between hwys 2 and 914 including Pinehouse Lake, Lac la Ronge Prov. Park including La Ronge, Candle Lake Prov. Park and Narrow Hills Prov. Park, Montreal Lake and Molanosa, Prince Albert Nat. Park, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>Freezing Rain (Updated)</title>
+      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2730424622.2026</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1909268178.2026-2</guid>
+      <pubDate>2026-11-27T10:20:12-00:00</pubDate>
+      <description>Ice build-up due to freezing rain is expected early this morning. Freezing rain will end later this morning. Be very careful if walking or driving. | Areas: Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
+      <source>Saskatchewan</source>
+    </item>
+
+    <item>
       <title>Drinking Water (Updated)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/E746FB63-2A32-48EC-8AAF-D30FFC1CDDE0</link>
       <guid isPermaLink="false">113E7C44-0E05-4C6C-B62B-C988952ACA8C-1</guid>
       <pubDate>2026-09-17T12:41:23-06:00</pubDate>
       <description>Update a Precautionary Drinking Water Advisory remains in affect for the Village of Macoun. This advisory is for the Village of Macoun and for any individuals who may access water from the Macoun... | Areas: Village of Macoun | Level: advisory</description>
       <source>Saskatchewan</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - FREEZING RAIN - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6b0906b505c6bb286caf1a6b</guid>
+      <pubDate>2026-11-27T10:21:18.454Z</pubDate>
+      <description>Freezing Rain Warning | Yellow Warning - Freezing Rain - In Effect | &lt;p&gt;Ice build-up due to freezing rain is expected early this morning.
+
+Freezing rain will end later this morning.
+
+
+
+Roads and walkways will likely become icy and slippery. Icy surfaces could be difficult to detect. There is risk of injury due to slips and falls.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Kipahigan Sakahikan 222, Saskatchewan</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>BE ALERT - YELLOW WARNING - FREEZING RAIN - IN EFFECT</title>
+      <link>https://mbready.manitoba.ca/</link>
+      <guid isPermaLink="false">6b090ffd36d806c6817b5231</guid>
+      <pubDate>2026-11-27T10:02:22.581Z</pubDate>
+      <description>Freezing Rain Warning | Yellow Warning - Freezing Rain - In Effect | &lt;p&gt;Freezing rain is expected.
+
+An approaching low pressure system is spreading an area of freezing rain across west central Manitoba tonight.
+
+The threat for freezing rain will end Friday morning.
+
+
+
+Roads and walkways will likely become icy and slippery. Local utility outages are possible.
+
+Freezing rain warnings are issued when rain falling in sub-zero temperatures is expected to create ice build-up.
+
+Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
+      <source>Manitoba</source>
+    </item>
+
+    <item>
+      <title>Greenan</title>
+      <link>https://www.princeedwardisland.ca/en/employee/greenan-chloe</link>
+      <guid isPermaLink="false">81785 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 27 Nov 2026 03:59:24 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Greenan&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-26T23:59:24-04:00" title="Thursday, November 26, 2026 - 23:59"&gt;Thu, 11/26/2026 - 23:59&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Regulatory Policy and Data Analyst&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Transportation and Infrastructure&lt;/strong&gt;
+            &lt;div&gt;Highway Safety&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Karungi</title>
+      <link>https://www.princeedwardisland.ca/en/employee/karungi-karen</link>
+      <guid isPermaLink="false">81784 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 27 Nov 2026 03:55:02 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Karungi&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-26T23:55:02-04:00" title="Thursday, November 26, 2026 - 23:55"&gt;Thu, 11/26/2026 - 23:55&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Administrative Assistant&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                  &lt;div&gt;Workforce and Advanced Learning&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -731,143 +898,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
 
   &lt;/div&gt;
 
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Report recommends farmland investment trust for PEI</title>
-      <link>https://www.princeedwardisland.ca/en/news/report-recommends-farmland-investment-trust-for-pei</link>
-      <guid isPermaLink="false">81774 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 24 Nov 2026 19:14:21 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Report recommends farmland investment trust for PEI&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-24T15:14:21-04:00" title="Tuesday, November 24, 2026 - 15:14"&gt;Tue, 11/24/2026 - 15:14&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="two people standing in front of stairs" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/22bd/Farmland%20Investment%20Trust.jpg.webp?itok=TLmyI-4W" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;A report on agricultural land recommends creating a PEI farmland investment trust to help preserve farmland for agricultural use.&lt;/p&gt;&lt;p&gt;Dr. Greg Keefe’s report entitled Examination of Farmland Trusts looks at models to protect agricultural land and advance opportunities for young farmers in Prince Edward Island.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“The loss of agricultural land is a threat to the social and economic health of the Island. We appreciate Dr. Keefe’s work and valuable insights on a farmland trust, agricultural land use policy and planning, a charitable land trust, environmental farm management and taxation. We will be analyzing his recommendations, with the farmland investment trust being first on the list.”&lt;/p&gt;&lt;p&gt;- Agriculture Minister Hilton MacLennan&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Dr. Keefe, an experienced leader in agriculture and veterinary medicine, was engaged by the Department of Agriculture to examine systems to support affordable and stable access to PEI farmland by farmers, especially new farmers.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The proposed PEI Farmland Investment Trust would buy farmland at market value and lease it to farmers, who would have opportunities to build equity over time and eventually purchase the land. &amp;nbsp; Investments would be structured to deliver modest returns while supporting sustainable agricultural and keeping PEI farmland under local control.&amp;nbsp; Management of the farmland and financing for the trust would be handled by a non-governmental organization regulated by government, or by a commission of government. Investment opportunities would be open only to Islanders.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“Protection of agricultural land, and support for new and existing farmers to own the land they work, are essential for the future of farming in PEI," said Dr. Greg Keefe. "This report contains a series of recommendations, which could help the province to achieve those goals.”&lt;/p&gt;&lt;p&gt;The &lt;a href="https://www.princeedwardisland.ca/en/publication/pei-farmland-trusts-report"&gt;Examination of Farmland Trusts&lt;/a&gt; report is available on the province’s website.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Katie Cudmore&lt;br /&gt;Department of Agriculture&lt;br /&gt;902-314-3996&lt;br /&gt;&lt;a href="mailto:katiecudmore@gov.pe.ca"&gt;katiecudmore@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Backgrounder&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dr. Greg Keefe is Professor emeritus and former interim President of UPEI and Dean of the Atlantic Veterinary College. He is the recipient of numerous awards including the Ontario Veterinary College Distinguished Alumni Award and a CVMA award for Advancement of Large Animal Medicine in Canada.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Smith</title>
-      <link>https://www.princeedwardisland.ca/en/employee/smith-jane</link>
-      <guid isPermaLink="false">81772 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Tue, 24 Nov 2026 13:26:43 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Smith&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;stevengallant&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-24T09:26:43-04:00" title="Tuesday, November 24, 2026 - 09:26"&gt;Tue, 11/24/2026 - 09:26&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;Correctional Officer&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
-  
-    
-      
-&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
-      &lt;li&gt;
-                    &lt;strong&gt;Justice and Public Safety&lt;/strong&gt;
-            &lt;div&gt;Community and Correctional Services&lt;/div&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
