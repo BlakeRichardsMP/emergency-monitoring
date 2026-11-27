@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:31:09 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -210,18 +210,9 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     <item>
       <title>Freezing Rain (Cancelled)</title>
       <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2730424622.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1909268178.2026-1</guid>
-      <pubDate>2026-11-27T10:20:12-00:00</pubDate>
-      <description>Freezing rain | Areas: Buffalo Narrows and Peter Pond Lake, Île à la Crosse and Beauval, Hwy 165 between hwys 2 and 914 including Pinehouse Lake, Lac la Ronge Prov. Park including La Ronge, Candle Lake Prov. Park and Narrow Hills Prov. Park, Montreal Lake and Molanosa, Prince Albert Nat. Park, La Loche and Clearwater River Prov. Park, Cree Lake - Key Lake | Level: advisory</description>
-      <source>Saskatchewan</source>
-    </item>
-
-    <item>
-      <title>Freezing Rain (Updated)</title>
-      <link>https://emergencyalert.saskatchewan.ca/#/incidents/urn:oid:2.49.0.1.124.2730424622.2026</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.1909268178.2026-2</guid>
-      <pubDate>2026-11-27T10:20:12-00:00</pubDate>
-      <description>Ice build-up due to freezing rain is expected early this morning. Freezing rain will end later this morning. Be very careful if walking or driving. | Areas: Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0858005803.2026-1</guid>
+      <pubDate>2026-11-27T14:02:52-00:00</pubDate>
+      <description>Freezing rain is no longer expected. | Areas: Hwy 135 including Pelican Narrows and Sandy Bay, Seabee Mine, Hanson Lake Road east of Hwy 135 including Creighton, Hanson Lake Road between Hwys 165 and 135, Cumberland House, Southend - Brabant Lake - Kinoosao | Level: advisory</description>
       <source>Saskatchewan</source>
     </item>
 
@@ -235,41 +226,458 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW WARNING - FREEZING RAIN - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6b0906b505c6bb286caf1a6b</guid>
-      <pubDate>2026-11-27T10:21:18.454Z</pubDate>
-      <description>Freezing Rain Warning | Yellow Warning - Freezing Rain - In Effect | &lt;p&gt;Ice build-up due to freezing rain is expected early this morning.
-
-Freezing rain will end later this morning.
-
-
-
-Roads and walkways will likely become icy and slippery. Icy surfaces could be difficult to detect. There is risk of injury due to slips and falls.
-
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to SKstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using SKStorm.&lt;/p&gt; | Moderate - possible threat | Immediate - act now | Kipahigan Sakahikan 222, Saskatchewan</description>
-      <source>Manitoba</source>
+      <title>Coastal Flooding (Issued)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0598058365.2026-1</guid>
+      <pubDate>2026-11-27T20:08:49-00:00</pubDate>
+      <description>This statement is in effect for parts of the coast due to the following hazard(s): - Large waves - Very high tides - Higher than normal water levels Locations: southwestern shore of Nova Scotia... | Areas: Coastline of Queens County, Coastline of Shelburne County, Coastline of Yarmouth County | Level: advisory</description>
+      <source>Nova Scotia</source>
     </item>
 
     <item>
-      <title>BE ALERT - YELLOW WARNING - FREEZING RAIN - IN EFFECT</title>
-      <link>https://mbready.manitoba.ca/</link>
-      <guid isPermaLink="false">6b090ffd36d806c6817b5231</guid>
-      <pubDate>2026-11-27T10:02:22.581Z</pubDate>
-      <description>Freezing Rain Warning | Yellow Warning - Freezing Rain - In Effect | &lt;p&gt;Freezing rain is expected.
+      <title>Coastal Flooding (Cancelled)</title>
+      <link>https://nsalert.alertable.ca</link>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0867450752.2026-1</guid>
+      <pubDate>2026-11-27T12:34:30-00:00</pubDate>
+      <description>This statement is in effect for parts of the coast due to the following hazard(s): - Large waves - Very high tides - Higher than normal water levels Locations: southwestern shore of Nova Scotia... | Areas: Coastline of Lunenburg County, Coastline of Queens County, Coastline of Shelburne County, Coastline of Yarmouth County | Level: advisory</description>
+      <source>Nova Scotia</source>
+    </item>
 
-An approaching low pressure system is spreading an area of freezing rain across west central Manitoba tonight.
+    <item>
+      <title>PF.Maximeville PID272823.2026Nov</title>
+      <link>https://www.princeedwardisland.ca/en/publication/pfmaximeville-pid2728232026nov</link>
+      <guid isPermaLink="false">81792 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 27 Nov 2026 18:26:32 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PF.Maximeville PID272823.2026Nov&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kfarrar&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-27T14:26:32-04:00" title="Friday, November 27, 2026 - 14:26"&gt;Fri, 11/27/2026 - 14:26&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
 
-The threat for freezing rain will end Friday morning.
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
 
 
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/81c0/PF.Maximeville%20PID272823.2026Nov.pdf"&gt;
+              &lt;span&gt;PF.Maximeville PID272823.2026Nov.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
 
-Roads and walkways will likely become icy and slippery. Local utility outages are possible.
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
 
-Freezing rain warnings are issued when rain falling in sub-zero temperatures is expected to create ice build-up.
+  &lt;/article&gt;
 
-Please continue to monitor alerts and forecasts issued by Environment Canada. To report severe weather, send an email to MBstorm@ec.gc.ca, call 1-800-239-0484 or post reports on social media using MBStorm.&lt;/p&gt; | Moderate - possible threat | Future - act in near future</description>
-      <source>Manitoba</source>
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Orders in Council November 24, 2026 (1135-1173)</title>
+      <link>https://www.princeedwardisland.ca/en/publication/orders-in-council-november-24-2026-1135-1173</link>
+      <guid isPermaLink="false">81791 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 27 Nov 2026 18:18:10 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orders in Council November 24, 2026 (1135-1173)&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tamperry&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-27T14:18:10-04:00" title="Friday, November 27, 2026 - 14:18"&gt;Fri, 11/27/2026 - 14:18&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Orders in Council&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/1e6b/20261124truwww.pdf"&gt;
+              &lt;span&gt;20261124truwww.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>New program helps students learn life-saving CPR and AED skills</title>
+      <link>https://www.princeedwardisland.ca/en/news/new-program-helps-students-learn-life-saving-cpr-and-aed-skills</link>
+      <guid isPermaLink="false">81789 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 27 Nov 2026 15:29:53 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New program helps students learn life-saving CPR and AED skills&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-27T11:29:53-04:00" title="Friday, November 27, 2026 - 11:29"&gt;Fri, 11/27/2026 - 11:29&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
+  
+    
+      
+  
+
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
+  
+    
+      
+            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
+  
+          
+                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
+              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
+              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
+                  &lt;img alt="Minister of Education and Early Years Robin Croucher and Health Promotion Manager at Heart &amp;amp; Stroke PEI Sarah Crozier" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/29b8/CPR%20Training.jpg.webp?itok=lMmTKPw8" width="1000" /&gt;
+
+  
+
+
+        &lt;figcaption class="tw-text-sm tw-text-dark tw-font-normal tw-font-headers tw-tracking-tighter mt-2"&gt;
+      Minister of Education and Early Years Robin Croucher and Health Promotion Manager at Heart &amp;amp; Stroke PEI Sarah Crozier
+    &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;A new change to the intermediate physical education curriculum will help students learn cardiopulmonary resuscitation (CPR) and automated external defibrillator (AED) skills that could one day save a life.&lt;/p&gt;&lt;p&gt;To help bring this education into classrooms, the Department of Education and Early Years is endorsing Heart &amp;amp; Stroke’s CardiacCrash™. The interactive education program teaches students how to recognize and respond to cardiac arrest, including the importance of calling 9-1-1, performing CPR and using an AED.&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“As a paramedic I can’t emphasize enough how important this kind of education is for young people and how knowing these skills could be the difference between life and death. These are skills students will carry with them the rest of their lives, and it’s comforting to know that more Islanders will be able to respond in situations of cardiac arrest.”&lt;/p&gt;&lt;p&gt;-Minister of Education and Early Years Robin Croucher&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Free for schools and easy for teachers to facilitate, CardiacCrash™ uses a team-based, learning-game approach that places students in a realistic cardiac arrest scenario and requires them to make decisions and act as the situation unfolds.&lt;/p&gt;&lt;p&gt;“We applaud Minister Croucher for making CPR and AED education part of the intermediate physical education curriculum,” says manager of health policy and systems at Heart &amp;amp; Stroke Sarah Crozier. “Giving students the opportunity to learn lifesaving skills at school and build the confidence to step in during a cardiac arrest will help more young Islanders feel prepared to take action when every second counts.”&lt;/p&gt;&lt;p&gt;To learn more about the program, visit &lt;a href="https://cardiaccrash.ca/"&gt;CardiacCrash&lt;/a&gt;™&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Andrew Sprague&lt;br /&gt;Department of Education and Early Years&lt;br /&gt;&lt;a href="mailto:asgsprague@gov.pe.ca"&gt;asgsprague@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>French Language Services Act - 2025-2026 Annual Report</title>
+      <link>https://www.princeedwardisland.ca/en/publication/french-language-services-act-2025-2026-annual-report</link>
+      <guid isPermaLink="false">81788 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 27 Nov 2026 15:24:56 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;French Language Services Act - 2025-2026 Annual Report&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;mggardiner&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-27T11:24:56-04:00" title="Friday, November 27, 2026 - 11:24"&gt;Fri, 11/27/2026 - 11:24&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Report&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationbody"&gt;
+  
+    
+      
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The &lt;em&gt;French Language Services Act&lt;/em&gt; Annual Report is submitted by the Minister responsible for Acadian and Francophone Affairs to the Legislative Assembly each fiscal year. The report contains information on the activities of the Acadian and Francophone Affairs Secretariat and government institutions subject to the &lt;em&gt;Act&lt;/em&gt;, and on complaints made under the &lt;em&gt;Act&lt;/em&gt;. For more information on the &lt;em&gt;Act&lt;/em&gt;, visit the &lt;a href="https://www.princeedwardisland.ca/en/information/french-language-services-act"&gt;&lt;em&gt;French Language Services Act&lt;/em&gt; information page&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/aaad/Acadian%20and%20Francophone%20Affairs%20French%20Language%20Services%20Act%20Annual%20Report%202025-2026_EN_FINAL.pdf"&gt;
+              &lt;span&gt;Acadian and Francophone Affairs French Language Services Act Annual Report 2025-2026_EN_FINAL.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Orders in Council November 17, 2026 (1134)</title>
+      <link>https://www.princeedwardisland.ca/en/publication/orders-in-council-november-17-2026-1134</link>
+      <guid isPermaLink="false">81786 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 27 Nov 2026 13:09:43 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Orders in Council November 17, 2026 (1134)&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tamperry&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-27T09:09:43-04:00" title="Friday, November 27, 2026 - 09:09"&gt;Fri, 11/27/2026 - 09:09&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
+  
+    
+        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
+          &lt;strong&gt;Publication type:&lt;/strong&gt;
+    
+          &lt;span class="field__item"&gt;Orders in Council&lt;/span&gt;
+      &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
+  
+    
+      
+&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
+      &lt;article class="media media--type-document media--view-mode-default"&gt;
+  
+      
+  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
+    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
+  
+  	  
+        
+
+
+          
+    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/b6a4/20261117truwww.pdf"&gt;
+              &lt;span&gt;20261117truwww.pdf&lt;/span&gt;
+    
+              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
+  
+      &lt;/a&gt;
+
+&lt;/span&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;/article&gt;
+
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
+  
+    
+      
+
+&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
+      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
+      General Inquiries
+    &lt;/div&gt;
+  
+            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
+        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
+
+                      &lt;/div&gt;
+      &lt;/div&gt;
+
+
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -550,351 +958,6 @@ Please continue to monitor alerts and forecasts issued by Environment Canada. To
 &lt;span class="locality"&gt;Summerside&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1N 5R1&lt;/span&gt;&lt;br /&gt;
 &lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
     &lt;/div&gt;
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Ministerial Order issued to remove Public Schools Branch Chair</title>
-      <link>https://www.princeedwardisland.ca/en/news/ministerial-order-issued-to-remove-public-schools-branch-chair</link>
-      <guid isPermaLink="false">81779 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 25 Nov 2026 20:24:07 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Ministerial Order issued to remove Public Schools Branch Chair&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-25T16:24:07-04:00" title="Wednesday, November 25, 2026 - 16:24"&gt;Wed, 11/25/2026 - 16:24&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Minister of Education and Early Years Robin Croucher has issued a Ministerial Order removing Public Schools Branch (PSB) Board of Trustees Chair Andrew MacFarlane.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“This fall I commissioned a review and subsequent report that examined the work of the Board of Trustees over the last year, and how the board has been carrying out its responsibilities. That report outlines various concerns with the performance of the Chair, and his interactions with PSB staff, consultants, and other Trustees."&lt;/p&gt;&lt;p&gt;-Minister of Education and Early Years Robin Croucher&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The recommendations of the Commissioner were compiled based on interviews held with individuals who have had professional interactions with the Chair.&lt;/p&gt;&lt;p&gt;The report identified an opportunity to strengthen training for the Trustees on the scope and limits of their responsibilities. The PSB is in the process of updating its governance training, so new trustees get thorough instruction from the start and current Trustees receive regular refresher training.&lt;/p&gt;&lt;p&gt;The current Vice-Chair Karen Clare will serve as Interim Chair until such time as the Board of Trustees elects a new Chair.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Andrew Sprague&lt;br /&gt;Department of Education and Early Years&lt;br /&gt;&lt;a href="mailto:asgsprague@gov.pe.ca"&gt;asgsprague@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>November 25th proclaimed as Children and Youth in Care Day in PEI</title>
-      <link>https://www.princeedwardisland.ca/en/news/november-25th-proclaimed-as-children-and-youth-in-care-day-in-pei</link>
-      <guid isPermaLink="false">81778 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 25 Nov 2026 19:43:20 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;November 25th proclaimed as Children and Youth in Care Day in PEI&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-25T15:43:20-04:00" title="Wednesday, November 25, 2026 - 15:43"&gt;Wed, 11/25/2026 - 15:43&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodenewsfield-featured-image"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item"&gt;&lt;figure&gt;
-  
-          
-                  &lt;source height="538" media="all and (min-width: 1200px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="400" media="all and (min-width: 1092px)" type="image/webp" width="750" /&gt;
-              &lt;source height="538" media="all and (min-width: 576px)" type="image/webp" width="1000" /&gt;
-              &lt;source height="360" media="(min-width: 0px)" type="image/webp" width="600" /&gt;
-                  &lt;img alt="a group of people standing in front of Parliament building" height="538" src="https://www.princeedwardisland.ca/sites/default/files/styles/general_image_xxl_x1/public/745b/Children%20and%20Youth%20in%20Care%20Day.jpg.webp?itok=v19t-nCw" width="1000" /&gt;
-
-  
-
-
-    &lt;/figure&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;The Government of Prince Edward Island is recognizing November 25 as Children and Youth in Care Day.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Children and Youth in Care Day recognizes and honours the voices, experiences, and resilience of Island youth in care, and raises awareness surrounding the continued importance of ensuring every young person has the support they need to succeed.&amp;nbsp;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;“Every child deserves to feel safe, valued and connected to their community. This day helps highlight the voices and experiences of children and youth in care, celebrate their accomplishments, and reaffirm our commitment to listening, learning and doing better."&lt;/p&gt;&lt;p&gt;- Minister of Social Development and Seniors Barb Ramsay&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The province is committed to upholding the rights of children and youth in care, as outlined in the &lt;em&gt;Child, Youth and Family Services Act&lt;/em&gt; and the United Nations Convention on the Rights of the Child. The government also recognizes the inherent rights of Indigenous communities to provide their own child and family services, develop and implement laws related to those services, and care for and raise their children within their own traditions, customs and cultures.&lt;/p&gt;&lt;p&gt;To mark the day, the PEI Youth in Care Network has planned a variety of events to bring young people in care together, creating an opportunity to share stories, connect and build community.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Stacey Miller&lt;br /&gt;Department of Social Development and Seniors&lt;br /&gt;&lt;a href="mailto:Samiller@gov.pe.ca"&gt;Samiller@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Provinces releases Oyster Industry Adaptation and Resilience Strategy</title>
-      <link>https://www.princeedwardisland.ca/en/news/provinces-releases-oyster-industry-adaptation-and-resilience-strategy</link>
-      <guid isPermaLink="false">81777 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 25 Nov 2026 19:16:50 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Provinces releases Oyster Industry Adaptation and Resilience Strategy &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jenniferdhogan&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-25T15:16:50-04:00" title="Wednesday, November 25, 2026 - 15:16"&gt;Wed, 11/25/2026 - 15:16&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodenewsfield-news-priority"&gt;
-  
-    
-      
-  
-
-
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodenewsbody field--name-body rich-text"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Today, the provincial government released the Oyster Industry Adaptation and Resilience Strategy to support the industry’s recovery and sustainability.&amp;nbsp;&lt;/p&gt;&lt;p&gt;The strategy outlines the importance of PEI's oyster industry to the local economy and Canada’s export market. It looks at the economic, social and environmental impacts of dermo and MSX diseases and recommends seven interconnected strategic goals. Together these goals provide a roadmap for the oyster industry's recovery, resilience, and long-term sustainability.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;"I appreciate all of our industry members, partners and other stakeholders coming together to thoughtfully contribute to and review the&amp;nbsp;Oyster Industry Adaptation and Resilience Strategy. &amp;nbsp;We are committed to working with our partners and taking the necessary steps to ensure our oyster industry’s future is healthy and sustainable in the long-term."&lt;/p&gt;&lt;p&gt;-Minister of Fisheries, Rural Development and Tourism Ernie Hudson&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The seven recommended strategic goals include:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Build a resilient seed supply system&lt;/li&gt;&lt;li&gt;Stabilize industry capacity during transition&amp;nbsp;&lt;/li&gt;&lt;li&gt;Protect markets and industry reputation&lt;/li&gt;&lt;li&gt;Strengthen monitoring, reporting and decision-making&lt;/li&gt;&lt;li&gt;Restore and enhance oyster resources&lt;/li&gt;&lt;li&gt;Advance industry resilience through collaboration, innovation and research&lt;/li&gt;&lt;li&gt;Strengthen leadership, governance, and implementation&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The strategy was written using a multi-phase, evidence-based process that combined industry research, stakeholder engagement, economic analysis, and collaborative planning. MRSB was selected through a competitive process to prepare this strategy, and the project was co-funded by the Atlantic Canada Opportunities Agency (ACOA).&lt;/p&gt;&lt;p&gt;To read the strategy, visit&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/publication/oyster-industry-adaptation-and-resiliency-strategy" title="Oyster Industry Adaptation and Resiliency Strategy"&gt;Oyster Industry Adaptation and Resilience Strategy&lt;/a&gt; online.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Media contact:&lt;/strong&gt;&lt;br /&gt;Janice Fogarty&lt;br /&gt;Department of Fisheries, Rural Development and Tourism&lt;br /&gt;&lt;a href="mailto:jefogarty@gov.pe.ca"&gt;jefogarty@gov.pe.ca&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodenewscontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Oyster Industry Adaptation and Resiliency Strategy</title>
-      <link>https://www.princeedwardisland.ca/en/publication/oyster-industry-adaptation-and-resiliency-strategy</link>
-      <guid isPermaLink="false">81776 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 25 Nov 2026 15:47:31 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Oyster Industry Adaptation and Resiliency Strategy&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;frcaron&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-25T11:47:31-04:00" title="Wednesday, November 25, 2026 - 11:47"&gt;Wed, 11/25/2026 - 11:47&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodepublicationfield-publication-type"&gt;
-  
-    
-        &lt;div class="tw-text-dark tw-text-base tw-pb-4 md:tw-pb-8 rich-text"&gt;
-          &lt;strong&gt;Publication type:&lt;/strong&gt;
-    
-          &lt;span class="field__item"&gt;Report&lt;/span&gt;
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodepublicationfield-file-single"&gt;
-  
-    
-      
-&lt;div class="tw-pb-6 md:tw-pb-10 tw-flex tw-flex-row tw-gap-3"&gt;
-      &lt;article class="media media--type-document media--view-mode-default"&gt;
-  
-      
-  &lt;div class="field field--name-field-media-document field--type-file field--label-visually_hidden"&gt;
-    &lt;div class="field__label visually-hidden"&gt;Document&lt;/div&gt;
-              &lt;div class="field__item"&gt;&lt;span class="file file--mime-application-pdf file--application-pdf"&gt;
-  
-  	  
-        
-
-
-          
-    &lt;a class="ew-button ew-button--secondary break-long-words" href="https://www.princeedwardisland.ca/sites/default/files/80af/Oyster%20Industry%20Adaptation%20and%20Resilience%20Strategy%20-%20FINAL.pdf"&gt;
-              &lt;span&gt;Oyster Industry Adaptation and Resilience Strategy - FINAL.pdf&lt;/span&gt;
-    
-              &lt;i class="tw-flex icon-download"&gt;&lt;/i&gt;
-  
-      &lt;/a&gt;
-
-&lt;/span&gt;
-&lt;/div&gt;
-          &lt;/div&gt;
-
-  &lt;/article&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodepublicationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>PARO Databases and Online Services Currently Unavailable</title>
-      <link>https://www.princeedwardisland.ca/en/information/education-and-early-years/paro-databases-and-online-services-currently-unavailable</link>
-      <guid isPermaLink="false">81775 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Wed, 25 Nov 2026 13:17:17 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;PARO Databases and Online Services Currently Unavailable &lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;jetoms&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-25T09:17:17-04:00" title="Wednesday, November 25, 2026 - 09:17"&gt;Wed, 11/25/2026 - 09:17&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeinformationbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Due to the recent worldwide issue with PHP vulnerabilities, all Public Archives and Records Office (PARO)'s online databases are unavailable and offline.&amp;nbsp; PARO continues to work with the Province's IT Shared Services to find a solution to this issue but there has been no timeline established.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Consequently, all PARO services that require access to its online databases (including requests for copies of archival vital statistics documents for Canadian Citizenship Certificate applications, general genealogy, requests for copies of collection material, photographs, research inquiries, etc.) are paused.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Impacted databases and webpages include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;PARO Collections Database&lt;/li&gt;&lt;li&gt;MemoryPEI&lt;/li&gt;&lt;li&gt;Online Exhibits&lt;/li&gt;&lt;li&gt;Archives Council of PEI website&lt;/li&gt;&lt;li&gt;ArchivesPEI&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;We apologize for the inconvenience and will alert the public as soon as a solution is available.&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeinformationcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-pei-widgets block-general-inquiries-block"&gt;
-  
-    
-      
-
-&lt;div class="gpei-blue-block tw-bg-primary-blue tw-py-10 tw-px-8 tw-w-full tw-max-w-100 tw-rounded "&gt;
-      &lt;div class="gpei-blue-block__header h5 tw-mb-5 tw-text-white"&gt;
-      General Inquiries
-    &lt;/div&gt;
-  
-            &lt;div class="gpei-blue-block__content tw-space-y-10"&gt;
-        &lt;div&gt;&lt;p&gt;&lt;a href="https://www.princeedwardisland.ca/node/59135"&gt;Contact Government&lt;/a&gt;&lt;br /&gt;or use the&lt;strong&gt; Feedback&lt;/strong&gt; tab to share your comments and feedback&lt;/p&gt;&lt;/div&gt;
-
-                      &lt;/div&gt;
-      &lt;/div&gt;
-
 
   &lt;/div&gt;
 
