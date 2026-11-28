@@ -5,7 +5,7 @@
     <link>https://blakerichardsmp.github.io/emergency-monitoring/provincial.xml</link>
     <description>Canadian provincial and territorial emergency alert aggregator</description>
     <language>en-ca</language>
-    <lastBuildDate>Fri, 27 Nov 2026 21:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:31:33 +0000</lastBuildDate>
 
     <item>
       <title>[Arctic Outflow, Winter Storm, Wind and/or Snowfall] Warning Issued for [Locations]. Date.</title>
@@ -226,10 +226,10 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     </item>
 
     <item>
-      <title>Coastal Flooding (Issued)</title>
+      <title>Coastal Flooding (Updated)</title>
       <link>https://nsalert.alertable.ca</link>
-      <guid isPermaLink="false">urn:oid:2.49.0.1.124.0598058365.2026-1</guid>
-      <pubDate>2026-11-27T20:08:49-00:00</pubDate>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.124.3303430731.2026-1</guid>
+      <pubDate>2026-11-28T01:16:25-00:00</pubDate>
       <description>This statement is in effect for parts of the coast due to the following hazard(s): - Large waves - Very high tides - Higher than normal water levels Locations: southwestern shore of Nova Scotia... | Areas: Coastline of Queens County, Coastline of Shelburne County, Coastline of Yarmouth County | Level: advisory</description>
       <source>Nova Scotia</source>
     </item>
@@ -241,6 +241,173 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
       <pubDate>2026-11-27T12:34:30-00:00</pubDate>
       <description>This statement is in effect for parts of the coast due to the following hazard(s): - Large waves - Very high tides - Higher than normal water levels Locations: southwestern shore of Nova Scotia... | Areas: Coastline of Lunenburg County, Coastline of Queens County, Coastline of Shelburne County, Coastline of Yarmouth County | Level: advisory</description>
       <source>Nova Scotia</source>
+    </item>
+
+    <item>
+      <title>Birch</title>
+      <link>https://www.princeedwardisland.ca/en/employee/birch-kirsten</link>
+      <guid isPermaLink="false">81795 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Sat, 28 Nov 2026 00:59:05 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Birch&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-27T20:59:05-04:00" title="Friday, November 27, 2026 - 20:59"&gt;Fri, 11/27/2026 - 20:59&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Library Assistant&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Education and Early Years&lt;/strong&gt;
+            &lt;div&gt;Public Library Service&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Lamb</title>
+      <link>https://www.princeedwardisland.ca/en/employee/lamb-samantha</link>
+      <guid isPermaLink="false">81794 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Sat, 28 Nov 2026 00:58:00 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Lamb&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-27T20:58:00-04:00" title="Friday, November 27, 2026 - 20:58"&gt;Fri, 11/27/2026 - 20:58&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Library Assistant&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                    &lt;strong&gt;Education and Early Years&lt;/strong&gt;
+            &lt;div&gt;Public Library Service&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
+    </item>
+
+    <item>
+      <title>Callbeck</title>
+      <link>https://www.princeedwardisland.ca/en/employee/callbeck-cory</link>
+      <guid isPermaLink="false">81793 at https://www.princeedwardisland.ca</guid>
+      <pubDate>Fri, 27 Nov 2026 22:20:47 +0000</pubDate>
+      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Callbeck&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;kmprajapati&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-27T18:20:47-04:00" title="Friday, November 27, 2026 - 18:20"&gt;Fri, 11/27/2026 - 18:20&lt;/time&gt;
+&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
+  
+    
+      
+&lt;div class="tw-text-dark tw-text-base"&gt;
+      &lt;span class="field__item tw-text-xl"&gt;Human Resource Officer&lt;/span&gt;
+  &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
+  
+    
+      
+              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
+      
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-department"&gt;
+  
+    
+      
+&lt;ul class="field field--name-field-department field--type-entity-reference field--label-visually_hidden employee-dir"&gt;
+      &lt;li&gt;
+                  &lt;div&gt;PEI Liquor Control Commission&lt;/div&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
+  
+    
+      
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+      &lt;/div&gt;
+    
+  &lt;/div&gt;</description>
+      <source>Prince Edward Island</source>
     </item>
 
     <item>
@@ -785,182 +952,6 @@ The post &lt;a href="https://www.emergencyinfobc.gov.bc.ca/29jul23/"&gt;BC Emerg
     
           &lt;div class="layout__region layout__region--second"&gt;
         
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Gauthier</title>
-      <link>https://www.princeedwardisland.ca/en/employee/gauthier-casandra</link>
-      <guid isPermaLink="false">81782 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 26 Nov 2026 15:52:13 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Gauthier&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;KACURRIE&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-26T11:52:13-04:00" title="Thursday, November 26, 2026 - 11:52"&gt;Thu, 11/26/2026 - 11:52&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeemployeefield-job-title"&gt;
-  
-    
-      
-&lt;div class="tw-text-dark tw-text-base"&gt;
-      &lt;span class="field__item tw-text-xl"&gt;NSC Auditor&lt;/span&gt;
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-field-blocknodeemployeefield-phone-bilingual"&gt;
-  
-    
-      
-              &lt;div class="field field--name-field-phone-bilingual field--type-boolean field--label-hidden bilingual-color field__item"&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeemployeecontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Upcoming Food Safety Course - Charlottetown</title>
-      <link>https://www.princeedwardisland.ca/en/event/upcoming-food-safety-course-charlottetown-0</link>
-      <guid isPermaLink="false">81781 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 26 Nov 2026 13:50:47 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Upcoming Food Safety Course - Charlottetown&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tpobrien&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-26T09:50:47-04:00" title="Thursday, November 26, 2026 - 09:50"&gt;Thu, 11/26/2026 - 09:50&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Submit your online registration with full payment &lt;strong&gt;at least 24 hours before&lt;/strong&gt; the course date. Early registration is recommended to ensure seating is available.&lt;/p&gt;&lt;p&gt;Please note:&amp;nbsp;&lt;strong&gt;Subject to cancellation if minimum registration numbers are not met.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The cost is &lt;strong&gt;$57.50&lt;/strong&gt; per participant ($50 +HST) and is payable online. &lt;strong&gt;The fee is non-refundable.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/register-for-a-food-safety-course"&gt;Register for the course online.&amp;nbsp;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-01-21T13:00:00Z"&gt;January 21, 2027 9:00 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2027-01-21T20:00:00Z"&gt;January 21, 2027 4:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
-  
-    
-      
-&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
-          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Holiday&lt;/span&gt; &lt;span class="family-name"&gt;Inn Express&lt;/span&gt;&lt;br /&gt;
-&lt;span class="address-line1"&gt;200 Capital Drive&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Charlottetown, PE&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1E 2E8&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-  &lt;/div&gt;</description>
-      <source>Prince Edward Island</source>
-    </item>
-
-    <item>
-      <title>Upcoming Food Safety Course - Summerside</title>
-      <link>https://www.princeedwardisland.ca/en/event/upcoming-food-safety-course-summerside-0</link>
-      <guid isPermaLink="false">81780 at https://www.princeedwardisland.ca</guid>
-      <pubDate>Thu, 26 Nov 2026 13:47:25 +0000</pubDate>
-      <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Upcoming Food Safety Course - Summerside&lt;/span&gt;
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span&gt;tpobrien&lt;/span&gt;&lt;/span&gt;
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time class="datetime" datetime="2026-11-26T09:47:25-04:00" title="Thursday, November 26, 2026 - 09:47"&gt;Thu, 11/26/2026 - 09:47&lt;/time&gt;
-&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      &lt;div class="block block-layout-builder block-extra-field-blocknodeeventcontent-moderation-control"&gt;
-  
-    
-      
-  &lt;/div&gt;
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="layout layout--twocol-section layout--twocol-section--67-33"&gt;
-
-          &lt;div class="layout__region layout__region--first"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventbody"&gt;
-  
-    
-      
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden rich-text field__item"&gt;&lt;p&gt;Submit your online registration with full payment &lt;strong&gt;at least 24 hours before&lt;/strong&gt; the course date. Early registration is recommended to ensure seating is available.&lt;/p&gt;&lt;p&gt;Please note:&amp;nbsp;&lt;strong&gt;Subject to cancellation if minimum registration numbers are not met.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;The cost is &lt;strong&gt;$57.50&lt;/strong&gt; per participant ($50 +HST) and is payable online. &lt;strong&gt;The fee is non-refundable.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;a href="https://www.princeedwardisland.ca/en/service/register-for-a-food-safety-course"&gt;Register for the course online.&amp;nbsp;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;
-      
-  &lt;/div&gt;
-
-      &lt;/div&gt;
-    
-          &lt;div class="layout__region layout__region--second"&gt;
-        &lt;div class="block block-layout-builder block-field-blocknodeeventfield-event-date"&gt;
-  
-    
-      
-            &lt;div class="field field--name-field-event-date field--type-daterange field--label-hidden field__item"&gt;&lt;time class="datetime" datetime="2027-01-19T13:00:00Z"&gt;January 19, 2027 9:00 am&lt;/time&gt;
- to &lt;time class="datetime" datetime="2027-01-19T20:00:00Z"&gt;January 19, 2027 4:00 pm&lt;/time&gt;
-&lt;/div&gt;
-      
-  &lt;/div&gt;
-&lt;div class="tw-block block-layout-builder block-field-blocknodeeventfield-event-address tw-pb-6 md:tw-pb-10"&gt;
-  
-    
-      
-&lt;div class="field field--name-field-event-address field--type-address field--label-hidden"&gt;
-          &lt;div class="field__item rich-text"&gt;&lt;p class="address"&gt;&lt;span class="given-name"&gt;Loyalist&lt;/span&gt; &lt;span class="family-name"&gt;Country Inn&lt;/span&gt;&lt;br /&gt;
-&lt;span class="address-line1"&gt;195 Heather Moyse Drive&lt;/span&gt;&lt;br /&gt;
-&lt;span class="locality"&gt;Summerside&lt;/span&gt; &lt;span class="administrative-area"&gt;PE&lt;/span&gt; &lt;span class="postal-code"&gt;C1N 5R1&lt;/span&gt;&lt;br /&gt;
-&lt;span class="country"&gt;Canada&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;
-    &lt;/div&gt;
-
-  &lt;/div&gt;
-
       &lt;/div&gt;
     
   &lt;/div&gt;</description>
